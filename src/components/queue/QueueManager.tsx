@@ -62,7 +62,7 @@ export function QueueManager({
               return (
                 <div 
                   key={item.id}
-                  className={`p-4 flex gap-4 items-center transition-colors hover:bg-gray-55 dark:hover:bg-slate-850/20 ${
+                  className={`p-4 flex gap-4 items-center transition-colors hover:bg-gray-50 dark:hover:bg-slate-850/20 ${
                     isCurrentPlaying 
                     ? 'bg-indigo-50/40 dark:bg-indigo-950/10' 
                     : ''

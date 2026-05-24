@@ -46,7 +46,7 @@ export function PodcastGrid({
             className={`px-4 py-2 rounded-xl text-xs font-black transition-all border ${
               selectedCategory === category
               ? 'bg-indigo-650 text-white border-indigo-650 dark:bg-indigo-600 dark:border-indigo-600 shadow-md'
-              : 'bg-white dark:bg-slate-900 text-gray-500 dark:text-slate-400 border-gray-200 dark:border-slate-800 hover:bg-gray-55 dark:hover:bg-slate-800/60'
+              : 'bg-white dark:bg-slate-900 text-gray-500 dark:text-slate-400 border-gray-200 dark:border-slate-800 hover:bg-gray-50 dark:hover:bg-slate-800/60'
             }`}
           >
             {category.toUpperCase()}
