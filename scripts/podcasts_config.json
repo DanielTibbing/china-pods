@@ -405,6 +405,83 @@
     "accentColor": "text-cyan-700",
     "rssUrl": "https://www.crazyinagoodway.com/home?format=rss",
     "categories": ["Culture & Society"]
+  },
+  {
+    "id": "sharp-china",
+    "title": "Sharp China with Bill Bishop",
+    "host": "Andrew Sharp & Bill Bishop",
+    "description": "Hosted by Andrew Sharp and Sinocism founder Bill Bishop, Sharp China unpacks domestic policy debates, elite CCP politics, economic adjustments, and foreign relations with sharp, expert analysis.",
+    "imageUrl": "🗡️",
+    "themeColor": "bg-red-800",
+    "accentColor": "text-red-800",
+    "rssUrl": "https://sharpchina.fm/feed/podcast",
+    "categories": ["Geopolitics & Politics"]
+  },
+  {
+    "id": "sinocism-live",
+    "title": "Sinocism Live",
+    "host": "Bill Bishop",
+    "description": "Live discussions and audio briefings from the creator of Sinocism, exploring essential developments in modern Chinese politics, national strategies, and media landscapes.",
+    "imageUrl": "🎙️",
+    "themeColor": "bg-rose-800",
+    "accentColor": "text-rose-800",
+    "rssUrl": "https://api.substack.com/feed/podcast/2/s/7556.rss",
+    "categories": ["Geopolitics & Politics"]
+  },
+  {
+    "id": "asia-chessboard",
+    "title": "The Asia Chessboard",
+    "host": "Michael J. Green",
+    "description": "CSIS Senior Adviser Michael Green hosts prominent analysts and policymakers to discuss the strategic rivalries, alliances, and security architectures shaping the Indo-Pacific region.",
+    "imageUrl": "♟️",
+    "themeColor": "bg-slate-800",
+    "accentColor": "text-slate-800",
+    "rssUrl": "https://feeds.megaphone.fm/CSIS3910820010",
+    "categories": ["Geopolitics & Politics"]
+  },
+  {
+    "id": "made-in-china-de",
+    "title": "Made in China (German)",
+    "host": "Thomas Derksen & Damian Maib",
+    "description": "Thomas Derksen and Damian Maib discuss corporate strategies, market entries, digital business models, and economic trends inside China from a European perspective.",
+    "imageUrl": "🇩🇪",
+    "themeColor": "bg-yellow-800",
+    "accentColor": "text-yellow-850",
+    "rssUrl": "https://rss.buzzsprout.com/1869386.rss",
+    "categories": ["Tech & Business", "Geopolitics & Politics"]
+  },
+  {
+    "id": "china-world-program",
+    "title": "China and the World Program's Podcast",
+    "host": "Columbia SIPA CWP Program",
+    "description": "Scholarly policy discussions and lectures on China's international relations, regional strategies, and security footprint, produced by Columbia University's CWP.",
+    "imageUrl": "🌍",
+    "themeColor": "bg-teal-800",
+    "accentColor": "text-teal-850",
+    "rssUrl": "https://sipacwp.podomatic.com/rss2.xml",
+    "categories": ["Geopolitics & Politics"]
+  },
+  {
+    "id": "the-red-line",
+    "title": "The Red Line",
+    "host": "Michael Hilliard",
+    "description": "An award-winning geopolitical podcast analyzing security issues, trade paths, and defense policies around the globe, featuring detailed discussions with leading international analysts.",
+    "imageUrl": "🔴",
+    "themeColor": "bg-red-900",
+    "accentColor": "text-red-900",
+    "rssUrl": "https://feeds.megaphone.fm/ARML4010200722",
+    "categories": ["Geopolitics & Politics"]
+  },
+  {
+    "id": "china-hands",
+    "title": "China Hands",
+    "host": "Koen Smeets",
+    "description": "Engaging analytical conversations with experts, historians, and policymakers unpacking the historical contexts, modern foreign policies, and geopolitical pathways of Greater China.",
+    "imageUrl": "👐",
+    "themeColor": "bg-sky-800",
+    "accentColor": "text-sky-850",
+    "rssUrl": "https://rss.buzzsprout.com/2232707.rss",
+    "categories": ["Geopolitics & Politics", "History"]
   }
 ]
 

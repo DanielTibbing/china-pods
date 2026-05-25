@@ -15,15 +15,15 @@ The application has successfully completed its core engineering transitions:
 | **Grid/List Layouts** | 🟢 **100% Completed** | Dual-mode view toggle (Grid Cards vs Compact Table Row lists) matching the `china-jobs` catalog design. |
 | **Exact Category Filters** | 🟢 **100% Completed** | Uses explicit show-level core categories with a robust episode-level topics filter fallback for custom RSS inputs. |
 | **Custom Library (Starred)** | 🟢 **100% Completed** | Multi-section [StarredView](file:///Users/danieltibbing/Projects/china/china-pods/src/components/starred/StarredView.tsx) rendering both Subscribed Shows and Favorite Episodes in one dashboard. |
-| **Scheduled Automation** | 🟢 **100% Completed** | Dedicated GitHub Actions daily workflow ([update_episodes.yml](file:///Users/danieltibbing/Projects/china/china-pods/.github/workflows/update_episodes.yml)) to run the Node scraper and push daily updates. |
+| **Scheduled Automation** | 🟢 **100% Completed** | Dedicated GitHub Actions daily workflow ([update_episodes.yml](file:///Users/danieltibbing/Projects/china/china-pods/.github/workflows/update_episodes.yml)) to run the Node scraper and push daily updates to main. |
 
----
+## 📊 Catalog Status
 
-## 📊 Out of the **52 total podcasts** now listed in [podcasts.md](file:///Users/danieltibbing/Projects/china/china-pods/podcasts.md), **35 shows (67%)** have been successfully added, verified, scraped, and integrated into the active catalog, leaving **17 shows (33%)** left to integrate.
+Out of the **52 total podcasts** now listed in [podcasts.md](file:///Users/danieltibbing/Projects/china/china-pods/podcasts.md), **42 shows (81%)** have been successfully added, verified, scraped, and integrated into the active catalog, leaving **10 shows (19%)** left to integrate.
 
-### 🟢 Added & Scraped Shows (35)
+### 🟢 Added & Scraped Shows (42)
 
-All of the following shows are fully configured in [podcasts_config.json](file:///Users/danieltibbing/Projects/china/china-pods/scripts/podcasts_config.json) and populated in the active database with over **4,500 total episodes**:
+All of the following shows are fully configured in [podcasts_config.json](file:///Users/danieltibbing/Projects/china/china-pods/scripts/podcasts_config.json) and populated in the active database with over **5,200 total episodes**:
 
 | # | Show Title | Core Categories | Latest Status | Verified Feed Endpoint |
 | :--- | :--- | :--- | :--- | :--- |
@@ -62,35 +62,33 @@ All of the following shows are fully configured in [podcasts_config.json](file:/
 | 33 | **Young China** | Culture & Society | 🔴 Ended | `http://rss.castbox.fm/everest/e259dc88289a44a2afcf8cc424fe2c47.xml` |
 | 34 | **Eat Drink Asia** | Culture & Society, History | 🔴 Ended | `https://cms.scmp.com/rss/google_assistant/325477/media_rss.xml?article-type=329436` |
 | 35 | **Big Fish in the Middle Kingdom** | Culture & Society | 🔴 Ended | `https://www.crazyinagoodway.com/home?format=rss` |
-
-
+| 36 | **Sharp China with Bill Bishop** | Geopolitics & Politics | 🟢 Active | `https://sharpchina.fm/feed/podcast` |
+| 37 | **Sinocism Live** | Geopolitics & Politics | 🟢 Active | `https://api.substack.com/feed/podcast/2/s/7556.rss` |
+| 38 | **The Asia Chessboard** | Geopolitics & Politics | 🟢 Active | `https://feeds.megaphone.fm/CSIS3910820010` |
+| 39 | **Made in China (German)** | Tech & Business, Geopolitics & Politics | 🟢 Active | `https://rss.buzzsprout.com/1869386.rss` |
+| 40 | **China and the World Program's Podcast** | Geopolitics & Politics | 🟢 Active | `https://sipacwp.podomatic.com/rss2.xml` |
+| 41 | **The Red Line** | Geopolitics & Politics | 🟢 Active | `https://feeds.megaphone.fm/ARML4010200722` |
+| 42 | **China Hands** | Geopolitics & Politics, History | 🟢 Active | `https://rss.buzzsprout.com/2232707.rss` |
 
 ---
 
-### 🟡 Remaining Shows to Integrate (17)
+### 🟡 Remaining Shows to Integrate (10)
 
-The following shows listed in `podcasts.md` are not yet added to the scraper configuration. They will be added in upcoming batches:
+The following shows listed in `podcasts.md` are not yet added to the scraper configuration. They will be added in the final batch:
 
 ```markdown
 1. The Trivium China Podcast        [ ] General / Geopolitical
 2. Insight Asia                    [ ] General
 3. Asia Insight                    [ ] General
-4. Sharp China Podcast             [ ] Geopolitical / Current Affairs
-5. Made in China (German podcast)  [ ] Geopolitical
-6. The Asia Chessboard            [ ] Strategic / Security
-7. China and the World            [ ] Geopolitical
-8. Sinocism Podcast               [ ] Geopolitical / Newsletter
-9. Roundtable China               [ ] Society / Media
-10. The China Podcast              [ ] General
-11. China in Depth                 [ ] Analytical
-12. The Red Thread                 [ ] Strategic / Geopolitical
-13. Young China Watchers           [ ] Career / Geopolitical
-14. The Dumbrill Podcast           [ ] Media / Society
-15. The China Hand                 [ ] Analytical / Strategic
-16. Drum Tower (by The Economist)  [ ] Geopolitical / Society
-17. The China Clean Energy Podcast [ ] Technical Clean Energy / Tech Transition
+4. Roundtable China               [ ] Society / Media
+5. The China Podcast              [ ] General
+6. China in Depth                 [ ] Analytical
+7. Young China Watchers           [ ] Career / Geopolitical
+8. The Dumbrill Podcast           [ ] Media / Society
+9. Drum Tower (by The Economist)  [ ] Geopolitical / Society
+10. The China Clean Energy Podcast [ ] Technical Clean Energy / Tech Transition
 ```
-*(Note: Batch 4 is now fully integrated and migrated to the active catalog table)*
+*(Note: Batch 5 is now fully integrated and migrated to the active catalog table)*
 
 ---
 
@@ -98,8 +96,8 @@ The following shows listed in `podcasts.md` are not yet added to the scraper con
 
 1. **Batch 3 Expansion**: 🟢 **100% Completed** (Added `China Corner Office`, `China Flexpat`, and `Caixin-Sinica Business Brief`).
 2. **Batch 4 Expansion**: 🟢 **100% Completed** (Added `China Stories`, `China Books Podcast`, `The Chinese Literature Podcast`, `Teatime with Jesse`, `Young China`, `Eat Drink Asia`, and `Big Fish in the Middle Kingdom`).
-3. **Batch 5 Expansion**: Add the remaining **Geopolitical & Strategic** programs (like `Sharp China`, `Sinocism`, `The Asia Chessboard`).
-4. **Batch 6 Expansion**: Add **Forgotten Giants** (including `Drum Tower`, `The China-Eurasia Podcast`, `The China Clean Energy Podcast`, and others).
+3. **Batch 5 Expansion**: 🟢 **100% Completed** (Added `Sharp China with Bill Bishop`, `Sinocism Live`, `The Asia Chessboard`, `Made in China (German)`, `China and the World Program's Podcast`, `The Red Line`, and `China Hands`).
+4. **Batch 6 Expansion**: Add **Remaining Podcasts** (including `The Trivium China Podcast`, `Insight Asia`, `Asia Insight`, `Roundtable China`, `The China Podcast`, `China in Depth`, `Young China Watchers`, `The Dumbrill Podcast`, `Drum Tower`, and `The China Clean Energy Podcast`).
 
 ---
 
