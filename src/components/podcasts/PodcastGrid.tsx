@@ -21,6 +21,7 @@ export function PodcastGrid({
 }: PodcastGridProps) {
   const [viewMode, setViewMode] = useState<'grid' | 'list'>('grid');
   const [statusFilter, setStatusFilter] = useState<'all' | 'active' | 'stale'>('all');
+  const [sortBy, setSortBy] = useState<'recent' | 'alphabetical'>('recent');
   
   // Categorize and filter podcasts on the fly
   const filteredPodcasts = podcasts.filter(podcast => {
@@ -50,6 +51,18 @@ export function PodcastGrid({
     return true;
   });
 
+  // Sort podcasts: alphabetical vs most recent release first (default)
+  const sortedPodcasts = [...filteredPodcasts].sort((a, b) => {
+    if (sortBy === 'alphabetical') {
+      return a.title.localeCompare(b.title);
+    } else {
+      // Sort by recent releases first
+      const dateA = a.episodes?.[0]?.publishDate ? new Date(a.episodes[0].publishDate).getTime() : 0;
+      const dateB = b.episodes?.[0]?.publishDate ? new Date(b.episodes[0].publishDate).getTime() : 0;
+      return dateB - dateA;
+    }
+  });
+
   return (
     <div className="space-y-6">
       
@@ -73,9 +86,35 @@ export function PodcastGrid({
           ))}
         </div>
 
-        {/* Right side filters & view switcher */}
-        <div className="flex items-center gap-3 w-full md:w-auto justify-between md:justify-end">
+        {/* Right side filters, sorting & view switcher */}
+        <div className="flex flex-wrap items-center gap-3 w-full md:w-auto justify-between md:justify-end">
           
+          {/* Sort Selector */}
+          <div className="bg-gray-100 dark:bg-slate-900/60 border border-gray-200/50 dark:border-slate-800 rounded-xl p-1 flex gap-1 shadow-sm shrink-0">
+            <button
+              onClick={() => setSortBy('recent')}
+              className={`px-3 py-1.5 rounded-lg text-[10px] font-black transition-all ${
+                sortBy === 'recent'
+                ? 'bg-white dark:bg-slate-800 text-indigo-650 dark:text-indigo-450 shadow-sm'
+                : 'text-gray-550 hover:text-gray-700 dark:text-slate-400 dark:hover:text-slate-350'
+              }`}
+              title="Sort by latest episode release date"
+            >
+              RECENT
+            </button>
+            <button
+              onClick={() => setSortBy('alphabetical')}
+              className={`px-3 py-1.5 rounded-lg text-[10px] font-black transition-all ${
+                sortBy === 'alphabetical'
+                ? 'bg-white dark:bg-slate-800 text-indigo-650 dark:text-indigo-450 shadow-sm'
+                : 'text-gray-550 hover:text-gray-700 dark:text-slate-400 dark:hover:text-slate-350'
+              }`}
+              title="Sort alphabetically A-Z"
+            >
+              A-Z
+            </button>
+          </div>
+
           {/* Status Filter Selector */}
           <div className="bg-gray-100 dark:bg-slate-900/60 border border-gray-200/50 dark:border-slate-800 rounded-xl p-1 flex gap-1 shadow-sm shrink-0">
             <button
@@ -140,7 +179,7 @@ export function PodcastGrid({
       </div>
 
       {/* Main Shows Feed */}
-      {filteredPodcasts.length === 0 ? (
+      {sortedPodcasts.length === 0 ? (
         <div className="text-center py-20 bg-white dark:bg-slate-900 border border-gray-250/60 dark:border-slate-800 rounded-2xl">
           <p className="text-gray-500 dark:text-slate-400 text-sm">No shows match your filtering selections.</p>
         </div>
@@ -148,7 +187,7 @@ export function PodcastGrid({
         
         // GRID CARD VIEW
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-          {filteredPodcasts.map(podcast => {
+          {sortedPodcasts.map(podcast => {
             const isSubscribed = starredPodcastIds.has(podcast.id);
             return (
               <div 
@@ -236,7 +275,7 @@ export function PodcastGrid({
                 </tr>
               </thead>
               <tbody className="divide-y divide-gray-100 dark:divide-slate-850">
-                {filteredPodcasts.map(podcast => {
+                {sortedPodcasts.map(podcast => {
                   const isSubscribed = starredPodcastIds.has(podcast.id);
                   const latestEpisode = podcast.episodes?.[0];
                   const latestDate = latestEpisode ? latestEpisode.publishDate : 'N/A';
