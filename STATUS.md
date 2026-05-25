@@ -19,13 +19,11 @@ The application has successfully completed its core engineering transitions:
 
 ---
 
-## 📊 Podcast Catalog Progress
+## 📊 Out of the **52 total podcasts** now listed in [podcasts.md](file:///Users/danieltibbing/Projects/china/china-pods/podcasts.md), **35 shows (67%)** have been successfully added, verified, scraped, and integrated into the active catalog, leaving **17 shows (33%)** left to integrate.
 
-Out of the **52 total podcasts** now listed in [podcasts.md](file:///Users/danieltibbing/Projects/china/china-pods/podcasts.md), **28 shows (54%)** have been successfully added, verified, scraped, and integrated into the active catalog, leaving **24 shows (46%)** left to integrate.
+### 🟢 Added & Scraped Shows (35)
 
-### 🟢 Added & Scraped Shows (28)
-
-All of the following shows are fully configured in [podcasts_config.json](file:///Users/danieltibbing/Projects/china/china-pods/scripts/podcasts_config.json) and populated in the active database with over **3,300 total episodes**:
+All of the following shows are fully configured in [podcasts_config.json](file:///Users/danieltibbing/Projects/china/china-pods/scripts/podcasts_config.json) and populated in the active database with over **4,500 total episodes**:
 
 | # | Show Title | Core Categories | Latest Status | Verified Feed Endpoint |
 | :--- | :--- | :--- | :--- | :--- |
@@ -57,10 +55,19 @@ All of the following shows are fully configured in [podcasts_config.json](file:/
 | 26 | **China Corner Office** | Tech & Business | 🔴 Ended | `https://rss.art19.com/china-corner-office` |
 | 27 | **China Flexpat** | Tech & Business | 🔴 Ended | `https://feeds.buzzsprout.com/479218.rss` |
 | 28 | **Caixin-Sinica Business Brief** | Tech & Business | 🔴 Ended | `https://rss.art19.com/caixin-sinica-business-brief` |
+| 29 | **China Stories** | History, Culture & Society | 🔴 Ended | `https://rss.art19.com/china-stories` |
+| 30 | **China Books Podcast** | Culture & Society, History | 🔴 Ended | `https://rss.buzzsprout.com/2252666.rss` |
+| 31 | **The Chinese Literature Podcast** | Culture & Society, History | 🔴 Ended | `https://rss.libsyn.com/shows/80114/destinations/368338.xml` |
+| 32 | **Teatime with Jesse** | Culture & Society | 🔴 Ended | `https://feeds.megaphone.fm/teatimewithjesse` |
+| 33 | **Young China** | Culture & Society | 🔴 Ended | `http://rss.castbox.fm/everest/e259dc88289a44a2afcf8cc424fe2c47.xml` |
+| 34 | **Eat Drink Asia** | Culture & Society, History | 🔴 Ended | `https://cms.scmp.com/rss/google_assistant/325477/media_rss.xml?article-type=329436` |
+| 35 | **Big Fish in the Middle Kingdom** | Culture & Society | 🔴 Ended | `https://www.crazyinagoodway.com/home?format=rss` |
+
+
 
 ---
 
-### 🟡 Remaining Shows to Integrate (24)
+### 🟡 Remaining Shows to Integrate (17)
 
 The following shows listed in `podcasts.md` are not yet added to the scraper configuration. They will be added in upcoming batches:
 
@@ -68,42 +75,31 @@ The following shows listed in `podcasts.md` are not yet added to the scraper con
 1. The Trivium China Podcast        [ ] General / Geopolitical
 2. Insight Asia                    [ ] General
 3. Asia Insight                    [ ] General
-4. China Stories                   [ ] History / Culture
-5. Sharp China Podcast             [ ] Geopolitical / Current Affairs
-6. Made in China (German podcast)  [ ] Geopolitical
-7. China Books Podcast             [ ] Literature & Culture
-8. Teatime with Jesse             [ ] Culture & Society
-9. The Asia Chessboard            [ ] Strategic / Security
-10. China and the World            [ ] Geopolitical
-11. Sinocism Podcast               [ ] Geopolitical / Newsletter
-12. The Chinese Literature Podcast [ ] Arts / Literature
-13. Roundtable China               [ ] Society / Media
-14. The China Podcast              [ ] General
-15. China in Depth                 [ ] Analytical
-16. SupChina                       [ ] (Ended - Replaced by Sinica)
-17. The Red Thread                 [ ] Strategic / Geopolitical
-18. Young China Watchers           [ ] Career / Geopolitical
-19. The Dumbrill Podcast           [ ] Media / Society
-20. Young China                    [ ] Culture & Youth
-21. Big Fish in the Middle Kingdom [ ] Expatriate Life
-22. The China Hand                 [ ] Analytical / Strategic
-23. Drum Tower (by The Economist)  [ ] Geopolitical / Society
-24. China in the World             [ ] Geopolitical / Academic Think Tank
-25. The China-Eurasia Podcast      [ ] Geopolitical / Belt and Road Footprint
-26. Eat Drink Asia (by SCMP)       [ ] Culture & Society / Food History
-27. The China Clean Energy Podcast [ ] Technical Clean Energy / Tech Transition
-28. U.S.-China Nexus               [ ] Strategic Geopolitics / Academic
+4. Sharp China Podcast             [ ] Geopolitical / Current Affairs
+5. Made in China (German podcast)  [ ] Geopolitical
+6. The Asia Chessboard            [ ] Strategic / Security
+7. China and the World            [ ] Geopolitical
+8. Sinocism Podcast               [ ] Geopolitical / Newsletter
+9. Roundtable China               [ ] Society / Media
+10. The China Podcast              [ ] General
+11. China in Depth                 [ ] Analytical
+12. The Red Thread                 [ ] Strategic / Geopolitical
+13. Young China Watchers           [ ] Career / Geopolitical
+14. The Dumbrill Podcast           [ ] Media / Society
+15. The China Hand                 [ ] Analytical / Strategic
+16. Drum Tower (by The Economist)  [ ] Geopolitical / Society
+17. The China Clean Energy Podcast [ ] Technical Clean Energy / Tech Transition
 ```
-*(Note: Batch 3 is now fully integrated and migrated to the active catalog table)*
+*(Note: Batch 4 is now fully integrated and migrated to the active catalog table)*
 
 ---
 
 ## 🛠️ Next Roadmap Tasks
 
 1. **Batch 3 Expansion**: 🟢 **100% Completed** (Added `China Corner Office`, `China Flexpat`, and `Caixin-Sinica Business Brief`).
-2. **Batch 4 Expansion**: Add remaining **History & Culture** shows (like `China Stories`, `China Books Podcast`, and `The Chinese Literature Podcast`).
+2. **Batch 4 Expansion**: 🟢 **100% Completed** (Added `China Stories`, `China Books Podcast`, `The Chinese Literature Podcast`, `Teatime with Jesse`, `Young China`, `Eat Drink Asia`, and `Big Fish in the Middle Kingdom`).
 3. **Batch 5 Expansion**: Add the remaining **Geopolitical & Strategic** programs (like `Sharp China`, `Sinocism`, `The Asia Chessboard`).
-4. **Batch 6 Expansion**: Add **Forgotten Giants** (including `Drum Tower`, `China in the World`, `The China-Eurasia Podcast`, `Eat Drink Asia`, `The China Clean Energy Podcast`, and `U.S.-China Nexus`).
+4. **Batch 6 Expansion**: Add **Forgotten Giants** (including `Drum Tower`, `The China-Eurasia Podcast`, `The China Clean Energy Podcast`, and others).
 
 ---
 

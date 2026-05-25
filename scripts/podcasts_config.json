@@ -328,6 +328,83 @@
     "accentColor": "text-red-750",
     "rssUrl": "https://rss.art19.com/caixin-sinica-business-brief",
     "categories": ["Tech & Business"]
+  },
+  {
+    "id": "china-stories",
+    "title": "China Stories",
+    "host": "The China Project Narrators",
+    "description": "Narrated versions of the most compelling feature articles, news stories, and historical analyses about China, compiled from the archives of SupChina and The China Project.",
+    "imageUrl": "📚",
+    "themeColor": "bg-red-700",
+    "accentColor": "text-red-700",
+    "rssUrl": "https://rss.art19.com/china-stories",
+    "categories": ["History", "Culture & Society"]
+  },
+  {
+    "id": "china-books-podcast",
+    "title": "China Books Podcast",
+    "host": "Mary Kay Magistad",
+    "description": "Interviews with authors, translators, and editors about new and classic books on China's past, present, and future, co-produced by the China Books Review and Asia Society.",
+    "imageUrl": "📖",
+    "themeColor": "bg-amber-700",
+    "accentColor": "text-amber-700",
+    "rssUrl": "https://rss.buzzsprout.com/2252666.rss",
+    "categories": ["Culture & Society", "History"]
+  },
+  {
+    "id": "chinese-literature-podcast",
+    "title": "The Chinese Literature Podcast",
+    "host": "Lee Moore & Rob Moore",
+    "description": "An entertaining and informative journey through Chinese literary history, discussing everything from ancient classical poetry and philosophical texts to modern novels and popular stories.",
+    "imageUrl": "🖋️",
+    "themeColor": "bg-orange-700",
+    "accentColor": "text-orange-750",
+    "rssUrl": "https://rss.libsyn.com/shows/80114/destinations/368338.xml",
+    "categories": ["Culture & Society", "History"]
+  },
+  {
+    "id": "teatime-with-jesse",
+    "title": "Teatime with Jesse",
+    "host": "Jesse Appell",
+    "description": "Archived episodes from professional cross-cultural comedian Jesse Appell, exploring humor, traditional Chinese comedy (Xiangsheng), and daily life in Beijing.",
+    "imageUrl": "🎭",
+    "themeColor": "bg-yellow-700",
+    "accentColor": "text-yellow-700",
+    "rssUrl": "https://feeds.megaphone.fm/teatimewithjesse",
+    "categories": ["Culture & Society"]
+  },
+  {
+    "id": "young-china",
+    "title": "Young China",
+    "host": "Zak Dychtwald & Guests",
+    "description": "Unpacking the dreams, fears, daily lives, and shifting consumer trends of the generation shaping the future of China and the global economy.",
+    "imageUrl": "🧑‍🎤",
+    "themeColor": "bg-pink-700",
+    "accentColor": "text-pink-700",
+    "rssUrl": "http://rss.castbox.fm/everest/e259dc88289a44a2afcf8cc424fe2c47.xml",
+    "categories": ["Culture & Society"]
+  },
+  {
+    "id": "eat-drink-asia",
+    "title": "Eat Drink Asia",
+    "host": "Charmaine Mok & Sam Evans",
+    "description": "The award-winning food history podcast by the South China Morning Post, deep-diving into the forgotten history and human stories behind some of Asia's most beloved dishes, drinks, and condiments.",
+    "imageUrl": "🥟",
+    "themeColor": "bg-emerald-700",
+    "accentColor": "text-emerald-750",
+    "rssUrl": "https://cms.scmp.com/rss/google_assistant/325477/media_rss.xml?article-type=329436",
+    "categories": ["Culture & Society", "History"]
+  },
+  {
+    "id": "big-fish-in-the-middle-kingdom",
+    "title": "Big Fish in the Middle Kingdom",
+    "host": "Brendan Davis",
+    "description": "Unpacking what it takes to survive and succeed as a foreign fish in the world's biggest pond, featuring structured conversations with expats, creatives, and entrepreneurs who made their lives in China.",
+    "imageUrl": "🐠",
+    "themeColor": "bg-cyan-700",
+    "accentColor": "text-cyan-700",
+    "rssUrl": "https://www.crazyinagoodway.com/home?format=rss",
+    "categories": ["Culture & Society"]
   }
 ]
 
