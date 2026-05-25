@@ -19,7 +19,7 @@ The application has successfully completed its core engineering transitions:
 
 ## 📊 Catalog Status
 
-Out of the **52 total podcasts** now listed in [podcasts.md](file:///Users/danieltibbing/Projects/china/china-pods/podcasts.md), **42 shows (81%)** have been successfully added, verified, scraped, and integrated into the active catalog, leaving **10 shows (19%)** left to integrate.
+Out of the **52 total podcasts** now listed in [podcasts.md](file:///Users/danieltibbing/Projects/china/china-pods/podcasts.md), **52 shows (100%)** have been successfully added, verified, scraped, and integrated into the active catalog, leaving **0 shows (0%)** left to integrate.
 
 ### 🟢 Added & Scraped Shows (42)
 
@@ -69,26 +69,24 @@ All of the following shows are fully configured in [podcasts_config.json](file:/
 | 40 | **China and the World Program's Podcast** | Geopolitics & Politics | 🟢 Active | `https://sipacwp.podomatic.com/rss2.xml` |
 | 41 | **The Red Line** | Geopolitics & Politics | 🟢 Active | `https://feeds.megaphone.fm/ARML4010200722` |
 | 42 | **China Hands** | Geopolitics & Politics, History | 🟢 Active | `https://rss.buzzsprout.com/2232707.rss` |
+| 43 | **The Trivium China Podcast** | Geopolitics & Politics | 🟢 Active | `https://rss.buzzsprout.com/2408047.rss` |
+| 44 | **Insight Asia** | Tech & Business | 🟢 Active | `https://rss.libsyn.com/shows/420659/destinations/3494030.xml` |
+| 45 | **Asia Insight (NBR)** | Geopolitics & Politics | 🟢 Active | `https://feed.podbean.com/podcasts.nbr.org/feed.xml` |
+| 46 | **Roundtable China** | Culture & Society | 🟢 Active | `https://aezfm.meldingcloud.com/rss/program/11` |
+| 47 | **The Wire China Podcast** | Tech & Business, Geopolitics & Politics | 🟢 Active | `https://rss.buzzsprout.com/2591600.rss` |
+| 48 | **China in Depth** | Culture & Society | 🟢 Active | `https://mp3mp4pdf.net/chinaindepth.xml` |
+| 49 | **Young China Watchers** | Geopolitics & Politics | 🔴 Ended | `https://anchor.fm/s/bc9b0e8/podcast/rss` |
+| 50 | **The Dumbrill Podcast** | Geopolitics & Politics | 🟢 Active | `https://feeds.captivate.fm/dumbrill/` |
+| 51 | **Drum Tower (The Economist)** | Geopolitics & Politics, Culture & Society | 🟢 Active | `https://access.acast.com/rss/633ebf6dfc7f5a0012acdc97` |
+| 52 | **Environment China (Clean Energy)** | Tech & Business, Culture & Society | 🟢 Active | `https://rss.libsyn.com/shows/90651/destinations/450972.xml` |
 
 ---
 
-### 🟡 Remaining Shows to Integrate (10)
+### 🟡 Remaining Shows to Integrate (0)
 
-The following shows listed in `podcasts.md` are not yet added to the scraper configuration. They will be added in the final batch:
+All podcasts from `podcasts.md` are now fully integrated into the scraper configuration and consolidated in the active dynamic database!
 
-```markdown
-1. The Trivium China Podcast        [ ] General / Geopolitical
-2. Insight Asia                    [ ] General
-3. Asia Insight                    [ ] General
-4. Roundtable China               [ ] Society / Media
-5. The China Podcast              [ ] General
-6. China in Depth                 [ ] Analytical
-7. Young China Watchers           [ ] Career / Geopolitical
-8. The Dumbrill Podcast           [ ] Media / Society
-9. Drum Tower (by The Economist)  [ ] Geopolitical / Society
-10. The China Clean Energy Podcast [ ] Technical Clean Energy / Tech Transition
-```
-*(Note: Batch 5 is now fully integrated and migrated to the active catalog table)*
+*(Note: Batch 6 is now fully integrated and migrated to the active catalog table)*
 
 ---
 
@@ -97,7 +95,7 @@ The following shows listed in `podcasts.md` are not yet added to the scraper con
 1. **Batch 3 Expansion**: 🟢 **100% Completed** (Added `China Corner Office`, `China Flexpat`, and `Caixin-Sinica Business Brief`).
 2. **Batch 4 Expansion**: 🟢 **100% Completed** (Added `China Stories`, `China Books Podcast`, `The Chinese Literature Podcast`, `Teatime with Jesse`, `Young China`, `Eat Drink Asia`, and `Big Fish in the Middle Kingdom`).
 3. **Batch 5 Expansion**: 🟢 **100% Completed** (Added `Sharp China with Bill Bishop`, `Sinocism Live`, `The Asia Chessboard`, `Made in China (German)`, `China and the World Program's Podcast`, `The Red Line`, and `China Hands`).
-4. **Batch 6 Expansion**: Add **Remaining Podcasts** (including `The Trivium China Podcast`, `Insight Asia`, `Asia Insight`, `Roundtable China`, `The China Podcast`, `China in Depth`, `Young China Watchers`, `The Dumbrill Podcast`, `Drum Tower`, and `The China Clean Energy Podcast`).
+4. **Batch 6 Expansion**: 🟢 **100% Completed** (Added the final 10 podcasts: `The Trivium China Podcast`, `Insight Asia`, `Asia Insight (NBR)`, `Roundtable China`, `The Wire China Podcast`, `China in Depth`, `Young China Watchers`, `The Dumbrill Podcast`, `Drum Tower (The Economist)`, and `Environment China (Clean Energy)`).
 
 ---
 

@@ -482,6 +482,116 @@
     "accentColor": "text-sky-850",
     "rssUrl": "https://rss.buzzsprout.com/2232707.rss",
     "categories": ["Geopolitics & Politics", "History"]
+  },
+  {
+    "id": "trivium-china",
+    "title": "The Trivium China Podcast",
+    "host": "Trivium China Experts",
+    "description": "Deep and timely insights into elite Chinese policymaking, political developments, national regulations, and economic reforms, produced by the expert research team at Trivium China.",
+    "imageUrl": "📊",
+    "themeColor": "bg-red-750",
+    "accentColor": "text-red-750",
+    "rssUrl": "https://rss.buzzsprout.com/2408047.rss",
+    "categories": ["Geopolitics & Politics"]
+  },
+  {
+    "id": "insight-asia",
+    "title": "Insight Asia",
+    "host": "Fredrik Hähnel & Sean Yokota",
+    "description": "SEB's Fredrik Hähnel and Sean Yokota explore macroeconomic developments, investment strategy, geopolitical shifts, and market opportunities across Asia and China.",
+    "imageUrl": "📈",
+    "themeColor": "bg-cyan-700",
+    "accentColor": "text-cyan-700",
+    "rssUrl": "https://rss.libsyn.com/shows/420659/destinations/3494030.xml",
+    "categories": ["Tech & Business"]
+  },
+  {
+    "id": "asia-insight",
+    "title": "Asia Insight (NBR)",
+    "host": "National Bureau of Asian Research",
+    "description": "Produced by the National Bureau of Asian Research, Asia Insight provides deep policy analysis and expert commentary on national strategy, geopolitics, and security in the Asia-Pacific region.",
+    "imageUrl": "🌏",
+    "themeColor": "bg-blue-700",
+    "accentColor": "text-blue-700",
+    "rssUrl": "https://feed.podbean.com/podcasts.nbr.org/feed.xml",
+    "categories": ["Geopolitics & Politics"]
+  },
+  {
+    "id": "roundtable-china",
+    "title": "Roundtable China",
+    "host": "CGTN Radio",
+    "description": "China's unique roundtable talk show where hosts and guests from different backgrounds discuss lifestyle, social shifts, technology trends, and modern cultural phenomena in China.",
+    "imageUrl": "⭕",
+    "themeColor": "bg-indigo-700",
+    "accentColor": "text-indigo-700",
+    "rssUrl": "https://aezfm.meldingcloud.com/rss/program/11",
+    "categories": ["Culture & Society"]
+  },
+  {
+    "id": "wire-china",
+    "title": "The Wire China Podcast",
+    "host": "The Wire China Reporters",
+    "description": "The podcast edition of The Wire China, featuring deep narrative investigative journalism and analytical stories tracking China's economic ascent, global influence, and domestic political transitions.",
+    "imageUrl": "🗞️",
+    "themeColor": "bg-rose-700",
+    "accentColor": "text-rose-750",
+    "rssUrl": "https://rss.buzzsprout.com/2591600.rss",
+    "categories": ["Tech & Business", "Geopolitics & Politics"]
+  },
+  {
+    "id": "china-in-depth",
+    "title": "China in Depth",
+    "host": "Et Soh",
+    "description": "In-depth explorations of China's past and present, featuring news, analytical views, and narrations of modern novels and classical literature.",
+    "imageUrl": "🔍",
+    "themeColor": "bg-stone-700",
+    "accentColor": "text-stone-700",
+    "rssUrl": "https://mp3mp4pdf.net/chinaindepth.xml",
+    "categories": ["Culture & Society"]
+  },
+  {
+    "id": "young-china-watchers",
+    "title": "Young China Watchers",
+    "host": "Young China Watchers Collective",
+    "description": "Featuring global conversations with young professionals and senior experts unpacking China's international footprint, domestic governance, and career opportunities in China studies.",
+    "imageUrl": "👓",
+    "themeColor": "bg-purple-750",
+    "accentColor": "text-purple-750",
+    "rssUrl": "https://anchor.fm/s/bc9b0e8/podcast/rss",
+    "categories": ["Geopolitics & Politics"]
+  },
+  {
+    "id": "dumbrill-podcast",
+    "title": "The Dumbrill Podcast",
+    "host": "Daniel Dumbrill",
+    "description": "Daniel Dumbrill hosts critical debates, media analysis, and interviews addressing international perceptions, domestic policies, and economic frameworks of modern China.",
+    "imageUrl": "🗣️",
+    "themeColor": "bg-teal-900",
+    "accentColor": "text-teal-900",
+    "rssUrl": "https://feeds.captivate.fm/dumbrill/",
+    "categories": ["Geopolitics & Politics"]
+  },
+  {
+    "id": "drum-tower",
+    "title": "Drum Tower (The Economist)",
+    "host": "Alice Su & David Rennie",
+    "description": "Unbeatable analysis of China's politics, business, society, and culture by The Economist's correspondents around the world.",
+    "imageUrl": "🏯",
+    "themeColor": "bg-red-700",
+    "accentColor": "text-red-700",
+    "rssUrl": "https://access.acast.com/rss/633ebf6dfc7f5a0012acdc97",
+    "categories": ["Geopolitics & Politics", "Culture & Society"]
+  },
+  {
+    "id": "environment-china",
+    "title": "Environment China (Clean Energy)",
+    "host": "Beijing Energy Network",
+    "description": "Bilingual discussions and interviews with environmental experts, policy advisors, and energy researchers exploring China's clean energy transitions, climate policies, and environmental governance.",
+    "imageUrl": "🌱",
+    "themeColor": "bg-green-800",
+    "accentColor": "text-green-800",
+    "rssUrl": "https://rss.libsyn.com/shows/90651/destinations/450972.xml",
+    "categories": ["Tech & Business", "Culture & Society"]
   }
 ]
 
