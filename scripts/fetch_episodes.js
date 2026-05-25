@@ -123,6 +123,12 @@ function cleanDescription(desc) {
   return cleaned;
 }
 
+// Sanitize XML string (escape unescaped ampersands) to make parser robust against invalid XML
+function sanitizeXml(xml) {
+  if (!xml) return '';
+  return xml.toString().replace(/&(?!(amp|lt|gt|quot|apos);)/g, '&amp;');
+}
+
 // Keyword-match topics for episodes
 function assignTopics(title, description, podcastId) {
   const text = `${title} ${description}`.toLowerCase();
@@ -197,7 +203,7 @@ async function main() {
 
     try {
       const response = await axiosInstance.get(podcast.rssUrl);
-      const xml = response.data;
+      const xml = sanitizeXml(response.data);
       const parsed = await parseStringPromise(xml);
       
       const channel = parsed?.rss?.channel?.[0];
@@ -286,14 +292,37 @@ async function main() {
     }
   }
 
-  // 5. Ensure output directory exists and write final JSON
+  // 5. Calculate stale status (inactive for more than 4 months / 120 days)
+  const processedPodcasts = finalPodcasts.map(p => {
+    let status = 'active';
+    const episodes = p.episodes || [];
+    if (episodes.length > 0) {
+      const latestDateStr = episodes[0].publishDate;
+      const latestTime = new Date(latestDateStr).getTime();
+      if (!isNaN(latestTime)) {
+        const ageInMs = Date.now() - latestTime;
+        const ageInDays = ageInMs / (1000 * 60 * 60 * 24);
+        if (ageInDays > 120) {
+          status = 'stale';
+        }
+      }
+    } else {
+      status = 'stale';
+    }
+    return {
+      ...p,
+      status
+    };
+  });
+
+  // 6. Ensure output directory exists and write final JSON
   const outputDir = path.dirname(OUTPUT_PATH);
   if (!fs.existsSync(outputDir)) {
     fs.mkdirSync(outputDir, { recursive: true });
   }
 
-  fs.writeFileSync(OUTPUT_PATH, JSON.stringify(finalPodcasts, null, 2), 'utf-8');
-  console.log(`\nSuccess! Wrote consolidated database of ${finalPodcasts.length} shows to ${OUTPUT_PATH}`);
+  fs.writeFileSync(OUTPUT_PATH, JSON.stringify(processedPodcasts, null, 2), 'utf-8');
+  console.log(`\nSuccess! Wrote consolidated database of ${processedPodcasts.length} shows to ${OUTPUT_PATH}`);
 }
 
 main();

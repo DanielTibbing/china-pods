@@ -72,9 +72,16 @@ export function PodcastGrid({
                 
                 <div className="p-5 flex-1 flex flex-col">
                   <div className="flex justify-between items-start gap-4 mb-4">
-                    {/* Cover Avatar */}
-                    <div className={`h-14 w-14 flex items-center justify-center text-3xl rounded-2xl shadow-inner ${podcast.themeColor || 'bg-slate-100'} bg-opacity-10 shrink-0 select-none`}>
-                      {podcast.imageUrl}
+                    {/* Cover Avatar and Stale Status Badge */}
+                    <div className="flex items-center gap-3 min-w-0">
+                      <div className={`h-14 w-14 flex items-center justify-center text-3xl rounded-2xl shadow-inner ${podcast.themeColor || 'bg-slate-100'} bg-opacity-10 shrink-0 select-none`}>
+                        {podcast.imageUrl}
+                      </div>
+                      {podcast.status === 'stale' && (
+                        <span className="inline-flex items-center px-2.5 py-0.5 rounded-full text-[9px] font-black uppercase tracking-wider bg-slate-100 text-slate-500 border border-slate-200/60 dark:bg-slate-800/70 dark:text-slate-400 dark:border-slate-700/50 shadow-sm select-none shrink-0" title="No new episodes in the last 4 months">
+                          Ended
+                        </span>
+                      )}
                     </div>
                     {/* Star toggle */}
                     <button

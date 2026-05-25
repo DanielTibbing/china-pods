@@ -90,9 +90,16 @@ export function PodcastDetail({
 
           <div className="flex-1 min-w-0 space-y-4">
             <div>
-              <h2 className="text-2xl md:text-3xl font-black text-gray-900 dark:text-white tracking-tight leading-tight">
-                {podcast.title}
-              </h2>
+              <div className="flex flex-wrap items-center gap-3">
+                <h2 className="text-2xl md:text-3xl font-black text-gray-900 dark:text-white tracking-tight leading-tight">
+                  {podcast.title}
+                </h2>
+                {podcast.status === 'stale' && (
+                  <span className="inline-flex items-center px-2.5 py-0.5 rounded-full text-[9px] font-black uppercase tracking-wider bg-slate-100 text-slate-500 border border-slate-200/60 dark:bg-slate-800/70 dark:text-slate-400 dark:border-slate-700/50 shadow-sm select-none" title="No new episodes in the last 4 months">
+                    Ended
+                  </span>
+                )}
+              </div>
               <p className="text-sm font-bold text-gray-500 dark:text-slate-400 mt-1">
                 Hosted by {podcast.host}
               </p>

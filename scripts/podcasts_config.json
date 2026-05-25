@@ -106,5 +106,87 @@
     "applePodcastsUrl": "https://podcasts.apple.com/us/podcast/china-in-context/id1535947936",
     "spotifyUrl": "https://open.spotify.com/show/06gN13P9S4qZ8E4G0w5l7c",
     "rssUrl": "https://feeds.soundcloud.com/users/soundcloud:users:943463482/sounds.rss"
+  },
+  {
+    "id": "china-global-south",
+    "title": "The China-Global South Podcast",
+    "host": "Eric Olander & Cobus van Staden",
+    "description": "Detailed weekly discussions on China's engagement across Africa, the Middle East, Latin America, and Southeast Asia, covering trade, infrastructure, and foreign policy.",
+    "imageUrl": "🌐",
+    "themeColor": "bg-orange-650",
+    "accentColor": "text-orange-650",
+    "applePodcastsUrl": "https://podcasts.apple.com/us/podcast/the-china-global-south-podcast/id384485556",
+    "rssUrl": "https://rss.libsyn.com/shows/500733/destinations/4287628.xml"
+  },
+  {
+    "id": "china-power",
+    "title": "China Power",
+    "host": "Bonny Lin",
+    "description": "Produced by the Center for Strategic and International Studies (CSIS), China Power examines critical aspects of Chinese national power—military, economic, technological, and diplomatic.",
+    "imageUrl": "🛡️",
+    "themeColor": "bg-blue-900",
+    "accentColor": "text-blue-900",
+    "applePodcastsUrl": "https://podcasts.apple.com/us/podcast/chinapower/id1156555556",
+    "rssUrl": "https://feeds.megaphone.fm/CSIS6301448962"
+  },
+  {
+    "id": "merics",
+    "title": "MERICS China Podcast",
+    "host": "MERICS Experts",
+    "description": "Analysis and insights on European-Chinese relations, elite politics, economic policies, and tech developments from Europe's leading China research institute.",
+    "imageUrl": "🇪🇺",
+    "themeColor": "bg-sky-700",
+    "accentColor": "text-sky-700",
+    "rssUrl": "https://rss.buzzsprout.com/1825833.rss"
+  },
+  {
+    "id": "teatime-chinese",
+    "title": "TeaTime Chinese 茶歇中文",
+    "host": "Leo",
+    "description": "A friendly and engaging Chinese language learning podcast, talking about Chinese culture, history, and daily life in natural, easy-to-understand Mandarin.",
+    "imageUrl": "🍵",
+    "themeColor": "bg-green-700",
+    "accentColor": "text-green-700",
+    "rssUrl": "https://teatimechinese.libsyn.com/rss"
+  },
+  {
+    "id": "strangers-in-china",
+    "title": "Strangers in China",
+    "host": "Clay Baldo",
+    "description": "An immersive narrative podcast documenting the lives, struggles, and hopes of ordinary people living on the margins of modern Chinese society.",
+    "imageUrl": "🎒",
+    "themeColor": "bg-rose-500",
+    "accentColor": "text-rose-500",
+    "rssUrl": "https://rss.art19.com/strangers-in-china"
+  },
+  {
+    "id": "digitala-draken",
+    "title": "Den Digitala Draken",
+    "host": "Jacob Lovén & Tom Xiong",
+    "description": "Sweden's premier China tech podcast, exploring how Chinese tech giants like Tencent, Alibaba, and ByteDance are shaping the future of global retail, AI, and social media.",
+    "imageUrl": "🐉",
+    "themeColor": "bg-yellow-600",
+    "accentColor": "text-yellow-600",
+    "rssUrl": "https://digitaladraken.libsyn.com/rss"
+  },
+  {
+    "id": "sr-kina",
+    "title": "Radiokorrespondenterna Kina",
+    "host": "Hanna Sahlberg & SR Korrespondenter",
+    "description": "Sveriges Radios djupgående podcast om Kinas roll på världsscenen, maktspelet mellan öst och väst, och de vardagliga berättelserna från det kinesiska samhället.",
+    "imageUrl": "🇸🇪",
+    "themeColor": "bg-amber-500",
+    "accentColor": "text-amber-500",
+    "rssUrl": "https://api.sr.se/api/rss/pod/3784"
+  },
+  {
+    "id": "china-business-cast",
+    "title": "China Business Cast",
+    "host": "Michael Michelini & Guests",
+    "description": "Interviews with entrepreneurs and business leaders doing business in China, discussing practical advice on market entry, sales, manufacturing, and operations.",
+    "imageUrl": "💼",
+    "themeColor": "bg-slate-600",
+    "accentColor": "text-slate-600",
+    "rssUrl": "https://feeds.simplecast.com/WeHw_1yx"
   }
 ]

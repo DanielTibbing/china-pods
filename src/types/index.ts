@@ -21,6 +21,7 @@ export interface Podcast {
   applePodcastsUrl?: string;
   spotifyUrl?: string;
   rssUrl?: string;
+  status?: 'active' | 'stale';
   episodes: Episode[];
 }
 
