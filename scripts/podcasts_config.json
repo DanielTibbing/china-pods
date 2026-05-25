@@ -1,0 +1,110 @@
+[
+  {
+    "id": "sinica",
+    "title": "The Sinica Podcast",
+    "host": "Kaiser Kuo",
+    "description": "The gold standard of China current affairs podcasts, featuring weekly discussions with journalists, academics, and policymakers on international relations, elite politics, and society.",
+    "imageUrl": "🎙️",
+    "themeColor": "bg-red-600",
+    "accentColor": "text-red-600",
+    "applePodcastsUrl": "https://podcasts.apple.com/us/podcast/the-sinica-podcast/id361665568",
+    "spotifyUrl": "https://open.spotify.com/show/5PZ88YfFokE8o91C1bE5B5",
+    "rssUrl": "https://www.sinicapodcast.com/feed"
+  },
+  {
+    "id": "little-red-podcast",
+    "title": "The Little Red Podcast",
+    "host": "Graeme Smith & Louisa Lim",
+    "description": "An award-winning podcast celebrating China beyond the Beijing beltway. Hosted by Graeme Smith from the Australian National University and Louisa Lim from the University of Melbourne.",
+    "imageUrl": "🥁",
+    "themeColor": "bg-blue-600",
+    "accentColor": "text-blue-600",
+    "applePodcastsUrl": "https://podcasts.apple.com/us/podcast/the-little-red-podcast/id1125679505",
+    "spotifyUrl": "https://open.spotify.com/show/5tP0JgG4M4r25e5i6O4P3P",
+    "rssUrl": "https://omny.fm/shows/the-little-red-podcast/playlists/podcast.rss"
+  },
+  {
+    "id": "pekingology",
+    "title": "Pekingology",
+    "host": "Jude Blanchette",
+    "description": "Hosted at the Center for Strategic and International Studies (CSIS), Pekingology presents technical discussions on CCP elite governance, policy networks, and domestic regulations.",
+    "imageUrl": "🏛️",
+    "themeColor": "bg-slate-700",
+    "accentColor": "text-slate-700",
+    "applePodcastsUrl": "https://podcasts.apple.com/us/podcast/pekingology/id1527583687",
+    "spotifyUrl": "https://open.spotify.com/show/0H4K642B5yPvxCj1c9jWre",
+    "rssUrl": "https://feeds.megaphone.fm/pekingology"
+  },
+  {
+    "id": "chp",
+    "title": "The China History Podcast",
+    "host": "Laszlo Montgomery",
+    "description": "A legendary production by veteran Laszlo Montgomery, covering five thousand years of dynastic transitions, legendary figures, trade routes, and cultural milestones.",
+    "imageUrl": "📜",
+    "themeColor": "bg-amber-600",
+    "accentColor": "text-amber-600",
+    "applePodcastsUrl": "https://podcasts.apple.com/us/podcast/the-china-history-podcast/id379373585",
+    "spotifyUrl": "https://open.spotify.com/show/0Sg1vKz3YvH0a3Uf2rB5tD",
+    "rssUrl": "https://chinahistorypodcast.libsyn.com/rss"
+  },
+  {
+    "id": "chinatalk",
+    "title": "ChinaTalk",
+    "host": "Jordan Schneider",
+    "description": "An energetic and in-depth exploration of Chinese tech policy, semiconductor supply chains, US-China defense developments, and modern pop culture trends.",
+    "imageUrl": "💻",
+    "themeColor": "bg-violet-600",
+    "accentColor": "text-violet-600",
+    "applePodcastsUrl": "https://podcasts.apple.com/us/podcast/chinatalk/id1289062971",
+    "spotifyUrl": "https://open.spotify.com/show/3D2bEclJ93X8qjC7nfeD3f",
+    "rssUrl": "https://feeds.megaphone.fm/CHTAL4990341033"
+  },
+  {
+    "id": "chinese-whispers",
+    "title": "Chinese Whispers",
+    "host": "Cindy Yu",
+    "description": "A highly acclaimed fortnightly series by The Spectator, looking beyond the geopolitical headlines to explore the everyday lives, arts, and history of ordinary people.",
+    "imageUrl": "💬",
+    "themeColor": "bg-emerald-600",
+    "accentColor": "text-emerald-600",
+    "applePodcastsUrl": "https://podcasts.apple.com/us/podcast/chinese-whispers/id1534947936",
+    "spotifyUrl": "https://open.spotify.com/show/06gN13P9S4qZ8E4G0w5l7m",
+    "rssUrl": "https://feeds.acast.com/public/shows/chinese-whispers"
+  },
+  {
+    "id": "nuvoices",
+    "title": "NüVoices",
+    "host": "NüVoices Collective",
+    "description": "Focusing on the creative work and sharp perspectives of women, non-binary individuals, and underrepresented voices reporting on or working in Greater China.",
+    "imageUrl": "👩‍🎨",
+    "themeColor": "bg-pink-600",
+    "accentColor": "text-pink-600",
+    "applePodcastsUrl": "https://podcasts.apple.com/us/podcast/n%C3%BCvoices/id1399432326",
+    "spotifyUrl": "https://open.spotify.com/show/4zR7tJ7yS0yE6uNfeD3f",
+    "rssUrl": "https://nuvoices.libsyn.com/rss"
+  },
+  {
+    "id": "mosaic-of-china",
+    "title": "Mosaic of China",
+    "host": "Oscar Fuchs",
+    "description": "A charming collection of structured conversations with people from different walks of life in China, revealing a composite mosaic of the modern nation.",
+    "imageUrl": "🧩",
+    "themeColor": "bg-cyan-600",
+    "accentColor": "text-cyan-600",
+    "applePodcastsUrl": "https://podcasts.apple.com/us/podcast/mosaic-of-china/id1481198544",
+    "spotifyUrl": "https://open.spotify.com/show/368yDk7S0gE8o91C1bE5B5",
+    "rssUrl": "https://feed.podbean.com/mosaicofchina/feed.xml"
+  },
+  {
+    "id": "soas-context",
+    "title": "China in Context",
+    "host": "SOAS China Institute",
+    "description": "Academic and policy insights into the governance, macroeconomics, and regional dynamics of Greater China, produced by the SOAS China Institute in London.",
+    "imageUrl": "🌍",
+    "themeColor": "bg-teal-700",
+    "accentColor": "text-teal-700",
+    "applePodcastsUrl": "https://podcasts.apple.com/us/podcast/china-in-context/id1535947936",
+    "spotifyUrl": "https://open.spotify.com/show/06gN13P9S4qZ8E4G0w5l7c",
+    "rssUrl": "https://feeds.soundcloud.com/users/soundcloud:users:943463482/sounds.rss"
+  }
+]

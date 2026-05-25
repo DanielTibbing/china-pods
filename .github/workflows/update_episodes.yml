@@ -1,0 +1,31 @@
+name: Update Podcast Episodes
+
+on:
+  schedule:
+    - cron: '0 1 * * *' # Run daily at 1:00 AM UTC (avoiding direct conflict with midnight jobs)
+  workflow_dispatch: # Allow manual trigger via GitHub UI
+
+jobs:
+  update-episodes:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          
+      - name: Install dependencies
+        run: npm install
+        
+      - name: Fetch and Parse Podcast Episodes
+        run: node scripts/fetch_episodes.js
+        
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add public/podcasts.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update podcast episode listings" && git push)

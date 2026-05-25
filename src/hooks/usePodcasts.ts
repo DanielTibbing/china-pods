@@ -1,17 +1,32 @@
 import { useState, useEffect, useRef, useMemo } from 'react';
 import type { Episode, Podcast, QueueItem, EpisodeHistory } from '../types';
-import { PRESET_PODCASTS } from '../constants/podcasts';
 
 export function usePodcasts() {
   // --- STATE ---
+  const [presetPodcasts, setPresetPodcasts] = useState<Podcast[]>([]);
+
   const [customPodcasts, setCustomPodcasts] = useState<Podcast[]>(() => {
     const saved = localStorage.getItem('custom_podcasts_data');
     return saved ? JSON.parse(saved) : [];
   });
 
+  useEffect(() => {
+    fetch('podcasts.json')
+      .then(res => {
+        if (!res.ok) throw new Error('Failed to fetch podcasts');
+        return res.json();
+      })
+      .then((data: Podcast[]) => {
+        setPresetPodcasts(data);
+      })
+      .catch(err => {
+        console.error('Error fetching podcasts:', err);
+      });
+  }, []);
+
   const allPodcasts = useMemo(() => {
-    return [...PRESET_PODCASTS, ...customPodcasts];
-  }, [customPodcasts]);
+    return [...presetPodcasts, ...customPodcasts];
+  }, [presetPodcasts, customPodcasts]);
 
   const allEpisodes = useMemo(() => {
     const episodes: Episode[] = [];
