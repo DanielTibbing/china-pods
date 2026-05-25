@@ -25,7 +25,7 @@ export function PodcastGrid({
     
     // Check if any episode topics match the category
     return podcast.episodes.some(episode => 
-      episode.topics.some(topic => {
+      (episode.topics || []).some(topic => {
         if (selectedCategory === 'History' && topic.toLowerCase().includes('history')) return true;
         if (selectedCategory === 'Geopolitics & Politics' && (topic.toLowerCase().includes('politics') || topic.toLowerCase().includes('relations'))) return true;
         if (selectedCategory === 'Tech & Business' && (topic.toLowerCase().includes('tech') || topic.toLowerCase().includes('reform') || topic.toLowerCase().includes('business'))) return true;
@@ -34,6 +34,7 @@ export function PodcastGrid({
       })
     );
   });
+
 
   return (
     <div className="space-y-6">

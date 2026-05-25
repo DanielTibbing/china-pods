@@ -6,6 +6,7 @@ import { AudioPlayer } from './components/player/AudioPlayer';
 import { PodcastGrid } from './components/podcasts/PodcastGrid';
 import { PodcastDetail } from './components/podcasts/PodcastDetail';
 import { EpisodeList } from './components/episodes/EpisodeList';
+import { StarredView } from './components/starred/StarredView';
 import { QueueManager } from './components/queue/QueueManager';
 import { SettingsView } from './components/settings/SettingsView';
 import { usePodcasts } from './hooks/usePodcasts';
@@ -59,10 +60,7 @@ function AppContent() {
     clearAllData
   } = usePodcasts();
 
-  // Starred episodes list
-  const starredEpisodes = useMemo(() => {
-    return episodes.filter(ep => starredEpisodeIds.has(ep.id));
-  }, [episodes, starredEpisodeIds]);
+
 
   // History episodes list
   const historyEpisodes = useMemo(() => {
@@ -124,13 +122,15 @@ function AppContent() {
           } />
 
           <Route path="/starred" element={
-            <EpisodeList 
-              episodes={starredEpisodes}
+            <StarredView 
+              podcasts={podcasts}
+              starredPodcastIds={starredPodcastIds}
               starredEpisodeIds={starredEpisodeIds}
               queueEpisodeIds={queueEpisodeIds}
               history={history}
               playingEpisodeId={currentEpisode?.id}
               isPlaying={isPlaying}
+              onToggleSubscribe={toggleStarPodcast}
               onPlayEpisode={playEpisode}
               onTogglePlay={togglePlay}
               onAddToQueue={addToQueue}
@@ -140,7 +140,6 @@ function AppContent() {
               searchTerm={searchTerm}
               selectedTopic={selectedTopic}
               setSelectedTopic={setSelectedTopic}
-              emptyMessage="No starred episodes. Click the star icon on any episode to keep them here."
             />
           } />
 

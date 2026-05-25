@@ -11,7 +11,7 @@ export function usePodcasts() {
   });
 
   useEffect(() => {
-    fetch('podcasts.json')
+    fetch(`${import.meta.env.BASE_URL}podcasts.json`)
       .then(res => {
         if (!res.ok) throw new Error('Failed to fetch podcasts');
         return res.json();
@@ -23,6 +23,7 @@ export function usePodcasts() {
         console.error('Error fetching podcasts:', err);
       });
   }, []);
+
 
   const allPodcasts = useMemo(() => {
     return [...presetPodcasts, ...customPodcasts];

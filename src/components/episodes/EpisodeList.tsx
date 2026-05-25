@@ -49,10 +49,11 @@ export function EpisodeList({
                           episode.description.toLowerCase().includes(searchTerm.toLowerCase()) ||
                           episode.podcastTitle.toLowerCase().includes(searchTerm.toLowerCase());
     
-    const matchesTopic = selectedTopic === 'All' || episode.topics.includes(selectedTopic);
+    const matchesTopic = selectedTopic === 'All' || (episode.topics || []).includes(selectedTopic);
     
     return matchesSearch && matchesTopic;
   });
+
 
   return (
     <div className="space-y-6">
