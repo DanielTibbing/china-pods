@@ -294,5 +294,40 @@
     "applePodcastsUrl": "https://podcasts.apple.com/us/podcast/china-tech-talk/id1228528520",
     "rssUrl": "http://chinatechtalk.libsyn.com/rss",
     "categories": ["Tech & Business"]
+  },
+  {
+    "id": "china-corner-office",
+    "title": "China Corner Office",
+    "host": "Chris Marquis",
+    "description": "Hosted by Christopher Marquis, China Corner Office features conversations with business leaders, corporate executives, and economists about corporate strategies, operations, and navigating the U.S.-China business climate.",
+    "imageUrl": "🏢",
+    "themeColor": "bg-slate-700",
+    "accentColor": "text-slate-700",
+    "applePodcastsUrl": "https://podcasts.apple.com/us/podcast/china-corner-office/id1527715699",
+    "rssUrl": "https://rss.art19.com/china-corner-office",
+    "categories": ["Tech & Business"]
+  },
+  {
+    "id": "china-flexpat",
+    "title": "China Flexpat",
+    "host": "Francis Kremer",
+    "description": "The essential podcast for global professionals building highly successful careers, managing teams, and scaling business operations inside modern China.",
+    "imageUrl": "💼",
+    "themeColor": "bg-indigo-600",
+    "accentColor": "text-indigo-600",
+    "rssUrl": "https://feeds.buzzsprout.com/479218.rss",
+    "categories": ["Tech & Business"]
+  },
+  {
+    "id": "caixin-sinica-business-brief",
+    "title": "Caixin-Sinica Business Brief",
+    "host": "Kaiser Kuo & Caixin Team",
+    "description": "A weekly analytical digest of the most critical macroeconomic, corporate, and technological developments in China, produced by Caixin Global and The China Project.",
+    "imageUrl": "📈",
+    "themeColor": "bg-red-750",
+    "accentColor": "text-red-750",
+    "rssUrl": "https://rss.art19.com/caixin-sinica-business-brief",
+    "categories": ["Tech & Business"]
   }
 ]
+

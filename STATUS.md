@@ -21,11 +21,11 @@ The application has successfully completed its core engineering transitions:
 
 ## 📊 Podcast Catalog Progress
 
-Out of the **52 total podcasts** now listed in [podcasts.md](file:///Users/danieltibbing/Projects/china/china-pods/podcasts.md), **25 shows (48%)** have been successfully added, verified, scraped, and integrated into the active catalog, leaving **27 shows (52%)** left to integrate.
+Out of the **52 total podcasts** now listed in [podcasts.md](file:///Users/danieltibbing/Projects/china/china-pods/podcasts.md), **28 shows (54%)** have been successfully added, verified, scraped, and integrated into the active catalog, leaving **24 shows (46%)** left to integrate.
 
-### 🟢 Added & Scraped Shows (25)
+### 🟢 Added & Scraped Shows (28)
 
-All of the following shows are fully configured in [podcasts_config.json](file:///Users/danieltibbing/Projects/china/china-pods/scripts/podcasts_config.json) and populated in the active database with over **2,900 total episodes**:
+All of the following shows are fully configured in [podcasts_config.json](file:///Users/danieltibbing/Projects/china/china-pods/scripts/podcasts_config.json) and populated in the active database with over **3,300 total episodes**:
 
 | # | Show Title | Core Categories | Latest Status | Verified Feed Endpoint |
 | :--- | :--- | :--- | :--- | :--- |
@@ -54,10 +54,13 @@ All of the following shows are fully configured in [podcasts_config.json](file:/
 | 23 | **China Tech Talk (TP Huang)** | Tech & Business | 🟢 Active | `https://api.substack.com/feed/podcast/2128842.rss` |
 | 24 | **Inside China Tech** | Tech & Business | 🔴 Ended | `https://cms.scmp.com/rss/google_assistant/325477/media_rss.xml?article-type=329434` |
 | 25 | **China Tech Talk (TechNode)** | Tech & Business | 🔴 Ended | `http://chinatechtalk.libsyn.com/rss` |
+| 26 | **China Corner Office** | Tech & Business | 🔴 Ended | `https://rss.art19.com/china-corner-office` |
+| 27 | **China Flexpat** | Tech & Business | 🔴 Ended | `https://feeds.buzzsprout.com/479218.rss` |
+| 28 | **Caixin-Sinica Business Brief** | Tech & Business | 🔴 Ended | `https://rss.art19.com/caixin-sinica-business-brief` |
 
 ---
 
-### 🟡 Remaining Shows to Integrate (27)
+### 🟡 Remaining Shows to Integrate (24)
 
 The following shows listed in `podcasts.md` are not yet added to the scraper configuration. They will be added in upcoming batches:
 
@@ -65,42 +68,39 @@ The following shows listed in `podcasts.md` are not yet added to the scraper con
 1. The Trivium China Podcast        [ ] General / Geopolitical
 2. Insight Asia                    [ ] General
 3. Asia Insight                    [ ] General
-4. China Flexpat                   [ ] Business / Career
-5. China Corner Office             [ ] Business / Leadership
-6. China Stories                   [ ] History / Culture
-7. Sharp China Podcast             [ ] Geopolitical / Current Affairs
-8. Made in China (German podcast)  [ ] Geopolitical
-9. China Books Podcast             [ ] Literature & Culture
-10. Teatime with Jesse             [ ] Culture & Society
-11. The Asia Chessboard            [ ] Strategic / Security
-12. China and the World            [ ] Geopolitical
-13. Sinocism Podcast               [ ] Geopolitical / Newsletter
-14. The Chinese Literature Podcast [ ] Arts / Literature
-15. Roundtable China               [ ] Society / Media
-16. The China Podcast              [ ] General
-17. China in Depth                 [ ] Analytical
-18. SupChina                       [ ] (Ended - Replaced by Sinica)
-19. The Red Thread                 [ ] Strategic / Geopolitical
-20. Young China Watchers           [ ] Career / Geopolitical
-21. The Dumbrill Podcast           [ ] Media / Society
-22. Young China                    [ ] Culture & Youth
-23. Big Fish in the Middle Kingdom [ ] Expatriate Life
-24. Caixin-Sinica Business Brief   [ ] Business / Tech News
-25. The China Hand                 [ ] Analytical / Strategic
-26. Drum Tower (by The Economist)  [ ] Geopolitical / Society
-27. China in the World             [ ] Geopolitical / Academic Think Tank
-28. The China-Eurasia Podcast      [ ] Geopolitical / Belt and Road Footprint
-29. Eat Drink Asia (by SCMP)       [ ] Culture & Society / Food History
-30. The China Clean Energy Podcast [ ] Technical Clean Energy / Tech Transition
-31. U.S.-China Nexus               [ ] Strategic Geopolitics / Academic
+4. China Stories                   [ ] History / Culture
+5. Sharp China Podcast             [ ] Geopolitical / Current Affairs
+6. Made in China (German podcast)  [ ] Geopolitical
+7. China Books Podcast             [ ] Literature & Culture
+8. Teatime with Jesse             [ ] Culture & Society
+9. The Asia Chessboard            [ ] Strategic / Security
+10. China and the World            [ ] Geopolitical
+11. Sinocism Podcast               [ ] Geopolitical / Newsletter
+12. The Chinese Literature Podcast [ ] Arts / Literature
+13. Roundtable China               [ ] Society / Media
+14. The China Podcast              [ ] General
+15. China in Depth                 [ ] Analytical
+16. SupChina                       [ ] (Ended - Replaced by Sinica)
+17. The Red Thread                 [ ] Strategic / Geopolitical
+18. Young China Watchers           [ ] Career / Geopolitical
+19. The Dumbrill Podcast           [ ] Media / Society
+20. Young China                    [ ] Culture & Youth
+21. Big Fish in the Middle Kingdom [ ] Expatriate Life
+22. The China Hand                 [ ] Analytical / Strategic
+23. Drum Tower (by The Economist)  [ ] Geopolitical / Society
+24. China in the World             [ ] Geopolitical / Academic Think Tank
+25. The China-Eurasia Podcast      [ ] Geopolitical / Belt and Road Footprint
+26. Eat Drink Asia (by SCMP)       [ ] Culture & Society / Food History
+27. The China Clean Energy Podcast [ ] Technical Clean Energy / Tech Transition
+28. U.S.-China Nexus               [ ] Strategic Geopolitics / Academic
 ```
-*(Note: TechNode's China Tech Talk is now integrated, and its latest release was in 2020, so it correctly resolves to Ended/Stale)*
+*(Note: Batch 3 is now fully integrated and migrated to the active catalog table)*
 
 ---
 
 ## 🛠️ Next Roadmap Tasks
 
-1. **Batch 3 Expansion**: Add the next set of **Business / Career** shows (like `China Corner Office`, `China Flexpat`, and `Caixin-Sinica Business Brief`) to config.
+1. **Batch 3 Expansion**: 🟢 **100% Completed** (Added `China Corner Office`, `China Flexpat`, and `Caixin-Sinica Business Brief`).
 2. **Batch 4 Expansion**: Add remaining **History & Culture** shows (like `China Stories`, `China Books Podcast`, and `The Chinese Literature Podcast`).
 3. **Batch 5 Expansion**: Add the remaining **Geopolitical & Strategic** programs (like `Sharp China`, `Sinocism`, `The Asia Chessboard`).
 4. **Batch 6 Expansion**: Add **Forgotten Giants** (including `Drum Tower`, `China in the World`, `The China-Eurasia Podcast`, `Eat Drink Asia`, `The China Clean Energy Podcast`, and `U.S.-China Nexus`).
