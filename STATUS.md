@@ -104,3 +104,14 @@ The following shows listed in `podcasts.md` are not yet added to the scraper con
 2. **Batch 4 Expansion**: Add remaining **History & Culture** shows (like `China Stories`, `China Books Podcast`, and `The Chinese Literature Podcast`).
 3. **Batch 5 Expansion**: Add the remaining **Geopolitical & Strategic** programs (like `Sharp China`, `Sinocism`, `The Asia Chessboard`).
 4. **Batch 6 Expansion**: Add **Forgotten Giants** (including `Drum Tower`, `China in the World`, `The China-Eurasia Podcast`, `Eat Drink Asia`, `The China Clean Energy Podcast`, and `U.S.-China Nexus`).
+
+---
+
+## 💡 Future Technical Improvements
+
+### 1. Curated Database Truncation (Performance Optimization)
+*   **Context**: Currently, [podcasts.json](file:///Users/danieltibbing/Projects/china/china-pods/public/podcasts.json) stores the complete historical episode archive for all 28 podcasts, totaling **3.0 MB raw**. Over years of daily scraping, this file will grow and may drag initial load performance.
+*   **The Improvement**: Transition the data architecture to a hybrid truncation model:
+    *   **Main Feed Truncation**: Modify `fetch_episodes.js` to only store the **latest 30 to 50 episodes** per show inside `public/podcasts.json`. This keeps the initial bundle file permanently small (~800 KB raw / ~100 KB compressed Brotli) while preserving instant global search and category filters for fresh releases.
+    *   **Lazy Archives**: Dump full historical episode lists into separate static files (e.g. `public/archives/chp.json`) and lazy-load them inside the app on-demand when the user views the podcast's detailed page and selects *"Load older episodes"*.
+
