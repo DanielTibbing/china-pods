@@ -592,6 +592,39 @@
     "accentColor": "text-green-800",
     "rssUrl": "https://rss.libsyn.com/shows/90651/destinations/450972.xml",
     "categories": ["Tech & Business", "Culture & Society"]
+  },
+  {
+    "id": "carnegie-china-world",
+    "title": "China in the World (Carnegie)",
+    "host": "Paul Haenle",
+    "description": "Paul Haenle hosts discussions with leading Chinese and international experts on Chinese foreign policy, international relations, and global strategic dynamics, produced by Carnegie China.",
+    "imageUrl": "🏛️",
+    "themeColor": "bg-indigo-900",
+    "accentColor": "text-indigo-900",
+    "rssUrl": "https://feeds.simplecast.com/WZ57mq5R",
+    "categories": ["Geopolitics & Politics"]
+  },
+  {
+    "id": "china-eurasia-rferl",
+    "title": "Talking China In Eurasia",
+    "host": "Reid Standish",
+    "description": "Reid Standish investigates China's expanding diplomatic, economic, and security footprints across Europe, Central Asia, and the wider Eurasian landmass, produced by RFE/RL.",
+    "imageUrl": "🛤️",
+    "themeColor": "bg-sky-900",
+    "accentColor": "text-sky-900",
+    "rssUrl": "https://www.rferl.org/podcast/?count=50&daycount=3000&zoneId=22795",
+    "categories": ["Geopolitics & Politics", "History"]
+  },
+  {
+    "id": "us-china-nexus",
+    "title": "U.S.-China Nexus Podcast",
+    "host": "Georgetown Initiative for U.S.-China Dialogue",
+    "description": "Scholarly policy discussions covering bilateral statecraft, clean energy cooperation, tech competition, and security frameworks in the Indo-Pacific, produced by Georgetown University.",
+    "imageUrl": "🇺🇸",
+    "themeColor": "bg-slate-700",
+    "accentColor": "text-slate-750",
+    "rssUrl": "https://uschinadialogue.georgetown.edu/series/u-s-china-nexus-podcast/feed.rss",
+    "categories": ["Geopolitics & Politics"]
   }
 ]
 
