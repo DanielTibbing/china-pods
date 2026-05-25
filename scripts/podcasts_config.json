@@ -263,7 +263,7 @@
   },
   {
     "id": "china-tech-talk",
-    "title": "China Tech Talk",
+    "title": "China Tech Talk (TP Huang)",
     "host": "TP Huang",
     "description": "Deep analysis of Chinese technology policy, semiconductor supply chains, geopolitical tech rivalries, national industrial strategies, and AI research.",
     "imageUrl": "🔬",
@@ -281,6 +281,18 @@
     "themeColor": "bg-slate-800",
     "accentColor": "text-slate-800",
     "rssUrl": "https://cms.scmp.com/rss/google_assistant/325477/media_rss.xml?article-type=329434",
+    "categories": ["Tech & Business"]
+  },
+  {
+    "id": "china-tech-talk-technode",
+    "title": "China Tech Talk (TechNode)",
+    "host": "Matthew Brennan & John Artman",
+    "description": "Produced by TechNode, hosts Matthew Brennan and John Artman interview founders, experts, and tech journalists to unpack the rapid evolution of China's digital innovations and consumer tech.",
+    "imageUrl": "🤖",
+    "themeColor": "bg-indigo-650",
+    "accentColor": "text-indigo-650",
+    "applePodcastsUrl": "https://podcasts.apple.com/us/podcast/china-tech-talk/id1228528520",
+    "rssUrl": "http://chinatechtalk.libsyn.com/rss",
     "categories": ["Tech & Business"]
   }
 ]

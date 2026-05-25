@@ -21,11 +21,11 @@ The application has successfully completed its core engineering transitions:
 
 ## 📊 Podcast Catalog Progress
 
-Out of the **52 total podcasts** now listed in [podcasts.md](file:///Users/danieltibbing/Projects/china/china-pods/podcasts.md), **24 shows (46%)** have been successfully added, verified, scraped, and integrated into the active catalog, leaving **28 shows (54%)** left to integrate.
+Out of the **52 total podcasts** now listed in [podcasts.md](file:///Users/danieltibbing/Projects/china/china-pods/podcasts.md), **25 shows (48%)** have been successfully added, verified, scraped, and integrated into the active catalog, leaving **27 shows (52%)** left to integrate.
 
-### 🟢 Added & Scraped Shows (24)
+### 🟢 Added & Scraped Shows (25)
 
-All of the following shows are fully configured in [podcasts_config.json](file:///Users/danieltibbing/Projects/china/china-pods/scripts/podcasts_config.json) and populated in the active database with over **2,800 total episodes**:
+All of the following shows are fully configured in [podcasts_config.json](file:///Users/danieltibbing/Projects/china/china-pods/scripts/podcasts_config.json) and populated in the active database with over **2,900 total episodes**:
 
 | # | Show Title | Core Categories | Latest Status | Verified Feed Endpoint |
 | :--- | :--- | :--- | :--- | :--- |
@@ -51,12 +51,13 @@ All of the following shows are fully configured in [podcasts_config.json](file:/
 | 20 | **Digitally China** | Tech & Business | 🔴 Ended | `http://www.ximalaya.com/album/25003858.xml` |
 | 21 | **Conside - China Tech Scene** | Tech & Business | 🔴 Ended | `https://anchor.fm/s/fbc0f278/podcast/rss` |
 | 22 | **China Tech Investor** | Tech & Business | 🔴 Ended | `https://feeds.simplecast.com/eAOEC11F` |
-| 23 | **China Tech Talk** | Tech & Business | 🟢 Active | `https://api.substack.com/feed/podcast/2128842.rss` |
+| 23 | **China Tech Talk (TP Huang)** | Tech & Business | 🟢 Active | `https://api.substack.com/feed/podcast/2128842.rss` |
 | 24 | **Inside China Tech** | Tech & Business | 🔴 Ended | `https://cms.scmp.com/rss/google_assistant/325477/media_rss.xml?article-type=329434` |
+| 25 | **China Tech Talk (TechNode)** | Tech & Business | 🔴 Ended | `http://chinatechtalk.libsyn.com/rss` |
 
 ---
 
-### 🟡 Remaining Shows to Integrate (28)
+### 🟡 Remaining Shows to Integrate (27)
 
 The following shows listed in `podcasts.md` are not yet added to the scraper configuration. They will be added in upcoming batches:
 
@@ -93,7 +94,7 @@ The following shows listed in `podcasts.md` are not yet added to the scraper con
 30. The China Clean Energy Podcast [ ] Technical Clean Energy / Tech Transition
 31. U.S.-China Nexus               [ ] Strategic Geopolitics / Academic
 ```
-*(Note: "China and the World" and "China in the world" are mapped together as one concept, total remaining unique items are 28)*
+*(Note: TechNode's China Tech Talk is now integrated, and its latest release was in 2020, so it correctly resolves to Ended/Stale)*
 
 ---
 
