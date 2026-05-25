@@ -10,6 +10,10 @@
     "applePodcastsUrl": "https://podcasts.apple.com/us/podcast/the-sinica-podcast/id361665568",
     "spotifyUrl": "https://open.spotify.com/show/5PZ88YfFokE8o91C1bE5B5",
     "rssUrl": "https://www.sinicapodcast.com/feed",
+    "categories": [
+      "Geopolitics & Politics",
+      "Culture & Society"
+    ],
     "episodes": [
       {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-brave-the-elements-phrase-of",
@@ -296,6 +300,10 @@
     "applePodcastsUrl": "https://podcasts.apple.com/us/podcast/the-little-red-podcast/id1125679505",
     "spotifyUrl": "https://open.spotify.com/show/5tP0JgG4M4r25e5i6O4P3P",
     "rssUrl": "https://omny.fm/shows/the-little-red-podcast/playlists/podcast.rss",
+    "categories": [
+      "Geopolitics & Politics",
+      "Culture & Society"
+    ],
     "episodes": [
       {
         "id": "little-red-podcast-ep-9d1aa3ac-8756-4820-a912-b4420049eccf",
@@ -2005,6 +2013,9 @@
     "applePodcastsUrl": "https://podcasts.apple.com/us/podcast/pekingology/id1527583687",
     "spotifyUrl": "https://open.spotify.com/show/0H4K642B5yPvxCj1c9jWre",
     "rssUrl": "https://feeds.megaphone.fm/pekingology",
+    "categories": [
+      "Geopolitics & Politics"
+    ],
     "episodes": [
       {
         "id": "pekingology-ep-284d9432-50a3-11f1-be17-2bf6d3280f35",
@@ -4232,6 +4243,9 @@
     "applePodcastsUrl": "https://podcasts.apple.com/us/podcast/the-china-history-podcast/id379373585",
     "spotifyUrl": "https://open.spotify.com/show/0Sg1vKz3YvH0a3Uf2rB5tD",
     "rssUrl": "https://chinahistorypodcast.libsyn.com/rss",
+    "categories": [
+      "History"
+    ],
     "episodes": [
       {
         "id": "chp-ep-022eeebc-1081-469c-bedd-63bcb44028b5",
@@ -11548,6 +11562,10 @@
     "applePodcastsUrl": "https://podcasts.apple.com/us/podcast/chinatalk/id1289062971",
     "spotifyUrl": "https://open.spotify.com/show/3D2bEclJ93X8qjC7nfeD3f",
     "rssUrl": "https://feeds.megaphone.fm/CHTAL4990341033",
+    "categories": [
+      "Tech & Business",
+      "Geopolitics & Politics"
+    ],
     "episodes": [
       {
         "id": "chinatalk-ep-6e23e664-4275-11f1-8d4f-fffd9156e682",
@@ -20452,6 +20470,10 @@
     "applePodcastsUrl": "https://podcasts.apple.com/us/podcast/chinese-whispers/id1534947936",
     "spotifyUrl": "https://open.spotify.com/show/06gN13P9S4qZ8E4G0w5l7m",
     "rssUrl": "https://feeds.acast.com/public/shows/chinese-whispers",
+    "categories": [
+      "Culture & Society",
+      "History"
+    ],
     "episodes": [
       {
         "id": "chinese-whispers-ep-68c161eb0fa00b5817ed3598",
@@ -22635,6 +22657,9 @@
     "applePodcastsUrl": "https://podcasts.apple.com/us/podcast/n%C3%BCvoices/id1399432326",
     "spotifyUrl": "https://open.spotify.com/show/4zR7tJ7yS0yE6uNfeD3f",
     "rssUrl": "https://nuvoices.libsyn.com/rss",
+    "categories": [
+      "Culture & Society"
+    ],
     "episodes": [
       {
         "id": "nuvoices-ep-4c14d717f84e4705b0623548f8112dcc",
@@ -22951,6 +22976,9 @@
     "applePodcastsUrl": "https://podcasts.apple.com/us/podcast/mosaic-of-china/id1481198544",
     "spotifyUrl": "https://open.spotify.com/show/368yDk7S0gE8o91C1bE5B5",
     "rssUrl": "https://feed.podbean.com/mosaicofchina/feed.xml",
+    "categories": [
+      "Culture & Society"
+    ],
     "episodes": [
       {
         "id": "mosaic-of-china-ep-mosaicofchina-podbean-com-1089c6cb-6dee-31d9-99d9-cec6be1f1e",
@@ -24891,6 +24919,9 @@
     "applePodcastsUrl": "https://podcasts.apple.com/us/podcast/china-in-context/id1535947936",
     "spotifyUrl": "https://open.spotify.com/show/06gN13P9S4qZ8E4G0w5l7c",
     "rssUrl": "https://feeds.soundcloud.com/users/soundcloud:users:943463482/sounds.rss",
+    "categories": [
+      "Geopolitics & Politics"
+    ],
     "episodes": [
       {
         "id": "soas-context-ep-tag-soundcloud-2010-tracks-2324628401",
@@ -28508,6 +28539,10 @@
     "accentColor": "text-orange-650",
     "applePodcastsUrl": "https://podcasts.apple.com/us/podcast/the-china-global-south-podcast/id384485556",
     "rssUrl": "https://rss.libsyn.com/shows/500733/destinations/4287628.xml",
+    "categories": [
+      "Geopolitics & Politics",
+      "Tech & Business"
+    ],
     "episodes": [
       {
         "id": "china-global-south-ep-5426b019-7154-4bb9-b768-86bd0e3b5879",
@@ -31397,6 +31432,9 @@
     "accentColor": "text-blue-900",
     "applePodcastsUrl": "https://podcasts.apple.com/us/podcast/chinapower/id1156555556",
     "rssUrl": "https://feeds.megaphone.fm/CSIS6301448962",
+    "categories": [
+      "Geopolitics & Politics"
+    ],
     "episodes": [
       {
         "id": "china-power-ep-29f99f7e-5549-11f1-b9cb-4781407ec620",
@@ -34641,6 +34679,9 @@
     "themeColor": "bg-sky-700",
     "accentColor": "text-sky-700",
     "rssUrl": "https://rss.buzzsprout.com/1825833.rss",
+    "categories": [
+      "Geopolitics & Politics"
+    ],
     "episodes": [
       {
         "id": "merics-ep-buzzsprout-19222032",
@@ -39115,6 +39156,9 @@
     "themeColor": "bg-green-700",
     "accentColor": "text-green-700",
     "rssUrl": "https://teatimechinese.libsyn.com/rss",
+    "categories": [
+      "Culture & Society"
+    ],
     "episodes": [
       {
         "id": "teatime-chinese-ep-859d1460-1e85-46b1-8bd3-4896f827d206",
@@ -40625,6 +40669,9 @@
     "themeColor": "bg-rose-500",
     "accentColor": "text-rose-500",
     "rssUrl": "https://rss.art19.com/strangers-in-china",
+    "categories": [
+      "Culture & Society"
+    ],
     "episodes": [
       {
         "id": "strangers-in-china-ep-gid---art19-episode-locator-v0-zv7rr--qmimsffmueodoh6-lk8nuo",
@@ -41036,6 +41083,9 @@
     "themeColor": "bg-yellow-600",
     "accentColor": "text-yellow-600",
     "rssUrl": "https://digitaladraken.libsyn.com/rss",
+    "categories": [
+      "Tech & Business"
+    ],
     "episodes": [
       {
         "id": "digitala-draken-ep-4a0f461aefc5ec9835e9b669e34abfb4",
@@ -41222,6 +41272,10 @@
     "themeColor": "bg-amber-500",
     "accentColor": "text-amber-500",
     "rssUrl": "https://api.sr.se/api/rss/pod/3784",
+    "categories": [
+      "Geopolitics & Politics",
+      "Culture & Society"
+    ],
     "episodes": [
       {
         "id": "sr-kina-ep-rss-sr-se-pod-eid-2792792",
@@ -41925,6 +41979,9 @@
     "themeColor": "bg-slate-600",
     "accentColor": "text-slate-600",
     "rssUrl": "https://feeds.simplecast.com/WeHw_1yx",
+    "categories": [
+      "Tech & Business"
+    ],
     "episodes": [
       {
         "id": "china-business-cast-ep-3d8ef2ff-9fba-4a04-a711-b601b00ce050",
@@ -44411,6 +44468,9 @@
     "themeColor": "bg-teal-600",
     "accentColor": "text-teal-600",
     "rssUrl": "https://rss.buzzsprout.com/2572872.rss",
+    "categories": [
+      "Tech & Business"
+    ],
     "episodes": [
       {
         "id": "asiabits-ep-buzzsprout-19207160",
@@ -44720,6 +44780,9 @@
     "themeColor": "bg-red-500",
     "accentColor": "text-red-500",
     "rssUrl": "https://anchor.fm/s/21019cc8/podcast/rss",
+    "categories": [
+      "Tech & Business"
+    ],
     "episodes": [
       {
         "id": "tech-in-shanghai-ep-d4a9a23b10df43d6843868b22d937481",
@@ -45377,6 +45440,9 @@
     "themeColor": "bg-purple-650",
     "accentColor": "text-purple-650",
     "rssUrl": "http://www.ximalaya.com/album/25003858.xml",
+    "categories": [
+      "Tech & Business"
+    ],
     "episodes": [
       {
         "id": "digitally-china-ep-https---aod-cos-tx-xmcdn-com-group71-m06-92-66-wkgo2v4j2wrjv",
@@ -45721,6 +45787,9 @@
     "themeColor": "bg-indigo-700",
     "accentColor": "text-indigo-700",
     "rssUrl": "https://anchor.fm/s/fbc0f278/podcast/rss",
+    "categories": [
+      "Tech & Business"
+    ],
     "episodes": [
       {
         "id": "conside-ep-0c54f48518a84088903781b2b9d3769c",
@@ -45856,6 +45925,9 @@
     "themeColor": "bg-emerald-600",
     "accentColor": "text-emerald-600",
     "rssUrl": "https://feeds.simplecast.com/eAOEC11F",
+    "categories": [
+      "Tech & Business"
+    ],
     "episodes": [
       {
         "id": "china-tech-investor-ep-70ba3efa-d2d9-4ff9-9c7e-aac7bef61f31",
@@ -47267,6 +47339,9 @@
     "themeColor": "bg-violet-700",
     "accentColor": "text-violet-700",
     "rssUrl": "https://api.substack.com/feed/podcast/2128842.rss",
+    "categories": [
+      "Tech & Business"
+    ],
     "episodes": [
       {
         "id": "china-tech-talk-ep-substack-post-198331976",
@@ -47780,6 +47855,9 @@
     "themeColor": "bg-slate-800",
     "accentColor": "text-slate-800",
     "rssUrl": "https://cms.scmp.com/rss/google_assistant/325477/media_rss.xml?article-type=329434",
+    "categories": [
+      "Tech & Business"
+    ],
     "episodes": [
       {
         "id": "inside-china-tech-ep-https---www-scmp-com-podcasts-inside-china-tech-3087311-post",

@@ -22,6 +22,7 @@ export interface Podcast {
   spotifyUrl?: string;
   rssUrl?: string;
   status?: 'active' | 'stale';
+  categories?: string[];
   episodes: Episode[];
 }
 

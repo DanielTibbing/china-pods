@@ -9,7 +9,8 @@
     "accentColor": "text-red-600",
     "applePodcastsUrl": "https://podcasts.apple.com/us/podcast/the-sinica-podcast/id361665568",
     "spotifyUrl": "https://open.spotify.com/show/5PZ88YfFokE8o91C1bE5B5",
-    "rssUrl": "https://www.sinicapodcast.com/feed"
+    "rssUrl": "https://www.sinicapodcast.com/feed",
+    "categories": ["Geopolitics & Politics", "Culture & Society"]
   },
   {
     "id": "little-red-podcast",
@@ -21,7 +22,8 @@
     "accentColor": "text-blue-600",
     "applePodcastsUrl": "https://podcasts.apple.com/us/podcast/the-little-red-podcast/id1125679505",
     "spotifyUrl": "https://open.spotify.com/show/5tP0JgG4M4r25e5i6O4P3P",
-    "rssUrl": "https://omny.fm/shows/the-little-red-podcast/playlists/podcast.rss"
+    "rssUrl": "https://omny.fm/shows/the-little-red-podcast/playlists/podcast.rss",
+    "categories": ["Geopolitics & Politics", "Culture & Society"]
   },
   {
     "id": "pekingology",
@@ -33,7 +35,8 @@
     "accentColor": "text-slate-700",
     "applePodcastsUrl": "https://podcasts.apple.com/us/podcast/pekingology/id1527583687",
     "spotifyUrl": "https://open.spotify.com/show/0H4K642B5yPvxCj1c9jWre",
-    "rssUrl": "https://feeds.megaphone.fm/pekingology"
+    "rssUrl": "https://feeds.megaphone.fm/pekingology",
+    "categories": ["Geopolitics & Politics"]
   },
   {
     "id": "chp",
@@ -45,7 +48,8 @@
     "accentColor": "text-amber-600",
     "applePodcastsUrl": "https://podcasts.apple.com/us/podcast/the-china-history-podcast/id379373585",
     "spotifyUrl": "https://open.spotify.com/show/0Sg1vKz3YvH0a3Uf2rB5tD",
-    "rssUrl": "https://chinahistorypodcast.libsyn.com/rss"
+    "rssUrl": "https://chinahistorypodcast.libsyn.com/rss",
+    "categories": ["History"]
   },
   {
     "id": "chinatalk",
@@ -57,7 +61,8 @@
     "accentColor": "text-violet-600",
     "applePodcastsUrl": "https://podcasts.apple.com/us/podcast/chinatalk/id1289062971",
     "spotifyUrl": "https://open.spotify.com/show/3D2bEclJ93X8qjC7nfeD3f",
-    "rssUrl": "https://feeds.megaphone.fm/CHTAL4990341033"
+    "rssUrl": "https://feeds.megaphone.fm/CHTAL4990341033",
+    "categories": ["Tech & Business", "Geopolitics & Politics"]
   },
   {
     "id": "chinese-whispers",
@@ -69,7 +74,8 @@
     "accentColor": "text-emerald-600",
     "applePodcastsUrl": "https://podcasts.apple.com/us/podcast/chinese-whispers/id1534947936",
     "spotifyUrl": "https://open.spotify.com/show/06gN13P9S4qZ8E4G0w5l7m",
-    "rssUrl": "https://feeds.acast.com/public/shows/chinese-whispers"
+    "rssUrl": "https://feeds.acast.com/public/shows/chinese-whispers",
+    "categories": ["Culture & Society", "History"]
   },
   {
     "id": "nuvoices",
@@ -81,7 +87,8 @@
     "accentColor": "text-pink-600",
     "applePodcastsUrl": "https://podcasts.apple.com/us/podcast/n%C3%BCvoices/id1399432326",
     "spotifyUrl": "https://open.spotify.com/show/4zR7tJ7yS0yE6uNfeD3f",
-    "rssUrl": "https://nuvoices.libsyn.com/rss"
+    "rssUrl": "https://nuvoices.libsyn.com/rss",
+    "categories": ["Culture & Society"]
   },
   {
     "id": "mosaic-of-china",
@@ -93,7 +100,8 @@
     "accentColor": "text-cyan-600",
     "applePodcastsUrl": "https://podcasts.apple.com/us/podcast/mosaic-of-china/id1481198544",
     "spotifyUrl": "https://open.spotify.com/show/368yDk7S0gE8o91C1bE5B5",
-    "rssUrl": "https://feed.podbean.com/mosaicofchina/feed.xml"
+    "rssUrl": "https://feed.podbean.com/mosaicofchina/feed.xml",
+    "categories": ["Culture & Society"]
   },
   {
     "id": "soas-context",
@@ -105,7 +113,8 @@
     "accentColor": "text-teal-700",
     "applePodcastsUrl": "https://podcasts.apple.com/us/podcast/china-in-context/id1535947936",
     "spotifyUrl": "https://open.spotify.com/show/06gN13P9S4qZ8E4G0w5l7c",
-    "rssUrl": "https://feeds.soundcloud.com/users/soundcloud:users:943463482/sounds.rss"
+    "rssUrl": "https://feeds.soundcloud.com/users/soundcloud:users:943463482/sounds.rss",
+    "categories": ["Geopolitics & Politics"]
   },
   {
     "id": "china-global-south",
@@ -116,7 +125,8 @@
     "themeColor": "bg-orange-650",
     "accentColor": "text-orange-650",
     "applePodcastsUrl": "https://podcasts.apple.com/us/podcast/the-china-global-south-podcast/id384485556",
-    "rssUrl": "https://rss.libsyn.com/shows/500733/destinations/4287628.xml"
+    "rssUrl": "https://rss.libsyn.com/shows/500733/destinations/4287628.xml",
+    "categories": ["Geopolitics & Politics", "Tech & Business"]
   },
   {
     "id": "china-power",
@@ -127,7 +137,8 @@
     "themeColor": "bg-blue-900",
     "accentColor": "text-blue-900",
     "applePodcastsUrl": "https://podcasts.apple.com/us/podcast/chinapower/id1156555556",
-    "rssUrl": "https://feeds.megaphone.fm/CSIS6301448962"
+    "rssUrl": "https://feeds.megaphone.fm/CSIS6301448962",
+    "categories": ["Geopolitics & Politics"]
   },
   {
     "id": "merics",
@@ -137,7 +148,8 @@
     "imageUrl": "🇪🇺",
     "themeColor": "bg-sky-700",
     "accentColor": "text-sky-700",
-    "rssUrl": "https://rss.buzzsprout.com/1825833.rss"
+    "rssUrl": "https://rss.buzzsprout.com/1825833.rss",
+    "categories": ["Geopolitics & Politics"]
   },
   {
     "id": "teatime-chinese",
@@ -147,7 +159,8 @@
     "imageUrl": "🍵",
     "themeColor": "bg-green-700",
     "accentColor": "text-green-700",
-    "rssUrl": "https://teatimechinese.libsyn.com/rss"
+    "rssUrl": "https://teatimechinese.libsyn.com/rss",
+    "categories": ["Culture & Society"]
   },
   {
     "id": "strangers-in-china",
@@ -157,7 +170,8 @@
     "imageUrl": "🎒",
     "themeColor": "bg-rose-500",
     "accentColor": "text-rose-500",
-    "rssUrl": "https://rss.art19.com/strangers-in-china"
+    "rssUrl": "https://rss.art19.com/strangers-in-china",
+    "categories": ["Culture & Society"]
   },
   {
     "id": "digitala-draken",
@@ -167,7 +181,8 @@
     "imageUrl": "🐉",
     "themeColor": "bg-yellow-600",
     "accentColor": "text-yellow-600",
-    "rssUrl": "https://digitaladraken.libsyn.com/rss"
+    "rssUrl": "https://digitaladraken.libsyn.com/rss",
+    "categories": ["Tech & Business"]
   },
   {
     "id": "sr-kina",
@@ -177,7 +192,8 @@
     "imageUrl": "🇸🇪",
     "themeColor": "bg-amber-500",
     "accentColor": "text-amber-500",
-    "rssUrl": "https://api.sr.se/api/rss/pod/3784"
+    "rssUrl": "https://api.sr.se/api/rss/pod/3784",
+    "categories": ["Geopolitics & Politics", "Culture & Society"]
   },
   {
     "id": "china-business-cast",
@@ -187,7 +203,8 @@
     "imageUrl": "💼",
     "themeColor": "bg-slate-600",
     "accentColor": "text-slate-600",
-    "rssUrl": "https://feeds.simplecast.com/WeHw_1yx"
+    "rssUrl": "https://feeds.simplecast.com/WeHw_1yx",
+    "categories": ["Tech & Business"]
   },
   {
     "id": "asiabits",
@@ -197,7 +214,8 @@
     "imageUrl": "💡",
     "themeColor": "bg-teal-600",
     "accentColor": "text-teal-600",
-    "rssUrl": "https://rss.buzzsprout.com/2572872.rss"
+    "rssUrl": "https://rss.buzzsprout.com/2572872.rss",
+    "categories": ["Tech & Business"]
   },
   {
     "id": "tech-in-shanghai",
@@ -207,7 +225,8 @@
     "imageUrl": "🚀",
     "themeColor": "bg-red-500",
     "accentColor": "text-red-500",
-    "rssUrl": "https://anchor.fm/s/21019cc8/podcast/rss"
+    "rssUrl": "https://anchor.fm/s/21019cc8/podcast/rss",
+    "categories": ["Tech & Business"]
   },
   {
     "id": "digitally-china",
@@ -217,7 +236,8 @@
     "imageUrl": "📲",
     "themeColor": "bg-purple-650",
     "accentColor": "text-purple-650",
-    "rssUrl": "http://www.ximalaya.com/album/25003858.xml"
+    "rssUrl": "http://www.ximalaya.com/album/25003858.xml",
+    "categories": ["Tech & Business"]
   },
   {
     "id": "conside",
@@ -227,7 +247,8 @@
     "imageUrl": "📡",
     "themeColor": "bg-indigo-700",
     "accentColor": "text-indigo-700",
-    "rssUrl": "https://anchor.fm/s/fbc0f278/podcast/rss"
+    "rssUrl": "https://anchor.fm/s/fbc0f278/podcast/rss",
+    "categories": ["Tech & Business"]
   },
   {
     "id": "china-tech-investor",
@@ -237,7 +258,8 @@
     "imageUrl": "📈",
     "themeColor": "bg-emerald-600",
     "accentColor": "text-emerald-600",
-    "rssUrl": "https://feeds.simplecast.com/eAOEC11F"
+    "rssUrl": "https://feeds.simplecast.com/eAOEC11F",
+    "categories": ["Tech & Business"]
   },
   {
     "id": "china-tech-talk",
@@ -247,7 +269,8 @@
     "imageUrl": "🔬",
     "themeColor": "bg-violet-700",
     "accentColor": "text-violet-700",
-    "rssUrl": "https://api.substack.com/feed/podcast/2128842.rss"
+    "rssUrl": "https://api.substack.com/feed/podcast/2128842.rss",
+    "categories": ["Tech & Business"]
   },
   {
     "id": "inside-china-tech",
@@ -257,6 +280,7 @@
     "imageUrl": "📰",
     "themeColor": "bg-slate-800",
     "accentColor": "text-slate-800",
-    "rssUrl": "https://cms.scmp.com/rss/google_assistant/325477/media_rss.xml?article-type=329434"
+    "rssUrl": "https://cms.scmp.com/rss/google_assistant/325477/media_rss.xml?article-type=329434",
+    "categories": ["Tech & Business"]
   }
 ]

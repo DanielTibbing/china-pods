@@ -26,16 +26,21 @@ export function PodcastGrid({
   const filteredPodcasts = podcasts.filter(podcast => {
     // 1. Category Filter
     if (selectedCategory !== 'All') {
-      const matchesCat = podcast.episodes.some(episode => 
-        (episode.topics || []).some(topic => {
-          if (selectedCategory === 'History' && topic.toLowerCase().includes('history')) return true;
-          if (selectedCategory === 'Geopolitics & Politics' && (topic.toLowerCase().includes('politics') || topic.toLowerCase().includes('relations'))) return true;
-          if (selectedCategory === 'Tech & Business' && (topic.toLowerCase().includes('tech') || topic.toLowerCase().includes('reform') || topic.toLowerCase().includes('business'))) return true;
-          if (selectedCategory === 'Culture & Society' && (topic.toLowerCase().includes('culture') || topic.toLowerCase().includes('society') || topic.toLowerCase().includes('life') || topic.toLowerCase().includes('feminism') || topic.toLowerCase().includes('arts'))) return true;
-          return false;
-        })
-      );
-      if (!matchesCat) return false;
+      if (podcast.categories && Array.isArray(podcast.categories)) {
+        if (!podcast.categories.includes(selectedCategory)) return false;
+      } else {
+        // Fallback: Check if any episode topics match the category
+        const matchesCat = podcast.episodes.some(episode => 
+          (episode.topics || []).some(topic => {
+            if (selectedCategory === 'History' && topic.toLowerCase().includes('history')) return true;
+            if (selectedCategory === 'Geopolitics & Politics' && (topic.toLowerCase().includes('politics') || topic.toLowerCase().includes('relations'))) return true;
+            if (selectedCategory === 'Tech & Business' && (topic.toLowerCase().includes('tech') || topic.toLowerCase().includes('reform') || topic.toLowerCase().includes('business'))) return true;
+            if (selectedCategory === 'Culture & Society' && (topic.toLowerCase().includes('culture') || topic.toLowerCase().includes('society') || topic.toLowerCase().includes('life') || topic.toLowerCase().includes('feminism') || topic.toLowerCase().includes('arts'))) return true;
+            return false;
+          })
+        );
+        if (!matchesCat) return false;
+      }
     }
 
     // 2. Status Filter
