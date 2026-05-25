@@ -188,5 +188,75 @@
     "themeColor": "bg-slate-600",
     "accentColor": "text-slate-600",
     "rssUrl": "https://feeds.simplecast.com/WeHw_1yx"
+  },
+  {
+    "id": "asiabits",
+    "title": "The Asiabits Podcast",
+    "host": "Thomas Derksen & Michael Broza",
+    "description": "Insights and discussions on tech ecosystems, startups, venture capital, and innovative business trends expanding across Asia and China.",
+    "imageUrl": "💡",
+    "themeColor": "bg-teal-600",
+    "accentColor": "text-teal-600",
+    "rssUrl": "https://rss.buzzsprout.com/2572872.rss"
+  },
+  {
+    "id": "tech-in-shanghai",
+    "title": "Tech in Shanghai",
+    "host": "John Vallis",
+    "description": "Interviews with entrepreneurs, founders, and investors living in Shanghai's startup ecosystem, looking at the practical realities of building tech in China.",
+    "imageUrl": "🚀",
+    "themeColor": "bg-red-500",
+    "accentColor": "text-red-500",
+    "rssUrl": "https://anchor.fm/s/21019cc8/podcast/rss"
+  },
+  {
+    "id": "digitally-china",
+    "title": "Digitally China",
+    "host": "Tom Xiong & Eva Xiao",
+    "description": "A deep dive into China's fast-changing digital economy, exploring how mobile platforms, e-commerce giants, and digital trends are shaping daily life and global tech.",
+    "imageUrl": "📲",
+    "themeColor": "bg-purple-650",
+    "accentColor": "text-purple-650",
+    "rssUrl": "http://www.ximalaya.com/album/25003858.xml"
+  },
+  {
+    "id": "conside",
+    "title": "Conside - A Podcast about China's Tech Scene",
+    "host": "Ray Kwan",
+    "description": "Swedish-hosted conversations unpacking consumer tech, fintech, regulations, and strategic developments inside China's tech giants.",
+    "imageUrl": "📡",
+    "themeColor": "bg-indigo-700",
+    "accentColor": "text-indigo-700",
+    "rssUrl": "https://anchor.fm/s/fbc0f278/podcast/rss"
+  },
+  {
+    "id": "china-tech-investor",
+    "title": "China Tech Investor",
+    "host": "TechNode Experts",
+    "description": "A weekly look at investment trends, IPOs, venture capital valuations, and public listings of Chinese tech giants, co-produced by TechNode.",
+    "imageUrl": "📈",
+    "themeColor": "bg-emerald-600",
+    "accentColor": "text-emerald-600",
+    "rssUrl": "https://feeds.simplecast.com/eAOEC11F"
+  },
+  {
+    "id": "china-tech-talk",
+    "title": "China Tech Talk",
+    "host": "TP Huang",
+    "description": "Deep analysis of Chinese technology policy, semiconductor supply chains, geopolitical tech rivalries, national industrial strategies, and AI research.",
+    "imageUrl": "🔬",
+    "themeColor": "bg-violet-700",
+    "accentColor": "text-violet-700",
+    "rssUrl": "https://api.substack.com/feed/podcast/2128842.rss"
+  },
+  {
+    "id": "inside-china-tech",
+    "title": "Inside China Tech",
+    "host": "South China Morning Post",
+    "description": "SCMP's tech reporters unpack the massive stories, national policies, and global ambitions of China's tech giants, from Shenzhen to Silicon Valley.",
+    "imageUrl": "📰",
+    "themeColor": "bg-slate-800",
+    "accentColor": "text-slate-800",
+    "rssUrl": "https://cms.scmp.com/rss/google_assistant/325477/media_rss.xml?article-type=329434"
   }
 ]
