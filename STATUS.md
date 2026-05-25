@@ -21,7 +21,7 @@ The application has successfully completed its core engineering transitions:
 
 ## 📊 Podcast Catalog Progress
 
-Out of the **46 total podcasts** listed in [podcasts.md](file:///Users/danieltibbing/Projects/china/china-pods/podcasts.md), **24 shows (52%)** have been successfully added, verified, scraped, and integrated into the active catalog, leaving **22 shows (48%)** left to integrate.
+Out of the **52 total podcasts** now listed in [podcasts.md](file:///Users/danieltibbing/Projects/china/china-pods/podcasts.md), **24 shows (46%)** have been successfully added, verified, scraped, and integrated into the active catalog, leaving **28 shows (54%)** left to integrate.
 
 ### 🟢 Added & Scraped Shows (24)
 
@@ -56,7 +56,7 @@ All of the following shows are fully configured in [podcasts_config.json](file:/
 
 ---
 
-### 🟡 Remaining Shows to Integrate (22)
+### 🟡 Remaining Shows to Integrate (28)
 
 The following shows listed in `podcasts.md` are not yet added to the scraper configuration. They will be added in upcoming batches:
 
@@ -86,7 +86,14 @@ The following shows listed in `podcasts.md` are not yet added to the scraper con
 23. Big Fish in the Middle Kingdom [ ] Expatriate Life
 24. Caixin-Sinica Business Brief   [ ] Business / Tech News
 25. The China Hand                 [ ] Analytical / Strategic
+26. Drum Tower (by The Economist)  [ ] Geopolitical / Society
+27. China in the World             [ ] Geopolitical / Academic Think Tank
+28. The China-Eurasia Podcast      [ ] Geopolitical / Belt and Road Footprint
+29. Eat Drink Asia (by SCMP)       [ ] Culture & Society / Food History
+30. The China Clean Energy Podcast [ ] Technical Clean Energy / Tech Transition
+31. U.S.-China Nexus               [ ] Strategic Geopolitics / Academic
 ```
+*(Note: "China and the World" and "China in the world" are mapped together as one concept, total remaining unique items are 28)*
 
 ---
 
@@ -95,3 +102,4 @@ The following shows listed in `podcasts.md` are not yet added to the scraper con
 1. **Batch 3 Expansion**: Add the next set of **Business / Career** shows (like `China Corner Office`, `China Flexpat`, and `Caixin-Sinica Business Brief`) to config.
 2. **Batch 4 Expansion**: Add remaining **History & Culture** shows (like `China Stories`, `China Books Podcast`, and `The Chinese Literature Podcast`).
 3. **Batch 5 Expansion**: Add the remaining **Geopolitical & Strategic** programs (like `Sharp China`, `Sinocism`, `The Asia Chessboard`).
+4. **Batch 6 Expansion**: Add **Forgotten Giants** (including `Drum Tower`, `China in the World`, `The China-Eurasia Podcast`, `Eat Drink Asia`, `The China Clean Energy Podcast`, and `U.S.-China Nexus`).

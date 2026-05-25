@@ -44,3 +44,9 @@ China Tech investor
 China in the world
 China tech talk
 Inside China Tech
+Drum Tower (by The Economist)
+China in the World (by Carnegie Endowment)
+The China-Eurasia Podcast (by Reid Standish)
+Eat Drink Asia (by SCMP)
+The China Clean Energy Podcast (by Anders Hove)
+U.S.-China Nexus (by Georgetown University)
