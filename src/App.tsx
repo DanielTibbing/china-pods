@@ -11,6 +11,7 @@ import { QueueManager } from './components/queue/QueueManager';
 import { SettingsView } from './components/settings/SettingsView';
 import { usePodcasts } from './hooks/usePodcasts';
 import { useTheme } from './hooks/useTheme';
+import { DynastyFlow } from './components/dynasty/DynastyFlow';
 
 function AppContent() {
   const { isDarkMode, setIsDarkMode } = useTheme();
@@ -179,6 +180,21 @@ function AppContent() {
             <SettingsView 
               onAddCustomPodcast={addCustomPodcast}
               onClearAllData={clearAllData}
+            />
+          } />
+
+          <Route path="/dynasty" element={
+            <DynastyFlow 
+              episodes={episodes}
+              onPlayEpisode={playEpisode}
+              isPlaying={isPlaying}
+              playingEpisodeId={currentEpisode?.id}
+              queueEpisodeIds={queueEpisodeIds}
+              onAddToQueue={addToQueue}
+              onRemoveFromQueue={removeFromQueue}
+              starredEpisodeIds={starredEpisodeIds}
+              onToggleStarEpisode={toggleStarEpisode}
+              queueList={queue}
             />
           } />
 

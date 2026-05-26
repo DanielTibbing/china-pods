@@ -1,5 +1,5 @@
 import { Link, useLocation } from 'react-router-dom'
-import { Search, Headphones, History, Star, PlaySquare, Settings, Sun, Moon } from 'lucide-react'
+import { Search, Headphones, History, Star, PlaySquare, Settings, Sun, Moon, Compass } from 'lucide-react'
 
 interface HeaderProps {
   searchTerm: string;
@@ -134,6 +134,18 @@ export function Header({
           >
             <Headphones className="h-4 w-4" />
             Explore Shows
+          </Link>
+          
+          <Link
+            to="/dynasty"
+            className={`px-4 py-2 text-sm font-bold transition-all border-b-2 flex items-center gap-2 ${
+              pathname === '/dynasty' 
+              ? 'border-indigo-600 text-indigo-600 dark:text-indigo-400 dark:border-indigo-400' 
+              : 'border-transparent text-gray-400 dark:text-slate-500 hover:text-gray-600 dark:hover:text-slate-300'
+            }`}
+          >
+            <Compass className="h-4 w-4" />
+            Dynasty Flow
           </Link>
           
           <Link
