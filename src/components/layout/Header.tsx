@@ -50,6 +50,12 @@ export function Header({
             >
               Language Study
             </a>
+            <a
+              href="https://danieltibbing.github.io/china-reader"
+              className="hover:text-gray-700 dark:hover:text-slate-200 transition-colors pb-0.5"
+            >
+              Reader Feed
+            </a>
           </div>
         </div>
       </div>
