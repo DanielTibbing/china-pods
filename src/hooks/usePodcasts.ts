@@ -254,17 +254,19 @@ export function usePodcasts() {
     }
   };
 
-  const skipForward = (seconds = 15) => {
+  const skipForward = (seconds: number | any = 15) => {
+    const sec = typeof seconds === 'number' ? seconds : 15;
     if (audioRef.current) {
-      const newTime = Math.min(audioRef.current.currentTime + seconds, duration);
+      const newTime = Math.min(audioRef.current.currentTime + sec, duration || audioRef.current.duration || 0);
       audioRef.current.currentTime = newTime;
       setProgress(newTime);
     }
   };
 
-  const skipBackward = (seconds = 15) => {
+  const skipBackward = (seconds: number | any = 15) => {
+    const sec = typeof seconds === 'number' ? seconds : 15;
     if (audioRef.current) {
-      const newTime = Math.max(audioRef.current.currentTime - seconds, 0);
+      const newTime = Math.max(audioRef.current.currentTime - sec, 0);
       audioRef.current.currentTime = newTime;
       setProgress(newTime);
     }
