@@ -42,7 +42,7 @@ All of the following shows are fully configured in [podcasts_config.json](file:/
 | 13 | **TeaTime Chinese 茶歇中文** | Culture & Society | 🟢 Active | `https://teatimechinese.libsyn.com/rss` |
 | 14 | **Strangers in China** | Culture & Society | 🔴 Ended | `https://rss.art19.com/strangers-in-china` |
 | 15 | **Den Digitala Draken** | Tech & Business | 🔴 Ended | `https://digitaladraken.libsyn.com/rss` |
-| 16 | **Radiokorrespondenterna Kina** | Geopolitics, Society | 🟢 Active | `https://api.sr.se/api/rss/pod/3784` |
+| 16 | **Radiokorrespondenterna Kina** | Geopolitics, Society | 🟢 Active | `https://api.sr.se/api/rss/pod/itunes/34159` |
 | 17 | **China Business Cast** | Tech & Business | 🔴 Ended | `https://feeds.simplecast.com/WeHw_1yx` |
 | 18 | **The Asiabits Podcast** | Tech & Business | 🟢 Active | `https://rss.buzzsprout.com/2572872.rss` |
 | 19 | **Tech in Shanghai** | Tech & Business | 🔴 Ended | `https://anchor.fm/s/21019cc8/podcast/rss` |
