@@ -16,6 +16,36 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-the-view-from-everywhere-els",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "The View from Everywhere Else: Eric Olander on how the Global South is Reading the Beijing Summits ",
+        "description": "This week I&#8217;m joined again by Eric Olander, founder of the China Global South Project, which runs the most indispensable English-language operation going for understanding China&#8217;s engagement with Africa, Latin America, Southeast Asia, ...",
+        "publishDate": "2026-05-26",
+        "duration": 1800,
+        "audioUrl": "https://api.substack.com/feed/podcast/199085835/7e2ad398a439a23bdf7a03906bcb49a3.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Daily Life",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-transcript-the-view-from-eve",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "Transcript | The View from Everywhere Else: Eric Olander on how the Global South is reading the Beijing summits ",
+        "description": "Transcript courtesy of CadreScripts follows the podcast info.",
+        "publishDate": "2026-05-26",
+        "duration": 1800,
+        "audioUrl": "https://substackcdn.com/image/fetch/$s_!r75w!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9031fffc-6ae3-46bc-9b37-d85ff12bee45_1400x1000.jpeg",
+        "topics": [
+          "US-China Relations",
+          "Daily Life"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-brave-the-elements-phrase-of",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -28561,6 +28591,26 @@
       "Tech & Business"
     ],
     "episodes": [
+      {
+        "id": "china-global-south-ep-e9c20236-28f3-43e5-8e66-8f3ff92d65e8",
+        "podcastId": "china-global-south",
+        "podcastTitle": "The China-Global South Podcast",
+        "title": "The Iran War is Boosting China's Green Energy Sales",
+        "description": "On March 1, one day after the U.S. and Israel launched what would become the ongoing war with Iran, Ren Hanjun, a visiting professor at Peking University, posted a video on WeChat predicting that China would emerge as one of the conflict's biggest...",
+        "publishDate": "2026-05-27",
+        "duration": 2516,
+        "audioUrl": "https://traffic.libsyn.com/secure/ea0f0fdd-2944-4ff3-8a00-704e8c67d58b/CGSP_05272026_Libsyn.mp3?dest-id=4287628",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Geopolitics & Politics",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-global-south-ep-5426b019-7154-4bb9-b768-86bd0e3b5879",
         "podcastId": "china-global-south",
@@ -85408,6 +85458,20 @@
     ],
     "episodes": [
       {
+        "id": "asia-chessboard-ep-1ae91760-5915-11f1-96d8-63a2594e13ea",
+        "podcastId": "asia-chessboard",
+        "podcastTitle": "The Asia Chessboard",
+        "title": "Grand Strategy Down Under",
+        "description": "Mike sits down with Justin Bassi, Executive Director of the Australian Strategic Policy Institute, to examine Australia’s latest 2026 National Defence Strategy and what it reveals about Canberra’s evolving strategic outlook. They examine how the s...",
+        "publishDate": "2026-05-26",
+        "duration": 3203,
+        "audioUrl": "https://traffic.megaphone.fm/CSIS7709343781.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Geopolitics & Politics"
+        ]
+      },
+      {
         "id": "asia-chessboard-ep-6dd55a10-4e20-11f1-b28d-2b9025218095",
         "podcastId": "asia-chessboard",
         "podcastTitle": "The Asia Chessboard",
@@ -87319,6 +87383,20 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "made-in-china-de-ep-buzzsprout-19246729",
+        "podcastId": "made-in-china-de",
+        "podcastTitle": "Made in China (German)",
+        "title": "#212 – Europa im China-Speed: Warum wir jetzt mutiger und schneller werden müssen – mit Rudolf Scharping, Unternehmer und Berater",
+        "description": "Europa, China, Innovation und Tempo: In dieser Folge sprechen wir zum dritten Mal mit Rudolf Scharping, Unternehmer und Berater, über die großen Veränderungen im Verhältnis zwischen Deutschland, Europa und China. Dabei geht es nicht nur um Politik...",
+        "publishDate": "2026-05-27",
+        "duration": 2219,
+        "audioUrl": "https://www.buzzsprout.com/1869386/episodes/19246729-212-europa-im-china-speed-warum-wir-jetzt-mutiger-und-schneller-werden-mussen-mit-rudolf-scharping-unternehmer-und-berater.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History"
+        ]
+      },
       {
         "id": "made-in-china-de-ep-buzzsprout-19207326",
         "podcastId": "made-in-china-de",
@@ -102904,6 +102982,98 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0526tw",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s Provocations in Taiwan’s Outer Islands Threaten First Island Chain, Expert Warns",
+        "description": "",
+        "publishDate": "2026-05-26",
+        "duration": 515,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0526/ead7a42c-4cbd-43a0-bf1e-cdc28bfc11f8/audio.mp3?length=6180768&duration=515",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0526jo",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Journalist, Son of Texas Politician Accused of Selling Intelligence to Beijing",
+        "description": "",
+        "publishDate": "2026-05-26",
+        "duration": 254,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0526/e9ec1ccc-fae4-4410-b3db-77b6c75d9da1/audio.mp3?length=3052224&duration=254",
+        "topics": [
+          "Daily Life"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0526yu",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Senator Reintroduces Legislation to Ban Chinese Digital Yuan in US Transactions",
+        "description": "",
+        "publishDate": "2026-05-26",
+        "duration": 249,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0526/dde07bf4-f650-4851-b663-63a0811d1760/audio.mp3?length=2989728&duration=249",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0526xi",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Trump–Xi Summit Seeks to Stay the Course",
+        "description": "",
+        "publishDate": "2026-05-26",
+        "duration": 254,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0526/79ba02d1-8bb3-4487-a281-4e28a7684bfa/audio.mp3?length=3051648&duration=254",
+        "topics": [
+          "US-China Relations"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0526ch",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Will China Revive Its International Tribute System?",
+        "description": "",
+        "publishDate": "2026-05-26",
+        "duration": 384,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0526/566f4d19-9e84-4fd6-b2bd-58cf7ff91591/audio.mp3?length=4616640&duration=384",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0526cf",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Quad to Spend $20 Billion on Cooperation to Counter China",
+        "description": "",
+        "publishDate": "2026-05-26",
+        "duration": 1411,
+        "audioUrl": "https://episodes.captivate.fm/episode/9ff9e7ee-34e8-4161-800a-e9558c59e566.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-drc115",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 115 Baoyu's Jade Returns to Him",
+        "description": "Masterpiece Podcasts: Collection of Chinese Classic Novels",
+        "publishDate": "2026-05-26",
+        "duration": 1532,
+        "audioUrl": "https://d11uxv8pa79pab.cloudfront.net/drc115.mp3",
+        "topics": [
+          "Feminism & Arts"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0525stk",
         "podcastId": "china-in-depth",
@@ -124602,7 +124772,7 @@
         ]
       }
     ],
-    "status": "active"
+    "status": "stale"
   },
   {
     "id": "drum-tower",
