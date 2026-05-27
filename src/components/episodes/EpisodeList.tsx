@@ -1,3 +1,4 @@
+import { useState, useEffect, useRef, useMemo } from 'react';
 import type { Episode } from '../../types';
 import { EpisodeRow } from './EpisodeRow';
 import { TOPICS } from '../../constants/podcasts';
@@ -54,6 +55,43 @@ export function EpisodeList({
     return matchesSearch && matchesTopic;
   });
 
+  // Infinite scroll pagination state
+  const [visibleCount, setVisibleCount] = useState(20);
+  const observerRef = useRef<HTMLDivElement | null>(null);
+
+  // Reset visibleCount when search query or topic filter changes
+  useEffect(() => {
+    setVisibleCount(20);
+  }, [searchTerm, selectedTopic]);
+
+  // Handle observer trigger to load more episodes
+  useEffect(() => {
+    if (visibleCount >= filteredEpisodes.length) return;
+
+    const observer = new IntersectionObserver(
+      (entries) => {
+        if (entries[0].isIntersecting) {
+          setVisibleCount(prev => Math.min(prev + 25, filteredEpisodes.length));
+        }
+      },
+      { rootMargin: '200px' }
+    );
+
+    const currentRef = observerRef.current;
+    if (currentRef) {
+      observer.observe(currentRef);
+    }
+
+    return () => {
+      if (currentRef) {
+        observer.unobserve(currentRef);
+      }
+    };
+  }, [filteredEpisodes.length, visibleCount]);
+
+  const slicedEpisodes = useMemo(() => {
+    return filteredEpisodes.slice(0, visibleCount);
+  }, [filteredEpisodes, visibleCount]);
 
   return (
     <div className="space-y-6">
@@ -84,32 +122,45 @@ export function EpisodeList({
           <p className="text-gray-500 dark:text-slate-400 text-sm">{emptyMessage}</p>
         </div>
       ) : (
-        <div className="divide-y divide-gray-100 dark:divide-slate-850 bg-white dark:bg-slate-900 border border-gray-200 dark:border-slate-850 rounded-2xl overflow-hidden shadow-sm">
-          {filteredEpisodes.map(episode => {
-            const inQueue = queueEpisodeIds.has(episode.id);
-            const queueItem = queueList.find(item => item.episode.id === episode.id);
-            const isEpStarred = starredEpisodeIds.has(episode.id);
-            const playProgress = history[episode.id]?.progress || 0;
-            const completed = history[episode.id]?.completed || false;
+        <div className="space-y-4">
+          <div className="divide-y divide-gray-100 dark:divide-slate-850 bg-white dark:bg-slate-900 border border-gray-200 dark:border-slate-850 rounded-2xl overflow-hidden shadow-sm">
+            {slicedEpisodes.map(episode => {
+              const inQueue = queueEpisodeIds.has(episode.id);
+              const queueItem = queueList.find(item => item.episode.id === episode.id);
+              const isEpStarred = starredEpisodeIds.has(episode.id);
+              const playProgress = history[episode.id]?.progress || 0;
+              const completed = history[episode.id]?.completed || false;
 
-            return (
-              <EpisodeRow
-                key={episode.id}
-                episode={episode}
-                isCurrentPlaying={playingEpisodeId === episode.id}
-                isPlaying={isPlaying && playingEpisodeId === episode.id}
-                isStarred={isEpStarred}
-                inQueue={inQueue}
-                playProgress={playProgress}
-                completed={completed}
-                onPlay={() => onPlayEpisode(episode)}
-                onTogglePlay={onTogglePlay}
-                onToggleStar={() => onToggleStarEpisode(episode.id)}
-                onAddToQueue={() => onAddToQueue(episode)}
-                onRemoveFromQueue={() => queueItem && onRemoveFromQueue(queueItem.id)}
-              />
-            );
-          })}
+              return (
+                <EpisodeRow
+                  key={episode.id}
+                  episode={episode}
+                  isCurrentPlaying={playingEpisodeId === episode.id}
+                  isPlaying={isPlaying && playingEpisodeId === episode.id}
+                  isStarred={isEpStarred}
+                  inQueue={inQueue}
+                  playProgress={playProgress}
+                  completed={completed}
+                  onPlay={() => onPlayEpisode(episode)}
+                  onTogglePlay={onTogglePlay}
+                  onToggleStar={() => onToggleStarEpisode(episode.id)}
+                  onAddToQueue={() => onAddToQueue(episode)}
+                  onRemoveFromQueue={() => queueItem && onRemoveFromQueue(queueItem.id)}
+                />
+              );
+            })}
+          </div>
+
+          {/* Sentinel loader for infinite scroll */}
+          {visibleCount < filteredEpisodes.length && (
+            <div ref={observerRef} className="py-6 flex justify-center items-center">
+              <div className="flex gap-1.5 items-center justify-center">
+                <span className="w-2.5 h-2.5 bg-indigo-500/70 rounded-full animate-bounce" style={{ animationDelay: '0s' }}></span>
+                <span className="w-2.5 h-2.5 bg-indigo-500/70 rounded-full animate-bounce" style={{ animationDelay: '0.15s' }}></span>
+                <span className="w-2.5 h-2.5 bg-indigo-500/70 rounded-full animate-bounce" style={{ animationDelay: '0.3s' }}></span>
+              </div>
+            </div>
+          )}
         </div>
       )}
     </div>

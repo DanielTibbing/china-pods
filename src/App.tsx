@@ -77,6 +77,19 @@ function AppContent() {
       });
   }, [episodes, history]);
 
+  // Filter recent episodes (last 40 days, fallback to top 60 most recent if activity is low)
+  const recentEpisodes = useMemo(() => {
+    const fortyDaysAgo = new Date();
+    fortyDaysAgo.setDate(fortyDaysAgo.getDate() - 40);
+    const recent = episodes.filter(ep => new Date(ep.publishDate) >= fortyDaysAgo);
+    
+    // Robust fallback to guarantee the feed looks full if updates are sparse
+    if (recent.length < 60) {
+      return episodes.slice(0, 60);
+    }
+    return recent;
+  }, [episodes]);
+
   // Sets of quick checkups
   const queueEpisodeIds = useMemo(() => new Set(queue.map(item => item.episode.id)), [queue]);
 
@@ -136,7 +149,7 @@ function AppContent() {
                 />
               ) : (
                 <EpisodeList 
-                  episodes={episodes}
+                  episodes={recentEpisodes}
                   starredEpisodeIds={starredEpisodeIds}
                   queueEpisodeIds={queueEpisodeIds}
                   history={history}
