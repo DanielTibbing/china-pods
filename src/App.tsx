@@ -12,6 +12,7 @@ import { SettingsView } from './components/settings/SettingsView';
 import { usePodcasts } from './hooks/usePodcasts';
 import { useTheme } from './hooks/useTheme';
 import { DynastyFlow } from './components/dynasty/DynastyFlow';
+import { LayoutGrid, Clock } from 'lucide-react';
 
 function AppContent() {
   const { isDarkMode, setIsDarkMode } = useTheme();
@@ -20,6 +21,7 @@ function AppContent() {
   const [searchTerm, setSearchTerm] = useState('');
   const [selectedCategory, setSelectedCategory] = useState('All');
   const [selectedTopic, setSelectedTopic] = useState('All');
+  const [homeView, setHomeView] = useState<'shows' | 'recent'>('shows');
 
   const location = useLocation();
 
@@ -93,13 +95,66 @@ function AppContent() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         <Routes>
           <Route path="/" element={
-            <PodcastGrid 
-              podcasts={podcasts}
-              starredPodcastIds={starredPodcastIds}
-              onToggleSubscribe={toggleStarPodcast}
-              selectedCategory={selectedCategory}
-              setSelectedCategory={setSelectedCategory}
-            />
+            <div className="space-y-6">
+              {/* Home Dashboard View Selector Tabs */}
+              <div className="flex justify-start border-b border-gray-150 dark:border-slate-850 pb-px">
+                <button
+                  onClick={() => setHomeView('shows')}
+                  className={`px-5 py-3 text-sm font-black transition-all border-b-2 -mb-px flex items-center gap-2 cursor-pointer ${
+                    homeView === 'shows'
+                    ? 'border-indigo-650 text-indigo-650 dark:text-indigo-400 dark:border-indigo-400'
+                    : 'border-transparent text-gray-400 dark:text-slate-500 hover:text-gray-650 dark:hover:text-slate-350'
+                  }`}
+                >
+                  <LayoutGrid className="h-4 w-4" />
+                  <span>ALL SHOWS</span>
+                </button>
+                <button
+                  onClick={() => setHomeView('recent')}
+                  className={`px-5 py-3 text-sm font-black transition-all border-b-2 -mb-px flex items-center gap-2 cursor-pointer relative ${
+                    homeView === 'recent'
+                    ? 'border-indigo-650 text-indigo-650 dark:text-indigo-400 dark:border-indigo-400'
+                    : 'border-transparent text-gray-400 dark:text-slate-500 hover:text-gray-650 dark:hover:text-slate-350'
+                  }`}
+                >
+                  <Clock className="h-4 w-4" />
+                  <span>RECENT RELEASES</span>
+                  <span className="inline-flex items-center px-1.5 py-0.5 ml-1 text-[8px] font-black uppercase tracking-wider bg-indigo-50 text-indigo-700 dark:bg-indigo-950/40 dark:text-indigo-400 rounded-md border border-indigo-100 dark:border-indigo-900/30">
+                    New
+                  </span>
+                </button>
+              </div>
+
+              {homeView === 'shows' ? (
+                <PodcastGrid 
+                  podcasts={podcasts}
+                  starredPodcastIds={starredPodcastIds}
+                  onToggleSubscribe={toggleStarPodcast}
+                  selectedCategory={selectedCategory}
+                  setSelectedCategory={setSelectedCategory}
+                  searchTerm={searchTerm}
+                />
+              ) : (
+                <EpisodeList 
+                  episodes={episodes}
+                  starredEpisodeIds={starredEpisodeIds}
+                  queueEpisodeIds={queueEpisodeIds}
+                  history={history}
+                  playingEpisodeId={currentEpisode?.id}
+                  isPlaying={isPlaying}
+                  onPlayEpisode={playEpisode}
+                  onTogglePlay={togglePlay}
+                  onAddToQueue={addToQueue}
+                  onRemoveFromQueue={removeFromQueue}
+                  onToggleStarEpisode={toggleStarEpisode}
+                  queueList={queue}
+                  searchTerm={searchTerm}
+                  selectedTopic={selectedTopic}
+                  setSelectedTopic={setSelectedTopic}
+                  emptyMessage="No recently released episodes found matching your filter selection."
+                />
+              )}
+            </div>
           } />
           
           <Route path="/podcast/:id" element={

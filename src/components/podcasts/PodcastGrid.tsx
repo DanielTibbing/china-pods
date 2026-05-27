@@ -10,6 +10,7 @@ interface PodcastGridProps {
   onToggleSubscribe: (id: string) => void;
   selectedCategory: string;
   setSelectedCategory: (cat: string) => void;
+  searchTerm?: string;
 }
 
 export function PodcastGrid({
@@ -17,7 +18,8 @@ export function PodcastGrid({
   starredPodcastIds,
   onToggleSubscribe,
   selectedCategory,
-  setSelectedCategory
+  setSelectedCategory,
+  searchTerm = ''
 }: PodcastGridProps) {
   const [viewMode, setViewMode] = useState<'grid' | 'list'>('grid');
   const [statusFilter, setStatusFilter] = useState<'all' | 'active' | 'stale'>('all');
@@ -47,6 +49,15 @@ export function PodcastGrid({
     // 2. Status Filter
     if (statusFilter === 'active' && podcast.status === 'stale') return false;
     if (statusFilter === 'stale' && podcast.status !== 'stale') return false;
+
+    // 3. Search Term Filter
+    if (searchTerm.trim() !== '') {
+      const term = searchTerm.toLowerCase();
+      const matchesTitle = podcast.title.toLowerCase().includes(term);
+      const matchesHost = podcast.host.toLowerCase().includes(term);
+      const matchesDesc = podcast.description.toLowerCase().includes(term);
+      if (!matchesTitle && !matchesHost && !matchesDesc) return false;
+    }
 
     return true;
   });
