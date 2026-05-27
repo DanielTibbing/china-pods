@@ -10,7 +10,7 @@ import { StarredView } from './components/starred/StarredView';
 import { QueueManager } from './components/queue/QueueManager';
 import { SettingsView } from './components/settings/SettingsView';
 import { usePodcasts } from './hooks/usePodcasts';
-import { useTheme } from './hooks/useTheme';
+import { useTheme } from 'china-common';
 import { DynastyFlow } from './components/dynasty/DynastyFlow';
 import { LayoutGrid, Clock } from 'lucide-react';
 
