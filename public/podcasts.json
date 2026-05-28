@@ -96609,6 +96609,37 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-2764840",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Qiaopi: when letters held families together",
+        "description": "How did Chinese migrants send money and messages home before phones or banks existed? They did not click send. Instead, they handed cash and letters to couriers who crossed the sea on faith alone. It was not fast, but it somehow worked. We're talk...",
+        "publishDate": "2026-05-27",
+        "duration": 1401,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2605/1079870502994.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2764837",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Dorm hustle or dorm trouble?",
+        "description": "You share a room, you share the space, and you might even share the chores. But what happens when your roommate starts running a business from the top bunk? In China, some students are launching side hustles right from their dorms. But when does a...",
+        "publishDate": "2026-05-27",
+        "duration": 1732,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2605/1079870402403.mp3",
+        "topics": [
+          "Dynastic History",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2764828",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -102982,6 +103013,86 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0527md",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Senator Cotton Calls for Federal Investigations Into China-Made Medical Devices",
+        "description": "",
+        "publishDate": "2026-05-27",
+        "duration": 261,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0527/da83b053-ad8d-43ae-8cdf-3f5c6d1f0431/audio.mp3?length=3134304&duration=261",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0527tw",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "rump’s Stance on Taiwan Unchanged Despite Slow Arms Sale",
+        "description": "",
+        "publishDate": "2026-05-27",
+        "duration": 399,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0527/72cad2a6-b451-48c5-b1a3-4716f3fb5a73/audio.mp3?length=4793760&duration=399",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0527th",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Why Is the CCP Shifting From Rejecting to Embracing the Thucydides Trap?",
+        "description": "",
+        "publishDate": "2026-05-27",
+        "duration": 633,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0527/ae0be06f-bcb0-4f29-baf7-fc4c79911133/audio.mp3?length=7603200&duration=633",
+        "topics": [
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0527fl",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s Crackdown on Online Foreign Trades Will Increase Capital Flight",
+        "description": "",
+        "publishDate": "2026-05-27",
+        "duration": 374,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0527/b2ea5cbc-faef-4f9f-b717-33bd2f5e2f1d/audio.mp3?length=4489056&duration=374",
+        "topics": [
+          "Economic Reform"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0527mh",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Falun Dafa News from Around the World – May 27, 2026",
+        "description": "",
+        "publishDate": "2026-05-27",
+        "duration": 1569,
+        "audioUrl": "https://en.minghui.org/u/files/podcasts/emh-podcast/EMHPodcast_2079-News.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-drc116",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 116 A Rude Awakening",
+        "description": "Masterpiece Podcasts: Collection of Chinese Classic Novels",
+        "publishDate": "2026-05-27",
+        "duration": 2106,
+        "audioUrl": "https://d11uxv8pa79pab.cloudfront.net/drc116.mp3",
+        "topics": [
+          "Feminism & Arts"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0526tw",
         "podcastId": "china-in-depth",
