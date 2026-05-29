@@ -2048,6 +2048,24 @@
     ],
     "episodes": [
       {
+        "id": "pekingology-ep-71d3290e-5a13-11f1-b59c-af441953ee96",
+        "podcastId": "pekingology",
+        "podcastTitle": "Pekingology",
+        "title": "Can China Control North Korea?",
+        "description": "In this episode of Pekingology, CSIS Senior Fellow Henrietta Levin is joined by Adam Farrar, who previously served as Special Advisor to the Vice President for the Indo-Pacific, Space, and Intelligence as well as Director for the Korean Peninsula ...",
+        "publishDate": "2026-05-28",
+        "duration": 2302,
+        "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/cohst.app/pdcst/0C0K2I/traffic.megaphone.fm/CSIS9229745252.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Daily Life",
+          "Economic Reform",
+          "Geopolitics & Politics",
+          "Tech & Business"
+        ]
+      },
+      {
         "id": "pekingology-ep-284d9432-50a3-11f1-be17-2bf6d3280f35",
         "podcastId": "pekingology",
         "podcastTitle": "Pekingology",
@@ -11597,6 +11615,22 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "chinatalk-ep-62c6b710-5a1c-11f1-b7b3-2b887a7382dd",
+        "podcastId": "chinatalk",
+        "podcastTitle": "ChinaTalk",
+        "title": "Arizona's Abundance Playbook",
+        "description": "How did Arizona lock in billion-dollar investments from TSMC, Intel, and LG Energy? Ian O’Grady, Senior Policy Advisor to Arizona Governor Katie Hobbs, joins ChinaTalk to share war stories from the state that’s successfully reshoring semiconductor...",
+        "publishDate": "2026-05-28",
+        "duration": 3555,
+        "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL1353157263.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "chinatalk-ep-ef0fb53c-56a7-11f1-823b-6b194b39cee8",
         "podcastId": "chinatalk",
@@ -77219,6 +77253,23 @@
     ],
     "episodes": [
       {
+        "id": "chinese-literature-podcast-ep-b0af0c2f-c45e-46b7-a8ff-bc716e795f72",
+        "podcastId": "chinese-literature-podcast",
+        "podcastTitle": "The Chinese Literature Podcast",
+        "title": "Taiwan Travelogue - Yang Shuangzi - Booker Award Winner!",
+        "description": "In this podcast, we look at the novel that was, a little more than a week ago, awarded the International Booker Prize. Taiwan Travelogue is a novel that pretends to be a travelogue, where a Japanese woman from Nagasaki, an important writer in the ...",
+        "publishDate": "2026-05-28",
+        "duration": 1414,
+        "audioUrl": "https://traffic.libsyn.com/secure/chineseliteraturepodcast/Chinese_Literature_Podcast_-_Taiwan_Travelogue_-_Yang_Shuangzi.mp3?dest-id=368338",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts"
+        ]
+      },
+      {
         "id": "chinese-literature-podcast-ep-8d9ea868-5418-4d92-b4be-82d7618437d9",
         "podcastId": "chinese-literature-podcast",
         "podcastTitle": "The Chinese Literature Podcast",
@@ -82227,6 +82278,26 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "sharp-china-ep-https---sharpchina-fm-member-episode-preview-social-mobility",
+        "podcastId": "sharp-china",
+        "podcastTitle": "Sharp China with Bill Bishop",
+        "title": "(Preview) Social Mobility and Hukou Reform; US Halts Taiwan Arms Sales?; Ongoing Pressure on Japan; An American Xinhua Journalist Arrested",
+        "description": "On today’s show Andrew and Bill begin with the news that Beijing moved to further ease hukou restrictions, including why this is a welcome change for millions of Chinese citizens, as well as a look at questions and challenges as the reforms are im...",
+        "publishDate": "2026-05-28",
+        "duration": 935,
+        "audioUrl": "https://sharpchina.fm/assets/sharpchina156-preview.mp3?access_token=MSorAZNuXsdNR1taQBKjcF",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Geopolitics & Politics",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "sharp-china-ep-https---sharpchina-fm-member-episode-preview-constructing-us",
         "podcastId": "sharp-china",
@@ -96609,6 +96680,37 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-2764855",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Is quitting underrated?",
+        "description": "Think about something you held onto for too long. A job, a project, a goal that just wasn't working. We all love stories about people who never gave up, but staying with the wrong thing can drain years from your life. So how can we know when it's ...",
+        "publishDate": "2026-05-28",
+        "duration": 1035,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2605/1079951955655.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2764852",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Can AI go underwater?",
+        "description": "AI doesn't just eat data. It devours power, water, and land. So what happens when you run out of all three? China answered by going underwater. Off Shanghai, one of the country's first commercial ocean-floor data centers has gone live. It is power...",
+        "publishDate": "2026-05-28",
+        "duration": 2063,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2605/1079951890214.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2764840",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -103013,6 +103115,86 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0528tx",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Texas Authorities Arrest 6 Chinese ‘Special Interest Aliens’ in Camouflage",
+        "description": "",
+        "publishDate": "2026-05-28",
+        "duration": 297,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0528/f7a409b8-81f3-4df8-b70c-2c7db7eaa69d/audio.mp3?length=3568896&duration=297",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0528eu",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "EU Fines Temu $232 Million for Failing to Prevent Sale of Dangerous, Illegal Products",
+        "description": "",
+        "publishDate": "2026-05-28",
+        "duration": 277,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0528/ebc07ba7-16c7-4e4a-a056-233b60bb7528/audio.mp3?length=3328992&duration=277",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0528sy",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "CCP’s Repression of Shen Yun in Canada Becomes a National Problem When Not Spurned, Association Tells MPs",
+        "description": "",
+        "publishDate": "2026-05-28",
+        "duration": 585,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0528/269b59cd-9249-48aa-be45-36f748b2c22c/audio.mp3?length=7027200&duration=585",
+        "topics": [
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0528cf",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Nvidia to Invest Up to $150 Billion a Year in Taiwan",
+        "description": "",
+        "publishDate": "2026-05-28",
+        "duration": 1343,
+        "audioUrl": "https://episodes.captivate.fm/episode/f8f91d48-78c2-4e5c-8400-8ed4e2a9c8d0.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0528atl",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Is Canada Becoming the CCP’s Backdoor into America? | Former Canadian Intel Analyst Scott McGregor",
+        "description": "",
+        "publishDate": "2026-05-28",
+        "duration": 1715,
+        "audioUrl": "https://episodes.captivate.fm/episode/a6c841dd-881f-45ae-b5f3-a50d3f5ce2c6.mp3",
+        "topics": [
+          "Dynastic History",
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-drc117",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 117 Family Members Plot to Traffic Jia Lian's Daughter, Qiaojie, for Money",
+        "description": "Masterpiece Podcasts: Collection of Chinese Classic Novels",
+        "publishDate": "2026-05-28",
+        "duration": 2390,
+        "audioUrl": "https://d11uxv8pa79pab.cloudfront.net/drc117.mp3",
+        "topics": [
+          "Feminism & Arts"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0527md",
         "podcastId": "china-in-depth",
