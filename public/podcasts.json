@@ -16,6 +16,20 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-trivium-china-podcast-what-e",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "Trivium China Podcast | What Exactly is U.S. Policy Toward Taiwan?",
+        "description": "Listen now | This week on the Trivium China Podcast, host Andrew Polk is joined by Trivium&#8217;s Head of Geopolitical Analysis Joe Mazur to unpack one of the most consequential &#8211; and potentially misunderstood &#8211; issues emerging from t...",
+        "publishDate": "2026-05-29",
+        "duration": 1800,
+        "audioUrl": "https://api.substack.com/feed/podcast/199767542/4fdb70660a1d0040f97a014260900d44.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-the-view-from-everywhere-els",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -147,6 +161,20 @@
         ]
       },
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-this-week-in-chinas-history-",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "This Week in China's History: Xu Baoshan’s Expensive Vase (a Tale of Assassination)",
+        "description": "May 24, 1913",
+        "publishDate": "2026-05-19",
+        "duration": 1800,
+        "audioUrl": "https://substackcdn.com/image/fetch/$s_!_luX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f4e4883-ed76-4d46-ae2a-2df64b6f54fc_1448x1086.png",
+        "topics": [
+          "Dynastic History",
+          "History"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-a-us-china-inflection-point",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -273,19 +301,6 @@
         "audioUrl": "https://api.substack.com/feed/podcast/197353845/3f6e1b993546bcfc1aa6e8397bfb3215.mp3",
         "topics": [
           "Semiconductors & AI"
-        ]
-      },
-      {
-        "id": "sinica-ep-https---www-sinicapodcast-com-p-this-week-in-chinas-history-",
-        "podcastId": "sinica",
-        "podcastTitle": "The Sinica Podcast",
-        "title": "This Week in China's History: Let 100 Flowers Bloom! ",
-        "description": "May 6, 1957",
-        "publishDate": "2026-05-11",
-        "duration": 1800,
-        "audioUrl": "https://substack-post-media.s3.amazonaws.com/public/images/492643cc-faba-4340-93e6-a6d2b982a4aa_600x209.webp",
-        "topics": [
-          "History"
         ]
       },
       {
@@ -11615,6 +11630,23 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "chinatalk-ep-6d5dc5c0-5aca-11f1-af46-bfad3e53a8c9",
+        "podcastId": "chinatalk",
+        "podcastTitle": "ChinaTalk",
+        "title": "WarTalk: NatSec in Congress + AI Evals for War",
+        "description": "How do you evaluate an AI model for a war you can only fight once? Ike Harris, a Naval officer turned Hill staffer turned AI policy operator, joins the show to discuss his effort to bridge the gap between the labs that build frontier models and th...",
+        "publishDate": "2026-05-29",
+        "duration": 2926,
+        "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL6141223248.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Feminism & Arts",
+          "Geopolitics & Politics",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "chinatalk-ep-62c6b710-5a1c-11f1-b7b3-2b887a7382dd",
         "podcastId": "chinatalk",
@@ -93949,6 +93981,27 @@
     ],
     "episodes": [
       {
+        "id": "trivium-china-ep-buzzsprout-19259039",
+        "podcastId": "trivium-china",
+        "podcastTitle": "The Trivium China Podcast",
+        "title": "Ep 67 - What exactly is US policy toward Taiwan?",
+        "description": "This week on the Trivium China Podcast, host Andrew Polk is joined by Trivium’s Head of Geopolitical Analysis Joe Mazur to unpack one of the most consequential – and potentially misunderstood – issues emerging from the recent Xi-Trump summit: Taiw...",
+        "publishDate": "2026-05-29",
+        "duration": 3847,
+        "audioUrl": "https://www.buzzsprout.com/2408047/episodes/19259039-ep-67-what-exactly-is-us-policy-toward-taiwan.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Geopolitics & Politics",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "trivium-china-ep-buzzsprout-19219826",
         "podcastId": "trivium-china",
         "podcastTitle": "The Trivium China Podcast",
@@ -96679,6 +96732,35 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "roundtable-china-ep-1-2764867",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "The Full Circle: motorcycles, university campuses, and Qiaopi",
+        "description": "What do motorcycles, letters from overseas, and university campuses have in common? On the surface, nothing. But dig a little deeper, and nothing is truly separate. The Full Circle finds that connection. On the show: Steve, Yushan & Yushun",
+        "publishDate": "2026-05-29",
+        "duration": 945,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2605/1080044195393.mp3",
+        "topics": [
+          "Dynastic History"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2764864",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Is Gen Z the last generation of smokers?",
+        "description": "The UK just passed a radical ban: no tobacco for anyone born after 2008. Meanwhile, Chinese cities like Shenzhen and Hong Kong are using AI and other technologies to police public smoking, all in the name of clean air. Gen Z is becoming the first ...",
+        "publishDate": "2026-05-29",
+        "duration": 2166,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2605/1080044128962.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Tech & Business"
+        ]
+      },
       {
         "id": "roundtable-china-ep-1-2764855",
         "podcastId": "roundtable-china",
@@ -102821,6 +102903,24 @@
     ],
     "episodes": [
       {
+        "id": "wire-china-ep-buzzsprout-19258713",
+        "podcastId": "wire-china",
+        "podcastTitle": "The Wire China Podcast",
+        "title": "When the Chips Are Down, Turn to China?",
+        "description": "SALE: We’re offering your first month of The Wire China for just one dollar. More details below!The world is facing a global memory chip shortage, with companies scrambling to buy what they can. The crunch puts desperate U.S. firms in a bind: will...",
+        "publishDate": "2026-05-29",
+        "duration": 690,
+        "audioUrl": "https://www.buzzsprout.com/2591600/episodes/19258713-when-the-chips-are-down-turn-to-china.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "History",
+          "Geopolitics & Politics",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "wire-china-ep-buzzsprout-19222028",
         "podcastId": "wire-china",
         "podcastTitle": "The Wire China Podcast",
@@ -103115,6 +103215,128 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0529eu",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "EU to Expand Tariffs and Quotas on Chinese Imports in Major De-Risking Push",
+        "description": "",
+        "publishDate": "2026-05-29",
+        "duration": 255,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0529/1b59756f-5bff-4bd3-a91f-56f975644d2f/audio.mp3?length=3071232&duration=255",
+        "topics": [
+          "US-China Relations"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0529rec",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "US Says Decades of Trying to Convince Beijing to Rectify Trade Practices Largely Failed",
+        "description": "",
+        "publishDate": "2026-05-29",
+        "duration": 348,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0529/f3e95dca-58d5-4ad3-af30-02a647ea11f1/audio.mp3?length=4184352&duration=348",
+        "topics": [
+          "Semiconductors & AI",
+          "Daily Life",
+          "Economic Reform"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0529xi",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Xi Jinping’s Revolution vs. Mao’s Cultural Revolution",
+        "description": "",
+        "publishDate": "2026-05-29",
+        "duration": 779,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0529/347de24a-ce1e-4b7a-a3b7-dbf10cde4fb1/audio.mp3?length=9348480&duration=779",
+        "topics": [
+          "Geopolitics & Politics",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0529db",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Summit Doublespeak Masks China’s Consistent Drive for Domination",
+        "description": "",
+        "publishDate": "2026-05-29",
+        "duration": 445,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0529/99335814-8050-4fb2-a8b3-a84a8a0e94d1/audio.mp3?length=5348736&duration=445",
+        "topics": [
+          "US-China Relations"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0529tw",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Is Taiwan Becoming a Bargaining Chip?",
+        "description": "",
+        "publishDate": "2026-05-29",
+        "duration": 443,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0529/c6d603cc-889d-445e-877e-0c7256f2d534/audio.mp3?length=5325696&duration=443",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0529dt",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "How Beijing Turns Data Into State Control",
+        "description": "",
+        "publishDate": "2026-05-29",
+        "duration": 679,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0529/6bb536e3-e922-4bda-b119-df213d118773/audio.mp3?length=8153568&duration=679",
+        "topics": [
+          "Daily Life"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0529dom",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "The China Shock Domino Effect",
+        "description": "",
+        "publishDate": "2026-05-29",
+        "duration": 460,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0529/47383530-ae16-48af-8585-3454b41c518d/audio.mp3?length=5525568&duration=460",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0529cf",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Pres. Trump Opposes Iran Uranium Transfer to China ",
+        "description": "",
+        "publishDate": "2026-05-29",
+        "duration": 1333,
+        "audioUrl": "https://episodes.captivate.fm/episode/a09934be-0aae-4290-8c23-e311b393f139.mp3",
+        "topics": [
+          "US-China Relations"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-drc118",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 118 Baoyu Finally Digs in to Prepare for the Imperial Exam",
+        "description": "Masterpiece Podcasts: Collection of Chinese Classic Novels",
+        "publishDate": "2026-05-29",
+        "duration": 2361,
+        "audioUrl": "https://d11uxv8pa79pab.cloudfront.net/drc118.mp3",
+        "topics": [
+          "Feminism & Arts"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0528tx",
         "podcastId": "china-in-depth",
