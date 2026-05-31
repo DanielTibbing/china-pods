@@ -95474,6 +95474,21 @@
     ],
     "episodes": [
       {
+        "id": "asia-insight-ep-nbrpodcasts-podbean-com-c8847151-fdd4-351a-a737-5c473950ced1",
+        "podcastId": "asia-insight",
+        "podcastTitle": "Asia Insight (NBR)",
+        "title": "Next in Line: Sri Lanka’s Rising Leaders and Foreign Policy",
+        "description": "From the National Bureau of Asian Research, an Asia Insight miniseries examining the future of foreign policy through the lens of emerging leadership in South and Southeast Asia. This third episode features Dr. Christopher Clary of the University ...",
+        "publishDate": "2026-05-30",
+        "duration": 2201,
+        "audioUrl": "https://mcdn.podbean.com/mf/web/6439ir926p46quy3/Next_in_Line_-_Episode_3_-_May_2026_mixdown8ikx8.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Geopolitics & Politics",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "asia-insight-ep-nbrpodcasts-podbean-com-a35885b8-a431-3737-ab71-ad69fb80311d",
         "podcastId": "asia-insight",
         "podcastTitle": "Asia Insight (NBR)",
