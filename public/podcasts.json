@@ -16,6 +16,19 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-social-currency-phrase-of-th",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "\"Social currency\" — Phrase of the Week",
+        "description": "A new sports craze is taking off in China &#8212; and it&#8217;s all about the selfies",
+        "publishDate": "2026-05-31",
+        "duration": 1800,
+        "audioUrl": "https://substackcdn.com/image/fetch/$s_!NP9j!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F62778514-12e4-488e-a901-082555dba827_2000x1200.jpeg",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-trivium-china-podcast-what-e",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -41410,6 +41423,24 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "sr-kina-ep-rss-sr-se-pod-eid-2815487",
+        "podcastId": "sr-kina",
+        "podcastTitle": "Radiokorrespondenterna Kina",
+        "title": "Så lindar Peking världsledarna runt sitt finger",
+        "description": "Xi Jinpings självförtroende tycks vara på topp efter besök av Trump och Putin. Lyssna på alla avsnitt i Sveriges Radios app. Två toppmöten i Peking inom en vecka gjorde tydligt att såväl USA som Ryssland fortsatt ser Kina som en minst sagt viktig ...",
+        "publishDate": "2026-06-01",
+        "duration": 1620,
+        "audioUrl": "https://static-cdn.sr.se/laddahem/podradio/2026/05/radiokorrespondenterna_kina_sa_lindar_peking_varldsledarna_20260529_1550465918.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Geopolitics & Politics",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "sr-kina-ep-rss-sr-se-pod-eid-2811303",
         "podcastId": "sr-kina",
@@ -103230,6 +103261,86 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0531au",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "AUKUS Reveals Project to Develop Underwater Drones by 2027",
+        "description": "",
+        "publishDate": "2026-05-31",
+        "duration": 167,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0530/3fa75cfc-14bd-4769-a4a8-1e6653ca95aa/audio.mp3?length=2012544&duration=167",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0531in",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Hegseth Stresses Need for Defense Burden-Sharing in Indo-Pacific to Check China",
+        "description": "",
+        "publishDate": "2026-05-31",
+        "duration": 187,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0530/5473566d-1190-440d-955a-0ff028e5c0f7/audio.mp3?length=2249280&duration=187",
+        "topics": [
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0531eu",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "EU Commission Declares Trade Ties With China ‘Not Sustainable’",
+        "description": "",
+        "publishDate": "2026-05-31",
+        "duration": 217,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0530/072a3df6-0770-4de0-abe4-f1dbb3a74ae3/audio.mp3?length=2612160&duration=217",
+        "topics": [
+          "Semiconductors & AI",
+          "Economic Reform"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0531ca",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Former California Mayor Pleads Guilty to Acting as Agent for China",
+        "description": "",
+        "publishDate": "2026-05-31",
+        "duration": 191,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0531/6e293088-73ed-414f-ac22-6fa70c2cc649/audio.mp3?length=2300832&duration=191",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0531cf",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "U.S. Imposes New Sanctions on Iranian Oil Sales",
+        "description": "",
+        "publishDate": "2026-05-31",
+        "duration": 1390,
+        "audioUrl": "https://episodes.captivate.fm/episode/ada7b4e9-86f4-46d5-ad6c-478d3b09136f.mp3",
+        "topics": [
+          "US-China Relations"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-drc119",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 119 Baoyu Achieved 7th in the Imperial Exam Then Disappeared in Thin Air",
+        "description": "Masterpiece Podcasts: Collection of Chinese Classic Novels",
+        "publishDate": "2026-05-31",
+        "duration": 1642,
+        "audioUrl": "https://d11uxv8pa79pab.cloudfront.net/drc119.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Feminism & Arts"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0529eu",
         "podcastId": "china-in-depth",
