@@ -11644,6 +11644,23 @@
     ],
     "episodes": [
       {
+        "id": "chinatalk-ep-a270cf0c-5dd4-11f1-9fef-b36b10185145",
+        "podcastId": "chinatalk",
+        "podcastTitle": "ChinaTalk",
+        "title": "The Pope has AI Takes",
+        "description": "Pope Leo has called AI the single greatest challenge facing humanity. Not war, not poverty, not climate change. So we got a panel together to sort out what this encyclical means. Joining Jordan are Tim Hwang, deputy director of the Institute for C...",
+        "publishDate": "2026-06-01",
+        "duration": 3050,
+        "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL2444069546.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "chinatalk-ep-6d5dc5c0-5aca-11f1-af46-bfad3e53a8c9",
         "podcastId": "chinatalk",
         "podcastTitle": "ChinaTalk",
@@ -96778,6 +96795,36 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "roundtable-china-ep-1-2764882",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "The Soapbox: mom vs everyone else",
+        "description": "A mother wants to protect her child from bullying. So she files a complaint. Then another. Then she goes after a university professor. The problem? No one seems to agree with her bullying claim. When protecting your child becomes a crusade, who de...",
+        "publishDate": "2026-06-01",
+        "duration": 1041,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2606/1080301134724.mp3",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2764879",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "The best AI for kids? Maybe none at all",
+        "description": "AI chatbots, storytelling robots, and companion apps are entertaining, comforting, and teaching kids earlier than ever. But China's Ministry of Education is now pushing back. They want families to swap screens for playgrounds and apps for real pla...",
+        "publishDate": "2026-06-01",
+        "duration": 2096,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2606/1080301067326.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "roundtable-china-ep-1-2764867",
         "podcastId": "roundtable-china",
