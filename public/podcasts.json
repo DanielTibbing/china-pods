@@ -76729,6 +76729,23 @@
     ],
     "episodes": [
       {
+        "id": "china-books-podcast-ep-buzzsprout-19277158",
+        "podcastId": "china-books-podcast",
+        "podcastTitle": "China Books Podcast",
+        "title": "Murder in Hong Kong with Simon Elegant",
+        "description": "The Hong Kong-born novelist and journalist talks us through his new novel \"City on Fire,\" a whodunnit thriller set against the 2019 protests.The China Books Podcast is a companion of China Books Review, a project of Asia Society’s Center on U.S.-C...",
+        "publishDate": "2026-06-02",
+        "duration": 1970,
+        "audioUrl": "https://www.buzzsprout.com/2252666/episodes/19277158-murder-in-hong-kong-with-simon-elegant.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Daily Life",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "china-books-podcast-ep-buzzsprout-19123644",
         "podcastId": "china-books-podcast",
         "podcastTitle": "China Books Podcast",
@@ -87535,6 +87552,22 @@
     ],
     "episodes": [
       {
+        "id": "made-in-china-de-ep-buzzsprout-19285933",
+        "podcastId": "made-in-china-de",
+        "podcastTitle": "Made in China (German)",
+        "title": "#213 – Die China-Formel hat sich geändert – Daniel Berger, Partner at EAC, über die neuen Spielregeln",
+        "description": "China ist längst nicht mehr nur der große Absatzmarkt, den viele deutsche Unternehmen vor Augen hatten. Daniel Berger von ERC International Consulting zeigt in dieser Folge, warum Erfolg heute viel stärker davon abhängt, wie gut ein Unternehmen si...",
+        "publishDate": "2026-06-03",
+        "duration": 2210,
+        "audioUrl": "https://www.buzzsprout.com/1869386/episodes/19285933-213-die-china-formel-hat-sich-geandert-daniel-berger-partner-at-eac-uber-die-neuen-spielregeln.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Feminism & Arts",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "made-in-china-de-ep-buzzsprout-19246729",
         "podcastId": "made-in-china-de",
         "podcastTitle": "Made in China (German)",
@@ -96795,6 +96828,37 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "roundtable-china-ep-1-2764897",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Are you suffering from vegetable anxiety?",
+        "description": "Vegetable anxiety is trending. Young diners feel \"anxious\" if there isn't enough produce on the plate. That's a strange twist, because getting anyone to eat their leafy greens used to be the hard part. Somewhere along the way, the script flipped. ...",
+        "publishDate": "2026-06-02",
+        "duration": 1271,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2606/1080387611816.mp3",
+        "topics": [
+          "Dynastic History",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2764894",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "A penny for your AI thoughts?",
+        "description": "You remember when the internet just handed everything over for free. Maps, music, random facts at three in the morning. Nobody asked who was really paying for it. Now AI is flipping the script. The same tools that save time and think alongside peo...",
+        "publishDate": "2026-06-02",
+        "duration": 1885,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2606/1080387532623.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "roundtable-china-ep-1-2764882",
         "podcastId": "roundtable-china",
