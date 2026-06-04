@@ -16,6 +16,34 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-the-texas-paradox-how-the-mo",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "The Texas Paradox: How the Most Anti-China State Is Building America's China Capacity ",
+        "description": "The summit in Beijing produced a &#8220;constructive strategic stability&#8221; framework and a warming of tone between the two presidents.",
+        "publishDate": "2026-06-03",
+        "duration": 1800,
+        "audioUrl": "https://api.substack.com/feed/podcast/199482270/f312404dc5ce98ad8117f82a46816b0e.mp3",
+        "topics": [
+          "US-China Relations",
+          "Dynastic History",
+          "Daily Life"
+        ]
+      },
+      {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-transcript-the-texas-paradox",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "Transcript | The Texas Paradox: How the Most Anti-China State Is Building America's China Capacity ",
+        "description": "Listen in the embedded player above.",
+        "publishDate": "2026-06-03",
+        "duration": 1800,
+        "audioUrl": "https://substackcdn.com/image/fetch/$s_!XZQN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F72d3df3d-b1a9-4a34-b424-1e64d728e49d_1400x1000.png",
+        "topics": [
+          "Daily Life"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-social-currency-phrase-of-th",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -47818,6 +47846,25 @@
     ],
     "episodes": [
       {
+        "id": "asiabits-ep-buzzsprout-19287339",
+        "podcastId": "asiabits",
+        "podcastTitle": "The Asiabits Podcast",
+        "title": "Ep. 17: This Frenchman Built a Humanoid Robot in China",
+        "description": "\"I did my best. Next, do the same in France.\" - Jules Thevenon, The Forge Humanoid Robotics A French founder spent 10 years in China, built a humanoid robot, and couldn't raise a cent. His engineers left for Unitree and Agibot. So he closed his Sh...",
+        "publishDate": "2026-06-04",
+        "duration": 2947,
+        "audioUrl": "https://www.buzzsprout.com/2572872/episodes/19287339-ep-17-this-frenchman-built-a-humanoid-robot-in-china.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "asiabits-ep-buzzsprout-19207160",
         "podcastId": "asiabits",
         "podcastTitle": "The Asiabits Podcast",
@@ -87556,7 +87603,7 @@
         "podcastId": "made-in-china-de",
         "podcastTitle": "Made in China (German)",
         "title": "#213 – Die China-Formel hat sich geändert – Daniel Berger, Partner at EAC, über die neuen Spielregeln",
-        "description": "China ist längst nicht mehr nur der große Absatzmarkt, den viele deutsche Unternehmen vor Augen hatten. Daniel Berger von ERC International Consulting zeigt in dieser Folge, warum Erfolg heute viel stärker davon abhängt, wie gut ein Unternehmen si...",
+        "description": "China ist längst nicht mehr nur der große Absatzmarkt, den viele deutsche Unternehmen vor Augen hatten. Daniel Berger von EAC International Consulting zeigt in dieser Folge, warum Erfolg heute viel stärker davon abhängt, wie gut ein Unternehmen si...",
         "publishDate": "2026-06-03",
         "duration": 2210,
         "audioUrl": "https://www.buzzsprout.com/1869386/episodes/19285933-213-die-china-formel-hat-sich-geandert-daniel-berger-partner-at-eac-uber-die-neuen-spielregeln.mp3",
@@ -96829,6 +96876,38 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-2764912",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Digital fingerprints: High-tech security for ancient artifacts",
+        "description": "Centuries of art history, billions of dollars, and one problem that may finally have a solution. Fingerprint of Things (FoT) technology now allows researchers to use microscopic bubble patterns and tangled paper fibers as natural ID cards for anci...",
+        "publishDate": "2026-06-03",
+        "duration": 1416,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2606/1080475336513.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "History",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2764909",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Move over for matcha mania!",
+        "description": "From lattes and cakes to bottled drinks and soft serve, matcha is everywhere right now, and China makes a huge percentage of the world's supply. Farmers are ditching old crops, factories can't keep up, and exports are exploding. Is this just anoth...",
+        "publishDate": "2026-06-03",
+        "duration": 1741,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2606/1080475265720.mp3",
+        "topics": [
+          "Dynastic History",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2764897",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -103372,6 +103451,190 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0603flg",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "European Court Rules Serbia Illegally Banned Peaceful Falun Gong Rally During Xi Jinping’s Visit",
+        "description": "",
+        "publishDate": "2026-06-03",
+        "duration": 353,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0603/fd9a83d8-a226-4972-8467-9fc513eeba42/audio.mp3?length=4240800&duration=353",
+        "topics": [
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0603bli",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Xi’s Post-Trump Diplomatic Blitz Advances Anti-Western Axis",
+        "description": "",
+        "publishDate": "2026-06-03",
+        "duration": 447,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0603/50ad2684-8d60-432c-b8d3-49ac8ea53fc1/audio.mp3?length=5369472&duration=447",
+        "topics": [
+          "US-China Relations"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0603dom",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "The China Shock Domino Effect",
+        "description": "",
+        "publishDate": "2026-06-03",
+        "duration": 460,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0529/47383530-ae16-48af-8585-3454b41c518d/audio.mp3?length=5525568&duration=460",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0603cf",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China Appears to Boost Nuclear Strike Capability",
+        "description": "",
+        "publishDate": "2026-06-03",
+        "duration": 1285,
+        "audioUrl": "https://episodes.captivate.fm/episode/d1a88d00-f35b-46ba-bd40-d7421a54d8af.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0603mh",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Falun Dafa News from Around the World – June 3, 2026 ",
+        "description": "",
+        "publishDate": "2026-06-03",
+        "duration": 1403,
+        "audioUrl": "https://en.minghui.org/u/files/podcasts/emh-podcast/EMHPodcast_2085-News.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-gyf02",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 2 Divine Teaching in Zan's Dream",
+        "description": "Masterpiece Podcasts: Collection of Chinese Classic Novels",
+        "publishDate": "2026-06-03",
+        "duration": 866,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/gyf02.mp3",
+        "topics": [
+          "Feminism & Arts"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0602nuk",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Satellite Images Show More Military Activity Near China’s Nuclear Missile Silos",
+        "description": "",
+        "publishDate": "2026-06-02",
+        "duration": 655,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0602/c11d861a-0bfb-42ec-bf25-508755d52bad/audio.mp3?length=7871616&duration=655",
+        "topics": [
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0602ny",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "NYC Chinese Consulate Involved in Philadelphia’s CCP Flag-Raising Ceremony: Documents",
+        "description": "",
+        "publishDate": "2026-06-02",
+        "duration": 326,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0602/eb90b1ff-435e-4981-a1fe-7de95317fcee/audio.mp3?length=3913344&duration=326",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0602vs",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "US Revokes Visa of Chinese Journalist",
+        "description": "",
+        "publishDate": "2026-06-02",
+        "duration": 357,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0602/5142381a-7fdb-4737-89fa-a3058d59ef66/audio.mp3?length=4295808&duration=357",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0602cf",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "U.S. Backs ‘Model Allies’ as China Warnings Hold",
+        "description": "",
+        "publishDate": "2026-06-02",
+        "duration": 1292,
+        "audioUrl": "https://episodes.captivate.fm/episode/3ffe826b-fc7d-47e8-a14c-5c111ea4a45c.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-gyf01",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Generals of the Yang Family Chapter 1 Huyan Zan's Long-Awaited Revenge",
+        "description": "AI Contribution: Courtesy of Google NotebookLM",
+        "publishDate": "2026-06-02",
+        "duration": 1176,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/gyf01.mp3",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0601ai",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "US Moves to Restrict China’s Access to Advanced AI Chips",
+        "description": "",
+        "publishDate": "2026-06-01",
+        "duration": 267,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0601/fff1ea19-f5d6-4207-ac65-da3ee3a4e6fa/audio.mp3?length=3210624&duration=267",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0601dis",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Dissidents Rally Outside Chinese Embassy, Seeking Release of Mother, Sister",
+        "description": "",
+        "publishDate": "2026-06-01",
+        "duration": 383,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0601/a432a05d-701c-4c25-a84f-8c54cedd629c/audio.mp3?length=4601376&duration=383",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-drc120",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 120(Finale) The Stone's Journey,as Baoyu, in the Mortal World Completed and Fate Picked Cao Xueqin to Pen the Saga",
+        "description": "Masterpiece Podcasts: Collection of Chinese Classic Novels",
+        "publishDate": "2026-06-01",
+        "duration": 2831,
+        "audioUrl": "https://d11uxv8pa79pab.cloudfront.net/drc120.mp3",
+        "topics": [
+          "Feminism & Arts"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0531au",
         "podcastId": "china-in-depth",
