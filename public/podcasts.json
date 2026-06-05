@@ -31628,6 +31628,24 @@
     ],
     "episodes": [
       {
+        "id": "china-power-ep-2ddc374c-6047-11f1-83ca-c3945ed07142",
+        "podcastId": "china-power",
+        "podcastTitle": "China Power",
+        "title": "Assessing the Putin–Xi Summit: A Conversation with Andrea Kendall-Taylor and Evan Medeiros",
+        "description": "In this episode of the ChinaPower Podcast, Dr. Andrea Kendall-Taylor and Dr. Evan Medeiros join us to unpack President Putin’s visit to Beijing. They discuss what the timing reveals about China’s diplomatic strategy after the Trump–Xi meeting, and...",
+        "publishDate": "2026-06-04",
+        "duration": 2876,
+        "audioUrl": "https://traffic.megaphone.fm/CSIS9733986691.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "china-power-ep-29f99f7e-5549-11f1-b9cb-4781407ec620",
         "podcastId": "china-power",
         "podcastTitle": "China Power",
@@ -82423,6 +82441,27 @@
     ],
     "episodes": [
       {
+        "id": "sharp-china-ep-https---sharpchina-fm-member-episode-seizing-the-commanding-",
+        "podcastId": "sharp-china",
+        "podcastTitle": "Sharp China with Bill Bishop",
+        "title": "Seizing The Commanding Heights; Decoding Shangri-La Dialogue; Europe Moots Trade Policy; The PRC Expels a New York Times Journalist",
+        "description": "On today’s show Andrew and Bill begin with Xi Jinping’s call to seize the commanding heights of science, technology, and industry across six industries of the future, as well as the State Council’s move to release a 34-article law that will implic...",
+        "publishDate": "2026-06-04",
+        "duration": 4253,
+        "audioUrl": "https://sharpchina.fm/assets/sharpchina157-final-8999.mp3?access_token=MSorAZNuXsdNR1taQBKjcF",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Geopolitics & Politics",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "sharp-china-ep-https---sharpchina-fm-member-episode-preview-social-mobility",
         "podcastId": "sharp-china",
         "podcastTitle": "Sharp China with Bill Bishop",
@@ -96876,6 +96915,39 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-2764924",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Pickleball, Hyrox, and China's new fitness fix",
+        "description": "From pickleball to Hyrox, the way China is getting fit is changing. Across the country, 800 million people took part in outdoor sports last year. Retirees. Office workers. Mothers. They are turning courts and trails into offline social platforms. ...",
+        "publishDate": "2026-06-04",
+        "duration": 999,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2606/1080564657349.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2764921",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "The big power pricing shake-up",
+        "description": "For decades, Chinese factories and families saved money by waiting until midnight to use bulk electricity. But as solar power floods the grid, the cheapest electricity is not necessarily at midnight anymore. With record heat driving up power usage...",
+        "publishDate": "2026-06-04",
+        "duration": 2157,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2606/1080564591798.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2764912",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -103451,6 +103523,126 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0604tru",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Trump Decries Communism, Says It Turns to ‘Death, Destruction, Squalor’",
+        "description": "",
+        "publishDate": "2026-06-04",
+        "duration": 230,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0605/bfda41a7-8bd3-46f1-a33f-422609c20df8/audio.mp3?length=2763648&duration=230",
+        "topics": [
+          "US-China Relations"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0604rub",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "‘We Remember Their Lives and Honor Their Legacy’: Rubio on Tiananmen Massacre’s 37th Anniversary",
+        "description": "",
+        "publishDate": "2026-06-04",
+        "duration": 317,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0604/42d00e79-6f30-4a5c-9b25-9de7645c1c0f/audio.mp3?length=3806496&duration=317",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0604eye5",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "5 Eyes Warns China Is Using Fake Recruiters to Target Sensitive Information",
+        "description": "",
+        "publishDate": "2026-06-04",
+        "duration": 318,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0604/ab88cc97-2458-48c1-abd5-612bc9a8150c/audio.mp3?length=3826080&duration=318",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0604emb",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "US Lawmakers Propose to Change Chinese Embassy Address to Honor Tiananmen Massacre Victims",
+        "description": "",
+        "publishDate": "2026-06-04",
+        "duration": 318,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0604/692f707c-0173-4c51-b33d-3883334149cc/audio.mp3?length=3824640&duration=318",
+        "topics": [
+          "Dynastic History"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0604xi",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Xi Jinping Missing From Public View as Key Party Meeting Report Is Omitted",
+        "description": "",
+        "publishDate": "2026-06-04",
+        "duration": 310,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0604/fb0e8a0e-404d-4e7d-a914-3eff295d8339/audio.mp3?length=3723840&duration=310",
+        "topics": [
+          "Feminism & Arts",
+          "Geopolitics & Politics",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0604tian",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Tiananmen Massacre Memorials Span Globe as Remembrance Is Suppressed in China, Hong Kong",
+        "description": "",
+        "publishDate": "2026-06-04",
+        "duration": 477,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0604/edab5d16-bf97-45c3-8055-2ed372e35c29/audio.mp3?length=5731200&duration=477",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0604jou",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "American Journalist Pleads Guilty to Acting as Chinese Agent",
+        "description": "",
+        "publishDate": "2026-06-04",
+        "duration": 241,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0604/1d9dc280-b911-40e6-80a5-9a497f2dd98a/audio.mp3?length=2903616&duration=241",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0604cf",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "U.S. Plans Tariffs for 60 Countries Over Forced Labor",
+        "description": "",
+        "publishDate": "2026-06-04",
+        "duration": 1406,
+        "audioUrl": "https://episodes.captivate.fm/episode/f4687ecb-80b2-4cc1-ad5f-d4c9d0b133e7.mp3",
+        "topics": [
+          "US-China Relations"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-gyf03",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 3 Gao Huaide Leads the Battle in Luzhou",
+        "description": "Masterpiece Podcasts: Collection of Chinese Classic Novels",
+        "publishDate": "2026-06-04",
+        "duration": 1301,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/gyf03.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Feminism & Arts"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0603flg",
         "podcastId": "china-in-depth",
