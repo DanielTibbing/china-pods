@@ -16,6 +16,33 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-trivium-china-podcast-can-as",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "Trivium China Podcast | Can Asset Revitalization Save Local Government Finances?\n",
+        "description": "Listen now | China&#8217;s local governments have spent the past four years grappling with the fallout from the property market collapse.",
+        "publishDate": "2026-06-05",
+        "duration": 1800,
+        "audioUrl": "https://api.substack.com/feed/podcast/200805271/42c5e58ca8b4b88c40321d218d05c25b.mp3",
+        "topics": [
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
+      {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-in-the-second-half-of-tencen",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "In the Second Half of Tencent’s AI Journey, AI Capabilities Must Truly Land in Scenarios, and Generative Work Behind It Remains Complex",
+        "description": "Tencent SVP Dowson Tong in Conversation with Tencent Chief AI Scientist Shunyu Yao",
+        "publishDate": "2026-06-05",
+        "duration": 1800,
+        "audioUrl": "https://substackcdn.com/image/fetch/$s_!9TIu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5f016ee7-5cc6-404a-be68-cfc473afc3a0_1707x1280.jpeg",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-the-texas-paradox-how-the-mo",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -11671,6 +11698,23 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "chinatalk-ep-f43fd2b0-5fa0-11f1-b3e6-6bf3be2fe7cc",
+        "podcastId": "chinatalk",
+        "podcastTitle": "ChinaTalk",
+        "title": "WarTalk: The View from AFRICOM with LTG Brennan",
+        "description": "Africa is the literal center of the world’s map and increasingly the center of gravity for ISIS, the manpower source for Russia’s war in Ukraine, and the contested geopolitical ground where China builds bases and drops off free weapons. Our first ...",
+        "publishDate": "2026-06-05",
+        "duration": 3794,
+        "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL3442175099.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Geopolitics & Politics",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "chinatalk-ep-a270cf0c-5dd4-11f1-9fef-b36b10185145",
         "podcastId": "chinatalk",
@@ -34892,6 +34936,21 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "merics-ep-buzzsprout-19299411",
+        "podcastId": "merics",
+        "podcastTitle": "MERICS China Podcast",
+        "title": "Chinese FDI in Europe reaches 7-year high, with Gregor Williams and Andreas Mischer",
+        "description": "After several quieter years, 2025 saw a noticeable pickup in Chinese investment activity in the EU and UK, reaching levels last seen in 2018. To take a look at the trends and developments in Chinese investments in Europe, Johannes Heller-John is j...",
+        "publishDate": "2026-06-05",
+        "duration": 1526,
+        "audioUrl": "https://www.buzzsprout.com/1825833/episodes/19299411-chinese-fdi-in-europe-reaches-7-year-high-with-gregor-williams-and-andreas-mischer.mp3",
+        "topics": [
+          "Dynastic History",
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
       {
         "id": "merics-ep-buzzsprout-19222032",
         "podcastId": "merics",
@@ -94148,6 +94207,22 @@
     ],
     "episodes": [
       {
+        "id": "trivium-china-ep-buzzsprout-19301708",
+        "podcastId": "trivium-china",
+        "podcastTitle": "The Trivium China Podcast",
+        "title": "Ep 68 - Can asset revitalization save local government finances?",
+        "description": "China’s local governments have spent the past four years grappling with the fallout from the property market collapse. Land sales have dried up, fiscal pressures remain intense, and officials across the country are still searching for sustainable ...",
+        "publishDate": "2026-06-05",
+        "duration": 3002,
+        "audioUrl": "https://www.buzzsprout.com/2408047/episodes/19301708-ep-68-can-asset-revitalization-save-local-government-finances.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Daily Life",
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
+      {
         "id": "trivium-china-ep-buzzsprout-19259039",
         "podcastId": "trivium-china",
         "podcastTitle": "The Trivium China Podcast",
@@ -96914,6 +96989,33 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "roundtable-china-ep-1-2764936",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Are you in your Odyssey years?",
+        "description": "You know that feeling when everyone else seems to have it figured out and you're just wandering? The Odyssey time of life may have you wondering how to navigate the unknown. The good news is, you're not alone. On the show: Steve, Yushan & Yushun",
+        "publishDate": "2026-06-05",
+        "duration": 614,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2606/1080648376425.mp3",
+        "topics": [
+          "Dynastic History",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2764933",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Rethinking our relationship with our planet",
+        "description": "World Environment Day is no longer just about emissions and tree planting. This year, the UN wants us to reimagine our economies and our relationship with the planet. China's vision? \"Beautiful China,\" where development and ecology grow side by si...",
+        "publishDate": "2026-06-05",
+        "duration": 2591,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2606/1080646216077.mp3",
+        "topics": [
+          "Dynastic History"
+        ]
+      },
       {
         "id": "roundtable-china-ep-1-2764924",
         "podcastId": "roundtable-china",
@@ -103211,6 +103313,24 @@
     ],
     "episodes": [
       {
+        "id": "wire-china-ep-buzzsprout-19299828",
+        "podcastId": "wire-china",
+        "podcastTitle": "The Wire China Podcast",
+        "title": "How the PLA Tried To Get Nvidia&#39;s Chips",
+        "description": "SALE: We’re offering your first month of The Wire China for just one dollar. More details below!For years, the United States has tried to stop China from getting its most advanced chips out of concern the technology could bolster the People’s Libe...",
+        "publishDate": "2026-06-05",
+        "duration": 1303,
+        "audioUrl": "https://www.buzzsprout.com/2591600/episodes/19299828-how-the-pla-tried-to-get-nvidia-s-chips.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Geopolitics & Politics",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "wire-china-ep-buzzsprout-19258713",
         "podcastId": "wire-china",
         "podcastTitle": "The Wire China Podcast",
@@ -103640,6 +103760,86 @@
         "audioUrl": "https://mp3mp4pdf.net/mgz/gyf03.mp3",
         "topics": [
           "Semiconductors & AI",
+          "Feminism & Arts"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0605bj",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Beijing Marks Tiananmen Massacre Anniversary With Heightened Security and Online Controls",
+        "description": "",
+        "publishDate": "2026-06-04",
+        "duration": 320,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0605/0b15a92e-17b3-4c70-8fd9-d931e1ece079/audio.mp3?length=3847680&duration=320",
+        "topics": [
+          "Daily Life"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0605flg",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Falun Gong a ‘Priority Target’ for Transnational Repression by Beijing, Says Former Spy Who Defected to Australia",
+        "description": "",
+        "publishDate": "2026-06-04",
+        "duration": 339,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0605/4725407e-ff80-4f8e-a94b-139912b33ee1/audio.mp3?length=4068576&duration=339",
+        "topics": [
+          "Daily Life"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0605tam",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Washington Vigil Honors Tiananmen Victims, Resists Beijing’s ‘Tyranny’",
+        "description": "",
+        "publishDate": "2026-06-04",
+        "duration": 513,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0605/6d1e4cab-d4da-4d85-b727-f6d034dbae7e/audio.mp3?length=6161472&duration=513",
+        "topics": [
+          "US-China Relations",
+          "Daily Life"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0605xi",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Debunking 3 Myths From the Trump-Xi Summit",
+        "description": "",
+        "publishDate": "2026-06-04",
+        "duration": 454,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0604/657d3be2-3b18-4c1d-b6d0-19606a3ce2c3/audio.mp3?length=5449248&duration=454",
+        "topics": [
+          "US-China Relations"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0605cf",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Commemorating June 4: Tiananmen Square Massacre ",
+        "description": "",
+        "publishDate": "2026-06-04",
+        "duration": 1216,
+        "audioUrl": "https://episodes.captivate.fm/episode/b1922308-fc54-437b-ba2f-f4bdc0ebf574.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-gyf04",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 4 Yang Generals' Victory Forced the Song to Offer Truce",
+        "description": "Masterpiece Podcasts: Collection of Chinese Classic Novels",
+        "publishDate": "2026-06-04",
+        "duration": 737,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/gyf04.mp3",
+        "topics": [
+          "Dynastic History",
           "Feminism & Arts"
         ]
       },
