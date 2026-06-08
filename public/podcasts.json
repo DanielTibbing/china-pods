@@ -16,6 +16,35 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-trivium-weekly-recap-rethink",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "Trivium Weekly Recap | Rethinking Technology Export Controls | ",
+        "description": "When most people think of China&#8217;s export controls, they think of dual-use controls &#8212; the dramatic, headline-grabbing restrictions on critical mineral products like gallium, graphite, and most famously, rare earths.",
+        "publishDate": "2026-06-07",
+        "duration": 1800,
+        "audioUrl": "https://substack-post-media.s3.amazonaws.com/public/images/ab21c87d-e57b-4168-8281-f65506e6f647_476x318.jpeg",
+        "topics": [
+          "Semiconductors & AI",
+          "Feminism & Arts",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-a-crushing-blow-phrase-of-th",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "\"A crushing blow\" — Phrase of the Week",
+        "description": "Offshore investment platforms and their customers hit hard by new policies",
+        "publishDate": "2026-06-07",
+        "duration": 1800,
+        "audioUrl": "https://substackcdn.com/image/fetch/$s_!GOnV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb011c262-dc86-482f-864b-a9268e0b98e4_2000x1200.jpeg",
+        "topics": [
+          "Geopolitics & Politics"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-trivium-china-podcast-can-as",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -41545,6 +41574,22 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "sr-kina-ep-rss-sr-se-pod-eid-2818878",
+        "podcastId": "sr-kina",
+        "podcastTitle": "Radiokorrespondenterna Kina",
+        "title": "Så visar Kina tänderna i handelsbråket med EU",
+        "description": "Psykologisk press blir ett vapen inför hotet om ett handelskrig som ingen vill ha. Lyssna på alla avsnitt i Sveriges Radios app. Europas handelsunderskott gentemot Kina har vuxit i rasande fart och Bryssel börjar tappa tålamodet. Förslag på försla...",
+        "publishDate": "2026-06-08",
+        "duration": 1620,
+        "audioUrl": "https://static-cdn.sr.se/laddahem/podradio/2026/06/radiokorrespondenterna_kina_sa_visar_kina_tanderna_i_hande_20260605_1542451339.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "sr-kina-ep-rss-sr-se-pod-eid-2815487",
         "podcastId": "sr-kina",
@@ -103643,6 +103688,85 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0607vig",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Holding Candles Up High, They Denounce Beijing’s Tyranny",
+        "description": "",
+        "publishDate": "2026-06-07",
+        "duration": 545,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0607/4eee60c7-4875-4753-a22c-abaaa1e7578a/audio.mp3?length=6549984&duration=545",
+        "topics": [
+          "Daily Life"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0607di",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Diminishing Returns on Infrastructure Investment: The End of China’s Growth Miracle",
+        "description": "",
+        "publishDate": "2026-06-07",
+        "duration": 460,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0603/abcbbf35-eb15-4ca4-9183-22f1d4b46559/audio.mp3?length=5527296&duration=460",
+        "topics": [
+          "Economic Reform"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0607cb",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Trump Moves Against China’s Cuba Intelligence Network",
+        "description": "",
+        "publishDate": "2026-06-07",
+        "duration": 428,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0604/4268bdf2-5774-4488-913a-ee46f8625241/audio.mp3?length=5143968&duration=428",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-060764",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "June 4 Museum in California Vandalized Days Before Tiananmen Massacre Anniversary",
+        "description": "",
+        "publishDate": "2026-06-07",
+        "duration": 316,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0603/9e798eb6-5dee-46ed-95d0-54530d3aa414/audio.mp3?length=3800448&duration=316",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0607cf",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Trump Jr. Warns Investors to Avoid China ",
+        "description": "",
+        "publishDate": "2026-06-07",
+        "duration": 1481,
+        "audioUrl": "https://episodes.captivate.fm/episode/b23677f4-a9de-416a-aa9e-508ba2609d1c.mp3",
+        "topics": [
+          "US-China Relations"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-gyf05",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 5 Pan Renmei Persecutes Zan Who Then Fled the Capital",
+        "description": "Masterpiece Podcasts: Collection of Chinese Classic Novels",
+        "publishDate": "2026-06-07",
+        "duration": 747,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/gyf05.mp3",
+        "topics": [
+          "Feminism & Arts"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0604tru",
         "podcastId": "china-in-depth",
