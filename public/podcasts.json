@@ -11728,6 +11728,26 @@
     ],
     "episodes": [
       {
+        "id": "chinatalk-ep-379ef374-2978-11f1-a3fc-0386a782c21c",
+        "podcastId": "chinatalk",
+        "podcastTitle": "ChinaTalk",
+        "title": "Paul Kennedy on Great Powers, Past and Present",
+        "description": "What a profound honor to have Paul Kennedy on the ChinaTalk podcast. Kennedy is my favorite living historian and the writer who’s most shaped my intellectual development. His analysis underpins what you hear on this show every week. The Rise and F...",
+        "publishDate": "2026-06-08",
+        "duration": 4720,
+        "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL3324264632.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Economic Reform",
+          "History",
+          "Geopolitics & Politics",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "chinatalk-ep-f43fd2b0-5fa0-11f1-b3e6-6bf3be2fe7cc",
         "podcastId": "chinatalk",
         "podcastTitle": "ChinaTalk",
@@ -97035,6 +97055,36 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-2764954",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "The Gaokao now",
+        "description": "The Gaokao is here. In 2026, with AI and smart classrooms reshaping education, what has become of this tradition? Forget the scores for a minute. What does this ritual actually reveal about hope, struggle, and coming of age in today's China? On th...",
+        "publishDate": "2026-06-08",
+        "duration": 1300,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2606/1080908814065.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2764951",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Rise up for World Oceans Day",
+        "description": "Take a deep breath. Half the oxygen you just inhaled came from one place, the ocean. But right now, that invisible life support system is sending distress signals. Warmer waters. Emptying nets. Coastlines that no longer look familiar. This World O...",
+        "publishDate": "2026-06-08",
+        "duration": 1829,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2606/1080908749058.mp3",
+        "topics": [
+          "Dynastic History",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2764936",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -103688,6 +103738,89 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0608sea",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "US Begins to Tackle Commercial Maritime Lag as China Hogs Supply Chains",
+        "description": "",
+        "publishDate": "2026-06-08",
+        "duration": 600,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0608/3c298185-feea-4ba8-b33a-60688e755276/audio.mp3?length=7205760&duration=600",
+        "topics": [
+          "Semiconductors & AI",
+          "Ancient Trade Routes"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0608byd",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "US Flags Alibaba, Baidu, BYD for Allegedly Aiding Chinese Military",
+        "description": "",
+        "publishDate": "2026-06-08",
+        "duration": 245,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0609/9065583b-b871-4563-a9ec-69f783c17894/audio.mp3?length=2945952&duration=245",
+        "topics": [
+          "Semiconductors & AI",
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0608mem",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Why Tyrannies Fear Memory",
+        "description": "",
+        "publishDate": "2026-06-08",
+        "duration": 545,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0604/787119e7-3cc4-408c-9470-d7d6a04f6138/audio.mp3?length=6541056&duration=545",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0608dbt",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s Debt Is a Strategic Problem",
+        "description": "",
+        "publishDate": "2026-06-08",
+        "duration": 442,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0605/3a370fcd-90e0-4038-8519-8a93661aec71/audio.mp3?length=5315040&duration=442",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0608tw",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China Ramps Up Patrols Near Taiwan Following Japan–Philippines Border Talks",
+        "description": "",
+        "publishDate": "2026-06-08",
+        "duration": 287,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0607/7ce92f49-ea01-47fd-b070-61f2568bb086/audio.mp3?length=3455712&duration=287",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-gyf06",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 6 Song Taizong Issues Decreet to Protect Zan from Pan's Repeated Persecution",
+        "description": "Masterpiece Podcasts: Collection of Chinese Classic Novels",
+        "publishDate": "2026-06-08",
+        "duration": 663,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/gyf06.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0607vig",
         "podcastId": "china-in-depth",
