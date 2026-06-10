@@ -16,6 +16,35 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-what-xi-jinpings-north-korea",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "What Xi Jinping’s North Korea Visit Really Means (A Sinica Podcast X Global Dispatches Collab)",
+        "description": "A recording from Kaiser Y Kuo and Mark Leon Goldberg's live video",
+        "publishDate": "2026-06-09",
+        "duration": 1800,
+        "audioUrl": "https://api.substack.com/feed/podcast/201332535/5c93ddb709be787b1023c36670478e87.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-livestream-with-mark-goldber",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "Livestream with Mark Goldberg of Global Dispatches Today at 12:30 pm EDT",
+        "description": "As foreign affairs junkies, we&#8217;re blessed with all manner of excellent newsletters and podcasts, but for years and years, one of my main staples has been Mark Leon Goldberg&#8217;s Global Dispatches. I have long admired the way Mark consiste...",
+        "publishDate": "2026-06-09",
+        "duration": 1800,
+        "audioUrl": "https://substackcdn.com/image/fetch/$s_!hki0!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2502d26c-e974-417b-878d-0571b80581f6_600x600.png",
+        "topics": [
+          "Semiconductors & AI",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-trivium-weekly-recap-rethink",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -87762,6 +87791,21 @@
     ],
     "episodes": [
       {
+        "id": "made-in-china-de-ep-buzzsprout-19311247",
+        "podcastId": "made-in-china-de",
+        "podcastTitle": "Made in China (German)",
+        "title": "#214 – Vom Lager-Asset zur Liability: Warum der Handel seine alte Logik verliert - Alexander Graf, Co-Founder von Spryker",
+        "description": "Was passiert, wenn im E-Commerce plötzlich nicht mehr das eigene Lager, sondern der Kundenzugang über Erfolg entscheidet? Genau darüber sprechen wir mit Alexander Graf. Im Gespräch macht er deutlich, warum Temu den Handel nicht einfach nur verände...",
+        "publishDate": "2026-06-09",
+        "duration": 2882,
+        "audioUrl": "https://www.buzzsprout.com/1869386/episodes/19311247-214-vom-lager-asset-zur-liability-warum-der-handel-seine-alte-logik-verliert-alexander-graf-co-founder-von-spryker.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Tech & Business"
+        ]
+      },
+      {
         "id": "made-in-china-de-ep-buzzsprout-19285933",
         "podcastId": "made-in-china-de",
         "podcastTitle": "Made in China (German)",
@@ -97055,6 +97099,35 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-2764969",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "The rise of the robot housekeeper",
+        "description": "Do you still fold your own laundry? That might feel very 2025. In some cities across China, household robots are already working alongside human cleaners, handling repetitive tasks while people focus on more delicate work. The future of housework ...",
+        "publishDate": "2026-06-09",
+        "duration": 1271,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2606/1080992347789.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2764966",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "China to expand housing fund usage",
+        "description": "Between the down payment, the mortgage, and the repairs, owning a home is never as simple as getting the keys. The government is proposing broader use of housing provident fund. On the show: Steve, Fei Fei & Yushun",
+        "publishDate": "2026-06-09",
+        "duration": 1825,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2606/1080992289836.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Daily Life"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2764954",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -103738,6 +103811,85 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0609cf",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China, North Korea Vow Closer Ties to Counter U.S.",
+        "description": "",
+        "publishDate": "2026-06-09",
+        "duration": 1124,
+        "audioUrl": "https://episodes.captivate.fm/episode/197eee81-fff5-4d82-a9bd-233e0daec4f6.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-060964",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "As World Remembers Tiananmen Massacre, Analyst Warns of Growing Strains in China",
+        "description": "",
+        "publishDate": "2026-06-09",
+        "duration": 530,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0609/287187c6-64ee-4ac1-b39c-e1c5095a7084/audio.mp3?length=6364512&duration=530",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0609nk",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Xi Concludes North Korea Summit With No Public Mention of Nuclear Issue",
+        "description": "",
+        "publishDate": "2026-06-09",
+        "duration": 312,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0609/13541e13-d650-4e0c-9f69-b00a67a609ba/audio.mp3?length=3748032&duration=312",
+        "topics": [
+          "US-China Relations"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0609eu",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "At the Paris Cyber Summit, Allies Test a ‘Transatlantic Reset’ With One Eye on China",
+        "description": "",
+        "publishDate": "2026-06-09",
+        "duration": 577,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0609/54b13516-fca3-44f8-9e58-b3dae26cf822/audio.mp3?length=6933600&duration=577",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0609ai",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China Steals AI Capabilities It Can’t Build, Cybersecurity Firm Says",
+        "description": "",
+        "publishDate": "2026-06-09",
+        "duration": 489,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0609/9caeae16-7bad-4078-b8db-7b465946aa34/audio.mp3?length=5879808&duration=489",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-gyf07",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 7 Zan's Wife, Ma Shi, Helps to Save the Day",
+        "description": "Masterpiece Podcasts: Collection of Chinese Classic Novels",
+        "publishDate": "2026-06-09",
+        "duration": 1674,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/gyf07.mp3",
+        "topics": [
+          "Feminism & Arts"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0608sea",
         "podcastId": "china-in-depth",
