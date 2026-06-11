@@ -28838,6 +28838,25 @@
     ],
     "episodes": [
       {
+        "id": "china-global-south-ep-441e54f7-05de-480e-83d2-b74cbadac933",
+        "podcastId": "china-global-south",
+        "podcastTitle": "The China-Global South Podcast",
+        "title": "Former State Department Insider on Washington's Muddled Africa Policy",
+        "description": "Dan Kobayashi spent 16 years working as a U.S. diplomat focused on African issues, both at posts in Lesotho, Zambia, and Malawi, among others, and at the State Department's intelligence bureau in Washington, D.C. He had a close-up view of how U.S....",
+        "publishDate": "2026-06-10",
+        "duration": 4208,
+        "audioUrl": "https://traffic.libsyn.com/secure/ea0f0fdd-2944-4ff3-8a00-704e8c67d58b/CGSP_06102026_Libsyn.mp3?dest-id=4287628",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Geopolitics & Politics",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "china-global-south-ep-e9c20236-28f3-43e5-8e66-8f3ff92d65e8",
         "podcastId": "china-global-south",
         "podcastTitle": "The China-Global South Podcast",
@@ -77568,6 +77587,22 @@
     ],
     "episodes": [
       {
+        "id": "chinese-literature-podcast-ep-2f898439-22a1-47e9-82cb-f2632c682947",
+        "podcastId": "chinese-literature-podcast",
+        "podcastTitle": "The Chinese Literature Podcast",
+        "title": "Interview with Salih Hudayar - Foreign Minister of the East Turkestan Government-in-Exile",
+        "description": "In today's episode, I got the chance to speak with Salih Hudayar, the Foreign Minister of the East Turkestan Government-in-Exile. We talked about Uyghur literature, Uyghur history and even American history.",
+        "publishDate": "2026-06-10",
+        "duration": 3883,
+        "audioUrl": "https://traffic.libsyn.com/secure/chineseliteraturepodcast/Chinese_Literature_Podcast_-_Interview_with_Salih_Hudayar_-_Foreign_Minister_of_the_East_Turkestan_Government-in-Exile.mp3?dest-id=368338",
+        "topics": [
+          "Dynastic History",
+          "Feminism & Arts",
+          "History",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "chinese-literature-podcast-ep-b0af0c2f-c45e-46b7-a8ff-bc716e795f72",
         "podcastId": "chinese-literature-podcast",
         "podcastTitle": "The Chinese Literature Podcast",
@@ -97099,6 +97134,38 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-2764981",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Ancient wisdom for the digital generation",
+        "description": "Our ancestors built the Parthenon and the Forbidden City. We are scrolling screens. Turns out, both can coexist. In China and elsewhere in the world, brands are selling ancient philosophical ideas as lifestyle, and museums are turning temples into...",
+        "publishDate": "2026-06-10",
+        "duration": 1133,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2606/1081075181502.mp3",
+        "topics": [
+          "Daily Life",
+          "Feminism & Arts",
+          "History",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2764978",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "When poverty ends, what begins?",
+        "description": "China lifted nearly 100 million people out of poverty, a feat praised worldwide. But the real test begins now. How do you keep poverty from coming back? The country built a digital net that spots disaster before it strikes, tracking medical bills,...",
+        "publishDate": "2026-06-10",
+        "duration": 2017,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2606/1081075109070.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2764969",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -103811,6 +103878,171 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0610phi",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Philippines Urges China to Remove Shoal Platform, Warns Against Artificial Island",
+        "description": "",
+        "publishDate": "2026-06-10",
+        "duration": 391,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0610/1490cd09-a424-422d-9138-308ac842bdae/audio.mp3?length=4701312&duration=391",
+        "topics": [
+          "Semiconductors & AI",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0610doj",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "DOJ Seizes 13 Domains in Alleged Chinese Spy Scheme",
+        "description": "",
+        "publishDate": "2026-06-10",
+        "duration": 213,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0610/2457c7e6-9602-4837-a5f3-ec262c7962c6/audio.mp3?length=2564928&duration=213",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0610shk",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "A ‘China Shock’ of Sorts Hits a Part of China",
+        "description": "",
+        "publishDate": "2026-06-10",
+        "duration": 288,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0608/b9eaea54-0d37-4a5a-a6f6-4d83e36cead9/audio.mp3?length=3464928&duration=288",
+        "topics": [
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0610pop",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Why China’s Population Decline Is Irreversible",
+        "description": "",
+        "publishDate": "2026-06-10",
+        "duration": 422,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0608/72bd0611-1525-4913-ad2f-d88364676b0c/audio.mp3?length=5068800&duration=422",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0610eu",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China–Europe Military Relations Go Full Circle",
+        "description": "",
+        "publishDate": "2026-06-10",
+        "duration": 494,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0608/8292dd10-3177-4913-bf43-d678b6974246/audio.mp3?length=5933952&duration=494",
+        "topics": [
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0610tw",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Taiwanese Liver Transplant Surgeon Convicted for Brokering Organ Transplants in China",
+        "description": "",
+        "publishDate": "2026-06-10",
+        "duration": 533,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0610/9c6cefed-f89f-4418-a659-b2e8cc062081/audio.mp3?length=6403968&duration=533",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0610pox",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Monkeypox Smuggling Case Not the 1st Linked to China",
+        "description": "",
+        "publishDate": "2026-06-10",
+        "duration": 386,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0608/b8b6da39-fd1c-4af3-b0db-613eaf3b0833/audio.mp3?length=4641408&duration=386",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0610fm",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chinese Researcher Who Smuggled E. Coli Into US Gets 4 Months in Prison",
+        "description": "",
+        "publishDate": "2026-06-10",
+        "duration": 744,
+        "audioUrl": "https://episodes.captivate.fm/episode/630234ed-97b8-4c95-8317-3a9f77c37f95.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0610mh",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Falun Dafa News from Around the World – June 10, 2026 ",
+        "description": "",
+        "publishDate": "2026-06-10",
+        "duration": 1478,
+        "audioUrl": "https://en.minghui.org/u/files/podcasts/emh-podcast/EMHPodcast_2092-News.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0610cf1",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Taiwan Drills: Rockets Fired Into Waters Facing China",
+        "description": "",
+        "publishDate": "2026-06-10",
+        "duration": 1271,
+        "audioUrl": "https://episodes.captivate.fm/episode/4c0ca876-05c4-483a-bbff-8df42a666b3a.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0610cf",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "CrowdStrike: China Hackers Target U.S. Tech",
+        "description": "",
+        "publishDate": "2026-06-10",
+        "duration": 1323,
+        "audioUrl": "https://episodes.captivate.fm/episode/440cbc9f-b992-471e-a0c5-bb3b4dd1ca0d.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Tech & Business"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-gyf08",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 8 The Liao Dynasty Sends Troops to Help Northern Han Against Song",
+        "description": "Masterpiece Podcasts: Collection of Chinese Classic Novels",
+        "publishDate": "2026-06-10",
+        "duration": 1526,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/gyf08.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "History"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0609cf",
         "podcastId": "china-in-depth",
