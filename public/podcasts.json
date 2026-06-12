@@ -2189,6 +2189,25 @@
     ],
     "episodes": [
       {
+        "id": "pekingology-ep-668fff9e-6509-11f1-a300-fb0089a1803d",
+        "podcastId": "pekingology",
+        "podcastTitle": "Pekingology",
+        "title": "Inside the China-Russia Partnership",
+        "description": "China and Russia have transformed a historically fraught relationship into one of the most consequential strategic partnerships in the world. This week on Pekingology, CSIS Senior Fellow Henrietta Levin is joined by Alexander Gabuev, a leading exp...",
+        "publishDate": "2026-06-11",
+        "duration": 2525,
+        "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/cohst.app/pdcst/0C0K2I/traffic.megaphone.fm/CSIS8312099805.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Feminism & Arts",
+          "Ancient Trade Routes",
+          "History",
+          "Geopolitics & Politics",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "pekingology-ep-71d3290e-5a13-11f1-b59c-af441953ee96",
         "podcastId": "pekingology",
         "podcastTitle": "Pekingology",
@@ -11756,6 +11775,23 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "chinatalk-ep-8cff3b48-65dd-11f1-b2a4-8f3730ec4eb7",
+        "podcastId": "chinatalk",
+        "podcastTitle": "ChinaTalk",
+        "title": "Sen. Slotkin on NDAA, AI Nukes, Chinese Cars, and Taiwan",
+        "description": "The NDAA is two thousand pages of strategy, pork, and the occasional genuinely big idea — this year including a new robotics combatant command and the first legislated guardrails on AI in the kill chain. Senator Elissa Slotkin of Michigan, who ser...",
+        "publishDate": "2026-06-11",
+        "duration": 1911,
+        "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL3265219501.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "chinatalk-ep-379ef374-2978-11f1-a3fc-0386a782c21c",
         "podcastId": "chinatalk",
@@ -82629,6 +82665,20 @@
     ],
     "episodes": [
       {
+        "id": "sharp-china-ep-https---sharpchina-fm-member-episode-preview-xi-goes-to-nort",
+        "podcastId": "sharp-china",
+        "podcastTitle": "Sharp China with Bill Bishop",
+        "title": "(Preview) Xi Goes to North Korea; Inspecting Xinjiang; A $295 Billion AI Buildout; The Pentagon Alleges PLA Links for Alibaba and Others",
+        "description": "On today’s show Andrew and Bill begin with takeaways from Xi’s visit to North Korea this week, including the conspicuous silence on North Korea’s nuclearization, Kim Jong Un’s assistance to Russia’s war in Ukraine, Beijing as Kim’s top priority, U...",
+        "publishDate": "2026-06-11",
+        "duration": 885,
+        "audioUrl": "https://sharpchina.fm/assets/sharpchina158-preview.mp3?access_token=MSorAZNuXsdNR1taQBKjcF",
+        "topics": [
+          "Semiconductors & AI",
+          "Daily Life"
+        ]
+      },
+      {
         "id": "sharp-china-ep-https---sharpchina-fm-member-episode-seizing-the-commanding-",
         "podcastId": "sharp-china",
         "podcastTitle": "Sharp China with Bill Bishop",
@@ -97133,6 +97183,33 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "roundtable-china-ep-1-2764999",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "The dark side of weight loss camps",
+        "description": "What if your shortcut to a better body came with hidden costs? Luxury weight loss camps are booming, promising fast results and a summer transformation. But behind the glossy reviews, some facilities have been cited for safety violations. When doe...",
+        "publishDate": "2026-06-11",
+        "duration": 1612,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2606/1081169743076.mp3",
+        "topics": [
+          "Dynastic History"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2764996",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "The battle against the bite",
+        "description": "As mosquito-borne diseases spread, Chinese cities are taking action. But a proposal coming from one company in the U.S. is another story. Releasing over 30 million bioengineered mosquitoes sounds extreme. Is it bold science or a step too far? On t...",
+        "publishDate": "2026-06-11",
+        "duration": 1529,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2606/1081169686422.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History"
+        ]
+      },
       {
         "id": "roundtable-china-ep-1-2764981",
         "podcastId": "roundtable-china",
