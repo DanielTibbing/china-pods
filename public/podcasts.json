@@ -11776,6 +11776,20 @@
     ],
     "episodes": [
       {
+        "id": "chinatalk-ep-d36e592c-6666-11f1-913b-5796b37b6780",
+        "podcastId": "chinatalk",
+        "podcastTitle": "ChinaTalk",
+        "title": "ModelTalk: Claude Fable (Nathan's pissed), is AI actually productive, advice for graduates",
+        "description": "Nathan Lambert of https://www.interconnects.ai/, Jasmine Sun of https://jasmi.news/, and guest Ethan Ding of https://ethanding.substack.com/ check in Learn more about your ad choices. Visit megaphone.fm/adchoices",
+        "publishDate": "2026-06-12",
+        "duration": 3345,
+        "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL4702481073.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History"
+        ]
+      },
+      {
         "id": "chinatalk-ep-8cff3b48-65dd-11f1-b2a4-8f3730ec4eb7",
         "podcastId": "chinatalk",
         "podcastTitle": "ChinaTalk",
@@ -35069,6 +35083,22 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "merics-ep-buzzsprout-19335948",
+        "podcastId": "merics",
+        "podcastTitle": "MERICS China Podcast",
+        "title": "China in 26: Xi in Nordkorea, Wirtschaftliche Sicherheit, G7 und EU-Gipfel",
+        "description": "In dieser Folge unseres deutschsprachigen Podcasts „China in 26“ sprechen Bernhard Bartsch, Mikko Huotari und Claudia Wessling über Xi Jinpings Reise nach Nordkorea, Beijings Maßnahmen zum Schutz chinesischer Investitionen im Ausland und die anste...",
+        "publishDate": "2026-06-12",
+        "duration": 1542,
+        "audioUrl": "https://www.buzzsprout.com/1825833/episodes/19335948-china-in-26-xi-in-nordkorea-wirtschaftliche-sicherheit-g7-und-eu-gipfel.mp3",
+        "topics": [
+          "Daily Life",
+          "Feminism & Arts",
+          "Geopolitics & Politics",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "merics-ep-buzzsprout-19299411",
         "podcastId": "merics",
@@ -97184,6 +97214,40 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-2765011",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Inside the 2026 World Cup",
+        "description": "Every four years, the World Cup takes over the planet. But behind the viral moments and dramatic goals lies a much bigger story. We're talking global brands, local businesses, wild tech experiments, and debates no one saw coming. This isn't just a...",
+        "publishDate": "2026-06-12",
+        "duration": 1488,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2606/1081249064564.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765008",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "SIFF 2026: when Shanghai becomes a movie set",
+        "description": "The Shanghai International Film Festival is back and completely different this year, breaking records with over 4,100 submissions from 125 countries. But the real story is what happens off screen, from AI workshops and experimental film labs to wa...",
+        "publishDate": "2026-06-12",
+        "duration": 1656,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2606/1081248932639.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2764999",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -103625,6 +103689,26 @@
     ],
     "episodes": [
       {
+        "id": "wire-china-ep-buzzsprout-19335589",
+        "podcastId": "wire-china",
+        "podcastTitle": "The Wire China Podcast",
+        "title": "China&#39;s AI Pains and Gains",
+        "description": "AI is driving layoffs and discontent across the United States. China wants to avoid the same problems — or is it already too late?Reporter Rachel Cheung and editor Tom Mitchell discuss her recent article on how much pain Beijing may allow AI to in...",
+        "publishDate": "2026-06-12",
+        "duration": 1026,
+        "audioUrl": "https://www.buzzsprout.com/2591600/episodes/19335589-china-s-ai-pains-and-gains.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "wire-china-ep-buzzsprout-19299828",
         "podcastId": "wire-china",
         "podcastTitle": "The Wire China Podcast",
@@ -103955,6 +104039,213 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0612dai",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "The 2025 China Daily Social Responsibility Report Is Classic Newspeak",
+        "description": "",
+        "publishDate": "2026-06-12",
+        "duration": 660,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0612/c4244c4c-0afc-4992-bc07-2170f6115458/audio.mp3?length=7929792&duration=660",
+        "topics": [
+          "Semiconductors & AI",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0612xi",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "What the Xi–Trump Summit Failed to Address",
+        "description": "",
+        "publishDate": "2026-06-12",
+        "duration": 231,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0612/6fb10725-8c3d-41e3-85b8-b573f35b92dd/audio.mp3?length=2782944&duration=231",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0612cit",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "US Citizen Arrested in China on Espionage Charge",
+        "description": "",
+        "publishDate": "2026-06-12",
+        "duration": 191,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0612/5c6da9d7-2d57-4eda-a329-1abe2be4fb00/audio.mp3?length=2301408&duration=191",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0612cf",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "US Sanctions Chinese Entities Over Iran Weapons",
+        "description": "",
+        "publishDate": "2026-06-12",
+        "duration": 1379,
+        "audioUrl": "https://episodes.captivate.fm/episode/7c542fd3-b1d9-4b3c-83f1-e01a4e8cdbd7.mp3",
+        "topics": [
+          "US-China Relations"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-gyf10",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 10 The Yang Family Takes the Offer to Join the Song Dynasty",
+        "description": "Masterpiece Podcasts: Collection of Chinese Classic Novels",
+        "publishDate": "2026-06-12",
+        "duration": 1299,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/gyf10.mp3",
+        "topics": [
+          "Dynastic History",
+          "Feminism & Arts",
+          "History"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0611kmt",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Taiwan Opposition Leader Faces Heated Challenge From Audience Member at New York Event",
+        "description": "",
+        "publishDate": "2026-06-11",
+        "duration": 420,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0611/e6ab6bb0-380f-4a8f-9bc7-01b885d8ec92/audio.mp3?length=5049792&duration=420",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0611xi",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Behind the Trump–Xi Handshake, an Architecture of Distrust",
+        "description": "",
+        "publishDate": "2026-06-11",
+        "duration": 1001,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0611/a523beba-f2de-4672-b7e6-cc985e2ad5cb/audio.mp3?length=12014784&duration=1001",
+        "topics": [
+          "US-China Relations",
+          "Dynastic History"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0611abu",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Whistleblower, Families Allege Abuse of Minors in CCP’s Clampdown on Online Anime Community",
+        "description": "",
+        "publishDate": "2026-06-11",
+        "duration": 400,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0611/551fe228-9a5e-4f86-a510-8fba5cfc6dfa/audio.mp3?length=4801824&duration=400",
+        "topics": [
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0611san",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "US Sanctions Networks Based in China, Hong Kong, Belarus for Helping Iran Obtain Weapons",
+        "description": "",
+        "publishDate": "2026-06-11",
+        "duration": 293,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0611/69a90b6a-e10b-40ad-8f12-76501a1134ff/audio.mp3?length=3527712&duration=293",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0611cen",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s Centralized Approach to Economics Is the Country’s Greatest Weakness",
+        "description": "",
+        "publishDate": "2026-06-11",
+        "duration": 576,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0610/f3dd9777-2a1e-4101-a5b3-0dde8aed6758/audio.mp3?length=6913728&duration=576",
+        "topics": [
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0611lon",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s Quiet Long March 12B Missile Launch Should Worry Washington",
+        "description": "",
+        "publishDate": "2026-06-11",
+        "duration": 410,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0610/aac5edbf-f511-4d16-b042-691df34a0f76/audio.mp3?length=4930848&duration=410",
+        "topics": [
+          "US-China Relations"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0611sha",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "The Fall of Shaolin Temple’s CEO Monk: A Window Into Beijing’s State Control of Religion",
+        "description": "",
+        "publishDate": "2026-06-11",
+        "duration": 713,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0611/eaa03b28-b1ba-43fb-a2d0-baccdd243c97/audio.mp3?length=8565696&duration=713",
+        "topics": [
+          "Daily Life",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0611ind",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Why the Thaw in China–India Relations Is so Slow",
+        "description": "",
+        "publishDate": "2026-06-11",
+        "duration": 372,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0411/c1a87e78-c954-4ded-9de5-e3b4ff8866ab/audio.mp3?length=4468608&duration=372",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0611ben",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Bay of Bengal Pressure Campaign Exposes Beijing’s Strategic Fear",
+        "description": "",
+        "publishDate": "2026-06-11",
+        "duration": 468,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0611/8680f9a6-8339-4226-93b4-59ce90ca0cb4/audio.mp3?length=5623776&duration=468",
+        "topics": [
+          "Semiconductors & AI",
+          "Daily Life"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-gyf09",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 9 The Song Emperor Stopped the Fight Against the Yang Army Because He Wants Recruit the Family",
+        "description": "Masterpiece Podcasts: Collection of Chinese Classic Novels",
+        "publishDate": "2026-06-11",
+        "duration": 1526,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/gyf09.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0610phi",
         "podcastId": "china-in-depth",
