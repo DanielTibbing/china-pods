@@ -16,6 +16,19 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-shooting-yourself-in-the-foo",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "\"Shooting yourself in the foot\" — Phrase of the Week",
+        "description": "Education entrepreneur upsets his customers in university speech",
+        "publishDate": "2026-06-14",
+        "duration": 1800,
+        "audioUrl": "https://substackcdn.com/image/fetch/$s_!MJjV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4b7dcbea-1d12-4938-9c45-3e545e8f8c04_2000x1200.jpeg",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-what-xi-jinpings-north-korea",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -41708,6 +41721,23 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "sr-kina-ep-rss-sr-se-pod-eid-2823978",
+        "podcastId": "sr-kina",
+        "podcastTitle": "Radiokorrespondenterna Kina",
+        "title": "Därför stärker Xi militärpakten med Nordkorea",
+        "description": "Nordkorea är Kinas enda militärallierade och i dagarna besökte Xi Jinping sin vän Kim Jong-un. Hör om samarbetet och hur länderna bildar en mäktig trio ihop med Ryssland. Lyssna på alla avsnitt i Sveriges Radios app. På propagandabilderna från sta...",
+        "publishDate": "2026-06-15",
+        "duration": 1619,
+        "audioUrl": "https://static-cdn.sr.se/laddahem/podradio/2026/06/radiokorrespondenterna_kina_darfor_starker_ximilitarpakte_20260612_1530183151.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Geopolitics & Politics",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "sr-kina-ep-rss-sr-se-pod-eid-2818878",
         "podcastId": "sr-kina",
@@ -94431,6 +94461,22 @@
     ],
     "episodes": [
       {
+        "id": "trivium-china-ep-buzzsprout-19346324",
+        "podcastId": "trivium-china",
+        "podcastTitle": "The Trivium China Podcast",
+        "title": "Ep 69 - Podcast | The “China Shock 2.0” fallacy",
+        "description": "It’s been a busy few weeks for Chinese diplomacy, with Xi Jinping making a rare trip to North Korea while tensions between Beijing and Brussels continue to climb over trade, industrial policy, and the future of Europe’s manufacturing base.On this ...",
+        "publishDate": "2026-06-15",
+        "duration": 3152,
+        "audioUrl": "https://www.buzzsprout.com/2408047/episodes/19346324-ep-69-podcast-the-china-shock-2-0-fallacy.mp3",
+        "topics": [
+          "US-China Relations",
+          "Daily Life",
+          "Economic Reform",
+          "Geopolitics & Politics"
+        ]
+      },
+      {
         "id": "trivium-china-ep-buzzsprout-19301708",
         "podcastId": "trivium-china",
         "podcastTitle": "The Trivium China Podcast",
@@ -104039,6 +104085,113 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0614ope",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "OpenAI Exposes China-Linked Campaigns Targeting US Data Centers",
+        "description": "",
+        "publishDate": "2026-06-14",
+        "duration": 249,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0613/bccae948-c3d3-415c-b716-977cb1097bd8/audio.mp3?length=2996352&duration=249",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0614shp",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chinese Ships Enter Restricted Waters Around Disputed Island in South China Sea",
+        "description": "",
+        "publishDate": "2026-06-14",
+        "duration": 321,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0614/94716516-f2f6-4db1-847e-2bb60d59992a/audio.mp3?length=3863808&duration=321",
+        "topics": [
+          "US-China Relations"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0614phi",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Philippines Pushes Back as Beijing’s Carrot-and-Stick Strategy Falters",
+        "description": "",
+        "publishDate": "2026-06-14",
+        "duration": 533,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0613/627ec1fa-e06a-437b-a9ce-be37e0c2c8ef/audio.mp3?length=6404256&duration=533",
+        "topics": [
+          "Daily Life"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0614shk",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s AI Shock 3.0",
+        "description": "",
+        "publishDate": "2026-06-14",
+        "duration": 402,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0613/bac17e5c-dfe4-48b8-903b-eb1f98ae134c/audio.mp3?length=4832352&duration=402",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0614ai",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "The Fundamental Difference in US–China Military AI Competition",
+        "description": "",
+        "publishDate": "2026-06-14",
+        "duration": 584,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0614/5ed7f747-6f82-4e68-aa38-646733bca4ac/audio.mp3?length=7017696&duration=584",
+        "topics": [
+          "Semiconductors & AI",
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0614ind",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s Strategic Position in the Indo-Pacific Has Deteriorated Significantly",
+        "description": "",
+        "publishDate": "2026-06-14",
+        "duration": 555,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0614/b3fda045-48bc-47ba-9e31-300e8f0b92b5/audio.mp3?length=6670944&duration=555",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0614cf",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China Arrests U.S. Citizen One Month After Trump–Xi Summit",
+        "description": "",
+        "publishDate": "2026-06-14",
+        "duration": 1321,
+        "audioUrl": "https://episodes.captivate.fm/episode/5e289e49-78e0-4426-b5a4-063987f3ce62.mp3",
+        "topics": [
+          "US-China Relations"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-gyf11",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 11 Victory Boosts Song Taizong's Ego",
+        "description": "Masterpiece Podcasts: Collection of Chinese Classic Novels",
+        "publishDate": "2026-06-14",
+        "duration": 1558,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/gyf11.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0612dai",
         "podcastId": "china-in-depth",
