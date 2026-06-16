@@ -16,6 +16,35 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-book-review-korean-messiah-b",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "Book Review: Korean Messiah by Jonathan Cheng",
+        "description": "Jonathan Cheng sheds new light on Kim Il-Sung and the Christian Roots of North Korea&#8217;s Personality Cult",
+        "publishDate": "2026-06-16",
+        "duration": 1800,
+        "audioUrl": "https://substackcdn.com/image/fetch/$s_!Sghr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F58f657b4-e718-43c6-98fd-1d15ab6b1c4e_1015x758.jpeg",
+        "topics": [
+          "Dynastic History"
+        ]
+      },
+      {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-trivium-china-podcast-the-ch",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "Trivium China Podcast | The “China Shock 2.0” Fallacy ",
+        "description": "Listen now | It&#8217;s been a busy few weeks for Chinese diplomacy, with Xi Jinping making a rare trip to North Korea while tensions between Beijing and Brussels continue to climb over trade, industrial policy, and the future of Europe&#8217;s ma...",
+        "publishDate": "2026-06-15",
+        "duration": 1800,
+        "audioUrl": "https://api.substack.com/feed/podcast/202069060/685bbc9721964a45099365806323858c.mp3",
+        "topics": [
+          "US-China Relations",
+          "Daily Life",
+          "Economic Reform",
+          "Geopolitics & Politics"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-shooting-yourself-in-the-foo",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -11788,6 +11817,22 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "chinatalk-ep-4e9c2d4a-6905-11f1-96d7-9bef57280cd1",
+        "podcastId": "chinatalk",
+        "podcastTitle": "ChinaTalk",
+        "title": "Emergency Pod: Claude Fable Fried + What's Going on at BIS?",
+        "description": "Chris McGuire, former civil servant in State and the Biden White House now at CFR, talk about the export control craziness of these past two weeks. We discuss: The 5:21 PM letter that took the world's most powerful model offline Why the \"let it ri...",
+        "publishDate": "2026-06-15",
+        "duration": 4205,
+        "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL8731455321.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Feminism & Arts",
+          "Tech & Business"
+        ]
+      },
       {
         "id": "chinatalk-ep-d36e592c-6666-11f1-913b-5796b37b6780",
         "podcastId": "chinatalk",
@@ -97259,6 +97304,38 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "roundtable-china-ep-1-2765029",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Fix it, don't forget it",
+        "description": "There's a growing backlash against the throwaway culture most of us grew up with. Enter the Repair Café movement. Strangers sit down together, pull out their broken stuff, and actually fix it. They bring in toasters, sweaters, lamps, and anything ...",
+        "publishDate": "2026-06-15",
+        "duration": 1358,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2606/1081514809138.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765026",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Same dinner, smarter shell",
+        "description": "The takeout bag that shows up at your door doesn't look or feel like it used to. Same goes for the straw, the container, and the little box holding your noodles. The guidelines for delivery packaging are getting stricter, which means everything fr...",
+        "publishDate": "2026-06-15",
+        "duration": 1799,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2606/1081514298744.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "roundtable-china-ep-1-2765011",
         "podcastId": "roundtable-china",
