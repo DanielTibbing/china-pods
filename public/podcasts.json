@@ -16,6 +16,34 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-but-china-robert-wright-on-t",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "\"But China!\": Robert Wright on the AI Race and Our Coming Cosmic Reckoning ",
+        "description": "This week on Sinica I&#8217;m joined by Robert Wright, author of The Moral Animal, Nonzero, and The Evolution of God, for a conversation that runs a little outside our usual beat, though China sits closer to its center than you&#8217;d expect.",
+        "publishDate": "2026-06-17",
+        "duration": 1800,
+        "audioUrl": "https://api.substack.com/feed/podcast/202222496/6bda86b742d1fed7f7b674c0372a5ba3.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History"
+        ]
+      },
+      {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-transcript-but-china-robert-",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "Transcript | \"But China!\": Robert Wright on the AI Race and Our Coming Cosmic Reckoning ",
+        "description": "Listen in the embedded player above.",
+        "publishDate": "2026-06-17",
+        "duration": 1800,
+        "audioUrl": "https://substackcdn.com/image/fetch/$s_!TWyd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdbd05579-c8ce-4116-bf8b-06446cc4aa6a_1400x1000.png",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-book-review-korean-messiah-b",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -87981,6 +88009,24 @@
     ],
     "episodes": [
       {
+        "id": "made-in-china-de-ep-buzzsprout-19358949",
+        "podcastId": "made-in-china-de",
+        "podcastTitle": "Made in China (German)",
+        "title": "#215 – Wie Thomas mit Robotern in ein Krankenhaus marschierte und was das über China verrät",
+        "description": "Heute geht es um eine Folge, in der Damian und Thomas zeigen, wie sich ihr Business-Fokus Schritt für Schritt weiterentwickelt hat.Thomas erzählt, wie er sich immer tiefer in das Thema Robotics gearbeitet hat und warum ausgerechnet echte Begegnung...",
+        "publishDate": "2026-06-17",
+        "duration": 1612,
+        "audioUrl": "https://www.buzzsprout.com/1869386/episodes/19358949-215-wie-thomas-mit-robotern-in-ein-krankenhaus-marschierte-und-was-das-uber-china-verrat.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "made-in-china-de-ep-buzzsprout-19311247",
         "podcastId": "made-in-china-de",
         "podcastTitle": "Made in China (German)",
@@ -96031,6 +96077,20 @@
     ],
     "episodes": [
       {
+        "id": "asia-insight-ep-nbrpodcasts-podbean-com-5d94da52-8a31-3c54-ba72-bebcccf50a38",
+        "podcastId": "asia-insight",
+        "podcastTitle": "Asia Insight (NBR)",
+        "title": "Asia Policy at 20: Bridging Scholarship and Policymaking",
+        "description": "2026 marks 20 years of Asia Policy, NBR’s peer-reviewed scholarly journal presenting policy-relevant academic research on the Asia-Pacific that draws clear and concise conclusions useful to today’s policymakers. This Asia Insight episode features ...",
+        "publishDate": "2026-06-16",
+        "duration": 2030,
+        "audioUrl": "https://mcdn.podbean.com/mf/web/ui7cf2svkisjcgv9/NBR_Podcast_Jun_16_20266wn0f.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI"
+        ]
+      },
+      {
         "id": "asia-insight-ep-nbrpodcasts-podbean-com-c8847151-fdd4-351a-a737-5c473950ced1",
         "podcastId": "asia-insight",
         "podcastTitle": "Asia Insight (NBR)",
@@ -97304,6 +97364,32 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "roundtable-china-ep-1-2765047",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Reviewing the influencer review",
+        "description": "We trust online reviews. We buy what influencers recommend. But what happens when those reviews are faked or secretly paid for? China just rolled out new rules targeting influencers who rig demos, hide sponsorships, and fabricate test results. The...",
+        "publishDate": "2026-06-16",
+        "duration": 1652,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2606/1081600426052.mp3",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765044",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "One family, one health wallet, nationwide",
+        "description": "China's new policy allows you to share your health insurance wallet with parents, grandparents, siblings, and children across the country. One app and one tap create a national safety net for your entire family. That digital connection bridges the...",
+        "publishDate": "2026-06-16",
+        "duration": 1525,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2606/1181600041938.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
       {
         "id": "roundtable-china-ep-1-2765029",
         "podcastId": "roundtable-china",
@@ -104162,6 +104248,192 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0616sco",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Supreme Court Rejects Challenge to Trump’s First-Term Tariff on China",
+        "description": "",
+        "publishDate": "2026-06-16",
+        "duration": 197,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0616/cc64df1b-26e5-4fb7-a62a-c808232eeb29/audio.mp3?length=2371680&duration=197",
+        "topics": [
+          "US-China Relations"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0616ru",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "EU Says China’s Military Trained Russian Troops for Ukraine War",
+        "description": "",
+        "publishDate": "2026-06-16",
+        "duration": 247,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0617/bc20cef4-6d19-4567-a5b9-a2ec8ee39331/audio.mp3?length=2969856&duration=247",
+        "topics": [
+          "Semiconductors & AI",
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0616em",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "US Embassy in China Warns US Government-Affiliated Chinese Americans Traveling to China of Being Targeted by the CCP",
+        "description": "",
+        "publishDate": "2026-06-16",
+        "duration": 388,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0617/85cbdd04-ebc1-454a-829d-321a03d51be2/audio.mp3?length=4658112&duration=388",
+        "topics": [
+          "Daily Life",
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0616ca",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Is California a Satellite State of China?",
+        "description": "",
+        "publishDate": "2026-06-16",
+        "duration": 471,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0615/5ec14ecd-f9a3-4096-95da-9d7fccd2c083/audio.mp3?length=5658048&duration=471",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0616ter",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s Counterterrorism Ambitions Yields Little Results",
+        "description": "",
+        "publishDate": "2026-06-16",
+        "duration": 485,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0616/76319841-3e91-49b5-b0cb-0fc33a6ec40f/audio.mp3?length=5831424&duration=485",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0616hk",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Hong Kong: When Your Case Becomes ‘National Security’ and How Lives Can Be Ruined Overnight",
+        "description": "",
+        "publishDate": "2026-06-16",
+        "duration": 369,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0616/a381dd5c-1753-443a-be45-13390047b70f/audio.mp3?length=4981248&duration=415",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0616exp",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s Export Machine Faces a Broadening Pushback",
+        "description": "",
+        "publishDate": "2026-06-16",
+        "duration": 369,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0616/442fbcfb-41d3-401c-bfd8-68342e0c1876/audio.mp3?length=4435488&duration=369",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0616cf",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "$392 Billion EU Trade Deficit With China, Up 18 Percent Last Year",
+        "description": "",
+        "publishDate": "2026-06-16",
+        "duration": 1372,
+        "audioUrl": "https://episodes.captivate.fm/episode/bb93c156-fdd7-4359-80b2-b3198fbca2c4.mp3",
+        "topics": [
+          "Economic Reform"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-gyf13",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 13 After His Decisive Victory Yang Ye Gets the Full Attention of the Liao Empire",
+        "description": "Masterpiece Podcasts: Collection of Chinese Classic Novels",
+        "publishDate": "2026-06-16",
+        "duration": 1521,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/gyf13.mp3",
+        "topics": [
+          "Feminism & Arts"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0615tw",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Taiwan Intelligence Agency Launches Tip Portal for Chinese Nationals",
+        "description": "",
+        "publishDate": "2026-06-15",
+        "duration": 349,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0615/2fa1ab17-6207-4ea4-876f-4554244a2ac9/audio.mp3?length=4199904&duration=349",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0615flg",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Falun Gong Information Booths Attacked in London",
+        "description": "",
+        "publishDate": "2026-06-15",
+        "duration": 302,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0615/6edda3cb-c656-4da8-ad9b-bda0dece4ab0/audio.mp3?length=3625056&duration=302",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0615gl",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Beijing-Linked Hackers Targeted US, Canadian Research Institutions for Over a Year: Google",
+        "description": "",
+        "publishDate": "2026-06-15",
+        "duration": 217,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0615/4f7074ae-a7e6-4dbe-bc75-eada23842b0a/audio.mp3?length=2615904&duration=217",
+        "topics": [
+          "Daily Life"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0615ai",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Arm CEO Warns US Can’t Easily Ban AI CPU Exports to China",
+        "description": "",
+        "publishDate": "2026-06-15",
+        "duration": 175,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0603/8c13dde2-2de2-45be-aba1-7878e1d88688/audio.mp3?length=2101536&duration=175",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-gyf12",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 12 Taizong Learns to Be Patient, Yang Ye Knows to Be Humble",
+        "description": "Masterpiece Podcasts: Collection of Chinese Classic Novels",
+        "publishDate": "2026-06-15",
+        "duration": 1437,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/gyf12.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Feminism & Arts"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0614ope",
         "podcastId": "china-in-depth",
