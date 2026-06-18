@@ -11846,6 +11846,22 @@
     ],
     "episodes": [
       {
+        "id": "chinatalk-ep-950d3c9c-69f0-11f1-a5b8-6f114027a9a9",
+        "podcastId": "chinatalk",
+        "podcastTitle": "ChinaTalk",
+        "title": "AI for Science!",
+        "description": "AI will make ideas cheap. What does that mean for sicence? Charles Yang is a fellow at Renaissance Philanthropies and writes about AI and science here: https://republicofscience.substack.com. We discuss… Why AI will crack math but not science, and...",
+        "publishDate": "2026-06-17",
+        "duration": 2966,
+        "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL3055803900.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "chinatalk-ep-4e9c2d4a-6905-11f1-96d7-9bef57280cd1",
         "podcastId": "chinatalk",
         "podcastTitle": "ChinaTalk",
@@ -25353,6 +25369,23 @@
     ],
     "episodes": [
       {
+        "id": "soas-context-ep-tag-soundcloud-2010-tracks-2341177133",
+        "podcastId": "soas-context",
+        "podcastTitle": "China in Context",
+        "title": "Ep209: World Cup Dreams and Own Goals — Football in China",
+        "description": "Despite the extra places on offer at this year’s expanded FIFA World Cup Finals, the Chinese men’s soccer team once again failed to qualify, continuing a series of disappointments dating back to 2002, when China made its only appearance at the tou...",
+        "publishDate": "2026-06-17",
+        "duration": 2366,
+        "audioUrl": "https://feeds.soundcloud.com/stream/2341177133-soas-china-institute-ep209-world-cup-dreams-and-own.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Geopolitics & Politics"
+        ]
+      },
+      {
         "id": "soas-context-ep-tag-soundcloud-2010-tracks-2324628401",
         "podcastId": "soas-context",
         "podcastTitle": "China in Context",
@@ -28973,6 +29006,26 @@
       "Tech & Business"
     ],
     "episodes": [
+      {
+        "id": "china-global-south-ep-2e676c20-7f1a-4ab9-9ae2-65fd780d10d8",
+        "podcastId": "china-global-south",
+        "podcastTitle": "The China-Global South Podcast",
+        "title": "China's Economy Is Stronger and Weaker Than You Think",
+        "description": "Two very different narratives about China's economy emerged this week. In France, G7 leaders pushed back against what they see as China's growing dominance in key industries. In Beijing, meanwhile, the Ministry of Industry urged observers to look ...",
+        "publishDate": "2026-06-17",
+        "duration": 3011,
+        "audioUrl": "https://traffic.libsyn.com/secure/ea0f0fdd-2944-4ff3-8a00-704e8c67d58b/CGSP_06172026_Libsyn.mp3?dest-id=4287628",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Economic Reform",
+          "Geopolitics & Politics",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-global-south-ep-441e54f7-05de-480e-83d2-b74cbadac933",
         "podcastId": "china-global-south",
@@ -97365,6 +97418,36 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-2765059",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "When your tea shop gets hungry",
+        "description": "Walk into a milk tea shop these days, and you may leave carrying more than just a drink. Crisps, cakes, and even surprise snack packs now line the shelves alongside the bubble tea. Chinese brands are transforming a quick sip into a full‑fledged sh...",
+        "publishDate": "2026-06-17",
+        "duration": 1211,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2606/1081682587048.mp3",
+        "topics": [
+          "Dynastic History"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765056",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Paging Dr. AI",
+        "description": "Getting a child the right care sometimes meant a long trip to a big city hospital. Local clinics just did not inspire enough trust. But now, doctors are teaming up with artificial intelligence to give community physicians a powerful backup tool. T...",
+        "publishDate": "2026-06-17",
+        "duration": 1810,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2606/1081682517602.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2765047",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -104248,6 +104331,128 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0617drg",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Drug Czar on How She Is Taking on the Cartels and China",
+        "description": "",
+        "publishDate": "2026-06-17",
+        "duration": 445,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0617/255021c7-41c1-4470-9c2f-5ff4d2b07168/audio.mp3?length=5345280&duration=445",
+        "topics": [
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0617org",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Senate Committee Advances Bill to Penalize Forced Organ Harvesting",
+        "description": "",
+        "publishDate": "2026-06-17",
+        "duration": 268,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0617/ee47442d-a56d-4e60-8026-d1deb7396dfa/audio.mp3?length=3227616&duration=268",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0617xi",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Xi’s Top Aide Takes Over China’s Elite Leadership Academy, but History Offers a Warning",
+        "description": "",
+        "publishDate": "2026-06-17",
+        "duration": 445,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0617/c3be7d21-285a-4f50-bd1d-aa0b9b9291e3/audio.mp3?length=5351616&duration=445",
+        "topics": [
+          "Semiconductors & AI",
+          "History"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0617who",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Beijing Has Gained Political Control over the WHO",
+        "description": "",
+        "publishDate": "2026-06-17",
+        "duration": 681,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0617/4214dfd9-bfd9-4dd0-b416-3d1b093e95c3/audio.mp3?length=8179200&duration=681",
+        "topics": [
+          "Semiconductors & AI",
+          "Daily Life"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0617oil",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "The Blockade of Iran Forced China to Decrease Oil Imports",
+        "description": "",
+        "publishDate": "2026-06-17",
+        "duration": 289,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0617/b6df750a-ed57-438d-9a36-092a82d02155/audio.mp3?length=3476448&duration=289",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0617bj",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Beijing’s Propaganda Playbook: Building a False Narrative About US Military Decline",
+        "description": "",
+        "publishDate": "2026-06-17",
+        "duration": 468,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0617/aa91ccc8-c723-4937-9791-ac221a934745/audio.mp3?length=5626080&duration=468",
+        "topics": [
+          "Daily Life",
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0617mh",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Falun Dafa News from Around the World – June 17, 2026",
+        "description": "",
+        "publishDate": "2026-06-17",
+        "duration": 1564,
+        "audioUrl": "https://en.minghui.org/u/files/podcasts/emh-podcast/EMHPodcast_2098-News.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0617cf",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "US Warns Americans of China Detention Risk",
+        "description": "",
+        "publishDate": "2026-06-17",
+        "duration": 1229,
+        "audioUrl": "https://episodes.captivate.fm/episode/a39f10c9-75c3-4a05-9d59-2b6658a694a5.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-gyf14",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 14 Yang Ye Requested to Conquer But the Emperor Wants to Promote Peace",
+        "description": "Masterpiece Podcasts: Collection of Chinese Classic Novels",
+        "publishDate": "2026-06-17",
+        "duration": 1558,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/gyf14.mp3",
+        "topics": [
+          "Dynastic History",
+          "Feminism & Arts"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0616sco",
         "podcastId": "china-in-depth",
