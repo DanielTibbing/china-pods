@@ -31958,6 +31958,23 @@
     ],
     "episodes": [
       {
+        "id": "china-power-ep-ff6e6596-6b46-11f1-8465-b35f14bf80b8",
+        "podcastId": "china-power",
+        "podcastTitle": "China Power",
+        "title": "Assessing Xi’s Visit to North Korea: A Conversation with Victor Cha",
+        "description": "In this episode of the ChinaPower Podcast, Dr. Victor Cha joins us to discuss Xi Jinping’s recent visit to North Korea, his first in nearly seven years. He examines what the summit reveals about China’s evolving approach to North Korea, including ...",
+        "publishDate": "2026-06-18",
+        "duration": 2303,
+        "audioUrl": "https://traffic.megaphone.fm/CSIS7385878112.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Feminism & Arts",
+          "Geopolitics & Politics",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "china-power-ep-2ddc374c-6047-11f1-83ca-c3945ed07142",
         "podcastId": "china-power",
         "podcastTitle": "China Power",
@@ -86136,6 +86153,20 @@
     ],
     "episodes": [
       {
+        "id": "asia-chessboard-ep-05885666-6b2f-11f1-9770-332848a18d83",
+        "podcastId": "asia-chessboard",
+        "podcastTitle": "The Asia Chessboard",
+        "title": "The Power Politics behind Xi’s Grand Strategy",
+        "description": "This week, Mike hosts Professor Minxin Pei, the Tom and Margot Pritzker ‘72 Professor of Government and George R. Roberts Fellow at Claremont McKenna College, and author of the recent book The Broken China Dream: How Reform Revived Totalitarianism...",
+        "publishDate": "2026-06-18",
+        "duration": 2636,
+        "audioUrl": "https://traffic.megaphone.fm/CSIS7651819602.mp3",
+        "topics": [
+          "Economic Reform",
+          "Geopolitics & Politics"
+        ]
+      },
+      {
         "id": "asia-chessboard-ep-1ae91760-5915-11f1-96d8-63a2594e13ea",
         "podcastId": "asia-chessboard",
         "podcastTitle": "The Asia Chessboard",
@@ -94605,6 +94636,25 @@
     ],
     "episodes": [
       {
+        "id": "trivium-china-ep-buzzsprout-19369348",
+        "podcastId": "trivium-china",
+        "podcastTitle": "The Trivium China Podcast",
+        "title": "Ep 70 - China’s growth model hits another reality check",
+        "description": "China’s economy started 2026 with surprising momentum – but the latest monthly macro data underscores that many of the country’s underlying challenges remain firmly in place.On this week’s Trivium China Podcast, host Andrew Polk is joined by Trivi...",
+        "publishDate": "2026-06-18",
+        "duration": 2230,
+        "audioUrl": "https://www.buzzsprout.com/2408047/episodes/19369348-ep-70-china-s-growth-model-hits-another-reality-check.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "trivium-china-ep-buzzsprout-19346324",
         "podcastId": "trivium-china",
         "podcastTitle": "The Trivium China Podcast",
@@ -97417,6 +97467,68 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "roundtable-china-ep-1-2765077",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Dragon Boat Festival gets a modern makeover",
+        "description": "June 19 marks this year's Dragon Boat Festival, one of China's oldest traditions. These days, it is about more than rice dumplings and boat races. The holiday now includes study tours, DIY herb bouquets, healthier takes on zongzi, and race events ...",
+        "publishDate": "2026-06-19",
+        "duration": 1570,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2606/1081767614419.mp3",
+        "topics": [
+          "Dynastic History",
+          "History"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765080",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Harvard says no to the easy \"A\"",
+        "description": "For years, \"A\" grades have been piling up like participation trophies. Now Harvard University is hitting the brakes. A strict 20 percent cap on top marks has students nervous and corporate recruiters thrilled. Why the sudden crackdown, and will ot...",
+        "publishDate": "2026-06-19",
+        "duration": 1600,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2606/1081767666379.mp3",
+        "topics": [
+          "Dynastic History",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765074",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "China Finds: ancient verses, modern vibes",
+        "description": "Open a music app in China and you might find a poet from a thousand years ago sitting alongside today's biggest pop stars. Ancient lyrics are being set to fresh new melodies, and young listeners are trading textbooks for playlists. This is how the...",
+        "publishDate": "2026-06-18",
+        "duration": 1432,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2606/1081767472091.mp3",
+        "topics": [
+          "Dynastic History",
+          "Feminism & Arts",
+          "History"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765071",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "150 million passports stamped",
+        "description": "China welcomed more than 150 million international visitors in 2025, and the usual postcard sights are only part of the story. Easier visa rules and a new wave of discovery driven by social media are flipping the old narrative on its head. From re...",
+        "publishDate": "2026-06-18",
+        "duration": 1695,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2606/1081767407194.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "roundtable-china-ep-1-2765059",
         "podcastId": "roundtable-china",
@@ -104331,6 +104443,116 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0618uk",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "UK Sentences 2 Men to up to 10 Years in Jail for Spying for China",
+        "description": "",
+        "publishDate": "2026-06-18",
+        "duration": 251,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0618/19920a2a-f0bc-439f-87ca-4a37b83b0f04/audio.mp3?length=3012480&duration=251",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0618tw",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Taiwan Lawmakers Back Tougher Law to Combat Forced Organ Harvesting",
+        "description": "",
+        "publishDate": "2026-06-18",
+        "duration": 579,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0618/af1afcfe-7d21-423e-a447-7fe0df264e55/audio.mp3?length=6957216&duration=579",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0618xi",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Senate Unanimously Passes Resolution to Condemn CCP Leader Xi Jinping",
+        "description": "",
+        "publishDate": "2026-06-18",
+        "duration": 428,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0618/1f6dc017-370d-45c7-ba56-f9a62fe61cfc/audio.mp3?length=5139072&duration=428",
+        "topics": [
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0618yuan",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s Currency War Against the West",
+        "description": "",
+        "publishDate": "2026-06-18",
+        "duration": 371,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0618/73161860-d815-4ef0-a04a-cd6eb8e875ab/audio.mp3?length=4456512&duration=371",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0618atl",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "How Classical Arts Training Helps Kids Unlock Their Full Potential | Sherry Zhan",
+        "description": "",
+        "publishDate": "2026-06-18",
+        "duration": 2097,
+        "audioUrl": "https://episodes.captivate.fm/episode/e5fb6fc7-6574-445f-9f23-ee14d65a2967.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0618cf1",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Japan, U.S. Reaffirm Indo-Pacific Partnership at G7",
+        "description": "",
+        "publishDate": "2026-06-18",
+        "duration": 1258,
+        "audioUrl": "https://episodes.captivate.fm/episode/de1dbd99-f74e-4f4b-8d7e-9e8d59c7ec19.mp3",
+        "topics": [
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0618cf",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "U.S. and Iran Sign Peace Deal",
+        "description": "",
+        "publishDate": "2026-06-18",
+        "duration": 1347,
+        "audioUrl": "https://episodes.captivate.fm/episode/7ae678f2-2379-45e8-b06f-957206f5a060.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-gyf15",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 15 The Emperor's Overreach Led to Defeat ",
+        "description": "Masterpiece Podcasts: Collection of Chinese Classic Novels",
+        "publishDate": "2026-06-18",
+        "duration": 1626,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/gyf15.mp3",
+        "topics": [
+          "Dynastic History",
+          "Feminism & Arts"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0617drg",
         "podcastId": "china-in-depth",
