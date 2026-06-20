@@ -16,6 +16,36 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-trivium-china-podcast-chinas",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "Trivium China Podcast | China's Growth Model Hits Another Reality Check",
+        "description": "Listen now | China&#8217;s economy started 2026 with surprising momentum &#8212; but the latest monthly macro data underscores that many of the country&#8217;s underlying challenges remain firmly in place.",
+        "publishDate": "2026-06-20",
+        "duration": 1800,
+        "audioUrl": "https://api.substack.com/feed/podcast/202799775/b469da87f414ab61560ec8cba7e1ff7c.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-chinas-economy-is-stronger-a",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "China's Economy Is Stronger and Weaker Than You Think",
+        "description": "Two very different narratives about China&#8217;s economy emerged this week.",
+        "publishDate": "2026-06-19",
+        "duration": 1800,
+        "audioUrl": "https://api.substack.com/feed/podcast/202746146/8f8bf0c15c1ee614bfc1b9479919060a.mp3",
+        "topics": [
+          "Dynastic History",
+          "Economic Reform"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-but-china-robert-wright-on-t",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -11845,6 +11875,25 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "chinatalk-ep-8299ff84-6bfb-11f1-b999-87b1819b2c78",
+        "podcastId": "chinatalk",
+        "podcastTitle": "ChinaTalk",
+        "title": "WarTalk with Ely Ratner on Iran War Peace + the 'BS' US-China Stalemate",
+        "description": "Ely Ratner, former Assistant Secretary of Defense for Indo-Pacific Security Affairs and now a principal at the Marathon Initiative, joins Jordan, Bryan Clark, and Justin to make sense of the Iran ceasefire and where US-China competition goes next....",
+        "publishDate": "2026-06-19",
+        "duration": 4671,
+        "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL9907715453.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Geopolitics & Politics",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "chinatalk-ep-950d3c9c-69f0-11f1-a5b8-6f114027a9a9",
         "podcastId": "chinatalk",
@@ -104093,6 +104142,25 @@
     ],
     "episodes": [
       {
+        "id": "wire-china-ep-buzzsprout-19368993",
+        "podcastId": "wire-china",
+        "podcastTitle": "The Wire China Podcast",
+        "title": "Whatever Happened to Jupiter?",
+        "description": "Jupiter Systems is an American company that makes video screen technology for the U.S. military. In 2024, the government discovered something shocking — it had been sold to a Chinese tech company years earlier.Reporters Noah Berman and Rachel Cheu...",
+        "publishDate": "2026-06-19",
+        "duration": 1088,
+        "audioUrl": "https://www.buzzsprout.com/2591600/episodes/19368993-whatever-happened-to-jupiter.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Geopolitics & Politics",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "wire-china-ep-buzzsprout-19335589",
         "podcastId": "wire-china",
         "podcastTitle": "The Wire China Podcast",
@@ -104443,6 +104511,72 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0619fau",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Gabbard Releases Documents on Fauci’s Alleged Role in Wuhan Lab Research Linked to COVID",
+        "description": "",
+        "publishDate": "2026-06-19",
+        "duration": 191,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0619/59b9fe48-1dd3-4376-a907-2c770dbe2376/audio.mp3?length=2293056&duration=191",
+        "topics": [
+          "Dynastic History"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0619chi",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s Procurement Crackdown Highlights Longstanding Corruption Concerns",
+        "description": "",
+        "publishDate": "2026-06-19",
+        "duration": 473,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0619/a035232d-89d3-47d2-adb6-8155c8a5afcd/audio.mp3?length=5687424&duration=473",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0619fit",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China-Made Fitness Trackers May Threaten US Security, Senators Warn",
+        "description": "",
+        "publishDate": "2026-06-19",
+        "duration": 243,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0619/e404c361-6195-4081-9506-65d7bc4c3523/audio.mp3?length=2924064&duration=243",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0619cov",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "CIA Official Confirms Sudden Shift in COVID-19 Origin Assessment",
+        "description": "",
+        "publishDate": "2026-06-19",
+        "duration": 341,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0619/cfdd5d8a-921d-4d05-90e8-aa9d4c84c1ca/audio.mp3?length=4099968&duration=341",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-gyf16",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 16 The Yang Family Lost Four Sons to Save the Emperor",
+        "description": "Masterpiece Podcasts: Collection of Chinese Classic Novels",
+        "publishDate": "2026-06-19",
+        "duration": 1513,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/gyf16.mp3",
+        "topics": [
+          "Dynastic History",
+          "Feminism & Arts"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0618uk",
         "podcastId": "china-in-depth",
