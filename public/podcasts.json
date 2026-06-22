@@ -16,6 +16,32 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-this-week-in-chinas-history-",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "This Week in China's History: The Tianjin Massacre",
+        "description": "June 21, 1870",
+        "publishDate": "2026-06-21",
+        "duration": 1800,
+        "audioUrl": "https://substackcdn.com/image/fetch/$s_!QUh9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F562d4487-40e1-41bd-81b5-f23b33f32f34_400x310.jpeg",
+        "topics": [
+          "History"
+        ]
+      },
+      {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-the-great-duck-leg-scam-war-",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "\"The Great Duck-Leg Scam War\" — Phrase of the Week",
+        "description": "A new phrase stirs up emotions in Beijing",
+        "publishDate": "2026-06-21",
+        "duration": 1800,
+        "audioUrl": "https://substackcdn.com/image/fetch/$s_!czZi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F42b29f07-9918-4a5d-843d-c08ba8cdde5b_2000x1200.jpeg",
+        "topics": [
+          "Daily Life"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-trivium-china-podcast-chinas",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -384,20 +410,6 @@
         "audioUrl": "https://substackcdn.com/image/fetch/$s_!Orst!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1ff84aa-ae9e-4fa8-83b1-22772322cbbe_2086x1352.png",
         "topics": [
           "Geopolitics & Politics"
-        ]
-      },
-      {
-        "id": "sinica-ep-https---www-sinicapodcast-com-p-this-week-in-chinas-history-",
-        "podcastId": "sinica",
-        "podcastTitle": "The Sinica Podcast",
-        "title": "This Week in China's History: Xu Baoshan’s Expensive Vase (a Tale of Assassination)",
-        "description": "May 24, 1913",
-        "publishDate": "2026-05-19",
-        "duration": 1800,
-        "audioUrl": "https://substackcdn.com/image/fetch/$s_!_luX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f4e4883-ed76-4d46-ae2a-2df64b6f54fc_1448x1086.png",
-        "topics": [
-          "Dynastic History",
-          "History"
         ]
       },
       {
@@ -41913,6 +41925,22 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "sr-kina-ep-rss-sr-se-pod-eid-2827057",
+        "podcastId": "sr-kina",
+        "podcastTitle": "Radiokorrespondenterna Kina",
+        "title": "Bebiskrisen som kan stoppa Kinas uppgång",
+        "description": "Kina krymper när barnafödandet fortsätter falla. De sjunkande födelsetalen kan bli ett sänke för Kinas globala maktambitioner. Lyssna på alla avsnitt i Sveriges Radios app. Kina var länge världens folkrikaste land och har kunnat bygga sin tillväxt...",
+        "publishDate": "2026-06-22",
+        "duration": 1620,
+        "audioUrl": "https://static-cdn.sr.se/laddahem/podradio/2026/06/radiokorrespondenterna_kina_bebiskrisen_som_kan_stoppa_kin_20260618_1505364890.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "sr-kina-ep-rss-sr-se-pod-eid-2823978",
         "podcastId": "sr-kina",
