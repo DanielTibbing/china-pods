@@ -16,6 +16,20 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-how-china-built-the-energy-s",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "How China Built the Energy System the World Now Needs",
+        "description": "This piece of mine was published today by the World Economic Forum.",
+        "publishDate": "2026-06-22",
+        "duration": 1800,
+        "audioUrl": "https://substackcdn.com/image/fetch/$s_!hki0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2502d26c-e974-417b-878d-0571b80581f6_600x600.png",
+        "topics": [
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-this-week-in-chinas-history-",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -11887,6 +11901,26 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "chinatalk-ep-cf89f0d0-6dd9-11f1-a86c-5b336e9c2073",
+        "podcastId": "chinatalk",
+        "podcastTitle": "ChinaTalk",
+        "title": "Rare Earths: What is To Be Done?",
+        "description": "To discuss, we have Farrell Gregory, a researcher at the Foundation for American Innovation and winner of ChinaTalk’s Economic Security essay competition, and Joris Teer, a policy analyst at the EU Institute for Security Studies who authored Beiji...",
+        "publishDate": "2026-06-22",
+        "duration": 3574,
+        "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL4894230073.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Geopolitics & Politics",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "chinatalk-ep-8299ff84-6bfb-11f1-b999-87b1819b2c78",
         "podcastId": "chinatalk",
@@ -91907,6 +91941,25 @@
     ],
     "episodes": [
       {
+        "id": "the-red-line-ep-d849021a-6e6f-11f1-88e0-1f7187475207",
+        "podcastId": "the-red-line",
+        "podcastTitle": "The Red Line",
+        "title": "138 - Could Europe Defend Itself Without the US?",
+        "description": "Long treated as the immovable foundation of European security, America’s role in NATO is now being questioned more openly than at any point in decades, as Washington signals doubts about its commitment to the continent and debates whether US force...",
+        "publishDate": "2026-06-22",
+        "duration": 6425,
+        "audioUrl": "https://pdst.fm/e/mgln.ai/e/211/traffic.megaphone.fm/ARML8433816325.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Geopolitics & Politics",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "the-red-line-ep-92caf582-2d32-11f1-9d0b-1346b20b96cc",
         "podcastId": "the-red-line",
         "podcastTitle": "The Red Line",
@@ -97566,6 +97619,40 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "roundtable-china-ep-1-2765104",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "The changing drama name game",
+        "description": "If you have ever watched a drama and wondered why fans lose their minds over the opening credits, it all comes down to billing order. In China's entertainment industry, a name's position is everything. But new rules arriving this summer will stand...",
+        "publishDate": "2026-06-22",
+        "duration": 1265,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2606/1082118983558.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765101",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Home sweet rental home",
+        "description": "Finding a place to live in a new city is supposed to be exciting. Then you start scrolling listings and realizing those perfect photos are probably from a decade ago. Renting in China has changed. Young renters want something their parents never e...",
+        "publishDate": "2026-06-22",
+        "duration": 1866,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2606/1082118924448.mp3",
+        "topics": [
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "roundtable-china-ep-1-2765077",
         "podcastId": "roundtable-china",
@@ -104561,6 +104648,131 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0622tw",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Taiwan’s Vice President Not Afraid to Take on Beijing",
+        "description": "",
+        "publishDate": "2026-06-22",
+        "duration": 526,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0622/2ad07e06-ef07-4aa3-86de-caa47b72d7f0/audio.mp3?length=6322752&duration=526",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Daily Life"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0622rem",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China Imposes New Export Curbs on 10 US Rare Earth, Defense Companies",
+        "description": "",
+        "publishDate": "2026-06-22",
+        "duration": 225,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0622/485456c3-f31b-4f1c-9ccf-246cf53e58ca/audio.mp3?length=2711232&duration=225",
+        "topics": [
+          "Feminism & Arts",
+          "Geopolitics & Politics",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0622ag",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Alan Greenspan’s China Views Shifted From WTO Optimism to Warnings on State Control",
+        "description": "",
+        "publishDate": "2026-06-22",
+        "duration": 558,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0622/009a4536-5663-447b-8ef0-b43156b64374/audio.mp3?length=6701472&duration=558",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0622yu",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China Rolls out New Measures to Take Yuan Global; Analysts Say It Won’t Be Able to Displace US Dollar",
+        "description": "",
+        "publishDate": "2026-06-22",
+        "duration": 425,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0619/60b3210f-df15-45cc-9189-43083ace2bb1/audio.mp3?length=5111712&duration=425",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0622spy",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s Expanding Spy War Against the West",
+        "description": "",
+        "publishDate": "2026-06-22",
+        "duration": 489,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0621/5eabd93c-89e1-42b1-9315-f61e8d8cf534/audio.mp3?length=5869152&duration=489",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-gyf18",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 18 Pan Renmei Conspiring with Enemy Kills Yang Ye",
+        "description": "Masterpiece Podcasts: Collection of Chinese Classic Novels",
+        "publishDate": "2026-06-22",
+        "duration": 2248,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/gyf18.mp3",
+        "topics": [
+          "Feminism & Arts"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0621chi",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "US Must Reject China’s Latest Maritime Power Grab",
+        "description": "",
+        "publishDate": "2026-06-21",
+        "duration": 346,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0620/8db835aa-43d2-4cc7-a8ad-62d9ce7aeb1e/audio.mp3?length=4156128&duration=346",
+        "topics": [
+          "Ancient Trade Routes"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0621atl",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Beijing Wants to Wipe Taiwan Off the Map—This Man Is Making Sure Its People Can Survive | Enoch Wu",
+        "description": "",
+        "publishDate": "2026-06-21",
+        "duration": 1960,
+        "audioUrl": "https://episodes.captivate.fm/episode/0a71aaca-ea79-4dba-a2a8-a537aa1d8634.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Daily Life",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-gyf17",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 17 Yang Ye's 4th and 5th Sons Survived, One Became Liao's Imperial Son-in-Law, the Other a Wutai Monk",
+        "description": "Masterpiece Podcasts: Collection of Chinese Classic Novels",
+        "publishDate": "2026-06-21",
+        "duration": 1465,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/gyf17.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Feminism & Arts"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0619fau",
         "podcastId": "china-in-depth",
@@ -128318,6 +128530,23 @@
     ],
     "episodes": [
       {
+        "id": "drum-tower-ep-6a31522c9b6fd8dcaba7b494",
+        "podcastId": "drum-tower",
+        "podcastTitle": "Drum Tower (The Economist)",
+        "title": "Trailer: Tocqueville Road Trip",
+        "description": "When Alexis de Tocqueville visited America from France in 1831 he saw a new kind of society. Not just a country, but an idea that would change the world. His book “Democracy in America” was a big influence on later generations of writers and think...",
+        "publishDate": "2026-06-22",
+        "duration": 207,
+        "audioUrl": "https://sphinx.acast.com/p/open/s/633ebf6dfc7f5a0012acdc97/e/6a31522c9b6fd8dcaba7b494/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=di3YjIDUE3GrdHuPBZDBgkcmE8jg0hlTZjFfFhYbXwE",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "drum-tower-ep-6926d69f064897cd5fbf2315",
         "podcastId": "drum-tower",
         "podcastTitle": "Drum Tower (The Economist)",
@@ -128566,7 +128795,7 @@
         ]
       }
     ],
-    "status": "stale"
+    "status": "active"
   },
   {
     "id": "environment-china",
