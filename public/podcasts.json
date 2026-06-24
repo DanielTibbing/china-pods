@@ -16,6 +16,20 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-china-shock-20-this-time-its",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "China Shock 2.0: This Time It's Europe, with Adam Tooze ",
+        "description": "Recorded at the World Economic Forum's Annual Meeting of the New Champions, Dalian",
+        "publishDate": "2026-06-23",
+        "duration": 1800,
+        "audioUrl": "https://api.substack.com/feed/podcast/203199464/b1c9fc150ceffd0b566c9a203211dfb9.mp3",
+        "topics": [
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-how-china-built-the-energy-s",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -88204,6 +88218,21 @@
     ],
     "episodes": [
       {
+        "id": "made-in-china-de-ep-buzzsprout-19393993",
+        "podcastId": "made-in-china-de",
+        "podcastTitle": "Made in China (German)",
+        "title": "Vom roten Umschlag bis zur Chip-Revolution: Wie Huawei China und Deutschland verbindet - Carsten Senz, Vice President Corporate Communications Huawei Deutschland",
+        "description": "Was passiert, wenn jemand seit 16 Jahren mitten in der deutsch-chinesischen Schnittstelle arbeitet, China nicht nur aus der Distanz beobachtet, sondern aus der Praxis erklärt und zum zweiten Mal bei uns zu Gast ist? In dieser Folge spricht Carsten...",
+        "publishDate": "2026-06-24",
+        "duration": 2451,
+        "audioUrl": "https://www.buzzsprout.com/1869386/episodes/19393993-vom-roten-umschlag-bis-zur-chip-revolution-wie-huawei-china-und-deutschland-verbindet-carsten-senz-vice-president-corporate-communications-huawei-deutschland.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Daily Life",
+          "Tech & Business"
+        ]
+      },
+      {
         "id": "made-in-china-de-ep-buzzsprout-19358949",
         "podcastId": "made-in-china-de",
         "podcastTitle": "Made in China (German)",
@@ -97619,6 +97648,36 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "roundtable-china-ep-1-2765122",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "The blurry ethics of smart glasses",
+        "description": "Smart glasses promise to translate any language, recognize every face, and capture life hands-free, all without a phone in sight. But when a device can see, store, and remember everything you do, the line between helpful and invasive starts to blu...",
+        "publishDate": "2026-06-23",
+        "duration": 1857,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2606/1082203376524.mp3",
+        "topics": [
+          "Dynastic History",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765119",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "The trip to nowhere",
+        "description": "In early June 2026, a cruise slipped out of Shanghai. The Adora Magic City steamed into open water with no foreign dock in sight, then looped back to where it began. They call it a 'voyage to nowhere,' and travelers are booking. Why is this non-tr...",
+        "publishDate": "2026-06-23",
+        "duration": 1294,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2606/1082203301342.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life"
+        ]
+      },
       {
         "id": "roundtable-china-ep-1-2765104",
         "podcastId": "roundtable-china",
