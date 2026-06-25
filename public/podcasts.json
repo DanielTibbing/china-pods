@@ -16,6 +16,34 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-podcast-china-shock-20-this-",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "Podcast | China Shock 2.0: This Time It's Europe, with Adam Tooze",
+        "description": "Recorded at the World Economic Forum's Annual Meeting of the New Champions, Dalian",
+        "publishDate": "2026-06-24",
+        "duration": 1800,
+        "audioUrl": "https://api.substack.com/feed/podcast/203357227/8e876a25911816f864d7948a23b5a320.mp3",
+        "topics": [
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
+      {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-transcript-china-shock-20-th",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "Transcript: China Shock 2.0: This Time It's Europe, with Adam Tooze",
+        "description": "Recorded at the World Economic Forum's Annual Meeting of the New Champions, Dalian",
+        "publishDate": "2026-06-24",
+        "duration": 1800,
+        "audioUrl": "https://substackcdn.com/image/fetch/$s_!klpZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7dd241c8-0f65-4aef-8882-ad0037b7aedc_1400x1000.png",
+        "topics": [
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-china-shock-20-this-time-its",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -11915,6 +11943,24 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "chinatalk-ep-fdcd6da6-6e55-11f1-8b21-73f5c195b00c",
+        "podcastId": "chinatalk",
+        "podcastTitle": "ChinaTalk",
+        "title": "Economic Security Megapod!",
+        "description": "Earlier this year, we ran an essay contest on economic security. We gave entrants two prompts: What are the most important high level KPIs that policy should aim for? What is the analogy of the Fed’s ’2% inflation and full employment’ target for e...",
+        "publishDate": "2026-06-24",
+        "duration": 4778,
+        "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL6888536958.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "chinatalk-ep-cf89f0d0-6dd9-11f1-a86c-5b336e9c2073",
         "podcastId": "chinatalk",
@@ -82993,6 +83039,23 @@
     ],
     "episodes": [
       {
+        "id": "sharp-china-ep-https---sharpchina-fm-member-episode-preview-party-building-",
+        "podcastId": "sharp-china",
+        "podcastTitle": "Sharp China with Bill Bishop",
+        "title": "(Preview) Party Building and Xi’s Dominance; Memory Chips and ASML Accusations; Germany’s Puzzling Push for Plaza Accords",
+        "description": "On today’s show Andrew and Bill begin with Xi Jinping Thought on Party Building and further signs that one year after from a summer of rumors and one year out from the 21st Party Congress, Xi’s power remains entrenched as ever. Then: MOFCOM and th...",
+        "publishDate": "2026-06-24",
+        "duration": 852,
+        "audioUrl": "https://sharpchina.fm/assets/sharpchina159-preview.mp3?access_token=MSorAZNuXsdNR1taQBKjcF",
+        "topics": [
+          "Semiconductors & AI",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Geopolitics & Politics",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "sharp-china-ep-https---sharpchina-fm-member-episode-preview-xi-goes-to-nort",
         "podcastId": "sharp-china",
         "podcastTitle": "Sharp China with Bill Bishop",
@@ -97649,6 +97712,34 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-2765134",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "The hidden costs of working from home",
+        "description": "We celebrated the work-from-home revolution with no traffic, no commute, and total freedom. But the research is in, and the findings are unsettling. Days without face-to-face contact are taking a real toll. Isolation is rising, relationships are f...",
+        "publishDate": "2026-06-24",
+        "duration": 1268,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2606/1082289146620.mp3",
+        "topics": [
+          "Dynastic History"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765131",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Such a major decision",
+        "description": "The Gaokao is over, but a new pressure has just begun. What to study? What to become? This year, Chinese universities are rewriting the rules with flexible tracks and unconventional majors. Their message is simple. Your major is not your destiny. ...",
+        "publishDate": "2026-06-24",
+        "duration": 1852,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2606/1082289041472.mp3",
+        "topics": [
+          "Dynastic History",
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2765122",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -104707,6 +104798,209 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0624ric",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Why Beijing Is Dropping Its ‘Get Rich’ Propaganda",
+        "description": "",
+        "publishDate": "2026-06-24",
+        "duration": 984,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0624/7df25067-c2b5-4bac-8936-46ed78bab344/audio.mp3?length=11812032&duration=984",
+        "topics": [
+          "Daily Life"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0624tw",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "UK, France, Germany Warn About Chinese Actions in Taiwan",
+        "description": "",
+        "publishDate": "2026-06-24",
+        "duration": 238,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0624/d4fdcb9e-875e-4f34-9bee-190b6fe015b9/audio.mp3?length=2839680&duration=236",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0624m27",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chinese National Sentenced to 27 Months for Defrauding Elderly Floridians",
+        "description": "",
+        "publishDate": "2026-06-24",
+        "duration": 259,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0624/aa8d856d-efdd-423e-85ce-f192713aebc1/audio.mp3?length=3114432&duration=259",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0624hos",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Senator Criticizes CCP for Engaging in ‘Hostage Diplomacy’ Over Detention of American Scholar",
+        "description": "",
+        "publishDate": "2026-06-24",
+        "duration": 377,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0624/b8f93bc7-32bf-41d6-b7ca-874b520961b3/audio.mp3?length=4531104&duration=377",
+        "topics": [
+          "US-China Relations",
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0624tec",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Why Tech Giants Cannot Hide Behind Diplomacy",
+        "description": "",
+        "publishDate": "2026-06-24",
+        "duration": 705,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0503/7079cb02-1785-44ee-b95d-ac79b1f90494/audio.mp3?length=8461152&duration=705",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Geopolitics & Politics",
+          "Tech & Business"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0624csc",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "The Cisco Decision Closed the Courthouse Door. It Did Not Resolve the Facts.",
+        "description": "",
+        "publishDate": "2026-06-24",
+        "duration": 397,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0624/eb382161-25ec-4551-9a66-1ff49294dc57/audio.mp3?length=4764960&duration=397",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0624mh",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Falun Dafa News from Around the World – June 24, 2026 ",
+        "description": "",
+        "publishDate": "2026-06-24",
+        "duration": 1440,
+        "audioUrl": "https://en.minghui.org/u/files/podcasts/emh-podcast/EMHPodcast_2104-News.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-gyf20",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 20 Pan Renmei Was Punished as a Imperial Relative",
+        "description": "Masterpiece Podcasts: Collection of Chinese Classic Novels",
+        "publishDate": "2026-06-24",
+        "duration": 1752,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/gyf20.mp3",
+        "topics": [
+          "Feminism & Arts"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0623fbi",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "FBI Details How Suspected Chinese Agents Target US Security Clearance Holders",
+        "description": "",
+        "publishDate": "2026-06-23",
+        "duration": 503,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0623/f40caf88-ffc9-41bd-a6b3-a00895d2cc7f/audio.mp3?length=6038784&duration=503",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0623prv",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Financial Trouble Throughout China’s Provincial Governments",
+        "description": "",
+        "publishDate": "2026-06-23",
+        "duration": 190,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0623/617defbf-0c7b-4322-8a76-b8c42c4c2e8f/audio.mp3?length=2287584&duration=190",
+        "topics": [
+          "Daily Life"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0623bbm",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "CCP Arrests US Citizens to Protect Strategic Interests in Burma",
+        "description": "",
+        "publishDate": "2026-06-23",
+        "duration": 425,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0623/298f1412-de83-435e-b829-75d8d8fc4525/audio.mp3?length=5101920&duration=425",
+        "topics": [
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0623so",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chinese Military Companies Are Allegedly Operating on US Soil",
+        "description": "",
+        "publishDate": "2026-06-23",
+        "duration": 281,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0623/d962cba4-5f94-48c1-b055-728ff6ffcced/audio.mp3?length=3376800&duration=281",
+        "topics": [
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0623atl",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "The CCP Wants to Subjugate Taiwan—She’s Standing in the Way | An Exclusive With Hsiao Bi-Khim",
+        "description": "",
+        "publishDate": "2026-06-23",
+        "duration": 1907,
+        "audioUrl": "https://episodes.captivate.fm/episode/e3fb78cd-82fb-4fb2-8e4e-9a788b25a2ef.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0623cf",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Taiwan Begins Drill Simulating War Scenario ",
+        "description": "",
+        "publishDate": "2026-06-23",
+        "duration": 1255,
+        "audioUrl": "https://episodes.captivate.fm/episode/25b613bc-691c-4c0f-8b46-5751752109ab.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-gyf19",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 19 In a Desperate Move to Revenge His Family Yanzhao Unknowingly Helped a Liao Spy",
+        "description": "Masterpiece Podcasts: Collection of Chinese Classic Novels",
+        "publishDate": "2026-06-23",
+        "duration": 1733,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/gyf19.mp3",
+        "topics": [
+          "Feminism & Arts"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0622tw",
         "podcastId": "china-in-depth",
