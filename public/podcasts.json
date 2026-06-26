@@ -16,6 +16,21 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-agile-governance-tsinghuas-x",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "Agile Governance: Tsinghua's Xue Lan on How China Regulates What It Can't Fully Predict",
+        "description": "What happens when technology moves faster than the rules meant to govern it?",
+        "publishDate": "2026-06-25",
+        "duration": 1800,
+        "audioUrl": "https://api.substack.com/feed/podcast/203506077/24cc55572b3cdd31926e12580869f1a9.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Tech & Business"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-podcast-china-shock-20-this-",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -2356,6 +2371,26 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "pekingology-ep-bec3c7f0-7011-11f1-807c-5bdc0e739569",
+        "podcastId": "pekingology",
+        "podcastTitle": "Pekingology",
+        "title": "China Was Ready for the Age of Anarchy",
+        "description": "As a global power, China faces a growing tension between its ambitions to reshape the international order and its disinterest in bearing the costs of upholding that new system. In this episode of Pekingology, CSIS Senior Fellow Henrietta Levin is ...",
+        "publishDate": "2026-06-25",
+        "duration": 2611,
+        "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/cohst.app/pdcst/0C0K2I/traffic.megaphone.fm/CSIS2879402946.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "History",
+          "Geopolitics & Politics",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "pekingology-ep-668fff9e-6509-11f1-a300-fb0089a1803d",
         "podcastId": "pekingology",
@@ -11915,13 +11950,14 @@
         "podcastId": "chp",
         "podcastTitle": "The China History Podcast",
         "title": "Ep. 3 | The Four Great Inventions",
-        "description": "Today we look at the Four Great Inventions, the 四大发明, that Lord Francis Bacon hailed as having done more than anything else to transform completely the modern world and mark it off from antiquity and the Middle Ages. The four great inventions were...",
+        "description": "This was one of the first episodes ever presented back in 2010. And it has stood the test of time, still as popular as ever. I hope you'll enjoy this romp through Chinese history through the lens of some of the great inventions and innovations. Be...",
         "publishDate": "2010-06-24",
-        "duration": 1779,
-        "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/be7f8b11-c1d1-43ec-b3ff-e615f54dfb5f/TNM7936234550.mp3?dest-id=4955980",
+        "duration": 1738,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/be7f8b11-c1d1-43ec-b3ff-e615f54dfb5f/CHP-003-The_Four_Great_InventionsR26.mp3?dest-id=4955980",
         "topics": [
           "Semiconductors & AI",
-          "Dynastic History"
+          "Dynastic History",
+          "History"
         ]
       }
     ],
@@ -97712,6 +97748,38 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-2765149",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Who really wrote that novel?",
+        "description": "Artificial intelligence is a useful tool for many people, but what does it mean for writers? A prize-winning sci-fi author has admitted that part of her new book came from AI. A bestselling novelist now uses AI chat bot for research. Platforms are...",
+        "publishDate": "2026-06-25",
+        "duration": 1043,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2606/1082378650037.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765146",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "From the campus to the company",
+        "description": "The Class of 2026 is entering a job market that no longer follows the old rules. The megacity dream is fading, and patents are replacing theses for a growing number of graduates. Success is being redefined by a generation that is choosing careers ...",
+        "publishDate": "2026-06-25",
+        "duration": 2109,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2606/1082378585353.mp3",
+        "topics": [
+          "Dynastic History",
+          "Daily Life",
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2765134",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -104798,6 +104866,48 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0625vi",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "US Snubs APEC Meeting in Macau in Protest of China’s Visa Restrictions",
+        "description": "",
+        "publishDate": "2026-06-25",
+        "duration": 217,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0625/dc9249c7-9537-445e-aecd-de6bcff3dc47/audio.mp3?length=2606112&duration=217",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0625tw",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "US Congress Welcomes Taiwan’s Parliament President, Pledges Support Against Chinese Threats",
+        "description": "",
+        "publishDate": "2026-06-25",
+        "duration": 422,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0626/15ff45ae-9d3a-4fb2-94f9-ff711881931d/audio.mp3?length=5067648&duration=422",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-gyf21",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 21 Emperor Taizong Passed Away and His Son, the 7th Prince, Became Emperor Zhenzong",
+        "description": "Masterpiece Podcasts: Collection of Chinese Classic Novels",
+        "publishDate": "2026-06-25",
+        "duration": 1806,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/gyf21.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0624ric",
         "podcastId": "china-in-depth",
