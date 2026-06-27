@@ -16,6 +16,21 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-china-as-a-platform-state-wi",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "China as a Platform State, with Angela Zhang and Alex Yang",
+        "description": "Beijing isn't picking winners but building the arena. Two scholars explain why that distinction could determine who leads the AI era.",
+        "publishDate": "2026-06-27",
+        "duration": 1800,
+        "audioUrl": "https://api.substack.com/feed/podcast/203510173/e5581c83ea01cebb4c85bbe131c2e115.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-agile-governance-tsinghuas-x",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -11979,6 +11994,25 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "chinatalk-ep-bbbe4620-7179-11f1-a28f-cb0effe25d9e",
+        "podcastId": "chinatalk",
+        "podcastTitle": "ChinaTalk",
+        "title": "WarTalk: Jack Murphy of Team House on Donahue + SOF",
+        "description": "Jack Murphy — former special forces and Ranger Regiment, co-founder of The Team House, and author of the new novel The Most Dangerous Man — joins WarTalk to talk about the strangest corners of special operations history and what the war on terror ...",
+        "publishDate": "2026-06-26",
+        "duration": 4178,
+        "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL5063801538.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "History",
+          "Geopolitics & Politics",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "chinatalk-ep-fdcd6da6-6e55-11f1-8b21-73f5c195b00c",
         "podcastId": "chinatalk",
@@ -29197,6 +29231,22 @@
       "Tech & Business"
     ],
     "episodes": [
+      {
+        "id": "china-global-south-ep-5f9ec484-d00a-4c0c-86e0-9e141d7b2296",
+        "podcastId": "china-global-south",
+        "podcastTitle": "The China-Global South Podcast",
+        "title": "Kenya's China Debt Restructuring Explained",
+        "description": "Kenya's landmark debt restructuring deal with China, announced last year, converted $3 billion in outstanding China Exim Bank loans from U.S. dollars to Chinese yuan. The currency switch could save the East African country more than $200 million i...",
+        "publishDate": "2026-06-26",
+        "duration": 2230,
+        "audioUrl": "https://traffic.libsyn.com/secure/ea0f0fdd-2944-4ff3-8a00-704e8c67d58b/CGSP.mp3?dest-id=4287628",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Economic Reform",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-global-south-ep-2e676c20-7f1a-4ab9-9ae2-65fd780d10d8",
         "podcastId": "china-global-south",
@@ -97748,6 +97798,38 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-2765164",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "The Full Circle: digital babysitting, AI doctors, AI authors",
+        "description": "Digital babysitters, AI doctors, and AI authors walk into a story. It sounds like the start of a joke, but it's actually the beginning of something bigger. In The Full Circle, we find the unexpected link between three very different scenes. / Have...",
+        "publishDate": "2026-06-26",
+        "duration": 1461,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2606/1082464738490.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765161",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Shelf wars: grocers strike back",
+        "description": "Something has shifted in the grocery aisle. Store brands now dominate grocery shelves, and major retailers are competing head‑to‑head with the brands they once stocked. From the rise of private labels to the strategies that power them, the real qu...",
+        "publishDate": "2026-06-26",
+        "duration": 1703,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2606/1082464670262.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2765149",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -104496,6 +104578,23 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "wire-china-ep-buzzsprout-19403076",
+        "podcastId": "wire-china",
+        "podcastTitle": "The Wire China Podcast",
+        "title": "The Organization at the Heart of China&#39;s Tech Complex",
+        "description": "China’s leading science organization does much more than spearhead basic research. It runs universities, advises the government, and incubates leading technology companies in frontier areas such as quantum and AI.In this episode, news editor Andre...",
+        "publishDate": "2026-06-26",
+        "duration": 918,
+        "audioUrl": "https://www.buzzsprout.com/2591600/episodes/19403076-the-organization-at-the-heart-of-china-s-tech-complex.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "wire-china-ep-buzzsprout-19368993",
         "podcastId": "wire-china",
