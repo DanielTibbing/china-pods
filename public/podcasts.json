@@ -104966,6 +104966,103 @@
     ],
     "episodes": [
       {
+        "id": "china-in-depth-ep-0626pole",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "US Blocks Polestar From Selling New Vehicles in 2027 Over China Connections",
+        "description": "",
+        "publishDate": "2026-06-26",
+        "duration": 196,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0626/afb04b60-a24a-4a17-aabd-bcb644568eed/audio.mp3?length=2359296&duration=196",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0626kaz",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Kazakh Authorities Arrest Family of Activist Who Spoke out Against Xinjiang Abuses",
+        "description": "",
+        "publishDate": "2026-06-26",
+        "duration": 286,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0626/25daa0ee-cb3b-4559-a018-5e81d9ae3b2f/audio.mp3?length=3435552&duration=286",
+        "topics": [
+          "Semiconductors & AI",
+          "Feminism & Arts"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0626zhu",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Andy Zhu, Accused of Bribing an Eric Adams Adviser, Donated to Foundation Operating Secret Police Station",
+        "description": "",
+        "publishDate": "2026-06-26",
+        "duration": 218,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0626/9a4e4c8a-78da-4839-8de3-2a8c16afa280/audio.mp3?length=2616768&duration=218",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0626trmp",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Trump Calls Communism ‘Most Serious Threat’ Since Nation’s Founding",
+        "description": "",
+        "publishDate": "2026-06-26",
+        "duration": 370,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0626/018e8b71-f068-49ec-a1a2-4ab95211e510/audio.mp3?length=4443552&duration=370",
+        "topics": [
+          "US-China Relations"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0626los",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s 2026 Economic ‘Strong Start’ Loses Steam",
+        "description": "",
+        "publishDate": "2026-06-26",
+        "duration": 553,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0626/de31bda8-855a-4c2b-a6d9-f80b40942127/audio.mp3?length=6643584&duration=553",
+        "topics": [
+          "Feminism & Arts",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0626bj",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Beijing Demands Still More Economic Control",
+        "description": "",
+        "publishDate": "2026-06-26",
+        "duration": 267,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0626/99256d5a-4910-4752-8476-fb2ea459c10a/audio.mp3?length=3215520&duration=267",
+        "topics": [
+          "Daily Life",
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-gyf22",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 22 For the Sake of the State Liulang Chooses the Job to Build and Carry out Defence at a Critical Border Town",
+        "description": "Masterpiece Podcasts: Collection of Chinese Classic Novels",
+        "publishDate": "2026-06-26",
+        "duration": 2130,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/gyf22.mp3",
+        "topics": [
+          "Feminism & Arts"
+        ]
+      },
+      {
         "id": "china-in-depth-ep-0625vi",
         "podcastId": "china-in-depth",
         "podcastTitle": "China in Depth",
