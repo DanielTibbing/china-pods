@@ -16,6 +16,19 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-the-card-master-phrase-of-th",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "\"The Card Master\" — Phrase of the Week",
+        "description": "China&#8217;s only star on the pitch at the World Cup",
+        "publishDate": "2026-06-28",
+        "duration": 1800,
+        "audioUrl": "https://substackcdn.com/image/fetch/$s_!TS-r!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa8f5d54c-9325-4fa3-a1e8-5b1b1365f7bc_2000x1200.jpeg",
+        "topics": [
+          "Geopolitics & Politics"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-china-as-a-platform-state-wi",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -42105,6 +42118,22 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "sr-kina-ep-rss-sr-se-pod-eid-2831343",
+        "podcastId": "sr-kina",
+        "podcastTitle": "Radiokorrespondenterna Kina",
+        "title": "Kinas pengar regnar över fotbolls-VM",
+        "description": "Kina spelar inte. Men sommarens fotboll blir ändå en arena för Kinas mjuka makt. Flera sponsorer och även tekniken i mästerskapet kommer från Kina. Lyssna på alla avsnitt i Sveriges Radios app. Fotbolls-VM 2026 slår sponsorrekord och flera av Fifa...",
+        "publishDate": "2026-06-29",
+        "duration": 1650,
+        "audioUrl": "https://static-cdn.sr.se/laddahem/podradio/2026/06/radiokorrespondenterna_kina_kinas_pengar_regnar_over_fotbo_20260626_1614246061.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Feminism & Arts",
+          "Geopolitics & Politics",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "sr-kina-ep-rss-sr-se-pod-eid-2827057",
         "podcastId": "sr-kina",
@@ -104965,6 +104994,103 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0628eq",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "US Expands Ban on Imports of Chinese Telecom, Surveillance Equipment",
+        "description": "",
+        "publishDate": "2026-06-28",
+        "duration": 200,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0627/2f5ebda8-dc42-4373-90dc-eeb87c9ca9f0/audio.mp3?length=2401344&duration=200",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0628tw",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "US Urges States, Businesses to Expand Taiwan Ties Amid Chinese Pressure",
+        "description": "",
+        "publishDate": "2026-06-28",
+        "duration": 180,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0628/91173c54-76f8-4753-a741-175e9a66ac64/audio.mp3?length=2166048&duration=180",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0628un",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Senators Introduce Bipartisan Resolution Condemning China’s Ethnic Unity Law",
+        "description": "",
+        "publishDate": "2026-06-28",
+        "duration": 324,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0628/60250b84-29c7-4d77-a6a0-fd670a3bc594/audio.mp3?length=3893184&duration=324",
+        "topics": [
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0628ai",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "In AI Race With China, America Must Put Dominance Before Cooperation",
+        "description": "",
+        "publishDate": "2026-06-28",
+        "duration": 478,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0627/87d381b7-5d5e-457c-90e5-20edcff96f18/audio.mp3?length=5745600&duration=478",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0628chi",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China Gets a Little Good News on the Economy, but Not Enough to Alter the General Picture of Struggle",
+        "description": "",
+        "publishDate": "2026-06-28",
+        "duration": 315,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0328/c4686a20-29dc-47eb-abff-1260ef8f1f3d/audio.mp3?length=3790944&duration=315",
+        "topics": [
+          "Economic Reform"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0628xi",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Xi’s Summit Promise of Openness Is Giving Way to Greater Control",
+        "description": "",
+        "publishDate": "2026-06-28",
+        "duration": 492,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0628/5a4e86be-3bdc-429b-bcb6-92684c279e23/audio.mp3?length=5913216&duration=492",
+        "topics": [
+          "US-China Relations"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-gyf23",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 23 Mengliang Sneaks out the Song Camp Deep into the Enemy Territory to Retrieve Yang Ye's Remains",
+        "description": "Masterpiece Podcasts: Collection of Chinese Classic Novels",
+        "publishDate": "2026-06-28",
+        "duration": 2133,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/gyf23.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0626pole",
         "podcastId": "china-in-depth",
