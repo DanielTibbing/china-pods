@@ -97827,6 +97827,38 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-2765182",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "The Soapbox: speaker off or get off",
+        "description": "You are settled into your seat and finally relaxing. Then someone starts blasting videos without headphones. One airline says that is now a punishable offense, and the penalty could go as high as a permanent ban. On the show: Steve, Yushan & Yushun",
+        "publishDate": "2026-06-29",
+        "duration": 1261,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2606/1082724158597.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765179",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "The end of commute misery",
+        "description": "For millions of commuters, the daily trek is a draining puzzle of schedules and traffic jams. Now China is weaving suburban rail, subways, bikes, and roads into a smarter transportation web across its megacities. If the slog shrinks, people might ...",
+        "publishDate": "2026-06-29",
+        "duration": 1861,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2606/1082724095635.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2765164",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -104994,6 +105026,74 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0629tw2",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China to Squeeze Taiwan Just Short of War, Despite Chorus of International Alarm: Analysts",
+        "description": "",
+        "publishDate": "2026-06-29",
+        "duration": 411,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0629/17ea048b-1dc0-403c-bf30-4c938cf2c700/audio.mp3?length=4938336&duration=411",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0629jp2",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China Imposes Export Curbs on 40 Japanese Entities, Research Institutes Over Military Ties",
+        "description": "",
+        "publishDate": "2026-06-29",
+        "duration": 216,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0629/d4909376-48b2-4442-9988-a3ea9a12ae7a/audio.mp3?length=2594592&duration=216",
+        "topics": [
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0629tw",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China Ramps Up Patrols Near Taiwan Following Japan–Philippines Border Talks",
+        "description": "",
+        "publishDate": "2026-06-29",
+        "duration": 287,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0607/7ce92f49-ea01-47fd-b070-61f2568bb086/audio.mp3?length=3455712&duration=287",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0629jp",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Who’s Afraid of Japan in Asia? Almost Nobody",
+        "description": "",
+        "publishDate": "2026-06-29",
+        "duration": 381,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0629/3c5d1a0b-86bb-436b-ac65-b6d33d77a5cf/audio.mp3?length=4583232&duration=381",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-gyf24",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 24 A Rogue Mengliang Has Not Only Retrieved Yangye' Remains But Also Stolen a Treasure horse from the Liao",
+        "description": "Masterpiece Podcasts: Collection of Chinese Classic Novels",
+        "publishDate": "2026-06-29",
+        "duration": 1970,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/gyf24.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Feminism & Arts"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0628eq",
         "podcastId": "china-in-depth",
