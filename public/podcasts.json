@@ -12008,6 +12008,26 @@
     ],
     "episodes": [
       {
+        "id": "chinatalk-ep-ea2b2a28-6bfc-11f1-861d-dbb1c081b969",
+        "podcastId": "chinatalk",
+        "podcastTitle": "ChinaTalk",
+        "title": "Taiwan's War on Renewables [Fully Produced Radio Show!]",
+        "description": "Welcome to another installment of the ChinaTalk radio show! Today, we’re diving into Taiwan’s war on green energy. Shenanigans abound in this episode, including: The lights-out scenario — Taiwan only holds 11 days of LNG reserves, and 97% of the i...",
+        "publishDate": "2026-06-30",
+        "duration": 4513,
+        "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL1768517968.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "chinatalk-ep-bbbe4620-7179-11f1-a28f-cb0effe25d9e",
         "podcastId": "chinatalk",
         "podcastTitle": "ChinaTalk",
@@ -86456,6 +86476,20 @@
     ],
     "episodes": [
       {
+        "id": "asia-chessboard-ep-284ddc04-7488-11f1-8a3f-dfb0e272e1fd",
+        "podcastId": "asia-chessboard",
+        "podcastTitle": "The Asia Chessboard",
+        "title": "The New Great Game in the Pacific Islands",
+        "description": "In this episode, Mike is joined by Ambassador Laura Stone, who most recently served as U.S. Ambassador to the Republic of the Marshall Islands and previously held senior leadership roles at the U.S. Department of State, including Deputy Assistant ...",
+        "publishDate": "2026-06-30",
+        "duration": 2761,
+        "audioUrl": "https://traffic.megaphone.fm/CSIS4604084937.mp3",
+        "topics": [
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "asia-chessboard-ep-05885666-6b2f-11f1-9770-332848a18d83",
         "podcastId": "asia-chessboard",
         "podcastTitle": "The Asia Chessboard",
@@ -96517,6 +96551,21 @@
     ],
     "episodes": [
       {
+        "id": "asia-insight-ep-nbrpodcasts-podbean-com-a37504de-7f19-32b6-aa15-6356abe92865",
+        "podcastId": "asia-insight",
+        "podcastTitle": "Asia Insight (NBR)",
+        "title": "Next in Line: Malaysia’s Rising Leaders and Foreign Policy",
+        "description": "From the National Bureau of Asian Research, an Asia Insight miniseries examining the future of foreign policy through the lens of emerging leadership in South and Southeast Asia. This fourth episode features Dr. Ann Marie Murphy of Seton Hall Univ...",
+        "publishDate": "2026-07-01",
+        "duration": 2184,
+        "audioUrl": "https://mcdn.podbean.com/mf/web/ra9scaz8mywqbk3q/Next_in_Line_-_Episode_4_-_June_2026_mixdownblt6w.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Geopolitics & Politics",
+          "Tech & Business"
+        ]
+      },
+      {
         "id": "asia-insight-ep-nbrpodcasts-podbean-com-c4b7ae40-9420-310d-a5c8-0bf9c5ff2380",
         "podcastId": "asia-insight",
         "podcastTitle": "Asia Insight (NBR)",
@@ -97826,6 +97875,32 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "roundtable-china-ep-1-2765194",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Why all your screens just got pricier",
+        "description": "Prices are rising across the entire consumer electronics sector, yet this surge does not follow the usual pattern. The driving force is neither a raw material crunch nor a logistics breakdown. A far larger transformation is recalibrating the cost ...",
+        "publishDate": "2026-06-30",
+        "duration": 1175,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2606/1082809240812.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765191",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Your block, rebuilt from within",
+        "description": "We tend to picture Chinese cities as endless expansion machines. But the next five years are about retrofitting, not rebuilding. The national strategy has pivoted to upgrading existing neighborhoods. By 2030, your street might not look radically d...",
+        "publishDate": "2026-06-30",
+        "duration": 1958,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2606/1082809153953.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
       {
         "id": "roundtable-china-ep-1-2765182",
         "podcastId": "roundtable-china",
