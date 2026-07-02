@@ -16,6 +16,34 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-transcript-agile-governance-",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "Transcript | Agile Governance: Tsinghua's Xue Lan on How China Regulates What It Can't Fully Predict",
+        "description": "Transcript (courtesy of the fantastic CadreScripts) further down the page.",
+        "publishDate": "2026-07-01",
+        "duration": 1800,
+        "audioUrl": "https://substackcdn.com/image/fetch/$s_!ofxY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8a9c3570-a0c6-4cac-bab5-5509e0bf420a_1400x1000.png",
+        "topics": [
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-podcast-agile-governance-tsi",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "Podcast | Agile Governance: Tsinghua's Xue Lan on How China Regulates What It Can't Fully Predict",
+        "description": "Recorded live from the Davos on Air booth at the World Economic Forum's Annual Meeting of the New Champions in Dalian, this special episode of Sinica tackles the \"pacing problem\": the widening gap between how fast AI moves and how slowly regulatio...",
+        "publishDate": "2026-07-01",
+        "duration": 1800,
+        "audioUrl": "https://api.substack.com/feed/podcast/204402246/695799a5f964ea2f4858aa5403fcec28.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-the-card-master-phrase-of-th",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -88430,14 +88458,30 @@
     ],
     "episodes": [
       {
+        "id": "made-in-china-de-ep-buzzsprout-19431880",
+        "podcastId": "made-in-china-de",
+        "podcastTitle": "Made in China (German)",
+        "title": "#217 – Von Shanghai nach Köln: China Learnings für den europäischen E-Commerce Markt",
+        "description": "In dieser Folge sprechen Damian und Thomas direkt aus Köln über ihren aktuellen Deutschland-Trip und ihre Eindrücke rund um die K5 in Berlin. Dabei geht es um die Frage, wie sich die Perspektive auf Deutschland und China verändert, welche Learning...",
+        "publishDate": "2026-07-01",
+        "duration": 1361,
+        "audioUrl": "https://www.buzzsprout.com/1869386/episodes/19431880-217-von-shanghai-nach-koln-china-learnings-fur-den-europaischen-e-commerce-markt.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Tech & Business"
+        ]
+      },
+      {
         "id": "made-in-china-de-ep-buzzsprout-19393993",
         "podcastId": "made-in-china-de",
         "podcastTitle": "Made in China (German)",
-        "title": "Vom roten Umschlag bis zur Chip-Revolution: Wie Huawei China und Deutschland verbindet - Carsten Senz, Vice President Corporate Communications Huawei Deutschland",
+        "title": "#216 – Vom roten Umschlag bis zur Chip-Revolution: Wie Huawei China und Deutschland verbindet - Carsten Senz, Vice President Corporate Communications Huawei Deutschland",
         "description": "Was passiert, wenn jemand seit 16 Jahren mitten in der deutsch-chinesischen Schnittstelle arbeitet, China nicht nur aus der Distanz beobachtet, sondern aus der Praxis erklärt und zum zweiten Mal bei uns zu Gast ist? In dieser Folge spricht Carsten...",
         "publishDate": "2026-06-24",
         "duration": 2451,
-        "audioUrl": "https://www.buzzsprout.com/1869386/episodes/19393993-vom-roten-umschlag-bis-zur-chip-revolution-wie-huawei-china-und-deutschland-verbindet-carsten-senz-vice-president-corporate-communications-huawei-deutschland.mp3",
+        "audioUrl": "https://www.buzzsprout.com/1869386/episodes/19393993-216-vom-roten-umschlag-bis-zur-chip-revolution-wie-huawei-china-und-deutschland-verbindet-carsten-senz-vice-president-corporate-communications-huawei-deutschland.mp3",
         "topics": [
           "Semiconductors & AI",
           "Daily Life",
@@ -97876,6 +97920,41 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-2765206",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "The track that changed everything",
+        "description": "Two decades after the Qinghai–Xizang Railway first sliced across the plateau, the tracks tell a story bigger than engineering. At 4,000 meters, they've rewired daily life, shifting supply chains, redirecting tourism, and speeding the flow of ideas...",
+        "publishDate": "2026-07-01",
+        "duration": 1727,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2607/1082897800194.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765209",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Your life, their data, your job",
+        "description": "You have heard of gig work, but this is different. There are no apps and no ratings. There is just a camera strapped to your head while you fold laundry, care for children, or operate a sewing machine. Your daily life is recorded and sold to the b...",
+        "publishDate": "2026-07-01",
+        "duration": 1391,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2607/1082897843283.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2765194",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -105101,6 +105180,128 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0701ccp",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "CCP Expanding International Repression Through New ‘Ethnic Unity Law,’ Warns House Resolution",
+        "description": "",
+        "publishDate": "2026-07-01",
+        "duration": 294,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0701/fc2998a6-b9d3-411b-acc4-4a428644ce27/audio.mp3?length=3538080&duration=294",
+        "topics": [
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0701tw",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Taiwan Ships Should Ignore Boarding Requests by China’s Coast Guard, Taipei Says",
+        "description": "",
+        "publishDate": "2026-07-01",
+        "duration": 316,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0701/c84f42e3-9881-44f1-8a3f-71cf0a5a56ad/audio.mp3?length=3793824&duration=316",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0701mh",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Falun Dafa News from Around the World – July 1, 2026",
+        "description": "",
+        "publishDate": "2026-07-01",
+        "duration": 1270,
+        "audioUrl": "https://en.minghui.org/u/files/podcasts/emh-podcast/EMHPodcast_2110-News.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-gyf26",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 26 Wulang(5th Bro) and Jiumei(9th Sis) Risked Everything and Victoriously Rescued Yanzhao's Army",
+        "description": "Masterpiece Podcasts: Collection of Chinese Classic Novels",
+        "publishDate": "2026-07-01",
+        "duration": 2277,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/gyf26.mp3",
+        "topics": [
+          "Feminism & Arts"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0630guo",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Self-Exiled Chinese Businessman Guo Wengui Sentenced to 30 Years in US Prison",
+        "description": "",
+        "publishDate": "2026-06-30",
+        "duration": 198,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0630/2bcc28cf-0054-4e9c-b827-649591422626/audio.mp3?length=2381760&duration=198",
+        "topics": [
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0630thr",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Americans Facing Escalated Threats and Intimidation From China: Report",
+        "description": "",
+        "publishDate": "2026-06-30",
+        "duration": 451,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0630/8fe9427c-bc27-4de1-9b88-64f999b232e2/audio.mp3?length=5422464&duration=451",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0630eth",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s Ethnic Unity Law Could Have Global Reach, Taiwan Experts Warn",
+        "description": "",
+        "publishDate": "2026-06-30",
+        "duration": 359,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0630/0cd3e924-a1b8-45ae-a3a4-a3093447f0d1/audio.mp3?length=4313088&duration=359",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0630drg",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "House China Committee Demands Records From 5 US Drugmakers on China Trials",
+        "description": "",
+        "publishDate": "2026-06-30",
+        "duration": 1970,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0630/09cfde41-ddb5-4320-9d84-7ec086e2afa2/audio.mp3?length=5506560&duration=458",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-gyf25",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 25 A Steadfast Mengliang Has to Steal Horse Again, This Time From the Song Imperial Stable",
+        "description": "Masterpiece Podcasts: Collection of Chinese Classic Novels",
+        "publishDate": "2026-06-30",
+        "duration": 2079,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/gyf25.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0629tw2",
         "podcastId": "china-in-depth",
