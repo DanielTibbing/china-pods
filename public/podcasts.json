@@ -25655,6 +25655,22 @@
     ],
     "episodes": [
       {
+        "id": "soas-context-ep-tag-soundcloud-2010-tracks-2351929796",
+        "podcastId": "soas-context",
+        "podcastTitle": "China in Context",
+        "title": "Ep210: Family and Relationship Trends in China — Across generations, across the urban-rural divide",
+        "description": "There’s been much talk recently about China’s demographic challenges: a fast-ageing population, a fall in the number of marriages, and record low birth rates - despite the relaxation of the One Child Policy ten years ago - as well as a rise in div...",
+        "publishDate": "2026-07-02",
+        "duration": 2464,
+        "audioUrl": "https://feeds.soundcloud.com/stream/2351929796-soas-china-institute-ep210-family-and-relationship.mp3",
+        "topics": [
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "soas-context-ep-tag-soundcloud-2010-tracks-2341177133",
         "podcastId": "soas-context",
         "podcastTitle": "China in Context",
@@ -32259,6 +32275,19 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "china-power-ep-49d36df6-7633-11f1-ba07-07c3d127aa79",
+        "podcastId": "china-power",
+        "podcastTitle": "China Power",
+        "title": "China’s Role in Southeast Asia’s Scam Centers: A Conversation with Courtney Weatherb",
+        "description": "In this episode of the ChinaPower Podcast, Courtney Weatherby joins us to discuss the growing crisis of scam centers in Southeast Asia. She explains how these operations function, the role of Chinese criminal networks, and their impact on the Unit...",
+        "publishDate": "2026-07-02",
+        "duration": 2178,
+        "audioUrl": "https://traffic.megaphone.fm/CSIS5294035003.mp3",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
       {
         "id": "china-power-ep-ff6e6596-6b46-11f1-8465-b35f14bf80b8",
         "podcastId": "china-power",
@@ -97920,6 +97949,33 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-2765224",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Europe's AC dilemma",
+        "description": "Temperatures have soared past forty degrees across Europe. Schools have sent children home. Outdoor work has been banned. A famous landmark closed its doors. A continent built for cold winters now bakes under relentless heat. Air conditioning seem...",
+        "publishDate": "2026-07-02",
+        "duration": 1626,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2607/1082983337718.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765221",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "The future factory points up",
+        "description": "When it comes to how cities use land, what is the right formula? China is reimagining urban land use by looking inward, not outward. We are talking about turning empty warehouses into senior care centers, building vertical factories, and more. The...",
+        "publishDate": "2026-07-02",
+        "duration": 1499,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2607/1082983446191.mp3",
+        "topics": [
+          "Dynastic History"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2765206",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -105180,6 +105236,127 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0702xi",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s Xi Using Ethnic Unity Law to Build Legitimacy for Continued Rule, Taiwan Scholar Says",
+        "description": "",
+        "publishDate": "2026-07-02",
+        "duration": 594,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0702/0ff405f9-e860-4431-875c-391fe2926a84/audio.mp3?length=7128288&duration=594",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0702uni",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "US Vows to Defend Sovereignty as China Enacts ‘Ethnic Unity’ Law",
+        "description": "",
+        "publishDate": "2026-07-02",
+        "duration": 287,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0702/188632be-7318-4216-b0e9-f20acd45bd9a/audio.mp3?length=3454272&duration=287",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0702dod",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Lobbyists Drop Clients the Pentagon Has Linked to Chinese Military Activity",
+        "description": "",
+        "publishDate": "2026-07-02",
+        "duration": 217,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0702/16d6c46c-e35d-4886-9ef9-750ec903c730/audio.mp3?length=2613312&duration=217",
+        "topics": [
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0702how",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "How to Stop China’s Invasion of Taiwan",
+        "description": "",
+        "publishDate": "2026-07-02",
+        "duration": 365,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0702/59b42d9c-cf2e-4875-a7f1-66e63d9a5dd5/audio.mp3?length=4382208&duration=365",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0702spr",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s Spring Export Surge May Not Be as Durable as It Appears",
+        "description": "",
+        "publishDate": "2026-07-02",
+        "duration": 470,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0702/4e034011-2a56-4a86-b06a-f9fbaca9f638/audio.mp3?length=5640768&duration=470",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0702ch1",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "When ‘One China’ Becomes a Script",
+        "description": "",
+        "publishDate": "2026-07-02",
+        "duration": 392,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0702/e2edee4b-d49d-42a8-847a-baf5b88d537b/audio.mp3?length=4704480&duration=392",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0702can",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China Understands Leverage, and Canada Needs to Understand the Risks",
+        "description": "",
+        "publishDate": "2026-07-02",
+        "duration": 398,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0629/e3c559da-8c06-45a3-a066-35fc5c06c299/audio.mp3?length=4778208&duration=398",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0702ger",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Germany Wakes Up to the China Threat",
+        "description": "",
+        "publishDate": "2026-07-02",
+        "duration": 334,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0702/8510ad5c-c903-4c43-9fd6-0c87a97f6c4e/audio.mp3?length=4012416&duration=334",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-gyf27",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 27 At the Villain's Door Step a Rogue Jiao Zan Takes the Law in His Own Hands",
+        "description": "Masterpiece Podcasts: Collection of Chinese Classic Novels",
+        "publishDate": "2026-07-02",
+        "duration": 1944,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/gyf27.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0701ccp",
         "podcastId": "china-in-depth",
