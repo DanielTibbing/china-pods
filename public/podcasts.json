@@ -12036,6 +12036,23 @@
     ],
     "episodes": [
       {
+        "id": "chinatalk-ep-d867d354-76e2-11f1-84e8-ff42fe6fab7b",
+        "podcastId": "chinatalk",
+        "podcastTitle": "ChinaTalk",
+        "title": "Unitree and the Humanoid Robot Revolution",
+        "description": "Robots are here, and they’re going to change the world, with Unitree currently in pole position. Joining me to discuss are Niko Ciminelli, longtime SemiAnalysis advisor, robot kid and VC along with Reyk Knuhtsen, robotics lead at SemiAnalysis. Lil...",
+        "publishDate": "2026-07-04",
+        "duration": 3147,
+        "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL8038415845.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Economic Reform",
+          "History",
+          "Tech & Business"
+        ]
+      },
+      {
         "id": "chinatalk-ep-ea2b2a28-6bfc-11f1-861d-dbb1c081b969",
         "podcastId": "chinatalk",
         "podcastTitle": "ChinaTalk",
@@ -97949,6 +97966,34 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-2765236",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "How to change your mood in 60 seconds",
+        "description": "You know that nagging feeling that follows you through the day: what if a sixty-second mental move could dissolve it? Behavioral scientists have uncovered a practice called mental subtraction. It's not about positive thinking. It's a subtle reposi...",
+        "publishDate": "2026-07-03",
+        "duration": 1339,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2607/1083072426230.mp3",
+        "topics": [
+          "Dynastic History"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765233",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "How to keep history's hangouts cool",
+        "description": "Older cities are facing a new question, where preserving buildings and streets is no longer enough. Across China, historic neighborhoods are becoming living spaces where people don't just observe the past but actually experience it. So when ancien...",
+        "publishDate": "2026-07-03",
+        "duration": 1779,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2607/1083072365290.mp3",
+        "topics": [
+          "Dynastic History",
+          "History",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2765224",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -105236,6 +105281,46 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-https---vod-brightchat-com-assets-2026-0704-694d6863-3f81-4d",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Beijing’s Retaliation Against Panama Is Backfiring",
+        "description": "",
+        "publishDate": "2026-07-03",
+        "duration": 351,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0704/694d6863-3f81-4d83-b91c-7f24285d6845/audio.mp3?length=4213728&duration=351",
+        "topics": [
+          "Semiconductors & AI",
+          "Daily Life"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-https---vod-brightchat-com-assets-2026-0704-dbe7fde2-0e76-4c",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Is China’s Cadre Training System Taking a North Korea-Inspired Turn?",
+        "description": "",
+        "publishDate": "2026-07-03",
+        "duration": 468,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0704/dbe7fde2-0e76-4c50-8931-ea2e19459772/audio.mp3?length=5625792&duration=468",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-gyf28",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 28 They Secretly Arranged Liulang's Fake Execution...",
+        "description": "Masterpiece Podcasts: Collection of Chinese Classic Novels",
+        "publishDate": "2026-07-03",
+        "duration": 1999,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/gyf28.mp3",
+        "topics": [
+          "Feminism & Arts"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0702xi",
         "podcastId": "china-in-depth",
