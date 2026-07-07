@@ -97994,6 +97994,32 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-2765254",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Are we meeting ourselves to death?",
+        "description": "The average worker spends more than an entire workday each week in meetings. Calendars are overflowing, focus is fractured, and meaningful work keeps getting pushed aside. Meetings are necessary at times, but the real question is whether we are si...",
+        "publishDate": "2026-07-06",
+        "duration": 1509,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2607/1083328448641.mp3",
+        "topics": [
+          "Dynastic History"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765251",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Eldercare Is now a recognized profession",
+        "description": "China is turning eldercare into a licensed occupation. A new national certification is formalizing the workforce that will shape how millions of seniors are cared for. This is not about expanding beds or abstract policy. It is about who delivers c...",
+        "publishDate": "2026-07-06",
+        "duration": 1645,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2607/1083328389205.mp3",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2765236",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -105309,6 +105335,98 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0706hst",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Lawmakers Renew Calls for Action Against Falun Gong Persecution as Senate Weighs Organ-Harvesting Bills",
+        "description": "",
+        "publishDate": "2026-07-06",
+        "duration": 301,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0706/0bb8f1c7-b78b-4116-b292-c13cc560b7a2/audio.mp3?length=3613824&duration=301",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0706tst",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "CCP Test Fires Ballistic Missile in South Pacific Hours After New Australia-Fiji Defence Pact",
+        "description": "",
+        "publishDate": "2026-07-06",
+        "duration": 194,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0706/954b3815-c636-47af-bf27-1e1f4d14003b/audio.mp3?length=2331360&duration=194",
+        "topics": [
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0706eth",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s New Ethnic Unity Law Is Tool to Expand CCP’s Transnational Repression, Critics Say",
+        "description": "",
+        "publishDate": "2026-07-06",
+        "duration": 886,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0706/10238fe2-3012-4b23-8521-684eccd8569a/audio.mp3?length=10632384&duration=886",
+        "topics": [
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0706pop",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "How the CCP Won the War on Population—And Lost It",
+        "description": "",
+        "publishDate": "2026-07-06",
+        "duration": 492,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0707/1024ecfc-0fcc-4d6a-ba6b-98b1fdf84f20/audio.mp3?length=5914368&duration=492",
+        "topics": [
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0706sub",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China Ramping Up Nuclear-Powered Submarine Production: US Naval Intelligence",
+        "description": "",
+        "publishDate": "2026-07-06",
+        "duration": 343,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0302/6aca8e79-bcd4-4971-9143-a7cd8111c8e4/audio.mp3?length=4117248&duration=343",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0706nuk",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "The Chinese Regime’s Nuclear Threat",
+        "description": "",
+        "publishDate": "2026-07-06",
+        "duration": 433,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0707/20c80c2b-94d7-4544-8e72-2bd5455a7c5f/audio.mp3?length=5205888&duration=433",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-gyf30",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 30 Liulang Rises From His Status of Being Dead to Gather His Troops to Rescue the Emperor",
+        "description": "Masterpiece Podcasts: Collection of Chinese Classic Novels",
+        "publishDate": "2026-07-06",
+        "duration": 2060,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/gyf30.mp3",
+        "topics": [
+          "Dynastic History",
+          "Feminism & Arts"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0705trmp",
         "podcastId": "china-in-depth",
