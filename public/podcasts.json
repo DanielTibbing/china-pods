@@ -12049,6 +12049,25 @@
     ],
     "episodes": [
       {
+        "id": "chinatalk-ep-1d74cb0e-7a18-11f1-b816-cfaf6eee8cc5",
+        "podcastId": "chinatalk",
+        "podcastTitle": "ChinaTalk",
+        "title": "The Chemicals Powering the Chip Industry",
+        "description": "We cover: How the Iran War has exposed vulnerabilities in the semiconductor industry’s chemical supply chains. The chemistry behind chip manufacturing — why advanced semiconductors depend on toxic, explosive, and highly reactive chemicals and why ...",
+        "publishDate": "2026-07-07",
+        "duration": 4729,
+        "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL9831965762.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "chinatalk-ep-d867d354-76e2-11f1-84e8-ff42fe6fab7b",
         "podcastId": "chinatalk",
         "podcastTitle": "ChinaTalk",
@@ -77613,6 +77632,24 @@
     ],
     "episodes": [
       {
+        "id": "china-books-podcast-ep-buzzsprout-19454868",
+        "podcastId": "china-books-podcast",
+        "podcastTitle": "China Books Podcast",
+        "title": "China’s Disappearing Countryside, with Colin Flahive",
+        "description": "Over the last quarter century, the countryside of southwest China has been transformed. The author of two memoirs reflects on what is lost, and what is gained.The China Books Podcast is a companion of China Books Review, a project of Asia Society’...",
+        "publishDate": "2026-07-07",
+        "duration": 1932,
+        "audioUrl": "https://www.buzzsprout.com/2252666/episodes/19454868-china-s-disappearing-countryside-with-colin-flahive.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Daily Life",
+          "Feminism & Arts",
+          "History",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "china-books-podcast-ep-buzzsprout-19277158",
         "podcastId": "china-books-podcast",
         "podcastTitle": "China Books Podcast",
@@ -88532,6 +88569,19 @@
     ],
     "episodes": [
       {
+        "id": "made-in-china-de-ep-buzzsprout-19457079",
+        "podcastId": "made-in-china-de",
+        "podcastTitle": "Made in China (German)",
+        "title": "#218 – Warum Humanoide die Produktion verändern werden – mit Uwe Loebel, Vice President bei UAES",
+        "description": "In dieser Folge sprechen wir mit Uwe Loebel, Vice President bei UAES, über die Frage, wie Humanoide und Robotik die industrielle Produktion in den kommenden Jahren verändern werden. Im Mittelpunkt stehen dabei keine abstrakten Zukunftsvisionen, so...",
+        "publishDate": "2026-07-07",
+        "duration": 2460,
+        "audioUrl": "https://www.buzzsprout.com/1869386/episodes/19457079-218-warum-humanoide-die-produktion-verandern-werden-mit-uwe-loebel-vice-president-bei-uaes.mp3",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
         "id": "made-in-china-de-ep-buzzsprout-19431880",
         "podcastId": "made-in-china-de",
         "podcastTitle": "Made in China (German)",
@@ -97994,6 +98044,39 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-2765266",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Can ancient hacks beat modern heat?",
+        "description": "We are in the thick of summer, cranking the AC and reaching for anything cold. But for thousands of years, people survived blazing heat without a single modern convenience. China's traditional playbook was full of clever, low-tech fixes that kept ...",
+        "publishDate": "2026-07-07",
+        "duration": 1104,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2607/1083412366026.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "History",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765263",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "China's bid to electrify trucks",
+        "description": "China reshaped the global auto industry with electric cars. Now it is targeting the heavy-duty trucks that move the world's goods. But truckers respond to hard numbers, not hype. If the math works, the price of everything from groceries to gadgets...",
+        "publishDate": "2026-07-07",
+        "duration": 2048,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2607/1083412253958.mp3",
+        "topics": [
+          "Dynastic History",
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2765254",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -105335,6 +105418,46 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0707nto",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Rutte Warns NATO Not to Be Naive About Beijing After Chinese Missile Test in Pacific",
+        "description": "",
+        "publishDate": "2026-07-07",
+        "duration": 298,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0707/4056744f-6283-4065-8b73-a4088a20f920/audio.mp3?length=3585024&duration=298",
+        "topics": [
+          "Semiconductors & AI",
+          "Daily Life"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0707ira",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Iraq’s Anti-Corruption Purge and Iran-Backed Militias Reshape US–China Competition for Oil",
+        "description": "",
+        "publishDate": "2026-07-07",
+        "duration": 459,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0707/3a8a8a37-8e59-4612-a042-afbed5005e48/audio.mp3?length=5506848&duration=458",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-gyf31",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 31 Liulang Rescued the Emperor from the Siege",
+        "description": "",
+        "publishDate": "2026-07-07",
+        "duration": 2146,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/gyf31.mp3",
+        "topics": [
+          "Dynastic History"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0706hst",
         "podcastId": "china-in-depth",
