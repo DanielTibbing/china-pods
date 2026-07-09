@@ -16,6 +16,36 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-the-platform-state-angela-zh",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "The Platform State: Angela Zhang and Alex Yang on How China Really Governs Its Economy ",
+        "description": "This week on Sinica, in a special episode recorded at the Davos On Air booth at the World Economic Forum&#8217;s Annual Meeting of the New Champions in Dalian, I sat down with Angela Huyue Zhang, professor of law at USC&#8217;s Gould School of Law...",
+        "publishDate": "2026-07-08",
+        "duration": 1800,
+        "audioUrl": "https://api.substack.com/feed/podcast/205447379/e7ef62d0b7a01f70125a320f695a9301.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
+      {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-transcript-the-platform-stat",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "Transcript | The Platform State: Angela Zhang and Alex Yang on How China Really Governs Its Economy",
+        "description": "Transcript (courtesy of the fantastic CadreScripts) further down the page.",
+        "publishDate": "2026-07-08",
+        "duration": 1800,
+        "audioUrl": "https://substackcdn.com/image/fetch/$s_!cu7m!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F04a489b8-898f-47a5-83f0-8eed1801c9bc_1400x1000.webp",
+        "topics": [
+          "Dynastic History",
+          "Economic Reform"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-gaming-the-system-phrase-of-",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -98044,6 +98074,38 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-2765278",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Do you need a 3D printer?",
+        "description": "Chinese malls are rolling out something new: 3D printing stations that let anyone design and print a custom object in under ten minutes. It's easy to dismiss as a fun distraction, but there's a serious push to bring this technology into our homes....",
+        "publishDate": "2026-07-08",
+        "duration": 1450,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2607/1083498447759.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Tech & Business"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765275",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Robo-students are off to school",
+        "description": "We send kids to school for reading, math, and the occasional history class snooze. But what if the students are made of circuits and steel? In Hangzhou, a school just welcomed humanoid robots as its newest pupils. As machines get smarter, building...",
+        "publishDate": "2026-07-08",
+        "duration": 1691,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2607/1083498375899.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "History",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2765266",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -105418,6 +105480,75 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0708nto",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Trump Warns of Global Spread of Communism at NATO Summit",
+        "description": "",
+        "publishDate": "2026-07-08",
+        "duration": 246,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0709/c1bf73f8-eb04-43ec-963e-a98a7a6218b1/audio.mp3?length=2954016&duration=246",
+        "topics": [
+          "US-China Relations"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0708cd",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "The 2025 China Daily Social Responsibility Report Is Classic Newspeak",
+        "description": "",
+        "publishDate": "2026-07-08",
+        "duration": 660,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0612/c4244c4c-0afc-4992-bc07-2170f6115458/audio.mp3?length=7929792&duration=660",
+        "topics": [
+          "Semiconductors & AI",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0708dem",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Beijing Bows to Demographic Reality",
+        "description": "",
+        "publishDate": "2026-07-08",
+        "duration": 317,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0708/bbcd4d34-ec1d-4033-bf35-8c1bc7a1b9cd/audio.mp3?length=3812832&duration=317",
+        "topics": [
+          "Daily Life"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0708mh",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Falun Dafa News from Around the World – July 8, 2026 ",
+        "description": "",
+        "publishDate": "2026-07-08",
+        "duration": 1555,
+        "audioUrl": "https://en.minghui.org/u/files/podcasts/emh-podcast/EMHPodcast_2116-News.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-gyf32",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 32 A Rogue Immortal, Lu Dongbin, out of Petty Grudge Descends to Aid the Liao to Destroy Song Dynasty",
+        "description": "Masterpiece Podcasts: Collection of Chinese Classic Novels",
+        "publishDate": "2026-07-08",
+        "duration": 2459,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/gyf32.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "History"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0707nto",
         "podcastId": "china-in-depth",
