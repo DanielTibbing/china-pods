@@ -2471,6 +2471,23 @@
     ],
     "episodes": [
       {
+        "id": "pekingology-ep-80fb7132-7b3a-11f1-89d8-87f89fa0fe15",
+        "podcastId": "pekingology",
+        "podcastTitle": "Pekingology",
+        "title": "Avoiding War in the South China Sea",
+        "description": "Ten years after an international tribunal found the vast majority of China’s claims in the South China Sea to be unlawful, the risk of conflict in this vital global throughway remains stubbornly high. This week on Pekingology, CSIS Senior Fellow H...",
+        "publishDate": "2026-07-09",
+        "duration": 2953,
+        "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/cohst.app/pdcst/0C0K2I/traffic.megaphone.fm/CSIS1577851888.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Daily Life",
+          "Ancient Trade Routes",
+          "History"
+        ]
+      },
+      {
         "id": "pekingology-ep-bec3c7f0-7011-11f1-807c-5bdc0e739569",
         "podcastId": "pekingology",
         "podcastTitle": "Pekingology",
@@ -83343,6 +83360,22 @@
     ],
     "episodes": [
       {
+        "id": "sharp-china-ep-https---sharpchina-fm-member-episode-a-missile-test-and-new-",
+        "podcastId": "sharp-china",
+        "podcastTitle": "Sharp China with Bill Bishop",
+        "title": "A Missile Test and New PLA Generals; The CITIC Plane Crash; America’s Taiwan Interests; Guo Wengui Jailed and Ezra Jin Released",
+        "description": "On today’s show Andrew and Bill begin with Monday’s SLBM test from the PLA Navy, including questions surrounding its timing and location, regional angst, and a reminder that the PLA continues to enhance its nuclear triad capabilities. Then: Two ne...",
+        "publishDate": "2026-07-09",
+        "duration": 4062,
+        "audioUrl": "https://sharpchina.fm/assets/sharpchina160-final-6684.mp3?access_token=MSorAZNuXsdNR1taQBKjcF",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life"
+        ]
+      },
+      {
         "id": "sharp-china-ep-https---sharpchina-fm-member-episode-preview-party-building-",
         "podcastId": "sharp-china",
         "podcastTitle": "Sharp China with Bill Bishop",
@@ -98074,6 +98107,34 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-2765293",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "The joint degree reputation reversal",
+        "description": "For years, Chinese-foreign cooperative programs were seen as backup options for students who missed their top choice universities. Inflated tuition fees only fueled the perception that families were buying degrees from easy schools. But attitudes ...",
+        "publishDate": "2026-07-09",
+        "duration": 1450,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2607/1083586686684.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765290",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "New rules for China's \"flying\" doctors",
+        "description": "For years, China's \"Fei Dao\" system let rural hospitals fly in top city surgeons for a few thousand yuan extra. It saved lives, but it was a legal gray zone. Now new rules mandate hospital-to-hospital payments and establish clear rules on who pays...",
+        "publishDate": "2026-07-09",
+        "duration": 1675,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2607/1083586574498.mp3",
+        "topics": [
+          "Dynastic History",
+          "Daily Life"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2765278",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -105480,6 +105541,46 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0709fbi",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "113 Active Spies From Foreign Countries Arrested: FBI Director",
+        "description": "",
+        "publishDate": "2026-07-09",
+        "duration": 237,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0709/175bfdca-29a3-48db-a986-9f0e8e8b48d0/audio.mp3?length=2845440&duration=237",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0709fcc",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "FCC Blocks China-Linked California Firm, Flags as National Security Risk",
+        "description": "",
+        "publishDate": "2026-07-09",
+        "duration": 310,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0709/936506c8-2ce8-43fb-8514-091c0d41fb94/audio.mp3?length=3720096&duration=310",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-gyf33",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 33 The Son of Heaven Himself Has to Lead the Song Army to Fight the Liao's Intimidating \"Heavenly Array\"",
+        "description": "Masterpiece Podcasts: Collection of Chinese Classic Novels",
+        "publishDate": "2026-07-09",
+        "duration": 2394,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/gyf33.mp3",
+        "topics": [
+          "Dynastic History",
+          "Feminism & Arts"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0708nto",
         "podcastId": "china-in-depth",
