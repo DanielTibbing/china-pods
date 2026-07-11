@@ -12096,6 +12096,27 @@
     ],
     "episodes": [
       {
+        "id": "chinatalk-ep-60db6ad8-7c7f-11f1-9175-7f0c55935d35",
+        "podcastId": "chinatalk",
+        "podcastTitle": "ChinaTalk",
+        "title": "WarTalk: Iran + Randy Schriver on Asian Defense",
+        "description": "Beijing just announced a persistent Coast Guard patrol east of Taiwan, the administration is calling arms sales a \"bargaining chip,\" and the NDS doesn't mention Taiwan at all. Is deterrence in the Strait quietly coming apart? Randy Schriver is Cha...",
+        "publishDate": "2026-07-10",
+        "duration": 3767,
+        "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL2945497326.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Geopolitics & Politics",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "chinatalk-ep-1d74cb0e-7a18-11f1-b816-cfaf6eee8cc5",
         "podcastId": "chinatalk",
         "podcastTitle": "ChinaTalk",
@@ -95238,6 +95259,24 @@
     ],
     "episodes": [
       {
+        "id": "trivium-china-ep-buzzsprout-19476484",
+        "podcastId": "trivium-china",
+        "podcastTitle": "The Trivium China Podcast",
+        "title": "Ep 71 - Is China quietly beginning to deleverage?",
+        "description": "China’s economy has lost momentum after a surprisingly strong start to the year.But while many analysts are asking why Beijing isn’t doing more to stimulate growth, this week’s Trivium China Podcast explores a different question: why are policymak...",
+        "publishDate": "2026-07-10",
+        "duration": 2388,
+        "audioUrl": "https://www.buzzsprout.com/2408047/episodes/19476484-ep-71-is-china-quietly-beginning-to-deleverage.mp3",
+        "topics": [
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "trivium-china-ep-buzzsprout-19369348",
         "podcastId": "trivium-china",
         "podcastTitle": "The Trivium China Podcast",
@@ -96782,6 +96821,23 @@
     ],
     "episodes": [
       {
+        "id": "asia-insight-ep-nbrpodcasts-podbean-com-975ef7ff-6b5e-31b7-b162-1f9db2b80af8",
+        "podcastId": "asia-insight",
+        "podcastTitle": "Asia Insight (NBR)",
+        "title": "Revisiting China’s Digital Strategy",
+        "description": "From July 16–29, 2026, China will host the APEC Digital Weeks in Chengdu, bringing together policymakers and technology leaders to discuss the future of the digital economy and artificial intelligence across the Asia-Pacific. With that as the back...",
+        "publishDate": "2026-07-10",
+        "duration": 1924,
+        "audioUrl": "https://mcdn.podbean.com/mf/web/xgcjd4t85nhgjygx/NBR_Podcast_Jul_10_2026_Revisiting_China_s_Digital_Strategy9wmq9.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "asia-insight-ep-nbrpodcasts-podbean-com-a37504de-7f19-32b6-aa15-6356abe92865",
         "podcastId": "asia-insight",
         "podcastTitle": "Asia Insight (NBR)",
@@ -98106,6 +98162,39 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "roundtable-china-ep-1-2765305",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Lights, camera... football?",
+        "description": "What happens when the movies are no longer the main attraction? Across China, cinemas are reinventing themselves as all-in-one entertainment destinations, hosting everything from live sports and concerts to gaming, cafés, and restaurants. We explo...",
+        "publishDate": "2026-07-10",
+        "duration": 1448,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2607/1083667914676.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765302",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Is your car more than a car?",
+        "description": "Forget traffic jams and parking headaches. In China, the car is becoming more than transportation. From RV campsites and smart mobility hubs to a booming culture of customization, the automotive aftermarket is transforming how people travel, unwin...",
+        "publishDate": "2026-07-10",
+        "duration": 1705,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2607/1083667727916.mp3",
+        "topics": [
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "roundtable-china-ep-1-2765293",
         "podcastId": "roundtable-china",
@@ -105155,6 +105244,23 @@
     ],
     "episodes": [
       {
+        "id": "wire-china-ep-buzzsprout-19474318",
+        "podcastId": "wire-china",
+        "podcastTitle": "The Wire China Podcast",
+        "title": "The Company that Cried Huawei",
+        "description": "Before Nvidia won approval to sell more chips to China, it first told the U.S. government that Huawei sales would soar if it was kept out.This week, Noah Berman joins fellow journalist Rachel Cheung to discuss his scoop on one reason why the U.S. ...",
+        "publishDate": "2026-07-10",
+        "duration": 561,
+        "audioUrl": "https://www.buzzsprout.com/2591600/episodes/19474318-the-company-that-cried-huawei.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Daily Life",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "wire-china-ep-buzzsprout-19403076",
         "podcastId": "wire-china",
         "podcastTitle": "The Wire China Podcast",
@@ -105541,6 +105647,101 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0710uni",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s New Ethnic Unity Law Is Not About Unity—It’s About Control",
+        "description": "",
+        "publishDate": "2026-07-10",
+        "duration": 550,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0710/28e66d9f-6091-4ae1-9815-683915ef32f3/audio.mp3?length=6602112&duration=550",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0710bnk",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s Banking Crisis Is Drawing Closer",
+        "description": "",
+        "publishDate": "2026-07-10",
+        "duration": 430,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0710/ccfc50d5-5ff9-42e1-9c88-f04e48b64e4a/audio.mp3?length=5164416&duration=430",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0710mil",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s Growing Military Could Toll $35 Trillion of Global Trade",
+        "description": "",
+        "publishDate": "2026-07-10",
+        "duration": 310,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0710/dc7264c7-ad69-4a61-af11-f25bef9eef26/audio.mp3?length=3724416&duration=310",
+        "topics": [
+          "Economic Reform",
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0710nuk",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China Tests Submarine Missile as Beijing Seeks to Project Nuclear Threat Beyond ",
+        "description": "",
+        "publishDate": "2026-07-10",
+        "duration": 373,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0710/81f600ca-2c73-44ba-b7e3-c75bd013a009/audio.mp3?length=4476960&duration=373",
+        "topics": [
+          "Daily Life"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0710pac",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s Pacific Missile Test and Maritime Patrols Raise Regional Tensions",
+        "description": "",
+        "publishDate": "2026-07-10",
+        "duration": 415,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0710/32121087-d3b5-4ab0-8b36-ac6f5c65ac6e/audio.mp3?length=4983840&duration=415",
+        "topics": [
+          "Semiconductors & AI",
+          "Ancient Trade Routes"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0710atl",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "How Beijing’s New Law Seeks to Crush Dissent Worldwide | Guermantes Lailari",
+        "description": "",
+        "publishDate": "2026-07-10",
+        "duration": 3949,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/0710atl.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Daily Life"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-gyf34",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 34 The Song Camp Is Desperate But Divine Help Keeps Coming",
+        "description": "Masterpiece Podcasts: Collection of Chinese Classic Novels",
+        "publishDate": "2026-07-10",
+        "duration": 2254,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/gyf34.mp3",
+        "topics": [
+          "Dynastic History",
+          "Feminism & Arts"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0709fbi",
         "podcastId": "china-in-depth",
