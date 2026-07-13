@@ -16,6 +16,34 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-trivium-china-podcast-is-chi",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "Trivium China Podcast | Is China Quietly Beginning to Deleverage?\n",
+        "description": "Listen now | China&#8217;s economy has lost momentum after a surprisingly strong start to the year.",
+        "publishDate": "2026-07-13",
+        "duration": 1800,
+        "audioUrl": "https://api.substack.com/feed/podcast/206783245/037035f499e2e8a0b2dbd4145f99d17d.mp3",
+        "topics": [
+          "Feminism & Arts",
+          "Economic Reform",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-mass-appeal-phrase-of-the-we",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "\"Mass appeal\" — Phrase of the Week",
+        "description": "Molly Tea lost in the courtroom, but is winning the court of public opinion",
+        "publishDate": "2026-07-12",
+        "duration": 1800,
+        "audioUrl": "https://substackcdn.com/image/fetch/$s_!d2ib!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9e75479c-52d8-46fd-84a9-d1a26b5c8047_2000x1200.jpeg",
+        "topics": [
+          "Geopolitics & Politics"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-the-platform-state-angela-zh",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -42312,6 +42340,22 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "sr-kina-ep-rss-sr-se-pod-eid-2767918",
+        "podcastId": "sr-kina",
+        "podcastTitle": "Radiokorrespondenterna Kina",
+        "title": "Kinas startskott för striden om råvarorna",
+        "description": "Kontrollen av strategiska råvaror är idag ett av Pekings vapen mot USA och den första varningen kom tidigt. Lyssna på alla avsnitt i Sveriges Radios app. I september 2010 kolliderar en kinesisk trålare med den med den japanska kustbevakningen i om...",
+        "publishDate": "2026-07-13",
+        "duration": 971,
+        "audioUrl": "https://static-cdn.sr.se/laddahem/podradio/2026/04/radiokorrespondenterna_kina_kinas_startskott_for_striden_o_20260424_1515419535.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "sr-kina-ep-rss-sr-se-pod-eid-2837061",
         "podcastId": "sr-kina",
@@ -105647,6 +105691,99 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0712chu",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Beijing Expands Political Campaigns Inside Catholic Churches",
+        "description": "",
+        "publishDate": "2026-07-12",
+        "duration": 431,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0711/e45ff9f7-93a6-4de6-a786-4b7cf2e897a3/audio.mp3?length=5177376&duration=431",
+        "topics": [
+          "Semiconductors & AI",
+          "Daily Life"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0712for",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s Security Apparatus Expands Influence Inside Foreign Ministry, Raising Questions Over Diplomatic Operations",
+        "description": "",
+        "publishDate": "2026-07-12",
+        "duration": 359,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0711/2f91b2dd-94fc-4d3a-9bd7-96eb11af76e9/audio.mp3?length=4309056&duration=359",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0712scs",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "US, EU, Others Reaffirm South China Sea Arbitration Ruling on 10th Anniversary",
+        "description": "",
+        "publishDate": "2026-07-12",
+        "duration": 229,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0712/23f94bf4-1807-4353-bdad-c174df1876d3/audio.mp3?length=2752128&duration=229",
+        "topics": [
+          "US-China Relations"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0712uk",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Lawmakers Urged to Tighten UK Laws Over Evidence China Is Killing People for Their Organs",
+        "description": "",
+        "publishDate": "2026-07-12",
+        "duration": 233,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0712/6a55e360-cc46-4889-9993-b9ea67804c7b/audio.mp3?length=2804544&duration=233",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0712mis",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s Pacific Missile Test and Maritime Patrols Raise Regional Tensions",
+        "description": "",
+        "publishDate": "2026-07-12",
+        "duration": 415,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0710/32121087-d3b5-4ab0-8b36-ac6f5c65ac6e/audio.mp3?length=4983840&duration=415",
+        "topics": [
+          "Semiconductors & AI",
+          "Ancient Trade Routes"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0712dbl",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s Economy Faces a Double Blow: Iran Conflict and Structural Weakness",
+        "description": "",
+        "publishDate": "2026-07-12",
+        "duration": 396,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0711/76d7a56b-8e38-4fb7-97c9-15fc500fc5e2/audio.mp3?length=4756032&duration=396",
+        "topics": [
+          "Economic Reform"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-gyf35",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 35 Mu Guiying, a Woman Warrior, Dominates the Scene",
+        "description": "Masterpiece Podcasts: Collection of Chinese Classic Novels",
+        "publishDate": "2026-07-12",
+        "duration": 2446,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/gyf35.mp3",
+        "topics": [
+          "Feminism & Arts"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0710uni",
         "podcastId": "china-in-depth",
