@@ -29454,6 +29454,24 @@
     ],
     "episodes": [
       {
+        "id": "china-global-south-ep-a0303652-4460-4214-a707-b3f67962a3eb",
+        "podcastId": "china-global-south",
+        "podcastTitle": "The China-Global South Podcast",
+        "title": "Why China Is Winning the Iran War",
+        "description": "With open conflict between the U.S. and Iran now underway again, it's still too early to determine which side will ultimately prevail. But one point is gaining broad agreement among analysts: China is one of the few major powers that stands to ben...",
+        "publishDate": "2026-07-13",
+        "duration": 2053,
+        "audioUrl": "https://traffic.libsyn.com/secure/ea0f0fdd-2944-4ff3-8a00-704e8c67d58b/CGSP_07132026_Libsyn.mp3?dest-id=4287628",
+        "topics": [
+          "Semiconductors & AI",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Geopolitics & Politics",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "china-global-south-ep-5f9ec484-d00a-4c0c-86e0-9e141d7b2296",
         "podcastId": "china-global-south",
         "podcastTitle": "The China-Global South Podcast",
@@ -35715,6 +35733,22 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "merics-ep-buzzsprout-19485355",
+        "podcastId": "merics",
+        "podcastTitle": "MERICS China Podcast",
+        "title": "How China’s view of its past informs its choices in the present, with Rana Mitter",
+        "description": "In this episode, Rana Mitter, S.T. Lee Chair in US-Asia Relations at the Harvard Kennedy School, joins Johannes Heller-John to discuss how China remembers its own history, the meaning of the “New Chinese Nationalism”, the current state of US-China...",
+        "publishDate": "2026-07-13",
+        "duration": 1940,
+        "audioUrl": "https://www.buzzsprout.com/1825833/episodes/19485355-how-china-s-view-of-its-past-informs-its-choices-in-the-present-with-rana-mitter.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "History"
+        ]
+      },
       {
         "id": "merics-ep-buzzsprout-19335948",
         "podcastId": "merics",
@@ -98207,6 +98241,34 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-2765323",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Tick tock goes the checkout clock",
+        "description": "For decades, hotels worldwide have followed the same rule. Check in after two in the afternoon, check out before noon the next day. Most travelers never question it. But some Chinese hotel chains are now tearing up that script, letting guests keep...",
+        "publishDate": "2026-07-13",
+        "duration": 1282,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2607/1083936366524.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765320",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "China's road tax debate heats up",
+        "description": "Gasoline drivers have long funded roads through fuel taxes, while electric vehicles have contributed nothing. But with six in ten new cars in China now running on batteries, that old system is cracking. The debate is no longer about whether EV own...",
+        "publishDate": "2026-07-13",
+        "duration": 1843,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2607/1083936297148.mp3",
+        "topics": [
+          "Dynastic History"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2765305",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -105691,6 +105753,46 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-com",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Epoch Readers Weigh In on Communism’s Influence in the United States",
+        "description": "",
+        "publishDate": "2026-07-13",
+        "duration": 345,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0711/55223a23-c25d-4506-bf87-c33038e82c0e/audio.mp3?length=4144032&duration=345",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0713sol",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "What Does Socialism Actually Deliver?",
+        "description": "",
+        "publishDate": "2026-07-13",
+        "duration": 324,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0713/1787fc41-7a8f-4e19-a620-d4294766a0f5/audio.mp3?length=3892608&duration=324",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-gyf36",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 36 Mu Guiying Joined the Song Camp",
+        "description": "Masterpiece Podcasts: Collection of Chinese Classic Novels",
+        "publishDate": "2026-07-13",
+        "duration": 1770,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/gyf36.mp3",
+        "topics": [
+          "Dynastic History",
+          "Feminism & Arts"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0712chu",
         "podcastId": "china-in-depth",
