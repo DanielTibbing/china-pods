@@ -16,6 +16,19 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-why-china-is-winning-the-ira",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "Why China Is Winning the Iran War",
+        "description": "With open conflict between the U.S.",
+        "publishDate": "2026-07-14",
+        "duration": 1800,
+        "audioUrl": "https://api.substack.com/feed/podcast/206979123/0f705475e40b559504de01885cd1ac0d.mp3",
+        "topics": [
+          "Geopolitics & Politics"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-trivium-china-podcast-is-chi",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -786,6 +799,25 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "little-red-podcast-ep-6ebcf16b-a6a8-46dc-88f1-b487006ad289",
+        "podcastId": "little-red-podcast",
+        "podcastTitle": "The Little Red Podcast",
+        "title": "Out of Battery? China's EV Dreams Flicker",
+        "description": "In the latest episode in our China Rules series, we look at the rise and potential fall of China&rsquo;s electric vehicle (EV) industry. Once scoffed at by Elon Musk, China&rsquo;s EV industry is charging ahead in international markets with its to...",
+        "publishDate": "2026-07-14",
+        "duration": 3178,
+        "audioUrl": "https://traffic.omny.fm/d/clips/a7b4f8fe-59d9-4afc-a79a-a90101378abf/bf2c1d80-3656-4449-9d00-a903004e8f84/6ebcf16b-a6a8-46dc-88f1-b487006ad289/audio.mp3?utm_source=Podcast&in_playlist=efbff746-e7c1-463a-9d80-a903004e8f8f",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "little-red-podcast-ep-9d1aa3ac-8756-4820-a912-b4420049eccf",
         "podcastId": "little-red-podcast",
@@ -12123,6 +12155,25 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "chinatalk-ep-e5a4b668-7ff2-11f1-8e0b-bb0f195282eb",
+        "podcastId": "chinatalk",
+        "podcastTitle": "ChinaTalk",
+        "title": "China's Mythos Moment",
+        "description": "Claude Mythos scrambled American AI policy, leaving us with what Dean Ball calls a de facto involuntary licensing regime from the administration that promised us the opposite. Zhipu's cofounder says China will have a Mythos-class model before the ...",
+        "publishDate": "2026-07-15",
+        "duration": 4230,
+        "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL8325787301.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "chinatalk-ep-60db6ad8-7c7f-11f1-9175-7f0c55935d35",
         "podcastId": "chinatalk",
@@ -42379,10 +42430,10 @@
         "podcastId": "sr-kina",
         "podcastTitle": "Radiokorrespondenterna Kina",
         "title": "Kinas startskott för striden om råvarorna",
-        "description": "Kontrollen av strategiska råvaror är idag ett av Pekings vapen mot USA och den första varningen kom tidigt. Lyssna på alla avsnitt i Sveriges Radios app. I september 2010 kolliderar en kinesisk trålare med den med den japanska kustbevakningen i om...",
+        "description": "Kontrollen av strategiska råvaror är idag ett av Pekings vapen mot USA, och den första varningen kom tidigt. Lyssna på alla avsnitt i Sveriges Radios app. Sommarserien del 1: I september 2010 kolliderar en kinesisk trålare med den japanska kustbev...",
         "publishDate": "2026-07-13",
         "duration": 971,
-        "audioUrl": "https://static-cdn.sr.se/laddahem/podradio/2026/04/radiokorrespondenterna_kina_kinas_startskott_for_striden_o_20260424_1515419535.mp3",
+        "audioUrl": "https://static-cdn.sr.se/laddahem/podradio/2026/04/radiokorrespondenterna_kina_kinas_startskott_for_striden_o_20260714_1028087615.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -86761,7 +86812,7 @@
         ]
       }
     ],
-    "status": "active"
+    "status": "stale"
   },
   {
     "id": "asia-chessboard",
@@ -98241,6 +98292,36 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-2765338",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "One traveler, one taxi ride, 21 million likes",
+        "description": "One traveler, one taxi ride, and 21 million likes later, a viral video earned its creator a life-changing payday from Xizang's tourism officials. But that check came with a catch. When a government pays for your \"authentic\" story, is it still genu...",
+        "publishDate": "2026-07-14",
+        "duration": 1174,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2607/1084012971969.mp3",
+        "topics": [
+          "Dynastic History",
+          "Daily Life",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765335",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Did the social media crackdown work?",
+        "description": "Every generation worries about what young people do with their time, but today's screens are designed to never let go. As a result, governments stepped in with various measures to solve the problem. Now a newly released Tsinghua University report ...",
+        "publishDate": "2026-07-14",
+        "duration": 1947,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2607/1084012878816.mp3",
+        "topics": [
+          "Dynastic History",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2765323",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -105753,6 +105834,72 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0714pur",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s Communist Party Expels Politburo Member Amid Widening Purges",
+        "description": "",
+        "publishDate": "2026-07-14",
+        "duration": 229,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0714/bccc2afe-f1a0-4f96-ab4e-d8dc0993528e/audio.mp3?length=2757312&duration=229",
+        "topics": [
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0714bnk",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s Banking Crisis Is Drawing Closer: Hidden Risks, Hidden Losses",
+        "description": "",
+        "publishDate": "2026-07-14",
+        "duration": 442,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0714/045af4c2-1b34-4562-b9b4-77143aeda1f6/audio.mp3?length=5304384&duration=442",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0714mis",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chinese Regime’s Missiles Terrorize the Middle East",
+        "description": "",
+        "publishDate": "2026-07-14",
+        "duration": 537,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0317/81f28dc1-3149-487f-91e4-e06ee72806b8/audio.mp3?length=6448896&duration=537",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0714ax",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Axis of Evil Exercises Naval Nuclear Coercion",
+        "description": "",
+        "publishDate": "2026-07-14",
+        "duration": 512,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0714/0cb7be64-07c0-4851-aac2-c052dc048da3/audio.mp3?length=6151968&duration=512",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-gyf37",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 37 Grandma Lingpo Is Appointed as the Vanguard to Attack the Next Liao Array",
+        "description": "Masterpiece Podcasts: Collection of Chinese Classic Novels",
+        "publishDate": "2026-07-14",
+        "duration": 2912,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/gyf37.mp3",
+        "topics": [
+          "Feminism & Arts"
+        ]
+      },
       {
         "id": "china-in-depth-ep-com",
         "podcastId": "china-in-depth",
