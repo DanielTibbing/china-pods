@@ -12162,7 +12162,7 @@
         "title": "China's Mythos Moment",
         "description": "Claude Mythos scrambled American AI policy, leaving us with what Dean Ball calls a de facto involuntary licensing regime from the administration that promised us the opposite. Zhipu's cofounder says China will have a Mythos-class model before the ...",
         "publishDate": "2026-07-15",
-        "duration": 4230,
+        "duration": 4228,
         "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL8325787301.mp3",
         "topics": [
           "US-China Relations",
@@ -25851,6 +25851,27 @@
     ],
     "episodes": [
       {
+        "id": "soas-context-ep-tag-soundcloud-2010-tracks-2361178814",
+        "podcastId": "soas-context",
+        "podcastTitle": "China in Context",
+        "title": "Ep211: Europe’s New ‘China Shock’ — Trade tensions, job losses, crisis talks",
+        "description": "Despite decades of rapid Chinese growth, it’s over the past year that European politicians have begun to talk of facing what’s been dubbed the ‘China Shock 2.0’ — as surging Chinese exports and the impact of higher technology Chinese growth increa...",
+        "publishDate": "2026-07-15",
+        "duration": 2658,
+        "audioUrl": "https://feeds.soundcloud.com/stream/2361178814-soas-china-institute-ep211-europes-new-china-shock.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Geopolitics & Politics",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "soas-context-ep-tag-soundcloud-2010-tracks-2351929796",
         "podcastId": "soas-context",
         "podcastTitle": "China in Context",
@@ -29504,6 +29525,23 @@
       "Tech & Business"
     ],
     "episodes": [
+      {
+        "id": "china-global-south-ep-46ef5cf8-dae5-4f6d-8316-082e433bfd37",
+        "podcastId": "china-global-south",
+        "podcastTitle": "The China-Global South Podcast",
+        "title": "The New Security Landscape Taking Shape in Asia",
+        "description": "The U.S. war against Iran is having a profound impact far away from the battlefield, all the way on the other side of Asia in the Western Pacific. There's an emerging consensus among Washington's allies and foes alike that the U.S. will be incapab...",
+        "publishDate": "2026-07-15",
+        "duration": 2956,
+        "audioUrl": "https://traffic.libsyn.com/secure/ea0f0fdd-2944-4ff3-8a00-704e8c67d58b/CGSP_07152026_Libsyn.mp3?dest-id=4287628",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-global-south-ep-a0303652-4460-4214-a707-b3f67962a3eb",
         "podcastId": "china-global-south",
@@ -98292,6 +98330,35 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-2765353",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "The $50 million throwaway problem",
+        "description": "A rocket booster costs tens of millions of dollars. For decades, the industry has been throwing them away after a single launch. China just proved there's another way, and the ripple effects could change who gets to space and how often. / Would yo...",
+        "publishDate": "2026-07-15",
+        "duration": 1299,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2607/1084103130903.mp3",
+        "topics": [
+          "Dynastic History",
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765350",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Digital friend or digital file?",
+        "description": "You tell it your secrets. It knows your routines, your worries, and your bad days. Then one morning, it's gone because a company decided to pull the servers. Across China, millions of users are waking up to that silence as various companies have s...",
+        "publishDate": "2026-07-15",
+        "duration": 1863,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2607/1084102163564.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2765338",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -105834,6 +105901,75 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0715eth",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Senators Introduce Bipartisan Legislation to Counter China’s Repression on US Soil",
+        "description": "",
+        "publishDate": "2026-07-15",
+        "duration": 367,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0715/9a8bd8c7-229a-4069-85a9-5c230b157e96/audio.mp3?length=4411008&duration=367",
+        "topics": [
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0715sen",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China and Japan Have a Confrontation Near Disputed Senkaku Islands Amid Rising Tensions in First Island Chain",
+        "description": "",
+        "publishDate": "2026-07-15",
+        "duration": 433,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0710/93ba9a29-44d4-4a3b-ba57-3090e39fe70b/audio.mp3?length=5203296&duration=433",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0715jp",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "How China Invaded Japan’s Stock Market and Gained Access to Its Industrial Magic",
+        "description": "",
+        "publishDate": "2026-07-15",
+        "duration": 580,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0715/c9d931df-ecf1-4380-84f9-d6d1ebf32b51/audio.mp3?length=6967872&duration=580",
+        "topics": [
+          "Semiconductors & AI",
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0715mh",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Falun Dafa News from Around the World – July 15, 2026 ",
+        "description": "",
+        "publishDate": "2026-07-15",
+        "duration": 1591,
+        "audioUrl": "https://en.minghui.org/u/files/podcasts/emh-podcast/EMHPodcast_2122-News.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-gyf38",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 38 The Song Army Won and the Two Immortals Reconciled and Left the Bloody Battleground",
+        "description": "Masterpiece Podcasts: Collection of Chinese Classic Novels",
+        "publishDate": "2026-07-15",
+        "duration": 2125,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/gyf38.mp3",
+        "topics": [
+          "Dynastic History",
+          "Feminism & Arts"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0714pur",
         "podcastId": "china-in-depth",
