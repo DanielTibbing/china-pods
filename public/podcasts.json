@@ -29526,6 +29526,25 @@
     ],
     "episodes": [
       {
+        "id": "china-global-south-ep-3b027f3c-11b5-4960-a1d9-5db493bdad5c",
+        "podcastId": "china-global-south",
+        "podcastTitle": "The China-Global South Podcast",
+        "title": "The Limits of China's Iran Diplomacy",
+        "description": "The U.S. and China clashed at the United Nations this week, with each accusing the other of fueling instability in the Persian Gulf. Washington has long argued that Beijing plays a pivotal role in the conflict as the largest buyer of Iranian oil a...",
+        "publishDate": "2026-07-16",
+        "duration": 2726,
+        "audioUrl": "https://traffic.libsyn.com/secure/ea0f0fdd-2944-4ff3-8a00-704e8c67d58b/CGSP_07162026_Libsyn.mp3?dest-id=4287628",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Geopolitics & Politics",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "china-global-south-ep-46ef5cf8-dae5-4f6d-8316-082e433bfd37",
         "podcastId": "china-global-south",
         "podcastTitle": "The China-Global South Podcast",
@@ -83548,6 +83567,26 @@
     ],
     "episodes": [
       {
+        "id": "sharp-china-ep-https---sharpchina-fm-member-episode-preview-k-shaped-econom",
+        "podcastId": "sharp-china",
+        "podcastTitle": "Sharp China with Bill Bishop",
+        "title": "(Preview) K-Shaped Economic Data And Its Implications; Ma Xingrui News; Closing Window for Open Source AI?; The SCS and International Law",
+        "description": "On today’s show, Andrew and Bill begin by parsing the economic data released by the PRC this week, including slower-than-expected growth, the Party’s response to the status quo, export-powered growth that is widening trade imbalances, and the ques...",
+        "publishDate": "2026-07-16",
+        "duration": 946,
+        "audioUrl": "https://sharpchina.fm/assets/sharpchina161-preview.mp3?access_token=MSorAZNuXsdNR1taQBKjcF",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Geopolitics & Politics",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "sharp-china-ep-https---sharpchina-fm-member-episode-a-missile-test-and-new-",
         "podcastId": "sharp-china",
         "podcastTitle": "Sharp China with Bill Bishop",
@@ -98330,6 +98369,36 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-2765365",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "The ice cream identity crisis",
+        "description": "China's ice cream market has gone cold, but not in the way you might think. Warehouses are quiet. Distributors are on edge. The familiar summer frenzy for frozen treats is losing its grip. It is no longer just about escaping the heat. It is about ...",
+        "publishDate": "2026-07-16",
+        "duration": 1535,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2607/1084191523384.mp3",
+        "topics": [
+          "Dynastic History",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765362",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Hainan bans gas car sales",
+        "description": "Hainan just pulled the plug on gasoline cars. By 2030, no new sales, period. For some, it's a bold leap forward. For others, it raises hard questions. What happens to millions of drivers still filling up at the pump? Can an all-electric future rea...",
+        "publishDate": "2026-07-16",
+        "duration": 1617,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2607/1084191457258.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2765353",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -105901,6 +105970,139 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0716tik",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "UK Regulator Opens TikTok Probe Over Child Safety, Age Checks",
+        "description": "",
+        "publishDate": "2026-07-16",
+        "duration": 420,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0716/054c8f39-6c97-42c4-a92a-f016c86adad9/audio.mp3?length=5047488&duration=420",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0716uk",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "As Public Frustration Grows in China, the State Intensifies Campaign to Silence Online Dissent",
+        "description": "",
+        "publishDate": "2026-07-16",
+        "duration": 342,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0716/c6db6777-68c9-4d0c-8b3b-4eb2a5db60d1/audio.mp3?length=3984768&duration=332",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0716ex",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Ex-Fed Adviser Sentenced to 38 Months for Passing Sensitive Info to China ",
+        "description": "",
+        "publishDate": "2026-07-16",
+        "duration": 343,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0716/fca999ef-3f9f-4ded-b86f-95041866c443/audio.mp3?length=4119840&duration=343",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0716scm",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "‘Foreigner Butchering’ and China’s Selective War on Scam Centers",
+        "description": "",
+        "publishDate": "2026-07-16",
+        "duration": 476,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0716/9e40b53c-10fe-4551-ae8f-78c3f8d6f625/audio.mp3?length=5723712&duration=476",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0716tec",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Tech Self-Reliance Eludes Beijing",
+        "description": "",
+        "publishDate": "2026-07-16",
+        "duration": 267,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0716/d4b4995d-ccc4-4ce8-bb25-8d64c581a99f/audio.mp3?length=3212928&duration=267",
+        "topics": [
+          "Semiconductors & AI",
+          "Daily Life",
+          "Tech & Business"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0716trd",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "A China Deal That Trades Leverage for Illusion",
+        "description": "",
+        "publishDate": "2026-07-16",
+        "duration": 285,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0119/e9c80579-b903-4474-80ad-32c4603632d5/audio.mp3?length=3422880&duration=285",
+        "topics": [
+          "Economic Reform"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0716exp",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Why Does China Export at All Costs?",
+        "description": "",
+        "publishDate": "2026-07-16",
+        "duration": 387,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0716/e9ce4b09-d1ab-41ce-89f7-95fb8f0a2a6c/audio.mp3?length=4647168&duration=387",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0716ai",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s Secret Weapon in the AI Arms Race: American Fear",
+        "description": "",
+        "publishDate": "2026-07-16",
+        "duration": 483,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0716/f567cb4d-9a59-4606-89b6-a2afc37869ab/audio.mp3?length=5798592&duration=483",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-gyf39",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 39 Hook, Line and Sinker - Emperor Zhenzong Is Deceived by His Confidant Wang Qin, the Liao Spy",
+        "description": "Masterpiece Podcasts: Collection of Chinese Classic Novels",
+        "publishDate": "2026-07-16",
+        "duration": 2616,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/gyf39.mp3",
+        "topics": [
+          "Dynastic History",
+          "Feminism & Arts"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-trum0716",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "President Trump Addresses the Nation",
+        "description": "",
+        "publishDate": "2026-07-16",
+        "duration": 1549,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/trump0716.mp3",
+        "topics": [
+          "US-China Relations"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0715eth",
         "podcastId": "china-in-depth",
