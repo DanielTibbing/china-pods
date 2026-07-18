@@ -16,6 +16,23 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-trivium-china-podcast-china-",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "Trivium China Podcast | China Is Building a Market for Data. Why Isn’t America?\n",
+        "description": "Listen now | Data has become one of the most important inputs in the modern economy, especially as access to high-quality information increasingly shapes the global race to develop artificial intelligence.",
+        "publishDate": "2026-07-18",
+        "duration": 1800,
+        "audioUrl": "https://api.substack.com/feed/podcast/207505758/6dfbb48605d674b80fedbb1e2e7d8668.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-why-china-is-winning-the-ira",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -32547,6 +32564,25 @@
     ],
     "episodes": [
       {
+        "id": "china-power-ep-7fcb212c-8152-11f1-8b8f-b72cf8f79b06",
+        "podcastId": "china-power",
+        "podcastTitle": "China Power",
+        "title": "Escalating Japan-China Tensions: A Conversation with Kristi Govella ",
+        "description": "In this episode of the ChinaPower Podcast, Dr. Kristi Govella joins us to discuss the latest developments in China-Japan relations amid rising tensions between the two countries following Prime Minister Takaichi's comments on Taiwan last November....",
+        "publishDate": "2026-07-17",
+        "duration": 2083,
+        "audioUrl": "https://traffic.megaphone.fm/CSIS6371746209.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Geopolitics & Politics",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "china-power-ep-49d36df6-7633-11f1-ba07-07c3d127aa79",
         "podcastId": "china-power",
         "podcastTitle": "China Power",
@@ -35841,6 +35877,24 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "merics-ep-buzzsprout-19508724",
+        "podcastId": "merics",
+        "podcastTitle": "MERICS China Podcast",
+        "title": "China in 26: EU-China Beziehungen + Russisch-chinesische Militärzusammenarbeit + Aktuelle Wirtschaftszahlen",
+        "description": "In dieser Ausgabe unserer Podcast-Serie „China in 26“ sprechen Bernhard Bartsch, Mikko Huotari und Claudia Wessling über drei Themen, die die kommenden Monate prägen werden: Erstens: wie steht es um die deutschen und europäischen Beziehungen zu Ch...",
+        "publishDate": "2026-07-17",
+        "duration": 1687,
+        "audioUrl": "https://www.buzzsprout.com/1825833/episodes/19508724-china-in-26-eu-china-beziehungen-russisch-chinesische-militarzusammenarbeit-aktuelle-wirtschaftszahlen.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Geopolitics & Politics",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "merics-ep-buzzsprout-19485355",
         "podcastId": "merics",
@@ -95465,6 +95519,26 @@
     ],
     "episodes": [
       {
+        "id": "trivium-china-ep-buzzsprout-19509734",
+        "podcastId": "trivium-china",
+        "podcastTitle": "The Trivium China Podcast",
+        "title": "Ep 72 - China is building a market for data. Why isn’t America?",
+        "description": "Data has become one of the most important inputs in the modern economy, especially as access to high-quality information increasingly shapes the global race to develop artificial intelligence.But while US policymakers tend to view data primarily t...",
+        "publishDate": "2026-07-17",
+        "duration": 3913,
+        "audioUrl": "https://www.buzzsprout.com/2408047/episodes/19509734-ep-72-china-is-building-a-market-for-data-why-isn-t-america.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "trivium-china-ep-buzzsprout-19476484",
         "podcastId": "trivium-china",
         "podcastTitle": "The Trivium China Podcast",
@@ -98368,6 +98442,38 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "roundtable-china-ep-1-2765368",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Encore: Closing the care gap with AI",
+        "description": "Getting a child the right care sometimes meant a long trip to a big city hospital. Local clinics just did not inspire enough trust. But now, doctors are teaming up with artificial intelligence to give community physicians a powerful backup tool. T...",
+        "publishDate": "2026-07-17",
+        "duration": 1948,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2607/1084194583539.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765371",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Encore: Milk tea shops turn mini mart",
+        "description": "Walk into a milk tea shop these days, and you may leave carrying more than just a drink. Crisps, cakes, and even surprise snack packs now line the shelves alongside the bubble tea. Chinese brands are transforming a quick sip into a full?fledged sh...",
+        "publishDate": "2026-07-17",
+        "duration": 1211,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2607/1084194741936.mp3",
+        "topics": [
+          "Dynastic History",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "roundtable-china-ep-1-2765365",
         "podcastId": "roundtable-china",
@@ -105970,6 +106076,88 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0717vot",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Trump Says China Illicitly Obtained 220 Million US Voter Files Since 2020 Election",
+        "description": "",
+        "publishDate": "2026-07-17",
+        "duration": 388,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0717/a400ef5c-74be-400b-8ba1-b58e7e5e422d/audio.mp3?length=4656096&duration=388",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0717t7",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "7 Takeaways From Trump’s Primetime Address on Election Integrity",
+        "description": "",
+        "publishDate": "2026-07-17",
+        "duration": 527,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0717/c062f381-c3fc-48df-81ea-8d684d58915a/audio.mp3?length=6331392&duration=527",
+        "topics": [
+          "US-China Relations"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0717dec",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Newly Declassified Docs Describe China’s Election Influence Efforts, Concern That US Intel Downplayed Connections",
+        "description": "",
+        "publishDate": "2026-07-17",
+        "duration": 306,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0717/d583e70c-4ede-4219-b2ee-5e0a55d1e743/audio.mp3?length=3676320&duration=306",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0717cst",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Surge in Chinese Costs Sends US Import Prices Higher",
+        "description": "",
+        "publishDate": "2026-07-17",
+        "duration": 291,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0717/2458943c-90db-46c4-883b-ee1f059f327c/audio.mp3?length=3494880&duration=291",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0717shft",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Trump’s CCP Election Interference Claims May Signal Shift in China Policy: Analysts",
+        "description": "",
+        "publishDate": "2026-07-17",
+        "duration": 558,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0717/c4a3d5c3-2003-4212-b623-ba41838d4bba/audio.mp3?length=6702048&duration=558",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-gyf40",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 40 Ten Top Officials of Song Are Trapped by the Liao Force in Flying Tiger Valley",
+        "description": "Masterpiece Podcasts: Collection of Chinese Classic Novels",
+        "publishDate": "2026-07-17",
+        "duration": 1838,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/gyf40.mp3",
+        "topics": [
+          "Dynastic History",
+          "Feminism & Arts"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0716tik",
         "podcastId": "china-in-depth",
