@@ -16,6 +16,19 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-the-odyssey-years-phrase-of-",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "“The Odyssey Years” — Phrase of the Week",
+        "description": "A new phrase to describe a decade of wandering",
+        "publishDate": "2026-07-19",
+        "duration": 1800,
+        "audioUrl": "https://substackcdn.com/image/fetch/$s_!rSvu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F734ba97c-b486-45d0-9147-4d0bd23e0a43_2000x1200.jpeg",
+        "topics": [
+          "Geopolitics & Politics"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-trivium-china-podcast-china-",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -42536,6 +42549,22 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "sr-kina-ep-rss-sr-se-pod-eid-2767919",
+        "podcastId": "sr-kina",
+        "podcastTitle": "Radiokorrespondenterna Kina",
+        "title": "Så pressar Kina motståndare med bojkotter",
+        "description": "I stormaktsrivaliteten med USA så kan kinesiska bojkotter användas som påtryckningsmedel. Lyssna på alla avsnitt i Sveriges Radios app. I början av 2017 sveper en våg av anti-koreanska bojkotter över Kina. Bakom konflikten finns ett amerikanskt lu...",
+        "publishDate": "2026-07-20",
+        "duration": 1118,
+        "audioUrl": "https://static-cdn.sr.se/laddahem/podradio/2026/05/radiokorrespondenterna_kina_sa_pressar_kina_motstandare_me_20260511_1304110484.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "sr-kina-ep-rss-sr-se-pod-eid-2767918",
         "podcastId": "sr-kina",
@@ -106076,6 +106105,129 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0719maj",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Inside California’s Battle With the Marijuana Black Market",
+        "description": "",
+        "publishDate": "2026-07-19",
+        "duration": 1601,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0718/c51a791d-d459-4ba4-8e58-a48ddbbc05a8/audio.mp3?length=19219680&duration=1601",
+        "topics": [
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0719mj",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Women Are Turning to Mahjong in Droves. Here’s Why.",
+        "description": "",
+        "publishDate": "2026-07-19",
+        "duration": 479,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0719/81c3a0ab-22ef-4e57-941f-a3fc5bfbb3b9/audio.mp3?length=5754816&duration=479",
+        "topics": [
+          "Feminism & Arts"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0719ca",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "‘We Are With You’: Falun Gong Practitioners, Supporters Call for an End to Persecution in China on 27th Anniversary at Toronto Event",
+        "description": "",
+        "publishDate": "2026-07-19",
+        "duration": 320,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0720/fe549d69-3a70-4ca9-b47c-75ae7482f0db/audio.mp3?length=3846240&duration=320",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0719tw",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "US State Department Expresses Concerns Over Papua New Guinea’s Closure of Taiwan Office",
+        "description": "",
+        "publishDate": "2026-07-19",
+        "duration": 365,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0719/91bb5f37-984e-4f61-b7bc-3e6acb61d1bc/audio.mp3?length=4381056&duration=365",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0719ny",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "New York March Marks 27 Years of CCP’s Persecution of Falun Gong",
+        "description": "",
+        "publishDate": "2026-07-19",
+        "duration": 189,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0719/d1bdf035-818f-434e-aed8-cbb2f5f4d37d/audio.mp3?length=2269152&duration=189",
+        "topics": [
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0719un",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "7 Reasons China’s Official Unemployment Rate Understates Joblessness",
+        "description": "",
+        "publishDate": "2026-07-19",
+        "duration": 406,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0718/80383970-d8ce-474d-839d-63c585bbc200/audio.mp3?length=4883904&duration=406",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0719ai",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "The US–China AI War: China’s Opportunistic Export Controls",
+        "description": "",
+        "publishDate": "2026-07-19",
+        "duration": 296,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0718/090e05fb-a90e-4823-8653-da7bf9b0f65b/audio.mp3?length=3541536&duration=295",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0719bj",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Beijing May Be Creating a New Bubble and Potentially a New Crisis",
+        "description": "",
+        "publishDate": "2026-07-19",
+        "duration": 257,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0718/45930f0e-5b83-489a-bbdb-b18d450e46d5/audio.mp3?length=3095136&duration=257",
+        "topics": [
+          "Daily Life"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-gyf41",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 41 The Fourth Brother, Yang Yanlang with the Psuedonym Mu Yi, Becomes Liao's Vanguard and Secretly Aids the Song Camp",
+        "description": "Masterpiece Podcasts: Collection of Chinese Classic Novels",
+        "publishDate": "2026-07-19",
+        "duration": 1835,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/gyf41.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0717vot",
         "podcastId": "china-in-depth",
