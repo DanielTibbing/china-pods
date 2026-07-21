@@ -16,6 +16,33 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-the-limits-of-chinas-iran-di",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": " The Limits of China’s Iran Diplomacy",
+        "description": "The U.S.",
+        "publishDate": "2026-07-20",
+        "duration": 1800,
+        "audioUrl": "https://api.substack.com/feed/podcast/207749747/511969e338ae46f93a3353af49974466.mp3",
+        "topics": [
+          "US-China Relations",
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-trivium-china-weekly-recap-c",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "Trivium China Weekly Recap | Can You See the K? ",
+        "description": "China&#8217;s economy has a shape problem.",
+        "publishDate": "2026-07-20",
+        "duration": 1800,
+        "audioUrl": "https://substack-post-media.s3.amazonaws.com/public/images/f06acf36-67a4-46b4-ba80-8b89c7ecda08_400x400.png",
+        "topics": [
+          "Economic Reform"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-the-odyssey-years-phrase-of-",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -12185,6 +12212,22 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "chinatalk-ep-30b7cb58-8472-11f1-be30-4304a6d2914d",
+        "podcastId": "chinatalk",
+        "podcastTitle": "ChinaTalk",
+        "title": "WarTalk: Ancient Greece Edition!",
+        "description": "What do actual historians think about the Thucydides Trap? Does our 'low T' discourse all just come back to the movie 300? How the did ancient Greeks fight and why does Homer still keep us coming back 2700 years later? To discuss we have on the ex...",
+        "publishDate": "2026-07-21",
+        "duration": 7228,
+        "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL8753738589.mp3",
+        "topics": [
+          "Dynastic History",
+          "Feminism & Arts",
+          "History",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "chinatalk-ep-e5a4b668-7ff2-11f1-8e0b-bb0f195282eb",
         "podcastId": "chinatalk",
@@ -29556,6 +29599,23 @@
     ],
     "episodes": [
       {
+        "id": "china-global-south-ep-edef2946-cb01-4e6a-820f-8e784278c0f5",
+        "podcastId": "china-global-south",
+        "podcastTitle": "The China-Global South Podcast",
+        "title": "Why Have China-Japan Relations Fallen Apart?",
+        "description": "China's suspension of rare earth exports to Japan has now entered its seventh month, with shipments in June again falling to a fraction of their level a year earlier. The restrictions are one sign of a broader collapse in relations between the two...",
+        "publishDate": "2026-07-20",
+        "duration": 1992,
+        "audioUrl": "https://traffic.libsyn.com/secure/ea0f0fdd-2944-4ff3-8a00-704e8c67d58b/CGSP_07202026_Libsyn.mp3?dest-id=4287628",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Feminism & Arts",
+          "Geopolitics & Politics",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "china-global-south-ep-3b027f3c-11b5-4960-a1d9-5db493bdad5c",
         "podcastId": "china-global-south",
         "podcastTitle": "The China-Global South Podcast",
@@ -45381,7 +45441,7 @@
         "title": "Om sanktioner, covidstängning och propagandarapp",
         "description": "Kan EU på veckans toppmöte pressa Kina att kritisera Rysslands krig i Ukraina - halva finansstaden Shanghai covidstängs 4 dagar men räcker det och hur är det att bo i en Hutong? Lyssna på alla avsnitt i Sveriges Radios app. Hör Björn Djurberg, Sve...",
         "publishDate": "2022-03-30",
-        "duration": 2007,
+        "duration": 1994,
         "audioUrl": "https://static-cdn.sr.se/laddahem/podradio/2022/03/kinapodden_i_p1_kinapodden_i_p1_20220330_1122334410.mp3",
         "topics": [
           "Semiconductors & AI",
@@ -45478,7 +45538,7 @@
         "title": "Kinapodden i P1 2022-02-18 kl. 14.33",
         "description": "Radiokorrespondenterna Kina tar med lyssnaren in i maktspelet mellan öst och väst. Om Kinas roll på världsscenen och händelserna som just nu formar världspolitiken. Lyssna på alla avsnitt i Sveriges Radios app.",
         "publishDate": "2022-02-18",
-        "duration": 1489,
+        "duration": 1480,
         "audioUrl": "https://static-cdn.sr.se/laddahem/podradio/2022/02/kinapodden_i_p1_kinapodden_i_p1_20220217_1517270918.mp3",
         "topics": [
           "Semiconductors & AI",
@@ -98472,6 +98532,36 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-2765392",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Soapbox: The 5 AM hospital wake-up call debate",
+        "description": "It's 5 AM. You've finally dozed off after a night of beeping monitors and creaky gurneys, only to be shaken awake for vitals. Infuriating? Or lifesaving? Patients are furious, but medics stand by their protocols. Because in a hospital, rest and re...",
+        "publishDate": "2026-07-20",
+        "duration": 1264,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2607/1084535065693.mp3",
+        "topics": [
+          "Dynastic History",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765389",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "The delicate balance of governing AI",
+        "description": "Robots filling prescriptions. AI assistants planning your day. Machines accelerating scientific discovery. This year's World Artificial Intelligence Conference offered a glimpse into a future arriving faster than many expected. As AI becomes more ...",
+        "publishDate": "2026-07-20",
+        "duration": 1908,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2607/1084534898500.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2765368",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -106105,6 +106195,60 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0720tw",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Lai Warns of Beijing ‘Red Terror’ as Taiwan Weighs Safeguards",
+        "description": "",
+        "publishDate": "2026-07-20",
+        "duration": 352,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0720/71ad6192-cbb2-4c0c-a092-ea6fb0805629/audio.mp3?length=4231008&duration=352",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Daily Life"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0720flg",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Spotlight on Transnational Repression as Falun Gong Endures 27 Years of Persecution",
+        "description": "",
+        "publishDate": "2026-07-20",
+        "duration": 306,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0721/37be93b9-4d36-47bb-9576-a5b7473ec38a/audio.mp3?length=3674304&duration=306",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0720ali",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "EU Hits AliExpress With Record $630 Million Fine for Failing to Curb Counterfeit Goods",
+        "description": "",
+        "publishDate": "2026-07-20",
+        "duration": 255,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0720/ff3d7531-c023-494b-b537-a5c467bf4b83/audio.mp3?length=3062016&duration=255",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-gyf42",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 42 The Liao Empire Has Been Conquered",
+        "description": "Playlist Hub",
+        "publishDate": "2026-07-20",
+        "duration": 2516,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/gyf42.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0719maj",
         "podcastId": "china-in-depth",
