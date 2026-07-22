@@ -83710,6 +83710,23 @@
     ],
     "episodes": [
       {
+        "id": "sharp-china-ep-https---sharpchina-fm-member-episode-preview-kimi-madness-xi",
+        "podcastId": "sharp-china",
+        "podcastTitle": "Sharp China with Bill Bishop",
+        "title": "(Preview) Kimi Madness; Xi’s AI Vision and US Questions; Trump’s Election Data Claims; The Connected Vehicle Security Act",
+        "description": "On today’s show Andrew and Bill focus on the arrival of Moonshot’s Kimi K3 model and the “DeepSeek 2.0 concerns” among investors and policymakers. Topics include: The incoherent U.S. approach to the open source AI ecosystem, levers the U.S. side c...",
+        "publishDate": "2026-07-21",
+        "duration": 856,
+        "audioUrl": "https://sharpchina.fm/assets/sharpchina162-preview.mp3?access_token=MSorAZNuXsdNR1taQBKjcF",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "sharp-china-ep-https---sharpchina-fm-member-episode-preview-k-shaped-econom",
         "podcastId": "sharp-china",
         "podcastTitle": "Sharp China with Bill Bishop",
@@ -87047,6 +87064,23 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "asia-chessboard-ep-1a53a6ae-8515-11f1-8e4a-1fe8afb57728",
+        "podcastId": "asia-chessboard",
+        "podcastTitle": "The Asia Chessboard",
+        "title": " How Prepared is the United States for War in the Indo-Pacific?",
+        "description": "In this episode, Mike sits down with Bryan Clark, Senior Fellow and Director of the Center for Defense Concepts and Technology at the Hudson Institute, about whether the United States is prepared for a major conflict in the Indo-Pacific. They exam...",
+        "publishDate": "2026-07-21",
+        "duration": 2624,
+        "audioUrl": "https://traffic.megaphone.fm/CSIS1927134459.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Geopolitics & Politics",
+          "Tech & Business"
+        ]
+      },
       {
         "id": "asia-chessboard-ep-284ddc04-7488-11f1-8a3f-dfb0e272e1fd",
         "podcastId": "asia-chessboard",
@@ -98531,6 +98565,35 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "roundtable-china-ep-1-2765410",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Are we done with binge watching?",
+        "description": "Binge-watching once reigned supreme. Entire seasons consumed before the weekend was through. But the landscape is shifting. Streamers are pacing releases, audiences are scrolling past, and that \"next episode\" prompt no longer guarantees instant gr...",
+        "publishDate": "2026-07-21",
+        "duration": 1327,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2607/1084620119632.mp3",
+        "topics": [
+          "Dynastic History"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765407",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "City students, rural lessons",
+        "description": "Every summer, heaps of university students trade campus life for rural communities, arriving with laptops, lesson plans, and big ideas. They teach children, sell produce online, and lend a hand wherever they're needed. But the brochures leave some...",
+        "publishDate": "2026-07-21",
+        "duration": 1804,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2607/1084620003967.mp3",
+        "topics": [
+          "Dynastic History",
+          "Daily Life",
+          "Economic Reform",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "roundtable-china-ep-1-2765392",
         "podcastId": "roundtable-china",
