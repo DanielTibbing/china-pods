@@ -12213,6 +12213,22 @@
     ],
     "episodes": [
       {
+        "id": "chinatalk-ep-b7fc46a8-85fc-11f1-93fb-87bf05fbd91c",
+        "podcastId": "chinatalk",
+        "podcastTitle": "ChinaTalk",
+        "title": "Kimi K3, Xi's Speech, and China's Mythos Moment",
+        "description": "The whole ChinaTalk gang gets together to discuss a big week in China AI with the release of Kimi K3 and Xi talking open source and safety at WAIC. We also discuss our latest article exploring the three potential scenarios for Chinese governance w...",
+        "publishDate": "2026-07-22",
+        "duration": 3580,
+        "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL8074580392.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "chinatalk-ep-30b7cb58-8472-11f1-be30-4304a6d2914d",
         "podcastId": "chinatalk",
         "podcastTitle": "ChinaTalk",
@@ -29598,6 +29614,24 @@
       "Tech & Business"
     ],
     "episodes": [
+      {
+        "id": "china-global-south-ep-b12f55c4-f0a7-4193-a37a-cec180659fe9",
+        "podcastId": "china-global-south",
+        "podcastTitle": "The China-Global South Podcast",
+        "title": "China's Pacific Missile Shock Explained",
+        "description": "Two weeks ago, a PLA Navy submarine in the South China Sea test-fired a nuclear-capable intercontinental ballistic missile that flew 7,300 kilometers before splashing down in the South Pacific. The launch drew sharp criticism from several Pacific ...",
+        "publishDate": "2026-07-22",
+        "duration": 1910,
+        "audioUrl": "https://traffic.libsyn.com/secure/ea0f0fdd-2944-4ff3-8a00-704e8c67d58b/CGSP_07222026_Libsyn.mp3?dest-id=4287628",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-global-south-ep-edef2946-cb01-4e6a-820f-8e784278c0f5",
         "podcastId": "china-global-south",
@@ -89036,6 +89070,23 @@
     ],
     "episodes": [
       {
+        "id": "made-in-china-de-ep-buzzsprout-19531803",
+        "podcastId": "made-in-china-de",
+        "podcastTitle": "Made in China (German)",
+        "title": "#219 – Zwischen Messehallen und Zukunftsmärkten: Jan Rohde über China, Kultur und Chancen",
+        "description": "Jan Rasmus Rohde, CFO und Deputy General Manager von Messe München in Shanghai, erzählt von seinem Weg zurück nach China und erklärt, warum persönliche Messen gerade jetzt wieder an Bedeutung gewinnen. Am Beispiel der Bauma Shanghai beschreibt er,...",
+        "publishDate": "2026-07-22",
+        "duration": 2596,
+        "audioUrl": "https://www.buzzsprout.com/1869386/episodes/19531803-219-zwischen-messehallen-und-zukunftsmarkten-jan-rohde-uber-china-kultur-und-chancen.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "made-in-china-de-ep-buzzsprout-19457079",
         "podcastId": "made-in-china-de",
         "podcastTitle": "Made in China (German)",
@@ -98566,6 +98617,20 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-2765419",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Quick update",
+        "description": "Hello listeners, no new episode of Round Table in your feed today. We're pausing briefly because we're cooking up something special behind the scenes, and we can't wait to share it with you soon! We'll be back on schedule tomorrow. In the meantime...",
+        "publishDate": "2026-07-22",
+        "duration": 49,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2607/1084689381811.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2765410",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -106258,6 +106323,243 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0722covc",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Authors Who Dismissed COVID-19 Lab-Leak Theory in Paper Privately Said They Weren’t Sure",
+        "description": "",
+        "publishDate": "2026-07-22",
+        "duration": 303,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0722/a97c9ce1-ed05-42af-9f81-493f3cc15505/audio.mp3?length=3643200&duration=303",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0722arc",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "US Monitors Chinese Vessels Amid Heightened Activity in the Arctic",
+        "description": "",
+        "publishDate": "2026-07-22",
+        "duration": 263,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0722/444d5c5e-9643-46c9-b9ed-6c03c4404b15/audio.mp3?length=3156768&duration=263",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0722top",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Top US, China Diplomats Meet in Philippines Ahead of Summit",
+        "description": "",
+        "publishDate": "2026-07-22",
+        "duration": 326,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0722/404a690b-4b95-4245-99b8-e19308510517/audio.mp3?length=3923712&duration=326",
+        "topics": [
+          "US-China Relations"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0722doc",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Doctor Urges Medical Community to Take Action Against China’s Forced Organ Harvesting",
+        "description": "",
+        "publishDate": "2026-07-22",
+        "duration": 382,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0722/60b69715-65bb-47e2-bb0e-822a61f8419c/audio.mp3?length=4593888&duration=382",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0722124",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "124 Swiss Lawmakers Condemn Beijing’s Transnational Repression of Falun Gong",
+        "description": "",
+        "publishDate": "2026-07-22",
+        "duration": 239,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0722/35fa876e-4538-41d0-8977-fa0a319ab856/audio.mp3?length=2876256&duration=239",
+        "topics": [
+          "Daily Life"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0722dea",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Dealing With Religious Fanatics in Both Tehran and Beijing",
+        "description": "",
+        "publishDate": "2026-07-22",
+        "duration": 351,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0722/3636feca-c4c6-4d4a-9793-22da065f5ece/audio.mp3?length=4214304&duration=351",
+        "topics": [
+          "Daily Life"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0722dwn",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Officials Sought to Downplay China’s Link to 2020 Election",
+        "description": "",
+        "publishDate": "2026-07-22",
+        "duration": 802,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0722/4c4f7763-b8f2-4482-b56a-2994b9214b46/audio.mp3?length=9635040&duration=802",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0722mh",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Falun Dafa News from Around the World – July 22, 2026 ",
+        "description": "",
+        "publishDate": "2026-07-22",
+        "duration": 1503,
+        "audioUrl": "https://en.minghui.org/u/files/podcasts/emh-podcast/EMHPodcast_2128-News.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-gyf44",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 44 Meng Liang and Jiao Zan Both Died",
+        "description": "Playlist Hub",
+        "publishDate": "2026-07-22",
+        "duration": 2129,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/gyf44.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0721fbi",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "FBI Blocked Interview of Scientist Who Was at Wuhan Lab: Documents",
+        "description": "",
+        "publishDate": "2026-07-21",
+        "duration": 171,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0721/040de872-7f39-4bbf-ac96-18843b668698/audio.mp3?length=2054880&duration=171",
+        "topics": [
+          "Dynastic History"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0721dat",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chinese Academics Say CCP Pressure Forces Data Falsification",
+        "description": "",
+        "publishDate": "2026-07-21",
+        "duration": 420,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0721/596514d0-5dd1-4bce-8382-4ab8ad8ee3a8/audio.mp3?length=5051808&duration=420",
+        "topics": [
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0721flg",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "US Pledges to Push Back Against Chinese Transnational Repression, Protect Falun Gong",
+        "description": "",
+        "publishDate": "2026-07-21",
+        "duration": 473,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0721/5072e31a-5765-49a1-b724-4286262065a5/audio.mp3?length=5682240&duration=473",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0721cb",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "State Department Says China Runs 3 Intelligence Sites in Cuba",
+        "description": "",
+        "publishDate": "2026-07-21",
+        "duration": 483,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0721/4dc0466f-d5ad-459d-8e13-be675b057fad/audio.mp3?length=5799168&duration=483",
+        "topics": [
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0721ai",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Bessent Says US Could Sanction Chinese AI Developers Over Alleged Model Theft",
+        "description": "",
+        "publishDate": "2026-07-21",
+        "duration": 217,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0721/e113ddc0-6818-4224-a72e-787b3fa35f80/audio.mp3?length=2606976&duration=217",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0721spc",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s Space War Against the USA",
+        "description": "",
+        "publishDate": "2026-07-21",
+        "duration": 391,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0721/057103ab-72e9-4cb1-b5c5-625b580d5b96/audio.mp3?length=4696992&duration=391",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0721lw",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s New Law on ‘Ethnic Unity and Progress’ Provides Neither",
+        "description": "",
+        "publishDate": "2026-07-21",
+        "duration": 482,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0721/28487c0e-406b-46e7-ac30-bb4cdcf8ad66/audio.mp3?length=5792256&duration=482",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0721jp",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Beijing Seems to Have Targeted Japan",
+        "description": "",
+        "publishDate": "2026-07-21",
+        "duration": 242,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0721/47f6037e-28c5-4ca7-944a-e68104140cc3/audio.mp3?length=2905056&duration=242",
+        "topics": [
+          "Daily Life"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-gyf43",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 43 The Song Court Rewarded and Promoted the Women Generals Alongside the Men",
+        "description": "Playlist Hub",
+        "publishDate": "2026-07-21",
+        "duration": 2444,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/gyf43.mp3",
+        "topics": [
+          "Dynastic History",
+          "Feminism & Arts"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0720tw",
         "podcastId": "china-in-depth",
