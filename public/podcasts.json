@@ -16,6 +16,21 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-chinas-stock-market-rescue-h",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "China's Stock Market Rescue: How Big Is Beijing's Bet?",
+        "description": "Listen now | China is stepping in to prop up its stock market, quietly opening the door to more outbound investment, and easing off the credit gas &#8211; all at once.",
+        "publishDate": "2026-07-24",
+        "duration": 1800,
+        "audioUrl": "https://api.substack.com/feed/podcast/208282292/9e7d700fd55d4e033c90efc1b4141a16.mp3",
+        "topics": [
+          "Daily Life",
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-the-limits-of-chinas-iran-di",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -2587,6 +2602,25 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "pekingology-ep-3d6b24dc-860a-11f1-8953-0ff7b0775002",
+        "podcastId": "pekingology",
+        "podcastTitle": "Pekingology",
+        "title": "Embodied AI and the Transformation of China’s Robotics Industry",
+        "description": "China is rapidly emerging as a global leader in robotics and embodied artificial intelligence, leveraging its manufacturing scale and deep supply chains to shape the future of automation. In this episode of Pekingology, CSIS Senior Fellow Henriett...",
+        "publishDate": "2026-07-23",
+        "duration": 2081,
+        "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/cohst.app/pdcst/0C0K2I/traffic.megaphone.fm/CSIS1851802764.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Geopolitics & Politics",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "pekingology-ep-80fb7132-7b3a-11f1-89d8-87f89fa0fe15",
         "podcastId": "pekingology",
@@ -29614,6 +29648,26 @@
       "Tech & Business"
     ],
     "episodes": [
+      {
+        "id": "china-global-south-ep-1ced082e-4918-400c-920c-9c8b38a96d2b",
+        "podcastId": "china-global-south",
+        "podcastTitle": "The China-Global South Podcast",
+        "title": "What the Iran War Reveals About China's Power in the Persian Gulf",
+        "description": "There's an emerging consensus that China is among the chief beneficiaries of the escalating conflict between the United States and Iran. While Beijing has undoubtedly welcomed Washington becoming entangled in yet another war in West Asia, and cont...",
+        "publishDate": "2026-07-23",
+        "duration": 2373,
+        "audioUrl": "https://traffic.libsyn.com/secure/ea0f0fdd-2944-4ff3-8a00-704e8c67d58b/CGSP_07232026_Libsyn.mp3?dest-id=4287628",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-global-south-ep-b12f55c4-f0a7-4193-a37a-cec180659fe9",
         "podcastId": "china-global-south",
@@ -95693,6 +95747,22 @@
     ],
     "episodes": [
       {
+        "id": "trivium-china-ep-buzzsprout-19541227",
+        "podcastId": "trivium-china",
+        "podcastTitle": "The Trivium China Podcast",
+        "title": "Ep 73 - China&#39;s Stock Market Rescue: How Big Is Beijing&#39;s Bet?",
+        "description": "China is stepping in to prop up its stock market, quietly opening the door to more outbound investment, and easing off the credit gas – all at once.Coincidence? We don't think so.On this week's Trivium China Podcast, Andrew Polk sits down with Din...",
+        "publishDate": "2026-07-23",
+        "duration": 3414,
+        "audioUrl": "https://www.buzzsprout.com/2408047/episodes/19541227-ep-73-china-s-stock-market-rescue-how-big-is-beijing-s-bet.mp3",
+        "topics": [
+          "Dynastic History",
+          "Daily Life",
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
+      {
         "id": "trivium-china-ep-buzzsprout-19509734",
         "podcastId": "trivium-china",
         "podcastTitle": "The Trivium China Podcast",
@@ -98616,6 +98686,33 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "roundtable-china-ep-1-2765437",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "The big buffet comeback",
+        "description": "China's buffet restaurants used to be the pinnacle of dining out. Then they lost their shine and nearly disappeared from the dining scene. But now they are making a surprising comeback, this time in shopping malls with much lower price tags. So wh...",
+        "publishDate": "2026-07-23",
+        "duration": 1191,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2607/1084796939762.mp3",
+        "topics": [
+          "Dynastic History"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765434",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "The red light delivery revolution",
+        "description": "For years, China's delivery riders have been trapped in a cruel dynamic. Their apps track every second, but algorithms have no idea when riders are stuck at red lights. Late penalties pile up for delays completely out of their control. Now Suzhou ...",
+        "publishDate": "2026-07-23",
+        "duration": 1924,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2607/1084796726577.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History"
+        ]
+      },
       {
         "id": "roundtable-china-ep-1-2765419",
         "podcastId": "roundtable-china",
@@ -106323,6 +106420,98 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0723chi",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Financial Managers Seek Ways to Leave China Amid Anti-Corruption Probe",
+        "description": "",
+        "publishDate": "2026-07-23",
+        "duration": 363,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0723/ac2efcb4-220c-4e85-ab4d-25e91132d340/audio.mp3?length=4357440&duration=363",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0723eu",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "EU Car Sales Rise as Electric Vehicles, Chinese Brands Gain Ground",
+        "description": "",
+        "publishDate": "2026-07-23",
+        "duration": 349,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0723/b3abba4b-5511-4c7b-887b-6bd298578747/audio.mp3?length=4190112&duration=349",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0723ev",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Senate Committee Advances Bill to Codify Ban on Chinese Smart Vehicles",
+        "description": "",
+        "publishDate": "2026-07-23",
+        "duration": 286,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0723/0281bc93-7774-447d-9ef8-d9b85573713c/audio.mp3?length=3443328&duration=286",
+        "topics": [
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0723sy",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Congressman Says ‘Unbroken’ Documentary Highlights Threat of Communism",
+        "description": "",
+        "publishDate": "2026-07-23",
+        "duration": 333,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0723/04dbbe7c-ffc2-4b23-a0b0-ed1259210326/audio.mp3?length=3997728&duration=333",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0723ai",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "White House Adviser Accuses Chinese AI of Stealing From Anthropic",
+        "description": "",
+        "publishDate": "2026-07-23",
+        "duration": 273,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0723/176424f5-8ab8-4cde-bebb-a2810d493de1/audio.mp3?length=3279168&duration=273",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0723flg",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Thousands Rally at Lincoln Memorial Calling for End to Persecution of Falun Gong",
+        "description": "",
+        "publishDate": "2026-07-23",
+        "duration": 323,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0723/cdbf1e49-15bb-4a5a-8583-de1ad0054c7e/audio.mp3?length=3887136&duration=323",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-gyf45",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 45 Following Meng Liang and Jiao Zan, Liulang and the Eighth Prince Both Died, Too",
+        "description": "Playlist Hub",
+        "publishDate": "2026-07-23",
+        "duration": 2166,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/gyf45.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0722covc",
         "podcastId": "china-in-depth",
