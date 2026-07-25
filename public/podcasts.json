@@ -16,6 +16,21 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-trivium-china-podcast-kimi-k",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "Trivium China Podcast | Kimi K3 Was So Good It Freaked Out Two Governments ",
+        "description": "Listen now | Beijing is moving to restrict how far its own open-source AI models can travel abroad, just as Washington moves to restrict how far they can travel in.",
+        "publishDate": "2026-07-25",
+        "duration": 1800,
+        "audioUrl": "https://api.substack.com/feed/podcast/208409671/c9aba8d961fa840d5264b8bbde1b1d49.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Daily Life"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-chinas-stock-market-rescue-h",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -28,6 +43,38 @@
           "Daily Life",
           "Economic Reform",
           "Tech & Business"
+        ]
+      },
+      {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-samm-sacks-and-paul-triolo-o",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "Samm Sacks and Paul Triolo on WAIC 2026, Xi's AI Speech, and Kimi K3",
+        "description": "This week on Sinica, a rare treat: an in-person recording from Beijing with two dear friends who happen to be two of the very best in the business on technology and China &#8212; Samm Sacks and Paul Triolo, fresh off the exhibition floor of the Wo...",
+        "publishDate": "2026-07-24",
+        "duration": 1800,
+        "audioUrl": "https://api.substack.com/feed/podcast/208286542/99ad377c3a9cb1d2aee58cb1b12fd5c3.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-transcript-samm-sacks-and-pa",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "Transcript | Samm Sacks and Paul Triolo on WAIC 2026, Xi's AI Speech, and Kimi K3",
+        "description": "Transcript (courtesy of the fantastic CadreScripts) further down the page.",
+        "publishDate": "2026-07-24",
+        "duration": 1800,
+        "audioUrl": "https://substackcdn.com/image/fetch/$s_!ZG5M!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F831ee4d6-f67e-4535-8ef6-866f290d3c47_1560x1115.png",
+        "topics": [
+          "Semiconductors & AI"
         ]
       },
       {
@@ -12246,6 +12293,25 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "chinatalk-ep-e41a8c9c-8780-11f1-bfd6-7ff221cef598",
+        "podcastId": "chinatalk",
+        "podcastTitle": "ChinaTalk",
+        "title": "WarTalk: Iran War Back On, Rogue AI, Ukraine Civ-Mil",
+        "description": "Five months into the Iran campaign, the US has two carrier strike groups parked in the Arabian Sea, a blockade that may take months to bite, and a daisy chain of tankers stretching thousands of miles because there is no longer any fuel or food to ...",
+        "publishDate": "2026-07-24",
+        "duration": 3839,
+        "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL9747095528.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Daily Life",
+          "Feminism & Arts",
+          "Geopolitics & Politics",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "chinatalk-ep-b7fc46a8-85fc-11f1-93fb-87bf05fbd91c",
         "podcastId": "chinatalk",
@@ -95747,6 +95813,22 @@
     ],
     "episodes": [
       {
+        "id": "trivium-china-ep-buzzsprout-19543937",
+        "podcastId": "trivium-china",
+        "podcastTitle": "The Trivium China Podcast",
+        "title": "Ep 74 - Kimi K3 Was So Good It Freaked Out Two Governments",
+        "description": "Beijing is moving to restrict how far its own open-source AI models can travel abroad, just as Washington moves to restrict how far they can travel in.Same standoff, squeezing from opposite ends of the pipeline.Quick note: This episode is the firs...",
+        "publishDate": "2026-07-24",
+        "duration": 2361,
+        "audioUrl": "https://www.buzzsprout.com/2408047/episodes/19543937-ep-74-kimi-k3-was-so-good-it-freaked-out-two-governments.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Daily Life",
+          "Tech & Business"
+        ]
+      },
+      {
         "id": "trivium-china-ep-buzzsprout-19541227",
         "podcastId": "trivium-china",
         "podcastTitle": "The Trivium China Podcast",
@@ -98686,6 +98768,38 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "roundtable-china-ep-1-02765455",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "IN VIDEO: What stays when the postcard fades?",
+        "description": "We plan trips around monuments, museums, and must-see sights, and they're incredible for a reason. But years later, what actually sticks? A new report on young Chinese travelers suggests that human connections matter more than a museum ticket. The...",
+        "publishDate": "2026-07-24",
+        "duration": 3739,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp4/radio-res.cgtn.com/ueditor/audio/2607/1084888573611.mp4",
+        "topics": [
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765446",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "What stays when the postcard fades?",
+        "description": "We plan trips around monuments, museums, and must-see sights, and they're incredible for a reason. But years later, what actually sticks? A new report on young Chinese travelers suggests that human connections matter more than a museum ticket. The...",
+        "publishDate": "2026-07-24",
+        "duration": 3825,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2607/1084873554446.mp3",
+        "topics": [
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "roundtable-china-ep-1-2765437",
         "podcastId": "roundtable-china",
@@ -106016,6 +106130,26 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "wire-china-ep-buzzsprout-19543122",
+        "podcastId": "wire-china",
+        "podcastTitle": "The Wire China Podcast",
+        "title": "Live From Paris: Is China’s Consumer Sector Really That Bad?",
+        "description": "China’s consumer economy is doing very poorly if you look at it one way: low consumption, deflation, and overcapacity. But popular — and successful — global brands like Anta Group and Popmart seem to paint a different picture. What’s really going ...",
+        "publishDate": "2026-07-24",
+        "duration": 1191,
+        "audioUrl": "https://www.buzzsprout.com/2591600/episodes/19543122-live-from-paris-is-china-s-consumer-sector-really-that-bad.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "wire-china-ep-buzzsprout-19474318",
         "podcastId": "wire-china",
