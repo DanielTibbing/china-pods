@@ -16,6 +16,35 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-what-the-iran-war-reveals-ab",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": " What the Iran War Reveals About China’s Power in the Persian Gulf",
+        "description": "There&#8217;s an emerging consensus that China is among the chief beneficiaries of the escalating conflict between the United States and Iran.",
+        "publishDate": "2026-07-26",
+        "duration": 1800,
+        "audioUrl": "https://api.substack.com/feed/podcast/208520495/814695efc36fd5522ba924fbe21e6133.mp3",
+        "topics": [
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-trivium-china-weekly-recap-r",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "Trivium China Weekly Recap | Regulating Open Source",
+        "description": "Xi Jinping&#8217;s speech at last week&#8217;s World AI Conference in Shanghai was an exercise in &#8220;balancing development and security.&#8221;",
+        "publishDate": "2026-07-26",
+        "duration": 1800,
+        "audioUrl": "https://substack-post-media.s3.amazonaws.com/public/images/5e9ef642-191b-49b5-9b7a-928471e8381c_400x400.png",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Geopolitics & Politics"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-trivium-china-podcast-kimi-k",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -12293,6 +12322,27 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "chinatalk-ep-64c72df8-86f7-11f1-ae50-dfb0b198eafc",
+        "podcastId": "chinatalk",
+        "podcastTitle": "ChinaTalk",
+        "title": "The Iran War Oil Shock That Wasn’t...(Yet?)",
+        "description": "The biggest oil shock in modern history came and went without the catastrophe everyone expected. When Iran closed the Strait of Hormuz, analysts warned that oil could hit $200 a barrel, but the global economy avoided that fate. The Trump administr...",
+        "publishDate": "2026-07-26",
+        "duration": 3960,
+        "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL8665268486.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "History",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "chinatalk-ep-e41a8c9c-8780-11f1-bfd6-7ff221cef598",
         "podcastId": "chinatalk",
@@ -106554,6 +106604,72 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0724xi",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Trump Says Chinese Leader Xi Will Visit US in September",
+        "description": "",
+        "publishDate": "2026-07-24",
+        "duration": 195,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0724/9889a772-7ceb-4256-a8b8-85c00ca62521/audio.mp3?length=2340576&duration=195",
+        "topics": [
+          "US-China Relations"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0724can",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Candlelight Vigil Commemorates Falun Gong Victims of Persecution",
+        "description": "",
+        "publishDate": "2026-07-24",
+        "duration": 300,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0724/1c14f098-eaca-4065-b28b-30889b35184c/audio.mp3?length=3602016&duration=300",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0724vir",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "US Officers Caught Courier Smuggling Virus From China: DHS Documents",
+        "description": "",
+        "publishDate": "2026-07-24",
+        "duration": 227,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0724/7bdd4ee8-e77f-4ec7-b194-290db926c0b4/audio.mp3?length=2734560&duration=227",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0724foo",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s Next Weapon Against America Is Our Own Food Supply",
+        "description": "",
+        "publishDate": "2026-07-24",
+        "duration": 320,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0723/861fdf71-7a21-4d6c-a8ef-2dd7bee7cda6/audio.mp3?length=3840192&duration=320",
+        "topics": [
+          "Semiconductors & AI",
+          "Daily Life"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-gyf46",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 46 Yang Zongbao Is Having Trouble Fighting Sorcerer Generals of the Invading Xixia Army",
+        "description": "Playlist Hub",
+        "publishDate": "2026-07-24",
+        "duration": 2582,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/gyf46.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0723chi",
         "podcastId": "china-in-depth",
