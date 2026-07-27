@@ -45,6 +45,19 @@
         ]
       },
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-pilfered-in-passing-phrase-o",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "“Pilfered in passing” — Phrase of the Week",
+        "description": "The fall of a writer for plagiarism",
+        "publishDate": "2026-07-26",
+        "duration": 1800,
+        "audioUrl": "https://substackcdn.com/image/fetch/$s_!2pkz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe7c81e6b-dcaa-4e6d-af40-9efa340f0b77_2000x1200.jpeg",
+        "topics": [
+          "Feminism & Arts"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-trivium-china-podcast-kimi-k",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -42813,6 +42826,23 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "sr-kina-ep-rss-sr-se-pod-eid-2767921",
+        "podcastId": "sr-kina",
+        "podcastTitle": "Radiokorrespondenterna Kina",
+        "title": "Så kan ”gisslandiplomati” bli ett vapen mellan Kina och USA",
+        "description": "Kanadensare fängslades i Kina när USA slog till mot telekombolaget Huawei Lyssna på alla avsnitt i Sveriges Radios app. En sen septemberkväll 2021 har ett flygplan landat på en flygplats i södra Kina och en kvinna i illröd klänning vinkar från fly...",
+        "publishDate": "2026-07-27",
+        "duration": 1125,
+        "audioUrl": "https://static-cdn.sr.se/laddahem/podradio/2026/05/radiokorrespondenterna_kina_sa_kan_gisslandiplomati_bli_20260521_1117483008.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "sr-kina-ep-rss-sr-se-pod-eid-2767919",
         "podcastId": "sr-kina",
@@ -106604,6 +106634,103 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0726doc",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Doctors, Lawyers Urge Coordinated Action Against Forced Organ Harvesting in China",
+        "description": "",
+        "publishDate": "2026-07-26",
+        "duration": 528,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0725/d53bd313-20a4-4449-a937-5feb61528f54/audio.mp3?length=6340896&duration=528",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0726scs",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "US, Japan, Philippines Complete Joint Military Drills In South China Sea",
+        "description": "",
+        "publishDate": "2026-07-26",
+        "duration": 176,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0726/6051b20c-ced1-4f75-ac30-5417d7bec254/audio.mp3?length=2114496&duration=176",
+        "topics": [
+          "US-China Relations",
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0726dod",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Pentagon Adds Many of China’s Top Civilian Universities to Blacklist",
+        "description": "",
+        "publishDate": "2026-07-26",
+        "duration": 315,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0727/c6e2f23c-90e9-49f1-97fe-43ab0efa9aee/audio.mp3?length=3781440&duration=315",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0726lai",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Lai Warns of Beijing ‘Red Terror’ as Taiwan Weighs Safeguards",
+        "description": "",
+        "publishDate": "2026-07-26",
+        "duration": 352,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0720/71ad6192-cbb2-4c0c-a092-ea6fb0805629/audio.mp3?length=4231008&duration=352",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Daily Life"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0726tw",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Lai Expands Taiwan’s Collective Defense Strategy With Drones and Allied Cooperation",
+        "description": "",
+        "publishDate": "2026-07-26",
+        "duration": 399,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0726/7beba169-f8e7-4f8d-8c93-0d884acc120d/audio.mp3?length=4792896&duration=399",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0726fin",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "How American Taxpayers Funded a Substantial Portion of China’s Fintech Rise",
+        "description": "",
+        "publishDate": "2026-07-26",
+        "duration": 547,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0726/df7b0861-4262-40b6-aecc-ff405b14ee5a/audio.mp3?length=6573312&duration=547",
+        "topics": [
+          "Semiconductors & AI",
+          "Tech & Business"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-gyf47",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 47 Yang Zongbao Is Trapped by Enemy Inside a Valley",
+        "description": "Playlist Hub",
+        "publishDate": "2026-07-26",
+        "duration": 2070,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/gyf47.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0724xi",
         "podcastId": "china-in-depth",
