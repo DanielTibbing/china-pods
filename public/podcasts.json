@@ -95893,6 +95893,26 @@
     ],
     "episodes": [
       {
+        "id": "trivium-china-ep-buzzsprout-19556762",
+        "podcastId": "trivium-china",
+        "podcastTitle": "The Trivium China Podcast",
+        "title": "Ep 75 - DeepSeek Founder Goes Off Script in Leaked Investor Call",
+        "description": "A leaked, four-hour investor call with DeepSeek founder Liang Wenfeng has been spreading like wildfire on the Chinese internet over the past few days – before links to it started disappearing – and Trivium's Bao Linghao joined the pod to give it a...",
+        "publishDate": "2026-07-27",
+        "duration": 1460,
+        "audioUrl": "https://www.buzzsprout.com/2408047/episodes/19556762-ep-75-deepseek-founder-goes-off-script-in-leaked-investor-call.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "trivium-china-ep-buzzsprout-19543937",
         "podcastId": "trivium-china",
         "podcastTitle": "The Trivium China Podcast",
@@ -98848,6 +98868,34 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "roundtable-china-ep-1-2765465",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "The Soapbox: when AI lies",
+        "description": "We have all asked AI for a recommendation, to polish an email, or to diagnose a strange symptom. It is useful and fast, and lately it has become our first stop for answers. Then a story broke out of China about a journalist with a press card and a...",
+        "publishDate": "2026-07-27",
+        "duration": 1420,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2607/1085142465828.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765462",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "The clay that conquered the world",
+        "description": "For over a thousand years, one Chinese city transformed clay into treasures so coveted that kings demanded them, empires tried to copy them, and the material itself became synonymous with the nation that made it. Now, that extraordinary legacy has...",
+        "publishDate": "2026-07-27",
+        "duration": 1733,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2607/1085142392341.mp3",
+        "topics": [
+          "Dynastic History",
+          "Daily Life"
+        ]
+      },
       {
         "id": "roundtable-china-ep-1-02765455",
         "podcastId": "roundtable-china",
@@ -106634,6 +106682,86 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0727fau",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "CIA Obtained Secret Information About Wuhan Lab, Fauci Diary Shows",
+        "description": "",
+        "publishDate": "2026-07-27",
+        "duration": 324,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0727/9b856caf-4194-4ee7-8274-0d7767679e7e/audio.mp3?length=3892608&duration=324",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0727fal",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Fall of Former Chinese Financial Official Signals Growing Scrutiny of Western-Educated Technocrats",
+        "description": "",
+        "publishDate": "2026-07-27",
+        "duration": 321,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0727/af803f60-f6a8-42a3-b865-1e7213ea5bcf/audio.mp3?length=3862080&duration=321",
+        "topics": [
+          "Semiconductors & AI",
+          "Tech & Business"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0727ver",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "The Truth Behind China’s 180 Court Verdicts",
+        "description": "",
+        "publishDate": "2026-07-27",
+        "duration": 573,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0728/818284ca-e7df-477b-bd31-6ee5515dd445/audio.mp3?length=6886368&duration=573",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0727poll",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Polls Say China Is More Popular, but the World Still Chooses America",
+        "description": "",
+        "publishDate": "2026-07-27",
+        "duration": 430,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0728/c7aae968-887e-4022-955d-32e63e11e8a8/audio.mp3?length=5169024&duration=430",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0727ai",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China Is Crushing It in AI—But Will It Be Enough?",
+        "description": "",
+        "publishDate": "2026-07-27",
+        "duration": 404,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0726/7014e099-8ae4-4539-99fb-26fb8ab69b3a/audio.mp3?length=4852512&duration=404",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-gyf48",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 48 Twelve Women Generals of the Yang Family,Mostly Widows,  Go to Battleground to Fight Invaders and Rescue Zongbao",
+        "description": "Playlist Hub",
+        "publishDate": "2026-07-27",
+        "duration": 2727,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/gyf48.mp3",
+        "topics": [
+          "Feminism & Arts"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0726doc",
         "podcastId": "china-in-depth",
