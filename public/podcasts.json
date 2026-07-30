@@ -12336,6 +12336,23 @@
     ],
     "episodes": [
       {
+        "id": "chinatalk-ep-07d257ae-8bba-11f1-a759-efd1f6bd2779",
+        "podcastId": "chinatalk",
+        "podcastTitle": "ChinaTalk",
+        "title": "WarTalk: Odyssey Edition",
+        "description": "Roel Konijnendijk of Oxford returns to talk Nolan's Odyssey, ancient PTSD, siege warfare, and the choices we'd all make in adapting. Justin McIntosh cohosts. YoungBoy Never Broke Again as well as James Blake each deliver an outtro song! Learn more...",
+        "publishDate": "2026-07-30",
+        "duration": 5312,
+        "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL5854468058.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "History",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "chinatalk-ep-64c72df8-86f7-11f1-ae50-dfb0b198eafc",
         "podcastId": "chinatalk",
         "podcastTitle": "ChinaTalk",
@@ -29777,6 +29794,25 @@
       "Tech & Business"
     ],
     "episodes": [
+      {
+        "id": "china-global-south-ep-4eca30e2-ef79-485a-9ab0-c4b0ea16752d",
+        "podcastId": "china-global-south",
+        "podcastTitle": "The China-Global South Podcast",
+        "title": "Why Critical Minerals Alone Won't Make Countries Rich",
+        "description": "There's growing optimism across Africa, Latin America, and Asia that abundant reserves of critical minerals like lithium, cobalt, and nickel can fuel a new era of economic development. Determined to avoid the \"resource curse\" that enriched foreign...",
+        "publishDate": "2026-07-29",
+        "duration": 2500,
+        "audioUrl": "https://traffic.libsyn.com/secure/ea0f0fdd-2944-4ff3-8a00-704e8c67d58b/CGSP_07252026_Libsyn.mp3?dest-id=4287628",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-global-south-ep-1ced082e-4918-400c-920c-9c8b38a96d2b",
         "podcastId": "china-global-south",
@@ -89273,11 +89309,11 @@
         "id": "made-in-china-de-ep-buzzsprout-19562370",
         "podcastId": "made-in-china-de",
         "podcastTitle": "Made in China (German)",
-        "title": "#220 – Chinas Robotik-Boom: Wie deutsche Unternehmen profitieren können.m4a",
+        "title": "#220 – Chinas Robotik-Boom: Wie deutsche Unternehmen profitieren können",
         "description": "In dieser Folge spricht Thomas Derksen mit Damian Maib über seine jüngste Robotics-Tour durch China, bei der er gemeinsam mit dem China-Team eines großen deutschen Automobilzulieferers führende Robotik-Unternehmen besucht hat. Im Mittelpunkt steht...",
         "publishDate": "2026-07-28",
         "duration": 1307,
-        "audioUrl": "https://www.buzzsprout.com/1869386/episodes/19562370-220-chinas-robotik-boom-wie-deutsche-unternehmen-profitieren-konnen-m4a.mp3",
+        "audioUrl": "https://www.buzzsprout.com/1869386/episodes/19562370-220-chinas-robotik-boom-wie-deutsche-unternehmen-profitieren-konnen.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -98885,6 +98921,36 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-2765495",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "China Finds: poetry in motion",
+        "description": "We tend to look for great art in quiet libraries and university halls. But the literary world just got turned upside down by a man who spends his days weaving through traffic. At 56 years young, a food delivery rider has won one of China's most pr...",
+        "publishDate": "2026-07-29",
+        "duration": 1088,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2607/1085319508417.mp3",
+        "topics": [
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765492",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Summer cinema's surprising new favorites",
+        "description": "It is summertime, and the box office is heating up. Theaters are packed with everything from big-budget spectacles to quiet dramas and domestic hits sitting right alongside international blockbusters. Audiences are voting with their wallets, and t...",
+        "publishDate": "2026-07-29",
+        "duration": 2061,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2607/1085319445923.mp3",
+        "topics": [
+          "Dynastic History",
+          "Feminism & Arts"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2765483",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -106712,6 +106778,164 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0729hhs",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "HHS Unveils Policy to End Funding for ‘Dangerous Gain-of-Function Research’",
+        "description": "",
+        "publishDate": "2026-07-29",
+        "duration": 209,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0729/2d3b4fc9-91de-4570-9075-fc83a637f686/audio.mp3?length=2518560&duration=209",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0729afr",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "US Challenges China’s Dominance in Africa with New Rare-Earth Bet",
+        "description": "",
+        "publishDate": "2026-07-29",
+        "duration": 188,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0729/3ffa75b4-39e8-4d30-a9b1-3038b0e4b92b/audio.mp3?length=2256480&duration=188",
+        "topics": [
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0729fcc",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "FCC Bans Foreign Humanoid Robots, Power Inverters Amid China Concerns",
+        "description": "",
+        "publishDate": "2026-07-29",
+        "duration": 306,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0729/e40ed8e6-741c-47e2-9954-8cbe82cfe194/audio.mp3?length=3678048&duration=306",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0729t9",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "9 Takeaways From Fauci’s COVID Diaries",
+        "description": "",
+        "publishDate": "2026-07-29",
+        "duration": 826,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0729/7c1a8a1d-d3b1-443f-8c4f-cc2261193d22/audio.mp3?length=9912096&duration=826",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0729trmp",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Trump Says Reported Chinese Arms Sale to Iran ‘Would Be Surprising’",
+        "description": "",
+        "publishDate": "2026-07-29",
+        "duration": 234,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0729/e4c5ecd7-f6a2-4495-9246-ee36dfeab391/audio.mp3?length=2811168&duration=234",
+        "topics": [
+          "US-China Relations"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0729oai",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "OpenAI Says Its Model Autonomously Hacked Hugging Face",
+        "description": "",
+        "publishDate": "2026-07-29",
+        "duration": 311,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0722/3333488b-47db-4893-b1fc-dc82b6530458/audio.mp3?length=3743712&duration=311",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0729ai",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Misanthropic AI",
+        "description": "",
+        "publishDate": "2026-07-29",
+        "duration": 304,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0729/98f3218d-f02f-4c70-90a4-eb503f338012/audio.mp3?length=3649248&duration=304",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0729mh",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Falun Dafa News from Around the World – July 29, 2026 ",
+        "description": "",
+        "publishDate": "2026-07-29",
+        "duration": 1459,
+        "audioUrl": "https://en.minghui.org/u/files/podcasts/emh-podcast/EMHPodcast_2134-News.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-gyf50",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 50(Finale) Western Xia Surrendered and the Yang Generals Returned Home",
+        "description": "Playlist Hub",
+        "publishDate": "2026-07-29",
+        "duration": 1654,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/gyf50.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0728cr",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "CCP Spent $100 Millions to Influence America",
+        "description": "",
+        "publishDate": "2026-07-28",
+        "duration": 2890,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/0728cr.mp3",
+        "topics": [
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0728atl",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Why Taiwan is Fighting the World’s Largest Cyber War | Wang Ting-yu",
+        "description": "",
+        "publishDate": "2026-07-28",
+        "duration": 2890,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/0728atl.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-gyf49",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 49 Yang Zongbao Is Rescued and the Song Force Besieges the Capital of Western Xia Kingdom",
+        "description": "Playlist Hub",
+        "publishDate": "2026-07-28",
+        "duration": 2124,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/gyf49.mp3",
+        "topics": [
+          "Dynastic History"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0727fau",
         "podcastId": "china-in-depth",
