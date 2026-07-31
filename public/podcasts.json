@@ -32890,6 +32890,25 @@
     ],
     "episodes": [
       {
+        "id": "china-power-ep-afcb95c4-8c14-11f1-bdae-8bdbc9e8c634",
+        "podcastId": "china-power",
+        "podcastTitle": "China Power",
+        "title": "China's Moonshot AI’s Kimi K3 and Open AI Strategy: A Conversation with Ngor Luong ",
+        "description": "In this episode of the ChinaPower Podcast, Ngor Luong joins us to discuss the rapid rise of Chinese startup Moonshot AI's Kimi K3 model, China’s open AI strategy, and the implications for U.S.-China competition. Drawing on her recent paper, Two Lo...",
+        "publishDate": "2026-07-30",
+        "duration": 2394,
+        "audioUrl": "https://traffic.megaphone.fm/CSIS9218304553.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "china-power-ep-7fcb212c-8152-11f1-8b8f-b72cf8f79b06",
         "podcastId": "china-power",
         "podcastTitle": "China Power",
@@ -83980,6 +83999,21 @@
     ],
     "episodes": [
       {
+        "id": "sharp-china-ep-https---sharpchina-fm-member-episode-preview-a-memory-maker-",
+        "podcastId": "sharp-china",
+        "podcastTitle": "Sharp China with Bill Bishop",
+        "title": "(Preview) A Memory-Maker Makes History; New Robot Rules; The Open Weights Debate Rages; End of July News and Notes",
+        "description": "On today’s show Andrew and Bill begin with reactions to CXMT’s IPO success this week, including responses from legislators in Washington and the stakes of Apple’s continued lobbying fight to relax restrictions on US companies working with PRC memo...",
+        "publishDate": "2026-07-30",
+        "duration": 873,
+        "audioUrl": "https://sharpchina.fm/assets/sharpchina163-preview.mp3?access_token=MSorAZNuXsdNR1taQBKjcF",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "History"
+        ]
+      },
+      {
         "id": "sharp-china-ep-https---sharpchina-fm-member-episode-preview-kimi-madness-xi",
         "podcastId": "sharp-china",
         "podcastTitle": "Sharp China with Bill Bishop",
@@ -97579,6 +97613,20 @@
     ],
     "episodes": [
       {
+        "id": "asia-insight-ep-nbrpodcasts-podbean-com-8d40adbc-9f22-3194-9aa5-fb967bd311c8",
+        "podcastId": "asia-insight",
+        "podcastTitle": "Asia Insight (NBR)",
+        "title": "Next in Line: Thailand’s Rising Leaders and Foreign Policy",
+        "description": "From the National Bureau of Asian Research, an Asia Insight miniseries examining the future of foreign policy through the lens of emerging leadership in South and Southeast Asia. This fifth episode features Dr. Ann Marie Murphy of Seton Hall Unive...",
+        "publishDate": "2026-07-30",
+        "duration": 2136,
+        "audioUrl": "https://mcdn.podbean.com/mf/web/pn7xum9q4gi32zwt/Next-in-Line-Episode-5-July-2026_mixdown.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Geopolitics & Politics"
+        ]
+      },
+      {
         "id": "asia-insight-ep-nbrpodcasts-podbean-com-975ef7ff-6b5e-31b7-b162-1f9db2b80af8",
         "podcastId": "asia-insight",
         "podcastTitle": "Asia Insight (NBR)",
@@ -98920,6 +98968,35 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "roundtable-china-ep-1-2765507",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "China's Fields Medal first",
+        "description": "Two Chinese mathematicians just won math's highest honor in the same ceremony, a first for China. One was a prodigy since childhood. The other found math by accident in a small town. Together they cracked problems that stumped the world for genera...",
+        "publishDate": "2026-07-30",
+        "duration": 1525,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2607/1085404782550.mp3",
+        "topics": [
+          "US-China Relations",
+          "Dynastic History",
+          "History"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765504",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Moldy garlic is trying to warn you",
+        "description": "That greenish-gray spot on your garlic isn't just an annoying kitchen moment, it's a warning sign. This year, erratic weather in China, source of most of the world's garlic, threw the entire growing cycle off balance, and the results are showing u...",
+        "publishDate": "2026-07-30",
+        "duration": 1595,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2607/1085404705096.mp3",
+        "topics": [
+          "Dynastic History",
+          "Daily Life"
+        ]
+      },
       {
         "id": "roundtable-china-ep-1-2765495",
         "podcastId": "roundtable-china",
@@ -106778,6 +106855,73 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0730ev",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Canada Is Welcoming Chinese Cars. Here’s Why That Matters for America",
+        "description": "",
+        "publishDate": "2026-07-30",
+        "duration": 1035,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0730/df88ec41-682a-47e8-977f-5b208b3b7c59/audio.mp3?length=12431232&duration=1035",
+        "topics": [
+          "Dynastic History"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0730xi",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Fall of Xi Loyalist Fang Xinghai Highlights Growing Purge of China’s Financial Elite",
+        "description": "",
+        "publishDate": "2026-07-30",
+        "duration": 547,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0730/9badf0a1-6aa7-4fd4-ad34-49bad139d19d/audio.mp3?length=6572160&duration=547",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0730cub",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Beijing Using Its Strategic Cuba Connection to Spy on the US",
+        "description": "",
+        "publishDate": "2026-07-30",
+        "duration": 413,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0730/0b9f07eb-5d29-47c9-bc7f-2d83f3e855a1/audio.mp3?length=4961952&duration=413",
+        "topics": [
+          "Daily Life"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0730atl",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "How the CCP Is Turning America Against Itself | Tianliang Zhang",
+        "description": "",
+        "publishDate": "2026-07-30",
+        "duration": 2100,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/0730atl.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg001",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "The Legend of Jigong:Chapter 1 The Birth",
+        "description": "Playlist Hub",
+        "publishDate": "2026-07-30",
+        "duration": 755,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg001.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0729hhs",
         "podcastId": "china-in-depth",
