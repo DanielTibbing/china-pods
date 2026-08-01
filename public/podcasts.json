@@ -16,6 +16,33 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-how-china-wants-to-rewrite-g",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "How China Wants to Rewrite Global Governance",
+        "description": "China is moving quickly to expand its influence over global governance as the United States steps back from its traditional leadership role.",
+        "publishDate": "2026-08-01",
+        "duration": 1800,
+        "audioUrl": "https://api.substack.com/feed/podcast/209337937/ea6d007663e0b724530792bd148c3937.mp3",
+        "topics": [
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-chinas-economy-is-hurting-be",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "China's Economy Is Hurting, Beijing's Answer Is Patience ",
+        "description": "Listen now | China&#8217;s July Politburo meeting is always a big one, as the leadership takes stock of the economy and signals policy adjustments for the second half of the year.",
+        "publishDate": "2026-07-31",
+        "duration": 1800,
+        "audioUrl": "https://api.substack.com/feed/podcast/209287405/eeb3cd4df51bbf9129405d25b3a5c842.mp3",
+        "topics": [
+          "Daily Life",
+          "Economic Reform"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-what-the-iran-war-reveals-ab",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -95979,6 +96006,24 @@
     ],
     "episodes": [
       {
+        "id": "trivium-china-ep-buzzsprout-19580642",
+        "podcastId": "trivium-china",
+        "podcastTitle": "The Trivium China Podcast",
+        "title": "Ep 76 - China&#39;s economy is hurting, Beijing&#39;s answer is patience",
+        "description": "China's July Politburo meeting is always a big one, as the leadership takes stock of the economy and signals policy adjustments for the second half of the year.In this year’s July meeting, officials clearly signaled that more fiscal support is on ...",
+        "publishDate": "2026-07-31",
+        "duration": 1033,
+        "audioUrl": "https://www.buzzsprout.com/2408047/episodes/19580642-ep-76-china-s-economy-is-hurting-beijing-s-answer-is-patience.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "trivium-china-ep-buzzsprout-19556762",
         "podcastId": "trivium-china",
         "podcastTitle": "The Trivium China Podcast",
@@ -98968,6 +99013,23 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "roundtable-china-ep-1-2765516",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "What makes a city feel like home?",
+        "description": "A new survey asked young Chinese migrants what makes a city finally feel like home. The answers had less to do with money or apartments and more to do with something simpler: human connection. But for millions leaving home for school and work, bui...",
+        "publishDate": "2026-07-31",
+        "duration": 3893,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp4/radio-res.cgtn.com/ueditor/audio/2607/1085495425643.mp4",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "roundtable-china-ep-1-2765507",
         "podcastId": "roundtable-china",
@@ -106432,6 +106494,26 @@
     ],
     "episodes": [
       {
+        "id": "wire-china-ep-buzzsprout-19577605",
+        "podcastId": "wire-china",
+        "podcastTitle": "The Wire China Podcast",
+        "title": "Nvidia&#39;s Partner Problem",
+        "description": "Nvidia has nearly 1,000 partners around the world, including over 100 in China. Some of these firms, according to a Wire China investigation, have close ties to China's military. What does this mean for Nvidia and the future of U.S. chip restricti...",
+        "publishDate": "2026-07-31",
+        "duration": 939,
+        "audioUrl": "https://www.buzzsprout.com/2591600/episodes/19577605-nvidia-s-partner-problem.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "History",
+          "Geopolitics & Politics",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "wire-china-ep-buzzsprout-19543122",
         "podcastId": "wire-china",
         "podcastTitle": "The Wire China Podcast",
@@ -106856,6 +106938,91 @@
     ],
     "episodes": [
       {
+        "id": "china-in-depth-ep-0731ful",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Bessent Tells China to Fulfill Rare Earth, Farm Goods Commitment",
+        "description": "",
+        "publishDate": "2026-07-31",
+        "duration": 240,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0731/88d5fa56-dd9b-4847-a436-5d7d021331ee/audio.mp3?length=2885472&duration=240",
+        "topics": [
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0731foc",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China-Focused Influence Program Courted Senior US Media Figures With Sponsor-Paid Trips",
+        "description": "",
+        "publishDate": "2026-07-31",
+        "duration": 636,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0731/8a48e1f2-f8fa-4dc5-ad1a-10bb0ee2500d/audio.mp3?length=7638912&duration=636",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0731tw",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Taiwan Seeks to Dissolve Pro-Beijing Party Over CCP Infiltration Claims",
+        "description": "",
+        "publishDate": "2026-07-31",
+        "duration": 393,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0731/a6b03f0f-e11b-443b-8dae-338aaca9d39c/audio.mp3?length=4724352&duration=393",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Daily Life",
+          "Feminism & Arts",
+          "Geopolitics & Politics",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0731ban",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "US Bans Imports From 43 Chinese Firms Over Forced Labor Charge",
+        "description": "",
+        "publishDate": "2026-07-31",
+        "duration": 218,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0731/ac574961-5890-4e36-b3ef-77838e3dc8e3/audio.mp3?length=2619072&duration=218",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0731rub",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Why Did China’s Top Diplomat Duck the Election Meddling Issue With Rubio?",
+        "description": "",
+        "publishDate": "2026-07-31",
+        "duration": 382,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0731/0b81ecea-bf88-4649-9b32-370eb1935ddb/audio.mp3?length=4593600&duration=382",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg002",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 2 Jigong Starts His Journey of Saving People",
+        "description": "Playlist Hub",
+        "publishDate": "2026-07-31",
+        "duration": 817,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg002.mp3",
+        "topics": [
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "china-in-depth-ep-0730ev",
         "podcastId": "china-in-depth",
         "podcastTitle": "China in Depth",
@@ -107151,7 +107318,7 @@
         "id": "china-in-depth-ep-gyf48",
         "podcastId": "china-in-depth",
         "podcastTitle": "China in Depth",
-        "title": "Chapter 48 Twelve Women Generals of the Yang Family,Mostly Widows,  Go to Battleground to Fight Invaders and Rescue Zongbao",
+        "title": "Chapter 48 Twelve Women Generals of the Yang Family,Mostly Widows, Go to Battleground to Fight Invaders and Rescue Zongbao",
         "description": "Playlist Hub",
         "publishDate": "2026-07-27",
         "duration": 2727,
@@ -132232,7 +132399,7 @@
         "id": "china-in-depth-ep-0413meng",
         "podcastId": "china-in-depth",
         "podcastTitle": "China in Depth",
-        "title": "Tale That Resonates: A Beggar Visits Buddha - from Sound of Hope Radio",
+        "title": "*Tale That Resonates: A Beggar Visits Buddha - from Sound of Hope Radio",
         "description": "https://www.soundofhope.org/post/214660",
         "publishDate": "2025-04-13",
         "duration": 768,
