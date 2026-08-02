@@ -12363,6 +12363,25 @@
     ],
     "episodes": [
       {
+        "id": "chinatalk-ep-618c3788-8da9-11f1-af6c-d70cf8df26ec",
+        "podcastId": "chinatalk",
+        "podcastTitle": "ChinaTalk",
+        "title": "Jordan talks AI with Sebastian Mallaby on his show 'The Spillover'",
+        "description": "Don't sorry I put two ChinaTalk Records songs at the end! their show notes: On this episode of The Spillover, Sebastian Mallaby sits down with Jordan Schneider of ChinaTalk to unpack a frantic month in artificial intelligence. The conversation tur...",
+        "publishDate": "2026-08-01",
+        "duration": 4803,
+        "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL7455862539.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "chinatalk-ep-07d257ae-8bba-11f1-a759-efd1f6bd2779",
         "podcastId": "chinatalk",
         "podcastTitle": "ChinaTalk",
