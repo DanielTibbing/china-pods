@@ -16,6 +16,19 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-to-finally-make-it-phrase-of",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "\"To finally make it\" — Phrase of the Week",
+        "description": "Two Chinese mathematicians finally made it... But not in China",
+        "publishDate": "2026-08-02",
+        "duration": 1800,
+        "audioUrl": "https://substackcdn.com/image/fetch/$s_!aFbC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F783cfb78-e5db-4a67-a1e0-9bc58a7efe75_2000x1200.jpeg",
+        "topics": [
+          "Geopolitics & Politics"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-how-china-wants-to-rewrite-g",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -42927,6 +42940,23 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "sr-kina-ep-rss-sr-se-pod-eid-2767931",
+        "podcastId": "sr-kina",
+        "podcastTitle": "Radiokorrespondenterna Kina",
+        "title": "Kalkylen bakom Kinas militära press mot Taiwan",
+        "description": "Peking använder allt mer omfattande militärövningar för att markera mot Taiwan och USA. Lyssna på alla avsnitt i Sveriges Radios app. I augusti 2022 visar kinesisk stats-tv hur kinesiska robotar avfyras från ramper i södra Kina och slår ner i have...",
+        "publishDate": "2026-08-03",
+        "duration": 1129,
+        "audioUrl": "https://static-cdn.sr.se/laddahem/podradio/2026/05/radiokorrespondenterna_kina_kalkylen_bakomkinas_militara_20260521_1104317992.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "sr-kina-ep-rss-sr-se-pod-eid-2767921",
         "podcastId": "sr-kina",
@@ -96025,6 +96055,25 @@
     ],
     "episodes": [
       {
+        "id": "trivium-china-ep-buzzsprout-19585003",
+        "podcastId": "trivium-china",
+        "podcastTitle": "The Trivium China Podcast",
+        "title": "Ep 77 - There’s no such thing as overcapacity, China says",
+        "description": "Beijing just released its most detailed rebuttal yet to accusations from the West around industrial overcapacity – and it pointedly avoided using the very word that started the fight in the first place.There’s a reason for that, and we break it al...",
+        "publishDate": "2026-08-02",
+        "duration": 2592,
+        "audioUrl": "https://www.buzzsprout.com/2408047/episodes/19585003-ep-77-there-s-no-such-thing-as-overcapacity-china-says.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "trivium-china-ep-buzzsprout-19580642",
         "podcastId": "trivium-china",
         "podcastTitle": "The Trivium China Podcast",
@@ -106956,6 +107005,33 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0802chi",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s Business Activity Contracts as Orders, Jobs, and Consumer Demand Weaken",
+        "description": "",
+        "publishDate": "2026-08-02",
+        "duration": 399,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0801/84e636a2-4356-4efd-8d12-b11ded705ad2/audio.mp3?length=4790304&duration=399",
+        "topics": [
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg003",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 3 Healing Patient in Zhao Residence",
+        "description": "Playlist Hub",
+        "publishDate": "2026-08-02",
+        "duration": 1245,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg003.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0731ful",
         "podcastId": "china-in-depth",
