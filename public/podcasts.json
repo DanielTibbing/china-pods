@@ -99082,14 +99082,63 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-2765528",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "SOAPBOX: Are young people bad at socializing?",
+        "description": "The way young people build relationships looks nothing like it used to. A new trend called \"Soulmanyships\" is replacing the old model of one person meeting every emotional need. Today's generation is spreading their connections across friends, fam...",
+        "publishDate": "2026-08-03",
+        "duration": 1362,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2608/1085750042524.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765525",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Summer travel ditches the bucket list",
+        "description": "Vacations used to mean crowded monuments and a camera roll full of proof you'd been somewhere. This summer, however, travelers are ditching the bucket list for deeper experiences like music festivals, traditional village stays, and hands-on cultur...",
+        "publishDate": "2026-08-03",
+        "duration": 1796,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2608/1085749963630.mp3",
+        "topics": [
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2765516",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "IN VIDEO: What makes a city feel like home?",
+        "description": "A new survey asked young Chinese migrants what makes a city finally feel like home. The answers had less to do with money or apartments and more to do with something simpler: human connection. But for millions leaving home for school and work, bui...",
+        "publishDate": "2026-07-31",
+        "duration": 3893,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp4/radio-res.cgtn.com/ueditor/audio/2607/1085495425643.mp4",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765531",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
         "title": "What makes a city feel like home?",
         "description": "A new survey asked young Chinese migrants what makes a city finally feel like home. The answers had less to do with money or apartments and more to do with something simpler: human connection. But for millions leaving home for school and work, bui...",
         "publishDate": "2026-07-31",
-        "duration": 3893,
-        "audioUrl": "https://dts.podtrac.com/redirect.mp4/radio-res.cgtn.com/ueditor/audio/2607/1085495425643.mp4",
+        "duration": 3295,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2608/1085750164760.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
