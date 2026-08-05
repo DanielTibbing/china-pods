@@ -29854,6 +29854,27 @@
     ],
     "episodes": [
       {
+        "id": "china-global-south-ep-ebdaffc6-3958-496b-a577-4577f64bba3e",
+        "podcastId": "china-global-south",
+        "podcastTitle": "The China-Global South Podcast",
+        "title": "China is Outpacing the U.S. in Southeast Asia",
+        "description": "As competition between the United States and China intensifies, Southeast Asia has emerged as one of the world's most important geopolitical battlegrounds. But despite growing tensions in the South China Sea and mounting pressure from Washington a...",
+        "publishDate": "2026-08-05",
+        "duration": 2867,
+        "audioUrl": "https://traffic.libsyn.com/secure/ea0f0fdd-2944-4ff3-8a00-704e8c67d58b/CGSP_08052026_Libsyn.mp3?dest-id=4287628",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Geopolitics & Politics",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "china-global-south-ep-4eca30e2-ef79-485a-9ab0-c4b0ea16752d",
         "podcastId": "china-global-south",
         "podcastTitle": "The China-Global South Podcast",
@@ -78394,6 +78415,24 @@
     ],
     "episodes": [
       {
+        "id": "china-books-podcast-ep-buzzsprout-19459168",
+        "podcastId": "china-books-podcast",
+        "podcastTitle": "China Books Podcast",
+        "title": "34: Spies in Shanghai with Heather Salter",
+        "description": "The author and historian discusses a dramatic Soviet espionage case in interwar Shanghai that rocked the international community and presaged the Cold War.The China Books Podcast is a companion of China Books Review, a project of Asia Society’s Ce...",
+        "publishDate": "2026-08-04",
+        "duration": 1749,
+        "audioUrl": "https://www.buzzsprout.com/2252666/episodes/19459168-34-spies-in-shanghai-with-heather-salter.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "History",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "china-books-podcast-ep-buzzsprout-19454868",
         "podcastId": "china-books-podcast",
         "podcastTitle": "China Books Podcast",
@@ -87444,6 +87483,19 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "asia-chessboard-ep-42d60e58-9048-11f1-b777-6b98f8ac2e99",
+        "podcastId": "asia-chessboard",
+        "podcastTitle": "The Asia Chessboard",
+        "title": "From INDOPACOM to PACOM: Is There a Strategic Backstory?",
+        "description": "In this episode, Mike is joined by Dr Arzan Tarapore, Visiting Fellow at the Hoover Institution at Stanford University, and Visiting Fellow at the European University Institute in Florence, Italy. They unpack the Pentagon's decision to revert the ...",
+        "publishDate": "2026-08-04",
+        "duration": 2841,
+        "audioUrl": "https://traffic.megaphone.fm/CSIS9790077443.mp3",
+        "topics": [
+          "Dynastic History"
+        ]
+      },
       {
         "id": "asia-chessboard-ep-1a53a6ae-8515-11f1-8e4a-1fe8afb57728",
         "podcastId": "asia-chessboard",
@@ -99082,6 +99134,36 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-2765546",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Why China's railways won't take your kids alone",
+        "description": "China's high speed rail network is the largest in the world, and it is faster and more connected than ever. When parents started asking if they could hand off their children to station staff the way they do with flight attendants, the railway gave...",
+        "publishDate": "2026-08-04",
+        "duration": 1202,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2608/1085835442983.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765543",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Drawing the line on cyberbullying",
+        "description": "In a country with over a billion internet users, a single rumor can outrun the truth before breakfast. Words travel at the speed of a share button, some shared with good intent, others carrying the power to destroy. Now China is drafting its first...",
+        "publishDate": "2026-08-04",
+        "duration": 1909,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2608/1085835382307.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Daily Life"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2765528",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -107054,6 +107136,142 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0804lai",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Taiwanese President Calls for United International Response to China’s Ethnic Unity Law",
+        "description": "",
+        "publishDate": "2026-08-04",
+        "duration": 416,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0804/b1855357-3f37-49c1-b9d5-6a23c3a1c9b8/audio.mp3?length=5001984&duration=416",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0804inf",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China Using Financial Leverage to Expand Pacific Influence, Analysts Warn",
+        "description": "",
+        "publishDate": "2026-08-04",
+        "duration": 434,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0804/d4bc9263-0e3b-4920-a2a6-8b529bca1cc3/audio.mp3?length=5212512&duration=434",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0804who",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Who Is Destabilizing the South China Sea?",
+        "description": "",
+        "publishDate": "2026-08-04",
+        "duration": 492,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0804/48be1d6b-a318-4460-91f9-1011ab6655a6/audio.mp3?length=5914368&duration=492",
+        "topics": [
+          "US-China Relations"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0804uni",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s New Ethnic Unity Law: CCP Controls Narrative of Assimilation",
+        "description": "",
+        "publishDate": "2026-08-04",
+        "duration": 520,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0804/cde286e4-5c04-4317-843f-672697bd910e/audio.mp3?length=6244992&duration=520",
+        "topics": [
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0804pac",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s Military Drills Around Taiwan Backfire by Uniting Indo-Pacific Democracies: Analysts",
+        "description": "",
+        "publishDate": "2026-08-04",
+        "duration": 443,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0729/3c7f4f58-5d2c-43da-9171-704ab022b776/audio.mp3?length=5318496&duration=443",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0804scs",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "US and Asian Allies Deepen Defense Ties Against China",
+        "description": "",
+        "publishDate": "2026-08-04",
+        "duration": 446,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0804/580c74ce-ef4d-4257-9bd0-33b616159c9e/audio.mp3?length=5361984&duration=446",
+        "topics": [
+          "Semiconductors & AI",
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg005",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 5 Demons in the Garden",
+        "description": "Playlist Hub",
+        "publishDate": "2026-08-04",
+        "duration": 653,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg005.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0803uk",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Opponents of Chinese Mega-Embassy in London to Appeal After Case Rejected by High Court",
+        "description": "",
+        "publishDate": "2026-08-03",
+        "duration": 404,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0803/f8afc1ed-2709-45bb-859b-23bd55a5100c/audio.mp3?length=4851360&duration=404",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0803cba",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Cuba’s Espionage Against US ‘Continues to This Day,’ Says State Department Official",
+        "description": "",
+        "publishDate": "2026-08-03",
+        "duration": 277,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0804/cfec95df-a6bc-4fec-96db-61660fbc1a65/audio.mp3?length=3335616&duration=277",
+        "topics": [
+          "Semiconductors & AI",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg004",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 4 Carrying a Skanda Statue to Subdue Demon",
+        "description": "Playlist Hub",
+        "publishDate": "2026-08-03",
+        "duration": 1253,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg004.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0802chi",
         "podcastId": "china-in-depth",
