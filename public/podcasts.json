@@ -16,6 +16,20 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-trivium-china-weekly-recap-t",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "Trivium China Weekly Recap | The Cavalry Isn't Coming",
+        "description": "If you&#8217;re expecting policymakers to come to the rescue of China&#8217;s flagging economy, we have some bad news.",
+        "publishDate": "2026-08-06",
+        "duration": 1800,
+        "audioUrl": "https://substack-post-media.s3.amazonaws.com/public/images/9b22c86e-8e32-40bd-b1f2-a9576f6ec573_400x400.png",
+        "topics": [
+          "Dynastic History",
+          "Economic Reform"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-to-finally-make-it-phrase-of",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -12375,6 +12389,22 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "chinatalk-ep-0075bb86-90ec-11f1-98a2-5f2416bbaf4b",
+        "podcastId": "chinatalk",
+        "podcastTitle": "ChinaTalk",
+        "title": "The FCC's New Robot Rules",
+        "description": "The FCC has spent the past year quietly rewiring the American import market, first routers, then drones, next undersea cables, and as of last week, robots. Adam Chan is national security counsel and senior advisor to FCC Chairman Brendan Carr, and...",
+        "publishDate": "2026-08-06",
+        "duration": 3075,
+        "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL6824306445.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
       {
         "id": "chinatalk-ep-618c3788-8da9-11f1-af6c-d70cf8df26ec",
         "podcastId": "chinatalk",
@@ -29853,6 +29883,26 @@
       "Tech & Business"
     ],
     "episodes": [
+      {
+        "id": "china-global-south-ep-2537a761-e1e6-4022-9cfd-9e59bd728ac7",
+        "podcastId": "china-global-south",
+        "podcastTitle": "The China-Global South Podcast",
+        "title": "China's View of India Has Changed. Is New Delhi Ready?",
+        "description": "China and India are entering a cautious period of diplomatic re-engagement after years of confrontation, but deep strategic mistrust, unresolved border disputes, and competing security interests continue to define the relationship. Economic cooper...",
+        "publishDate": "2026-08-06",
+        "duration": 2387,
+        "audioUrl": "https://traffic.libsyn.com/secure/ea0f0fdd-2944-4ff3-8a00-704e8c67d58b/CGSP_08062026_Libsyn.mp3?dest-id=4287628",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Geopolitics & Politics",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-global-south-ep-ebdaffc6-3958-496b-a577-4577f64bba3e",
         "podcastId": "china-global-south",
@@ -89468,6 +89518,20 @@
     ],
     "episodes": [
       {
+        "id": "made-in-china-de-ep-buzzsprout-19599378",
+        "podcastId": "made-in-china-de",
+        "podcastTitle": "Made in China (German)",
+        "title": "#221 - Warum Schlagzeilen China nicht erklären – mit Marco Beba, BASF China ",
+        "description": "Was übersehen wir, wenn wir auf China schauen? Während im Westen häufig über Immobilienkrise, Überkapazitäten oder Elektroautos diskutiert wird, stellt sich Marco Beba eine andere Frage: Verstehen wir überhaupt, nach welchen Regeln China wirtschaf...",
+        "publishDate": "2026-08-05",
+        "duration": 2718,
+        "audioUrl": "https://www.buzzsprout.com/1869386/episodes/19599378-221-warum-schlagzeilen-china-nicht-erklaren-mit-marco-beba-basf-china.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History"
+        ]
+      },
+      {
         "id": "made-in-china-de-ep-buzzsprout-19562370",
         "podcastId": "made-in-china-de",
         "podcastTitle": "Made in China (German)",
@@ -99134,6 +99198,20 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-2765555",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Latest schedule update",
+        "description": "No new episode of Round Table in your feed today. We're pausing briefly because we're cooking up something special behind the scenes, and we can't wait to share it with you soon! We'll be back on schedule tomorrow. In the meantime, feel free to re...",
+        "publishDate": "2026-08-05",
+        "duration": 56,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2608/1085913091149.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2765546",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -107136,6 +107214,86 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0805ai",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "In Race for AI Dominance, China Fans Disinformation in America",
+        "description": "",
+        "publishDate": "2026-08-05",
+        "duration": 644,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0805/3f7de7ec-1a1d-4e39-893b-bb9f21dbff00/audio.mp3?length=7739136&duration=644",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0805drn",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China Tightens Drone Export Controls, Targets US Entities Over Trade Curbs",
+        "description": "",
+        "publishDate": "2026-08-05",
+        "duration": 272,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0805/db183511-3af1-4481-a793-15b113f39394/audio.mp3?length=3267648&duration=272",
+        "topics": [
+          "Economic Reform"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0805bj",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Beijing’s New Entry-Exit Rules Aim to Halt Tech Outflows, Crush Dissent: Analysts",
+        "description": "",
+        "publishDate": "2026-08-05",
+        "duration": 395,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0805/d918b19f-60fc-4d54-a166-f1ad270b16d5/audio.mp3?length=4751424&duration=395",
+        "topics": [
+          "Semiconductors & AI",
+          "Daily Life",
+          "Tech & Business"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0805tar",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Trump’s New Round of Tariffs",
+        "description": "",
+        "publishDate": "2026-08-05",
+        "duration": 246,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0804/66561e3e-464a-4308-8925-b7a155f572bd/audio.mp3?length=2957184&duration=246",
+        "topics": [
+          "US-China Relations"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0805mh",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Falun Dafa News from Around the World – August 5, 2026 ",
+        "description": "",
+        "publishDate": "2026-08-05",
+        "duration": 1589,
+        "audioUrl": "https://en.minghui.org/u/files/podcasts/emh-podcast/EMHPodcast_2140-News.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg006",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 6 The Demon-Catcher Is Catched by Demon",
+        "description": "Playlist Hub",
+        "publishDate": "2026-08-05",
+        "duration": 527,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg006.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0804lai",
         "podcastId": "china-in-depth",
