@@ -30,6 +30,22 @@
         ]
       },
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-the-trivium-china-podcast-th",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "The Trivium China Podcast | There's No Such Thing as Overcapacity, China says",
+        "description": "Listen now | Beijing just released its most detailed rebuttal yet to accusations from the West around industrial overcapacity &#8211; and it pointedly avoided using the very word that started the fight in the first place.",
+        "publishDate": "2026-08-06",
+        "duration": 1800,
+        "audioUrl": "https://api.substack.com/feed/podcast/210024786/3f64c2f3f12aa7f0de90bd04d4449e59.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Daily Life",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-to-finally-make-it-phrase-of",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -2745,6 +2761,23 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "pekingology-ep-b3a4f622-910a-11f1-bcdc-47eb820ea1eb",
+        "podcastId": "pekingology",
+        "podcastTitle": "Pekingology",
+        "title": "Inside China's Dual Economy",
+        "description": "China is generating groundbreaking advances in electric vehicles, battery technology, applied artificial intelligence, and industrial robotics. Yet Chinese households are facing stagnant wages, consumption is weak, and public confidence in the eco...",
+        "publishDate": "2026-08-06",
+        "duration": 2506,
+        "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/cohst.app/pdcst/0C0K2I/traffic.megaphone.fm/CSIS1201893735.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "pekingology-ep-3d6b24dc-860a-11f1-8953-0ff7b0775002",
         "podcastId": "pekingology",
@@ -12396,7 +12429,7 @@
         "title": "The FCC's New Robot Rules",
         "description": "The FCC has spent the past year quietly rewiring the American import market, first routers, then drones, next undersea cables, and as of last week, robots. Adam Chan is national security counsel and senior advisor to FCC Chairman Brendan Carr, and...",
         "publishDate": "2026-08-06",
-        "duration": 3075,
+        "duration": 3104,
         "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL6824306445.mp3",
         "topics": [
           "Semiconductors & AI",
@@ -96171,6 +96204,22 @@
     ],
     "episodes": [
       {
+        "id": "trivium-china-ep-buzzsprout-19591569",
+        "podcastId": "trivium-china",
+        "podcastTitle": "The Trivium China Podcast",
+        "title": "Ep 78 - China&#39;s secret weapon isn&#39;t subsidies, it&#39;s pain tolerance",
+        "description": "US policymakers are constantly discussing whether America can leapfrog China in key technologies.Our answer: probably not, and batteries prove it.In fact, the real question isn't whether the US can – or even should – try to outpace China in at lea...",
+        "publishDate": "2026-08-06",
+        "duration": 4195,
+        "audioUrl": "https://www.buzzsprout.com/2408047/episodes/19591569-ep-78-china-s-secret-weapon-isn-t-subsidies-it-s-pain-tolerance.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Tech & Business"
+        ]
+      },
+      {
         "id": "trivium-china-ep-buzzsprout-19585003",
         "podcastId": "trivium-china",
         "podcastTitle": "The Trivium China Podcast",
@@ -99197,6 +99246,38 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "roundtable-china-ep-1-2765567",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Abandoned mines, cooler homes",
+        "description": "We all reach for the AC when temperatures soar past 35 degrees. But in one Chinese city, residents are trying something different. In Xuzhou, homes are being cooled with cold water pumped from an abandoned coal mine deep underground. No hot exhaus...",
+        "publishDate": "2026-08-06",
+        "duration": 1071,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2608/1086004790578.mp3",
+        "topics": [
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765564",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "The fun of National Fitness Day",
+        "description": "August 8 is National Fitness Day in China, but for millions of people here, staying active has already become a daily habit, from sunrise park goers to late-night gyms, from cycling clubs to square dancing and smart fitness apps. So what actually ...",
+        "publishDate": "2026-08-06",
+        "duration": 2065,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2608/1086004635149.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "roundtable-china-ep-1-2765555",
         "podcastId": "roundtable-china",
