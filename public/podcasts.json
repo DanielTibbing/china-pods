@@ -16,6 +16,20 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-law-versus-development",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "Law Versus Development",
+        "description": "Chinese businesses are pouring into Ethiopia. When someone gets hurt, what happens?",
+        "publishDate": "2026-08-08",
+        "duration": 1800,
+        "audioUrl": "https://substackcdn.com/image/fetch/$s_!hki0!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2502d26c-e974-417b-878d-0571b80581f6_600x600.png",
+        "topics": [
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-trivium-china-weekly-recap-t",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -12422,6 +12436,24 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "chinatalk-ep-3a7deedc-91d9-11f1-b6ab-ef45c86af5a8",
+        "podcastId": "chinatalk",
+        "podcastTitle": "ChinaTalk",
+        "title": "WarTalk: Out of Ammo for Real + Are CCAs Dumb?",
+        "description": "Six months into the war with Iran, the United States has fired 850 Tomahawks, emptied its LRASM and JASSM-ER inventories, expended essentially every ATACMS and PrSM in the arsenal, and burned through the SM-6 and PAC-3 interceptors it had been sto...",
+        "publishDate": "2026-08-07",
+        "duration": 4674,
+        "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL6737276826.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Geopolitics & Politics",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "chinatalk-ep-0075bb86-90ec-11f1-98a2-5f2416bbaf4b",
         "podcastId": "chinatalk",
@@ -99247,6 +99279,36 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-02765579",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "IN VIDEO：China's return as a global study hub",
+        "description": "A thousand years ago, scholars from across Asia made their way to China to study governance, science, and philosophy. Some even sat for the imperial exams alongside local students. That era eventually faded, and for decades, studying abroad meant ...",
+        "publishDate": "2026-08-07",
+        "duration": 3926,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp4/radio-res.cgtn.com/ueditor/audio/2608/1086095636714.mp4",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765576",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "China's return as a global study hub",
+        "description": "A thousand years ago, scholars from across Asia made their way to China to study governance, science, and philosophy. Some even sat for the imperial exams alongside local students. That era eventually faded, and for decades, studying abroad meant ...",
+        "publishDate": "2026-08-07",
+        "duration": 3295,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2608/1086088540963.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2765567",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -106851,6 +106913,25 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "wire-china-ep-buzzsprout-19613292",
+        "podcastId": "wire-china",
+        "podcastTitle": "The Wire China Podcast",
+        "title": "China&#39;s Camera Wars on U.S. Shores",
+        "description": "As U.S. restrictions complicate DJI’s expansion beyond drones, its camera rival Insta360 has gained an unexpected advantage among American consumers. In this episode, reporters Peiyue Wu and Savannah Billman discuss the surprising case of two Chin...",
+        "publishDate": "2026-08-07",
+        "duration": 899,
+        "audioUrl": "https://www.buzzsprout.com/2591600/episodes/19613292-china-s-camera-wars-on-u-s-shores.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Geopolitics & Politics",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "wire-china-ep-buzzsprout-19577605",
         "podcastId": "wire-china",
