@@ -107377,6 +107377,156 @@
     ],
     "episodes": [
       {
+        "id": "china-in-depth-ep-0807fbi",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "FBI Intensifies Fight Against Foreign Espionage Under Trump: Director Patel",
+        "description": "",
+        "publishDate": "2026-08-07",
+        "duration": 333,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0807/b96115fb-737a-453a-9b40-f3cf308f3555/audio.mp3?length=4020149&duration=333",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0807def",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Sen. Rick Scott Introduces Bill Authorizing Use of Tariffs to Address Trade Deficits",
+        "description": "",
+        "publishDate": "2026-08-07",
+        "duration": 174,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0807/7e2e2dbe-34c7-434f-b337-4c9d8641e282/audio.mp3?length=2110996&duration=174",
+        "topics": [
+          "US-China Relations",
+          "Economic Reform"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0807chi",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Trump Announces More Than $2 Billion Mining Investment to Counter China",
+        "description": "",
+        "publishDate": "2026-08-07",
+        "duration": 147,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0807/7cb4a665-f225-48bf-bfd8-d5b891ab45a4/audio.mp3?length=1785269&duration=147",
+        "topics": [
+          "US-China Relations",
+          "Dynastic History"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg008",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 8 Jigong Teaches Liu Taizhen a Deep Lesson",
+        "description": "Playlist Hub",
+        "publishDate": "2026-08-07",
+        "duration": 758,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg008.mp3",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0806cov",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s COVID-19 Positivity Rate Exceeds 20 Percent; Hospitals Overcrowded With Patients: Doctors",
+        "description": "",
+        "publishDate": "2026-08-06",
+        "duration": 407,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0805/3b5bd3dd-6406-4080-9dd0-01abae1b3835/audio.mp3?length=4886496&duration=407",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0806trmp",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Trump Signs Order Imposing Price Floor, Tariffs on Polysilicon to Counter China",
+        "description": "",
+        "publishDate": "2026-08-06",
+        "duration": 215,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0806/a1b0eef3-fab8-4f6a-a593-ef25d07502f4/audio.mp3?length=2602325&duration=215",
+        "topics": [
+          "US-China Relations"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0806xi",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s Xi Sacrificing Growth to Preserve CCP Rule, Says Economist",
+        "description": "",
+        "publishDate": "2026-08-06",
+        "duration": 558,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0806/69552fd9-9a7b-4c4a-8e1f-6f0640d5a929/audio.mp3?length=6701472&duration=558",
+        "topics": [
+          "Economic Reform",
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0806hoo",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "The Hoover Institution—A Question Beijing Wants Americans to Ask",
+        "description": "",
+        "publishDate": "2026-08-06",
+        "duration": 559,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0806/8cf53c4a-9ecf-462f-95a5-3d4557c3fb7a/audio.mp3?length=6729653&duration=559",
+        "topics": [
+          "Daily Life"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0806pln",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China Is Starting Dual-Use Planetary Defense Preparations",
+        "description": "",
+        "publishDate": "2026-08-06",
+        "duration": 334,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0806/7ba82c55-f10a-4cff-b157-a019cb0b26b4/audio.mp3?length=4031957&duration=334",
+        "topics": [
+          "Feminism & Arts",
+          "Geopolitics & Politics",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0806kid",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "More Chinese Food Delivery Riders Report Bringing Children to Work Amid Sluggish Economy",
+        "description": "",
+        "publishDate": "2026-08-06",
+        "duration": 364,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0530/4c677047-c1ab-4d6a-988d-cfb393d91240/audio.mp3?length=4372992&duration=364",
+        "topics": [
+          "Daily Life",
+          "Economic Reform"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg007",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 7 Jigong Subdued the Fox Demon and Saved the Young Man",
+        "description": "Playlist Hub",
+        "publishDate": "2026-08-06",
+        "duration": 745,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg007.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "china-in-depth-ep-0805ai",
         "podcastId": "china-in-depth",
         "podcastTitle": "China in Depth",
