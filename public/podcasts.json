@@ -16,6 +16,19 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-calm-meltdown-phrase-of-the-",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "“Calm meltdown” — Phrase of the Week",
+        "description": "A viral song and a new phrase capture the mood in China",
+        "publishDate": "2026-08-09",
+        "duration": 1800,
+        "audioUrl": "https://substackcdn.com/image/fetch/$s_!dGZg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F02f24bb2-40bd-412c-913f-c90cfe30d40d_2000x1200.jpeg",
+        "topics": [
+          "Dynastic History"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-law-versus-development",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -107377,6 +107390,99 @@
     ],
     "episodes": [
       {
+        "id": "china-in-depth-ep-0809br",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Birth Tourism Ads Targeting Chinese Highlight US Immigration Vulnerabilities",
+        "description": "",
+        "publishDate": "2026-08-09",
+        "duration": 887,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0807/d3a7c9ed-8a89-4040-b109-4d2200fca935/audio.mp3?length=10675253&duration=887",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0809ai",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chinese AI Seems to Be Gaining on US Rivals—Analysts Say Not So Fast",
+        "description": "",
+        "publishDate": "2026-08-09",
+        "duration": 436,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0807/77f942aa-0b8f-45aa-9cda-f58d8dd21527/audio.mp3?length=5259699&duration=436",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0809fbi",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "FBI Task Force Targeting Transnational Repression Across US: Patel",
+        "description": "",
+        "publishDate": "2026-08-09",
+        "duration": 267,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0809/a13e5c63-ee00-4c8d-92d4-924a4351f18a/audio.mp3?length=3226421&duration=267",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0809rej",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "US Rejects China’s ‘Destabilizing’ Nature Reserve Claims in South China Sea",
+        "description": "",
+        "publishDate": "2026-08-09",
+        "duration": 254,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0809/6b45d8fa-d08e-4733-b32d-13748f56923c/audio.mp3?length=3076373&duration=254",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0809jp",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Japan Is Breaking Up With China–And Becoming a Rising Military Power",
+        "description": "",
+        "publishDate": "2026-08-09",
+        "duration": 368,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0808/0a2a070c-11c8-4b0e-b89a-8d7401a9ddc8/audio.mp3?length=4446101&duration=368",
+        "topics": [
+          "Dynastic History",
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg009",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 9 Jigong Hires Weituo Bodhisattva to Steal Treasure",
+        "description": "Playlist Hub",
+        "publishDate": "2026-08-09",
+        "duration": 1071,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg009.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0809atl",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "EXCLUSIVE: Kash Patel: The FBI’s War on Scam Centers Around the World",
+        "description": "",
+        "publishDate": "2026-08-09",
+        "duration": 3188,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/0809atl.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "china-in-depth-ep-0807fbi",
         "podcastId": "china-in-depth",
         "podcastTitle": "China in Depth",
@@ -134693,6 +134799,23 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "environment-china-ep-3cdb0355-7c1a-4982-9abd-4555e9c0fc8d",
+        "podcastId": "environment-china",
+        "podcastTitle": "Environment China (Clean Energy)",
+        "title": "China storage and renewables: the magic recipe? - with Biqing Yang, Ember",
+        "description": "China is the world's leading player in the energy storage field. Not only does China manufacture lots of EVs and EV batteries, but in 2025 it deployed over 60 GW of new battery energy storage on the grid, way more than any other country. The 15th ...",
+        "publishDate": "2026-08-09",
+        "duration": 1418,
+        "audioUrl": "https://traffic.libsyn.com/secure/environmentchinapod/Ep161.mp3?dest-id=450972",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
       {
         "id": "environment-china-ep-0470ef76-0f97-49fc-8722-b07cba68422c",
         "podcastId": "environment-china",
