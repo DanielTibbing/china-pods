@@ -16,6 +16,19 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-chinas-view-of-india-has-cha",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "China's View of India Has Changed. Is New Delhi Ready?",
+        "description": "China and India are entering a cautious period of diplomatic re-engagement after years of confrontation, but deep strategic mistrust, unresolved border disputes, and competing security interests continue to define the relationship.",
+        "publishDate": "2026-08-10",
+        "duration": 1800,
+        "audioUrl": "https://api.substack.com/feed/podcast/210571521/99ecfb609d9c70756eb790cf8ae46e0c.mp3",
+        "topics": [
+          "Dynastic History"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-calm-meltdown-phrase-of-the-",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -12449,6 +12462,24 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "chinatalk-ep-a41bb726-7ad1-11f1-952d-f306c09c6fe7",
+        "podcastId": "chinatalk",
+        "podcastTitle": "ChinaTalk",
+        "title": "$75k Contest Launch! ChinaTalk Hiring + Evals for the Situation Room",
+        "description": "Contest links: General $50k https://www.chinatalk.media/p/50k-chinatalk-submission-hiring-contest we're looking at submissions on a rolling basis! AI evals: Due Over the past few years, we’ve seen hints of policymakers and national leaders using A...",
+        "publishDate": "2026-08-10",
+        "duration": 2912,
+        "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL4993785593.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Geopolitics & Politics",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "chinatalk-ep-3a7deedc-91d9-11f1-b6ab-ef45c86af5a8",
         "podcastId": "chinatalk",
@@ -29962,6 +29993,26 @@
     ],
     "episodes": [
       {
+        "id": "china-global-south-ep-c0761296-3a8b-4d97-a846-800498350f18",
+        "podcastId": "china-global-south",
+        "podcastTitle": "The China-Global South Podcast",
+        "title": "What the Global South Can Learn From Shenzhen's Tech Rise",
+        "description": "Forty years ago, Shenzhen was a small southern Chinese fishing village, just across the border from Hong Kong. Today, it's one of the world's most advanced megacities, with a population of nearly 20 million people and home to many of the tech indu...",
+        "publishDate": "2026-08-11",
+        "duration": 1932,
+        "audioUrl": "https://traffic.libsyn.com/secure/ea0f0fdd-2944-4ff3-8a00-704e8c67d58b/CGSP_08112026_Libsyn.mp3?dest-id=4287628",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Economic Reform",
+          "Geopolitics & Politics",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "china-global-south-ep-2537a761-e1e6-4022-9cfd-9e59bd728ac7",
         "podcastId": "china-global-south",
         "podcastTitle": "The China-Global South Podcast",
@@ -43089,6 +43140,22 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "sr-kina-ep-rss-sr-se-pod-eid-2767932",
+        "podcastId": "sr-kina",
+        "podcastTitle": "Radiokorrespondenterna Kina",
+        "title": "Kinas strategi för herravälde över havet",
+        "description": "I Sydkinesiska havet drabbar Kina ofta samman med USA:s allierade Filippinerna. Lyssna på alla avsnitt i Sveriges Radios app. Sommaren 2024 jagas av allt att döma en liten båt med en grupp från den filippinska flottans specialstyrkor av den kinesi...",
+        "publishDate": "2026-08-10",
+        "duration": 1124,
+        "audioUrl": "https://static-cdn.sr.se/laddahem/podradio/2026/05/radiokorrespondenterna_kina_kinas_strategi_for_herravalde_20260511_1357517039.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "sr-kina-ep-rss-sr-se-pod-eid-2767931",
         "podcastId": "sr-kina",
@@ -97936,6 +98003,21 @@
     ],
     "episodes": [
       {
+        "id": "asia-insight-ep-nbrpodcasts-podbean-com-7332204c-56a3-32f4-ba3e-ae4933019363",
+        "podcastId": "asia-insight",
+        "podcastTitle": "Asia Insight (NBR)",
+        "title": "Critical Minerals and the New Era of Economic Security",
+        "description": "In this episode of Asia Insight, NBR Assistant Director for Technology and Geoeconomic Affairs Jonathon Marek sits down with two NBR Nonresident Fellows, Jaemin Baek and Kristin Vekasi, to examine the growing importance of critical minerals as pil...",
+        "publishDate": "2026-08-10",
+        "duration": 1551,
+        "audioUrl": "https://mcdn.podbean.com/mf/web/z9xe3mcuib48efkg/NBR_Podcast_Aug_10_2026bmc2s.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
+      {
         "id": "asia-insight-ep-nbrpodcasts-podbean-com-8d40adbc-9f22-3194-9aa5-fb967bd311c8",
         "podcastId": "asia-insight",
         "podcastTitle": "Asia Insight (NBR)",
@@ -99291,6 +99373,37 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "roundtable-china-ep-1-2765589",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Ready for your coolcation?",
+        "description": "Across China, more and more people are leaving their cities behind for a few days or even an entire month, trading crowded streets and sweltering heat for mountain villages and northern retreats where summer feels mild and manageable. Local towns ...",
+        "publishDate": "2026-08-10",
+        "duration": 1137,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2608/1086352035375.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765586",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "What open source AI means today",
+        "description": "Powerful AI used to belong to a handful of tech giants, but that's no longer the case. Today, anyone can download, tinker with, and build on these models, and that shift is reshaping everything from how apps are made to who controls the technology...",
+        "publishDate": "2026-08-10",
+        "duration": 2003,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2608/1086351791374.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "roundtable-china-ep-1-02765579",
         "podcastId": "roundtable-china",
@@ -107389,6 +107502,111 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0810asi",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "US Ramping Up Military Commitment to Asia, Pentagon Says",
+        "description": "Source: Epoch Times",
+        "publishDate": "2026-08-10",
+        "duration": 261,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0810/bcd6ccee-3d86-417c-931a-48229d6e4131/audio.mp3?length=3157589&duration=261",
+        "topics": [
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0810fre",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chinese Attempts to Suppress Free Speech Abroad Evolves",
+        "description": "Source: Epoch Times",
+        "publishDate": "2026-08-10",
+        "duration": 240,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0810/243219a5-1a8f-4e5e-9ece-51a46f176ab4/audio.mp3?length=2907317&duration=240",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0810exp",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Exposing a Faux Testimonial to ‘China’s Developmental Miracle’",
+        "description": "Source: Epoch Times",
+        "publishDate": "2026-08-10",
+        "duration": 548,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0810/7cead6da-4137-4104-bf49-84de39ca19e2/audio.mp3?length=6605812&duration=548",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0810phi",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "US, Philippine Officials Challenge Beijing’s Maritime Lawfare",
+        "description": "Source: Epoch Times",
+        "publishDate": "2026-08-10",
+        "duration": 395,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0803/cfd02444-cca5-4190-8de4-429dd5e39224/audio.mp3?length=4747680&duration=395",
+        "topics": [
+          "Daily Life",
+          "Ancient Trade Routes"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0810vs",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "The Philippines vs. CCP Influence",
+        "description": "Source: Epoch Times",
+        "publishDate": "2026-08-10",
+        "duration": 436,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0810/e395ee95-151e-4431-ae59-f2da563fcaeb/audio.mp3?length=5256245&duration=436",
+        "topics": [
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0810nxt",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China Is Telling Us What Comes Next",
+        "description": "Source: Epoch Times",
+        "publishDate": "2026-08-10",
+        "duration": 341,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0810/fd696110-032a-4433-aa6e-fc456d7899f9/audio.mp3?length=4114037&duration=341",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg010",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 10 A Real Life Loser Becomes An Holy Action Hero",
+        "description": "Playlist Hub",
+        "publishDate": "2026-08-10",
+        "duration": 863,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg010.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0810com",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Why Trump Is Right to Warn Americans About Communism",
+        "description": "Source: Epoch Times",
+        "publishDate": "2026-08-10",
+        "duration": 439,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0709/32d074b9-9787-4ed3-a3a5-dddae7eb5646/audio.mp3?length=5270976&duration=439",
+        "topics": [
+          "US-China Relations"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0809br",
         "podcastId": "china-in-depth",
