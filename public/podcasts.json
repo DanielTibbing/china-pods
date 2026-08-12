@@ -16,6 +16,34 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-transcript-the-future-made-i",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "Transcript | The Future, Made in China: Evan Osnos on America's Reckoning",
+        "description": "Transcript (courtesy of the fantastic CadreScripts) further down the page.",
+        "publishDate": "2026-08-11",
+        "duration": 1800,
+        "audioUrl": "https://substackcdn.com/image/fetch/$s_!uSQM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a69bc26-f58b-44f2-ad5a-c9d953bde5f7_1456x1028.webp",
+        "topics": [
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-the-future-made-in-china-eva",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "The Future, Made in China: Evan Osnos on America's Reckoning",
+        "description": "This week on Sinica, I welcome back Evan Osnos of The New Yorker, whose marvelous new essay, &#8220;The Future, Made in China,&#8221; chronicles a tech-focused return trip to Beijing, where he lived from 2005 to 2013 &#8212; first for the Chicago ...",
+        "publishDate": "2026-08-11",
+        "duration": 1800,
+        "audioUrl": "https://api.substack.com/feed/podcast/210558221/fb0146680e8adcf96b1b500ab2e5f2cc.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Daily Life",
+          "Tech & Business"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-chinas-view-of-india-has-cha",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -89663,6 +89691,20 @@
     ],
     "episodes": [
       {
+        "id": "made-in-china-de-ep-buzzsprout-19624157",
+        "podcastId": "made-in-china-de",
+        "podcastTitle": "Made in China (German)",
+        "title": "#222 – Prof. Dr. Thomas Heberer: Warum wir China oft falsch verstehen",
+        "description": "Warum fällt es uns so schwer, China zu verstehen? Liegt das an China oder an den Maßstäben, mit denen wir auf das Land schauen?Zu Gast ist Prof. Dr. Thomas Heberer, einer der renommiertesten deutschen Chinaforscher. Seit über 50 Jahren beschäftigt...",
+        "publishDate": "2026-08-11",
+        "duration": 2347,
+        "audioUrl": "https://www.buzzsprout.com/1869386/episodes/19624157-222-prof-dr-thomas-heberer-warum-wir-china-oft-falsch-verstehen.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Economic Reform"
+        ]
+      },
+      {
         "id": "made-in-china-de-ep-buzzsprout-19599378",
         "podcastId": "made-in-china-de",
         "podcastTitle": "Made in China (German)",
@@ -96316,6 +96358,26 @@
     ],
     "episodes": [
       {
+        "id": "trivium-china-ep-buzzsprout-19632117",
+        "podcastId": "trivium-china",
+        "podcastTitle": "The Trivium China Podcast",
+        "title": "Ep 79 - Beijing stops playing coy",
+        "description": "On August 5th, China dropped a new batch of retaliatory economic measures against various US entities.And this time, officials did something they rarely do – naming exactly which US actions they were responding to and why.On this episode of the Tr...",
+        "publishDate": "2026-08-11",
+        "duration": 2017,
+        "audioUrl": "https://www.buzzsprout.com/2408047/episodes/19632117-ep-79-beijing-stops-playing-coy.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "trivium-china-ep-buzzsprout-19591569",
         "podcastId": "trivium-china",
         "podcastTitle": "The Trivium China Podcast",
@@ -99373,6 +99435,36 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "roundtable-china-ep-1-2765601",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Wheels up for Beijing's e-bike scene!",
+        "description": "Shared bicycles took over China's streets years ago. Their electric cousins? Not so welcome. City officials kept them out over safety worries, parking chaos, and the belief that public transit already had short trips covered. That stance just crac...",
+        "publishDate": "2026-08-11",
+        "duration": 1118,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2608/1086431264984.mp3",
+        "topics": [
+          "Dynastic History",
+          "Daily Life",
+          "Tech & Business"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765598",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "New era for self-driving safety begins",
+        "description": "China just introduced new national safety standards for autonomous vehicles. Under these rules, automakers are now required to maintain safety oversight throughout the entire lifecycle of the car, not just at launch. That shift changes who is resp...",
+        "publishDate": "2026-08-11",
+        "duration": 2046,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2608/1086431059640.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "roundtable-china-ep-1-2765589",
         "podcastId": "roundtable-china",
@@ -107502,6 +107594,59 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0811avi",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chinese State Media Accidentally Reveals the Reality of China’s Carrier Aviation Program",
+        "description": "Source: Epoch Times",
+        "publishDate": "2026-08-11",
+        "duration": 628,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0811/d61e5efd-4cb9-4f1e-afd6-487704dc5742/audio.mp3?length=7537781&duration=626",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0811spc",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "CCP Planetary Defense Initiatives: Beijing Upping the Ante in Space",
+        "description": "Source: Epoch Times",
+        "publishDate": "2026-08-11",
+        "duration": 363,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0811/999abae8-8afe-4c3b-8ced-a304e7d2da30/audio.mp3?length=4378997&duration=363",
+        "topics": [
+          "Daily Life",
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg011",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 11 The Stolen Heavenly Master Charm Is Retrieved",
+        "description": "Playlist Hub",
+        "publishDate": "2026-08-11",
+        "duration": 885,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg011.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0811war",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Don’t Let China and Iran Win the Shipping War",
+        "description": "Source: Epoch Times",
+        "publishDate": "2026-08-11",
+        "duration": 584,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0811/68fa51e0-39f7-44f8-9c00-280db2ecd151/audio.mp3?length=7028885&duration=584",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0810asi",
         "podcastId": "china-in-depth",
