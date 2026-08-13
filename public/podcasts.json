@@ -30021,6 +30021,26 @@
     ],
     "episodes": [
       {
+        "id": "china-global-south-ep-99a099f9-0305-4122-833a-c9405aa5333c",
+        "podcastId": "china-global-south",
+        "podcastTitle": "The China-Global South Podcast",
+        "title": "How China Uses Space to Build Influence in the Mideast",
+        "description": "China is expanding its space partnerships across the Middle East through satellites, navigation systems, technology transfer, and other forms of cooperation. Beijing tailors these partnerships to individual countries, while governments such as Egy...",
+        "publishDate": "2026-08-13",
+        "duration": 2489,
+        "audioUrl": "https://traffic.libsyn.com/secure/ea0f0fdd-2944-4ff3-8a00-704e8c67d58b/CGSP_08132026_Libsyn.mp3?dest-id=4287628",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Daily Life",
+          "Feminism & Arts",
+          "Ancient Trade Routes",
+          "Geopolitics & Politics",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "china-global-south-ep-c0761296-3a8b-4d97-a846-800498350f18",
         "podcastId": "china-global-south",
         "podcastTitle": "The China-Global South Podcast",
@@ -93517,7 +93537,7 @@
         ]
       }
     ],
-    "status": "active"
+    "status": "stale"
   },
   {
     "id": "the-red-line",
@@ -99435,6 +99455,20 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "roundtable-china-ep-1-2765613",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "A short pause",
+        "description": "No new episode of Round Table in your feed today. We're pausing briefly because we're cooking up something special behind the scenes, and we can't wait to share it with you soon! We'll be back on schedule tomorrow. In the meantime, feel free to re...",
+        "publishDate": "2026-08-12",
+        "duration": 56,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2608/1086515866196.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History"
+        ]
+      },
       {
         "id": "roundtable-china-ep-1-2765601",
         "podcastId": "roundtable-china",
