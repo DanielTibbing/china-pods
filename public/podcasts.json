@@ -16,6 +16,38 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-the-china-chokepoints-nobody",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "The China Chokepoints Nobody's Watching",
+        "description": "Listen now | When it comes to China&#8217;s key nodes of economic leverage, rare earths get all the attention &#8212; because they&#8217;re the cheapest, easiest lever China has to pull.",
+        "publishDate": "2026-08-14",
+        "duration": 1800,
+        "audioUrl": "https://api.substack.com/feed/podcast/211131317/8ff28447887a3920244fd8848eb78f13.mp3",
+        "topics": [
+          "Feminism & Arts",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-trivium-china-podcast-beijin",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "Trivium China Podcast | Beijing Stops Playing Coy",
+        "description": "Listen now | On August 5th, China dropped a new batch of retaliatory economic measures against various US entities.",
+        "publishDate": "2026-08-14",
+        "duration": 1800,
+        "audioUrl": "https://api.substack.com/feed/podcast/211130853/555b69ef45b1300c456a3c827b6e924d.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Daily Life",
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-transcript-the-future-made-i",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -12490,6 +12522,23 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "chinatalk-ep-dbb6edc8-981c-11f1-870e-5f51b43ff126",
+        "podcastId": "chinatalk",
+        "podcastTitle": "ChinaTalk",
+        "title": "China's Best Music in 2026 (So Far)",
+        "description": "Jake Newby is the author of the Concrete Avalanche Substack, which covers the best music coming out of China. If you enjoy this playlist, check out Jake’s sets from 2025, 2024, and 2023, as well as his Chinese shoegaze feature. Tracklist: 1. ‘Unde...",
+        "publishDate": "2026-08-14",
+        "duration": 3252,
+        "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL6412100237.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "chinatalk-ep-a41bb726-7ad1-11f1-952d-f306c09c6fe7",
         "podcastId": "chinatalk",
@@ -99501,6 +99550,21 @@
         "publishDate": "2026-08-14",
         "duration": 3295,
         "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2608/1086612602421.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-02765640",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "IN VIDEO: How used tennis balls come back to life",
+        "description": "What if the thing you toss without thinking outlasts you by four centuries? That is the tennis-ball problem. Millions of them, every year, destined for centuries in a landfill. But in Qingdao, they have found a fix. The solution came from 20,000 d...",
+        "publishDate": "2026-08-14",
+        "duration": 3808,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp4/radio-res.cgtn.com/ueditor/audio/2608/1086696929190.mp4",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
