@@ -107313,6 +107313,23 @@
     ],
     "episodes": [
       {
+        "id": "wire-china-ep-buzzsprout-19649355",
+        "podcastId": "wire-china",
+        "podcastTitle": "The Wire China Podcast",
+        "title": "The Robots Are Coming!",
+        "description": "China’s running, dancing, kung-fu fighting humanoid robots are better at being influencers than anything else. But soon they will have to get real jobs, and fast.In this episode, editor Tom Mitchell and reporter Savannah Billman discuss the explos...",
+        "publishDate": "2026-08-15",
+        "duration": 842,
+        "audioUrl": "https://www.buzzsprout.com/2591600/episodes/19649355-the-robots-are-coming.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "wire-china-ep-buzzsprout-19613292",
         "podcastId": "wire-china",
         "podcastTitle": "The Wire China Podcast",
@@ -107775,6 +107792,127 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0814har",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "House Committees Detail Harvard Ties With Chinese Entities in New Report",
+        "description": "Source: Epoch Times",
+        "publishDate": "2026-08-14",
+        "duration": 210,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0814/2cea14cc-aa58-454d-bb80-7f30187a5536/audio.mp3?length=2546741&duration=210",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0814uni",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s New Ethnic Unity Law Is Another Weapon Against Critics Abroad",
+        "description": "Source: Epoch Times",
+        "publishDate": "2026-08-14",
+        "duration": 570,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0814/447f3d92-abc3-4db9-ab07-3e63ba9cc871/audio.mp3?length=6868469&duration=570",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0814fix",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s Sluggish Consumer Economy: Can the New Economic Plan Fix It?",
+        "description": "Source: Epoch Times",
+        "publishDate": "2026-08-14",
+        "duration": 325,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0814/9ba68400-eee3-44ed-89d0-9bb1afea80bd/audio.mp3?length=3920501&duration=325",
+        "topics": [
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0814jp",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Japan’s ‘New Militarism’ and the CCP’s Anti-Japan Campaign",
+        "description": "Source: Epoch Times",
+        "publishDate": "2026-08-14",
+        "duration": 331,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0814/e3995fcb-6e06-4936-87b6-608767fb116c/audio.mp3?length=3998836&duration=331",
+        "topics": [
+          "Semiconductors & AI",
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0814miy",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Miyun Reservoir: Sword of Damocles Hanging Over Beijing",
+        "description": "Source: Epoch Times",
+        "publishDate": "2026-08-14",
+        "duration": 444,
+        "audioUrl": "https://vod.brightchat.com/assets/2025/0807/e9d1257a-9998-4c18-a9ff-795cf47a249c/audio.mp3?length=5339808&duration=444",
+        "topics": [
+          "Dynastic History",
+          "Daily Life"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0814y51",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "51 Years After Banqiao Dam Failure: A Disaster the CCP Still Won’t Talk About",
+        "description": "Source: Epoch Times",
+        "publishDate": "2026-08-14",
+        "duration": 516,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0814/b295135b-03c7-42c2-8139-738b4d3cd3e0/audio.mp3?length=6222197&duration=516",
+        "topics": [
+          "Semiconductors & AI",
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0814xj",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "The Xinjiang Connection: CCP Providing Shoulder-Fired Missiles to Iran",
+        "description": "Source: Epoch Times",
+        "publishDate": "2026-08-14",
+        "duration": 426,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0814/60915f5e-e743-48f9-864d-51fe4063043d/audio.mp3?length=5138741&duration=426",
+        "topics": [
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg014",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 14 A Filial Dog Stands up to the Butcher",
+        "description": "Playlist Hub",
+        "publishDate": "2026-08-14",
+        "duration": 1169,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg014.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0814cat",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "The US-China Catholic Association Forms a United Front With China",
+        "description": "Source: Epoch Times",
+        "publishDate": "2026-08-14",
+        "duration": 429,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0814/91b7afc9-0e8a-432c-856e-0728fa3c5a8f/audio.mp3?length=5178485&duration=429",
+        "topics": [
+          "US-China Relations"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0813sca",
         "podcastId": "china-in-depth",
