@@ -30104,6 +30104,24 @@
     ],
     "episodes": [
       {
+        "id": "china-global-south-ep-16c6ae64-22e0-4820-9005-7a35edfc9f09",
+        "podcastId": "china-global-south",
+        "podcastTitle": "The China-Global South Podcast",
+        "title": "The Iran War Is Reshaping the Persian Gulf. What Does China Do Now?",
+        "description": "The Iran war is reshaping the strategic landscape of the Persian Gulf, putting new pressure on China's relationships with Iran and the Gulf Arab states. Beijing's response is exposing the tension between its deep economic interests in the region a...",
+        "publishDate": "2026-08-18",
+        "duration": 2020,
+        "audioUrl": "https://traffic.libsyn.com/secure/ea0f0fdd-2944-4ff3-8a00-704e8c67d58b/CGSP_08182026_LIBSYN.mp3?dest-id=4287628",
+        "topics": [
+          "Semiconductors & AI",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "china-global-south-ep-99a099f9-0305-4122-833a-c9405aa5333c",
         "podcastId": "china-global-south",
         "podcastTitle": "The China-Global South Podcast",
@@ -43289,6 +43307,23 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "sr-kina-ep-rss-sr-se-pod-eid-2857258",
+        "podcastId": "sr-kina",
+        "podcastTitle": "Radiokorrespondenterna Kina",
+        "title": "Så förbereder sig Taiwan på invasion",
+        "description": "Stridsvagnar på stränderna, drönare i luften och en president som evakueras i skydd av mörkret. Taiwan övar för att kunna försvara sig mot Kina. Lyssna på alla avsnitt i Sveriges Radios app. Tillägg: Efter att avsnittet spelats in 14/8 kom nyheten...",
+        "publishDate": "2026-08-17",
+        "duration": 1620,
+        "audioUrl": "https://static-cdn.sr.se/laddahem/podradio/2026/08/radiokorrespondenterna_kina_sa_forbereder_sig_taiwan_pain_20260814_1714195980.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "sr-kina-ep-rss-sr-se-pod-eid-2767932",
         "podcastId": "sr-kina",
@@ -96479,6 +96514,26 @@
     ],
     "episodes": [
       {
+        "id": "trivium-china-ep-buzzsprout-19660164",
+        "podcastId": "trivium-china",
+        "podcastTitle": "The Trivium China Podcast",
+        "title": "Ep 81 - The AI loophole Washington can’t afford to close",
+        "description": "Chinese companies can’t legally buy the most advanced US-made AI chips, so they’re renting them instead – from data centers in Thailand, Malaysia, and beyond – completely legally.US policymakers know about the issue – but several years into the im...",
+        "publishDate": "2026-08-17",
+        "duration": 1880,
+        "audioUrl": "https://www.buzzsprout.com/2408047/episodes/19660164-ep-81-the-ai-loophole-washington-can-t-afford-to-close.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "trivium-china-ep-buzzsprout-19643469",
         "podcastId": "trivium-china",
         "podcastTitle": "The Trivium China Podcast",
@@ -99575,6 +99630,39 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "roundtable-china-ep-1-2765650",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "The Soapbox: 20-5-3 Rule",
+        "description": "How much time in nature is actually enough? The 20-5-3 framework claims to have the answer. It breaks down ideal outdoor time into daily, monthly, and yearly targets. The rule keeps reappearing across wellness articles and social feeds, but is the...",
+        "publishDate": "2026-08-17",
+        "duration": 1346,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2608/1086957353160.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765647",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "China's hot new tourist draw is tech",
+        "description": "Forget the Great Wall and the pandas. This summer, millions of travelers are flooding into China for something entirely different. Instead of ancient history, they're chasing the future. With over 22 million foreign arrivals already this year, tec...",
+        "publishDate": "2026-08-17",
+        "duration": 1779,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2608/1086957300317.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "History",
+          "Tech & Business"
+        ]
+      },
       {
         "id": "roundtable-china-ep-1-2765628",
         "podcastId": "roundtable-china",
