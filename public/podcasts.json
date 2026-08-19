@@ -30108,7 +30108,7 @@
         "podcastId": "china-global-south",
         "podcastTitle": "The China-Global South Podcast",
         "title": "The Iran War Is Reshaping the Persian Gulf. What Does China Do Now?",
-        "description": "The Iran war is reshaping the strategic landscape of the Persian Gulf, putting new pressure on China's relationships with Iran and the Gulf Arab states. Beijing's response is exposing the tension between its deep economic interests in the region a...",
+        "description": "The war in Iran is reshaping the strategic landscape of the Persian Gulf, putting new pressure on China's relations with Iran and the Gulf Arab states. Beijing's response is exposing the tension between its deep economic interests in the region an...",
         "publishDate": "2026-08-18",
         "duration": 2020,
         "audioUrl": "https://traffic.libsyn.com/secure/ea0f0fdd-2944-4ff3-8a00-704e8c67d58b/CGSP_08182026_LIBSYN.mp3?dest-id=4287628",
@@ -89847,6 +89847,23 @@
     ],
     "episodes": [
       {
+        "id": "made-in-china-de-ep-buzzsprout-19666506",
+        "podcastId": "made-in-china-de",
+        "podcastTitle": "Made in China (German)",
+        "title": "#223 – Dinny McMahon (Trivium China): Why China Is Really Two Economies",
+        "description": "China is exporting more than ever, competition at home is intensifying, and domestic consumption remains weak. How do these developments fit together?Our guest is Dinny McMahon, Head of China Markets Research at Trivium China and author of China’s...",
+        "publishDate": "2026-08-18",
+        "duration": 3200,
+        "audioUrl": "https://www.buzzsprout.com/1869386/episodes/19666506-223-dinny-mcmahon-trivium-china-why-china-is-really-two-economies.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
+      {
         "id": "made-in-china-de-ep-buzzsprout-19624157",
         "podcastId": "made-in-china-de",
         "podcastTitle": "Made in China (German)",
@@ -99631,6 +99648,37 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-2765665",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Kids, chores, and why dad doesn't see the laundry",
+        "description": "You ask your kid to help clean up and they look around like there's nothing to do. It's not attitude, but a glimpse into something researchers call cognitive labor, the invisible load of noticing what needs to be done before anyone asks. That same...",
+        "publishDate": "2026-08-18",
+        "duration": 1208,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2608/1087039329432.mp3",
+        "topics": [
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765662",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Smart wards, big questions",
+        "description": "Step inside the hospital of the near future, where smart pumps track supplies, beds monitor movement, and AI helps flag risks before they escalate. These intelligent wards are becoming a reality across China, promising safer care and relief for ov...",
+        "publishDate": "2026-08-18",
+        "duration": 1916,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2608/1087038481155.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2765650",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -107914,6 +107962,170 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0818old",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China Reopens Old Judicial Cases, Pressuring People Who Fled Overseas to Return",
+        "description": "",
+        "publishDate": "2026-08-18",
+        "duration": 413,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0818/0c90b2e6-f1ac-4c19-b6a6-7c69618fb9a7/audio.mp3?length=4977749&duration=413",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0818exc",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s Student-Exchange Program Urges American Youth to Tell China’s Stories",
+        "description": "",
+        "publishDate": "2026-08-18",
+        "duration": 888,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0818/4b53064b-d848-455d-b403-487a6d9ed36e/audio.mp3?length=10681589&duration=888",
+        "topics": [
+          "Dynastic History"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0818trd",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "The US–China High-Stakes Contest for Global Trade Arteries",
+        "description": "",
+        "publishDate": "2026-08-18",
+        "duration": 457,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0818/07bd0915-c420-4875-a952-4e2fe5694e8e/audio.mp3?length=5503349&duration=457",
+        "topics": [
+          "Feminism & Arts",
+          "Economic Reform",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-2025death",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Reported in 2025: 124 Falun Gong Practitioners Die in the\nPersecution of Their Faith",
+        "description": "",
+        "publishDate": "2026-08-18",
+        "duration": 3372,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/Die2025.mp3",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg018",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 18 Jigong,Being Arrested,Drinks Gallons of Wine All the Way to Prime Minister's Home at Each of the Constables' Expense",
+        "description": "Playlist Hub",
+        "publishDate": "2026-08-18",
+        "duration": 1458,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg018.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0817sen",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Senators Introduce Legislation to Combat CCP’s Religious Persecution in China",
+        "description": "",
+        "publishDate": "2026-08-17",
+        "duration": 232,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0817/964440a1-1112-48f2-bb03-399eef63e155/audio.mp3?length=2814581&duration=232",
+        "topics": [
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0817nz",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "NZ Spy Agency Names China Main Espionage Threat, Cites CCP Interference",
+        "description": "",
+        "publishDate": "2026-08-17",
+        "duration": 504,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0817/ec84caa2-873b-491d-8d91-9bd18580837d/audio.mp3?length=6069556&duration=504",
+        "topics": [
+          "Semiconductors & AI",
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0817doc",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China Used Sex, Donations, Planted Interns to Influence US Political System: Declassified Docs ",
+        "description": "",
+        "publishDate": "2026-08-17",
+        "duration": 479,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0817/876a457f-240f-4322-853d-81a84c97b17f/audio.mp3?length=5769173&duration=479",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0817tw",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Beijing’s Expanding Military Footprint Could Paralyze Taiwan’s Wartime Resupply: Analysts",
+        "description": "",
+        "publishDate": "2026-08-17",
+        "duration": 464,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0817/c37dbad9-f29a-49b5-a42f-d563ed93e8bd/audio.mp3?length=5594357&duration=464",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Daily Life",
+          "Feminism & Arts",
+          "Geopolitics & Politics",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0817eco",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s Economy Shows Signs of Losing Further Momentum",
+        "description": "",
+        "publishDate": "2026-08-17",
+        "duration": 324,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0817/34f7c782-d62f-4e16-aac8-18b5eaf00fdb/audio.mp3?length=3906101&duration=324",
+        "topics": [
+          "Economic Reform"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0817ene",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "America, Not China, Is World’s Energy Superpower",
+        "description": "",
+        "publishDate": "2026-08-17",
+        "duration": 370,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0817/d9dd29c6-d5e1-4d7d-a74e-6672b7b5c69a/audio.mp3?length=4465685&duration=370",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg017",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 17 Jigong Protects the Grand Stele Pavilion, or Whatever Left of It, Agaist the Prime Minister's Men",
+        "description": "Playlist Hub",
+        "publishDate": "2026-08-17",
+        "duration": 1874,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg017.mp3",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0816ca",
         "podcastId": "china-in-depth",
