@@ -16,6 +16,34 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-talking-past-each-other-pall",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "Talking Past Each Other: Pallavi Aiyar on India, China, and the Case for Cognitive Empathy",
+        "description": "This week on Sinica, I sit down with the writer Pallavi Aiyar &#8212; at her own dining table in Beijing, where in recent months I&#8217;ve been the lucky beneficiary of her and her husband Julio&#8217;s legendary hospitality.",
+        "publishDate": "2026-08-19",
+        "duration": 1800,
+        "audioUrl": "https://api.substack.com/feed/podcast/211664490/6d419b91181c89a1317befae428dbec4.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Daily Life",
+          "Feminism & Arts"
+        ]
+      },
+      {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-transcript",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "Transcript | Talking Past Each Other: Pallavi Aiyar on India, China, and the Case for Cognitive Empathy",
+        "description": "Transcript (courtesy of the fantastic CadreScripts) further down the page.",
+        "publishDate": "2026-08-19",
+        "duration": 1800,
+        "audioUrl": "https://substackcdn.com/image/fetch/$s_!UjeL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F17b4bb3d-ac88-47ae-b6de-e7c45afc8a6d_1120x800.png",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-the-breeze-cannot-read-so-wh",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -12536,6 +12564,26 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "chinatalk-ep-b31ad282-9121-11f1-ba9e-b3285154d1a5",
+        "podcastId": "chinatalk",
+        "podcastTitle": "ChinaTalk",
+        "title": "North Korea's Messiah",
+        "description": "Why is North Korea so weird? Is it Stalinism? Maoism? Japan-style emperor worship? Ancient Korean hermit kingdom energy? No, argues Jonathan Cheng, Beijing bureau chief for The Wall Street Journal and author of The Korean Messiah: The Failed Dynas...",
+        "publishDate": "2026-08-19",
+        "duration": 7152,
+        "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL9621010309.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Economic Reform",
+          "History",
+          "Geopolitics & Politics",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "chinatalk-ep-d33ffece-99d8-11f1-8cc6-f328fc037173",
         "podcastId": "chinatalk",
@@ -43307,6 +43355,22 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "sr-kina-ep-rss-sr-se-pod-eid-2857462",
+        "podcastId": "sr-kina",
+        "podcastTitle": "Radiokorrespondenterna Kina",
+        "title": "Kinas kraftmätning med USA | Radiokorrespondenterna live 2026",
+        "description": "Upprustning, handelskrig och AI-race. Kraftmätningen mellan Kina och USA tilltar och kringliggande länder måste parera mellan stormakterna. Lyssna på alla avsnitt i Sveriges Radios app. Livepodd från Möt Radiokorrespondenterna på Kulturhuset Stads...",
+        "publishDate": "2026-08-19",
+        "duration": 1862,
+        "audioUrl": "https://static-cdn.sr.se/laddahem/podradio/2026/08/program_radiokorrespondenterna_kina_sc_20260819_1527499229.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "sr-kina-ep-rss-sr-se-pod-eid-2857258",
         "podcastId": "sr-kina",
@@ -87863,6 +87927,23 @@
     ],
     "episodes": [
       {
+        "id": "asia-chessboard-ep-523f3208-9c09-11f1-8475-7777959df3bc",
+        "podcastId": "asia-chessboard",
+        "podcastTitle": "The Asia Chessboard",
+        "title": "Why Europe Still Matters to Asia's Security",
+        "description": "What does a more uncertain transatlantic relationship mean for Europe’s role in the Indo-Pacific? Mike sits down with Dr Gorana Grgić, Head of the Global Security Team at ETH Zürich’s Center for Security Studies and Non-Resident Fellow at the Unit...",
+        "publishDate": "2026-08-19",
+        "duration": 3051,
+        "audioUrl": "https://traffic.megaphone.fm/CSIS6205091156.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Feminism & Arts",
+          "Ancient Trade Routes",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "asia-chessboard-ep-42d60e58-9048-11f1-b777-6b98f8ac2e99",
         "podcastId": "asia-chessboard",
         "podcastTitle": "The Asia Chessboard",
@@ -99648,6 +99729,38 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-2765677",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Lights, camera, YOU!",
+        "description": "A working film set opens its doors to the public, and the result is more than just a quirky day out. Visitors suit up, follow a director's lead, and walk away with their own short film. It feels like a fun escape, but something deeper is happening...",
+        "publishDate": "2026-08-19",
+        "duration": 957,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2608/1087124454909.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765674",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "China's 2026 guide to romance",
+        "description": "It's Qixi season in China, and love is in the air in ways you might not expect. Couples are celebrating everywhere from city parks to cruise ships, while a new generation is finding connection through apps, algorithms, and a little bit of courage....",
+        "publishDate": "2026-08-19",
+        "duration": 2205,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2608/1087124376346.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "History",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2765665",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -107962,6 +108075,100 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0819mh",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Falun Dafa News from Around the World – August 19, 2026 ",
+        "description": "https://en.minghui.org/html/articles/2026/8/19/235583.html",
+        "publishDate": "2026-08-19",
+        "duration": 1550,
+        "audioUrl": "https://en.minghui.org/u/files/podcasts/emh-podcast/EMHPodcast_2152-News.mp3",
+        "topics": [
+          "Dynastic History",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0819rev",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China Slowly Reverting Toward a Centrally Planned Economy",
+        "description": "",
+        "publishDate": "2026-08-19",
+        "duration": 432,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0819/0964242c-388b-4219-b17a-d086c955c7b2/audio.mp3?length=5206709&duration=432",
+        "topics": [
+          "Economic Reform"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0819ai",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China Scrambles to Catch Up With US AI Chip Tech",
+        "description": "",
+        "publishDate": "2026-08-19",
+        "duration": 351,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0819/3a0a559f-6f69-46e2-9fdc-e5ddc2a91000/audio.mp3?length=4241909&duration=351",
+        "topics": [
+          "Semiconductors & AI",
+          "Tech & Business"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0819cov",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China CDC Reports 522,000 COVID-19 Cases in July, up Sharply From June",
+        "description": "",
+        "publishDate": "2026-08-19",
+        "duration": 639,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0819/8d9523e4-b724-4e09-8f45-d3f09606e5e0/audio.mp3?length=7697909&duration=639",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0819boe",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Watch Out Boeing: China’s Subsidized Passenger Jet Is on the Horizon",
+        "description": "",
+        "publishDate": "2026-08-19",
+        "duration": 334,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0819/8a17e303-5ba7-405f-a0d3-bd16af7b5e6d/audio.mp3?length=4038293&duration=334",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-https---mp3mp4pdf-net-mgz-sentenced2025-mp3",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Reported in 2025 751 Falun Gong Practitioners Sentenced for Their Faith",
+        "description": "https://mp3mp4pdf.net/PDF/Sentenced2025.pdf",
+        "publishDate": "2026-08-19",
+        "duration": 3527,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/Sentenced2025.mp3",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg019",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 19 Prime Minister Qin Had a Nightmare - His Dead Father Qin Hui Warned Him be Nice to the Monks",
+        "description": "Playlist Hub",
+        "publishDate": "2026-08-19",
+        "duration": 1956,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg019.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0818old",
         "podcastId": "china-in-depth",
