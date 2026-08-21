@@ -2904,6 +2904,27 @@
     ],
     "episodes": [
       {
+        "id": "pekingology-ep-afdbbcae-9c01-11f1-aae9-1b30f03d0b05",
+        "podcastId": "pekingology",
+        "podcastTitle": "Pekingology",
+        "title": "China’s Struggle for Influence in Central Asia ",
+        "description": "Founded in 2001 by China, Russia, and key Central Asian states, the Shanghai Cooperation Organization (SCO) marks its 25th anniversary this year. With Chinese President Xi Jinping expected to attend the SCO Leaders' Summit in Kyrgyzstan later this...",
+        "publishDate": "2026-08-20",
+        "duration": 2885,
+        "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/cohst.app/pdcst/0C0K2I/traffic.megaphone.fm/CSIS3011941902.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Economic Reform",
+          "Ancient Trade Routes",
+          "History",
+          "Geopolitics & Politics",
+          "Tech & Business"
+        ]
+      },
+      {
         "id": "pekingology-ep-b3a4f622-910a-11f1-bcdc-47eb820ea1eb",
         "podcastId": "pekingology",
         "podcastTitle": "Pekingology",
@@ -5243,6 +5264,19 @@
       "History"
     ],
     "episodes": [
+      {
+        "id": "chp-ep-16171994-fefa-4374-92f6-b045767d95f8",
+        "podcastId": "chp",
+        "podcastTitle": "The China History Podcast",
+        "title": "One more word from Laszlo",
+        "description": "Hi Everyone, the CHP will be returning next week. Here's a brief announcement concerning what to expect for the next several months.",
+        "publishDate": "2026-08-20",
+        "duration": 306,
+        "audioUrl": "https://episodes.captivate.fm/episode/16171994-fefa-4374-92f6-b045767d95f8.mp3",
+        "topics": [
+          "History"
+        ]
+      },
       {
         "id": "chp-ep-022eeebc-1081-469c-bedd-63bcb44028b5",
         "podcastId": "chp",
@@ -30152,6 +30186,23 @@
     ],
     "episodes": [
       {
+        "id": "china-global-south-ep-7e8dee58-b4aa-4c47-a8f1-bb842dde574b",
+        "podcastId": "china-global-south",
+        "podcastTitle": "The China-Global South Podcast",
+        "title": "China's BRI Is Bigger Than Ever. It Just Looks Very Different",
+        "description": "After the pandemic, as Chinese state-backed lending to developing countries largely dried up, critics declared the Belt and Road Initiative effectively dead. They were wrong. This year, China's financial engagement with BRI countries reached anoth...",
+        "publishDate": "2026-08-20",
+        "duration": 1973,
+        "audioUrl": "https://traffic.libsyn.com/secure/ea0f0fdd-2944-4ff3-8a00-704e8c67d58b/CGSP_08202026_Libsyn.mp3?dest-id=4287628",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "china-global-south-ep-16c6ae64-22e0-4820-9005-7a35edfc9f09",
         "podcastId": "china-global-south",
         "podcastTitle": "The China-Global South Podcast",
@@ -47446,7 +47497,7 @@
         "description": "About Michelle GarnautMichelle Garnaut, AO is an Australian restaurateur and best known for her series of restaurants and philanthropic work in China. She began her career as one of China's most celebrated restaurateurs in 1989, when she opened M ...",
         "publishDate": "2022-01-22",
         "duration": 3451,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/episodes/3aaf88b4-2dbf-4562-98b7-c10330498b3d/audio/50703ff2-9830-4b4f-a2ed-6547cbf64181/default_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/129-m-on-the-bund-closes-after-23-years-my-last-afternoon-tea-with-michelle-garnaut.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -47465,7 +47516,7 @@
         "description": "About EU SME CentreThe EU SME Centre is a European Union initiative that provides a comprehensive range of hands-on support services to European small and medium-sized enterprises (SMEs), getting them ready to do business in China. Experts in the ...",
         "publishDate": "2021-12-15",
         "duration": 3848,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/episodes/497a9c7c-7b92-4241-a855-115fddf74c39/audio/6ad2401f-7791-4e40-afa2-212728836b37/default_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/128-webinar-mandatory-gacc-registration-for-all-f-b-exporters.mp3",
         "topics": [
           "US-China Relations",
           "Semiconductors & AI",
@@ -47485,7 +47536,7 @@
         "description": "About Bjorn van der Veen:Originally from the Netherlands, Bjorn is an experienced Digital Marketing and e-commerce professional who has been living in China for 15 years. He has worked in Online and Digital Marketing for 12 years and is a trusted ...",
         "publishDate": "2021-11-29",
         "duration": 3266,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/episodes/b5e2c9f4-9f23-4b8b-becc-ced4958d49da/audio/8bb1c9e3-08de-4125-9871-d500c49339b9/default_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/127-selling-imported-ice-cream-online-during-covid-19-with-bjorn-van-der-veen.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -47504,7 +47555,7 @@
         "description": "In this episode, we will mainly focus on the following questions:What are the key differences between Chinese and Western companies and the way they do business?How to integrate the Chinese style of doing business with Western companies?What shoul...",
         "publishDate": "2021-11-13",
         "duration": 1908,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/episodes/1e5d1f0e-5c79-4e39-90b5-078e550c023d/audio/b3940679-b2d3-4b49-ad80-3db841fa891c/default_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/126-navigating-business-leadership-styles-of-china-the-west-with-athena-zhu.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -47523,7 +47574,7 @@
         "description": "In 2001, China became a member of WTO, and thousands of Chinese companies wanted to go abroad. One big problem was that these Chinese companies didn’t understand the culture, policies and regulatory requirements there. Helen started her career in ...",
         "publishDate": "2021-10-10",
         "duration": 2028,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/episodes/e0e7521f-c3d6-4e9d-b23d-4af3baffeee8/audio/28350a76-a1ec-4db5-882e-6f939772ecf7/default_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/125-women-in-china-business-leadership-with-helen-ye.mp3",
         "topics": [
           "Semiconductors & AI",
           "Feminism & Arts",
@@ -47540,7 +47591,7 @@
         "description": "About Elijah Whaley:Elijah Whaley has over two decades of experience as a content producer and marketer, with eight years focused on KOL marketing in China. Until acquisition in 2020, Elijah was the CMO of PARKLU. Elijah is now the VP of Marketing...",
         "publishDate": "2021-09-25",
         "duration": 2976,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/episodes/d11f64fe-7f8b-4575-a8a5-8f58369cb329/audio/6ab63b75-249c-491c-b280-82ed0af8ccad/default_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/124-business-leadership-in-china-with-elijah-whaley.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -47559,7 +47610,7 @@
         "description": "When the digital payment technology got integrated to social media platforms, China changed. And now is becoming an inspiration for global corporations when trying to foster innovation and leadership. Chinaany is famous for its de-centralized netw...",
         "publishDate": "2021-09-04",
         "duration": 3278,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/episodes/2ae67bab-5c89-42c8-9cb2-19366c338335/audio/1fef2ffe-87f7-4012-99ab-abef18e24ea5/default_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/123-new-retail-leadership-training-programme-with-litao.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -47577,7 +47628,7 @@
         "description": "Online trade fairs have become very popular in recent years in China, especially after the outbreak of covid-19. Some foreign companies find out that there are markets for their products and want to attend the trade fairs in China, not only online...",
         "publishDate": "2021-07-28",
         "duration": 2261,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/episodes/3ba39bdf-6f50-476b-b393-59c5d806392c/audio/83f5573a-fc39-4f47-8945-e4559b17518a/default_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/122-attending-trade-fairs-in-china-with-eu-sme-centre.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -47595,7 +47646,7 @@
         "description": "Bio Jonathan ChaponJonathan is a very humble guy with an impressive track record as an international health insurance broker. After coming to China as an exchange student in 2007, he returned in 2009 and have been climbing the corporate ladder at ...",
         "publishDate": "2021-07-15",
         "duration": 3040,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/episodes/79707259-ef42-4039-bee7-3b744bb29441/audio/3733f10b-cc0e-4de7-866a-8f99593fb1da/default_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/121-understanding-the-health-industry-with-jonathan-chapon.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -47614,7 +47665,7 @@
         "description": "Things in China are always changing faster than any other place in the world, especially when connected with technology, with patent and with laws. Because of the constant change, there are always huge market in China, which attracts companies all...",
         "publishDate": "2021-06-26",
         "duration": 3064,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/episodes/a1651059-3748-4b39-a8ff-80a12c4cc051/audio/2d27bd7b-ffc1-450f-883c-400dfd6fc650/default_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/120-protecting-your-ip-rights-in-china-with-china-ipr-sme-helpdesk.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -47632,7 +47683,7 @@
         "description": "Bio Sandrine ZerbibOver 25 years’ experience in consumer business in China, out of which the last seven years working on cracking the code of Chinese digital native millennials.Sandrine Zerbib founded and is currently running a Shanghai based and ...",
         "publishDate": "2021-06-12",
         "duration": 2351,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/episodes/a5e91586-530e-434c-ad72-df1d036718e3/audio/a6e33ab8-83cc-42b1-a2cd-6d96a932b3b0/default_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/119-thriving-in-china-s-eommerce-ecosystem-with-sandrine-zerbib.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -47651,7 +47702,7 @@
         "description": "Episode ContentChina is a market with huge potential. However, many foreign products encounter difficulties or even receive rejections during and after customs clearance because of the wrong labels or classifications when they are entering the Chi...",
         "publishDate": "2021-05-22",
         "duration": 4029,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/episodes/3bd0e191-da4e-4c16-83a4-35f4df778879/audio/1136213d-84d8-470a-9ca7-c9822fb0b799/default_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/118-how-to-clear-china-customs-with-raymond-ng.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -47670,7 +47721,7 @@
         "description": "Lina being Lithuanian herself was asked to find an experienced executive to share his or her thoughts on Sourcing from China. Simon to agreed to be interviewed by Lina in this exclusive interview. About Simon de Raadt:Simon de Raadt is currently t...",
         "publishDate": "2021-05-09",
         "duration": 1702,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/episodes/e0125d93-ba67-47a9-a5d0-cbc2d7caef4a/audio/335ef649-c142-4366-9995-0af9bd05c084/default_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/117-sourcing-from-china.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -47689,7 +47740,7 @@
         "description": "Episode NotesBio Fionn Wright:Fionn is named by City Weekend Magazine as one of the “11 Most Influential Movers & Shakers in Shanghai” – a city of 24 million - for the impact of his coaching & TV appearances.He had a dream... but could he really m...",
         "publishDate": "2021-04-27",
         "duration": 3643,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/episodes/3b98feb9-1f9b-4b97-af4f-8d76f3b25d72/audio/de091704-9962-435a-9bcd-9b765d3a606d/default_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/116-the-china-dream-with-fionn-wright.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -47709,7 +47760,7 @@
         "description": "Episode Content:The first book we will discuss is about Chinese Corporate Identity. Peter looks at Chinese corporate identity as an extension of social identity, i.e. as it is bestowed onto the individual by the social group. We will analyze a cas...",
         "publishDate": "2021-04-10",
         "duration": 4174,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/episodes/9de1cab6-63be-44ae-a9d4-5c71f0f82ae1/audio/7085fb5b-c347-40e7-a2ea-1ef6febffbc3/default_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/115-chinese-corporate-culture-and-identity-theory-practice-with-dr-peter-j-peverelli.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -47728,7 +47779,7 @@
         "description": "The Conference Speech.How to sell your brand in China? Real Success Story of ‘Daumantai’In 2020, a Lithuanian sauces & condiments producer ‘Daumantai’ hit 500 shelves in Chinese supermarkets with their new brand ‘Wow Mama’! It is no small achievem...",
         "publishDate": "2021-03-27",
         "duration": 2489,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/episodes/167a6e18-a900-404d-a1e9-b06c3b3e5417/audio/d056fe06-bc70-49bc-9c0d-2760995011a9/default_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/114-how-to-sell-your-brand-in-china-a-case-study.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -47747,7 +47798,7 @@
         "description": "Bio Emmanuel Dean:Emmanuel Dean is from Indonesia and graduated from Colgate University, NY, in 2018, majoring in Economics and Chinese. Emmanuel has a deep passion for entrepreneurship as well as making a positive difference. He wanted to make a ...",
         "publishDate": "2021-03-17",
         "duration": 2297,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/episodes/c408ddd3-cdad-4fb3-89ff-c0e7f1beaabf/audio/72753f4f-f5e1-4ab7-b6c8-79907215df56/default_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/113-sustainability-china-and-ecommerce.mp3",
         "topics": [
           "Semiconductors & AI",
           "Feminism & Arts",
@@ -47764,7 +47815,7 @@
         "description": "About Agnese StūrmaneAgnese is a young ambitious professional with a Bachelor’s Degree in Asian Studies (Sinology) and an MBA from Xiamen University, who has started her professional career in China as an intern in an educational company, in 2011....",
         "publishDate": "2021-02-28",
         "duration": 3658,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/episodes/6c48da48-e4e7-4056-9bcd-fd805accbfb4/audio/09e2d7e3-20b2-489f-b85e-9457bec7e76a/default_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/112-being-a-commercial-diplomat-in-china-with-agnese-sturmane.mp3",
         "topics": [
           "Semiconductors & AI",
           "Daily Life",
@@ -47782,7 +47833,7 @@
         "description": "Simon de Raadt has been in China for over a decade and he became an expert in cross-border trade and logistics from and to China. This expertise also includes deep knowledge of e-commerce, the most relevant sales channel in China.In this episode w...",
         "publishDate": "2021-02-06",
         "duration": 2656,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/episodes/9d7d509d-5084-4b82-a94b-ea5df5706e7e/audio/5557f4b0-3913-4788-8588-e47767fcb955/default_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/111-e-commerce-and-international-trade-with-simon-de-raadt-choy-s-podcast.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -47801,7 +47852,7 @@
         "description": "About David AtnipAfter spending 20 years practicing law in the US in civil and commercial litigation he decided to move and become more familiar with the upcoming superpower called China in 2003. Over the years he did some freelance work as an adv...",
         "publishDate": "2021-01-09",
         "duration": 2326,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/episodes/92f870bb-a987-47aa-a44b-e22cbb9d55bf/audio/1d9f3cf2-c16a-4110-9171-89c2eb8bc47c/default_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/110-china-business-adventures-with-david-atnip.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -47819,7 +47870,7 @@
         "description": "Some of the language can be considered as inappropriate. About Francis Kremer:After an early career in China he returned back with unfinished business. Sometimes it is hard to shake off China. To find his way back to a career in China turned out t...",
         "publishDate": "2021-01-03",
         "duration": 2226,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/episodes/fa24d2f1-e23f-4355-bb56-9726763beac1/audio/dffd0d1e-ffce-4197-8ea7-0983159c922f/default_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/109-flexpat-china-with-francis-kremer.mp3",
         "topics": [
           "Dynastic History",
           "Daily Life",
@@ -47837,7 +47888,7 @@
         "description": "About Ben IveyBen is CEO of the Entrepreneur Lifestyle, an international bilingual speaker and mentor. He helps entrepreneurs globally to accelerate business success whilst living an extraordinary lifestyle. As a Keynote Speaker and Entrepreneur L...",
         "publishDate": "2020-10-02",
         "duration": 3057,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/episodes/28d1538a-9280-4ff9-8333-513fdd252dc8/audio/be114db3-36de-4935-8fe2-1047a5d59ece/default_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/108-living-a-fulfilled-life-with-ben-ivey.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -47855,7 +47906,7 @@
         "description": "About Miro LiMiro is a native Chinese and has been living in Hong Kong for a decade. Graduated from one of the TOP 3 Universities in Hong Kong (CUHK), she joined a Chinese eCommerce startup and was in charge of overseas business development.In 201...",
         "publishDate": "2020-09-13",
         "duration": 3167,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/b33c095d-430d-47ff-99d9-f54298cc1045/ep-107-social-commerce-miro-li_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/107-social-commerce-in-china-with-miro-li.mp3",
         "topics": [
           "Semiconductors & AI",
           "Daily Life",
@@ -47873,7 +47924,7 @@
         "description": "About Jay ThornhillStarting as a English teacher Jay is an Australian-American, born in Australia and grew up in the US. To cease his entrepreneurial spirit he left his home and travelled to China. With the intention of staying for 1 year he ended...",
         "publishDate": "2020-07-25",
         "duration": 3402,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/fcfd883a-b97e-41d9-bfb1-515dc0c22c82/ep-106-final_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/106-making-taobao-shopping-available-to-foreigners-with-jay-thornhill.mp3",
         "topics": [
           "Semiconductors & AI",
           "Daily Life",
@@ -47891,7 +47942,7 @@
         "description": "About Emily CheungPassionate about innovation and technology, she is a firm believer that the right technology has the power to enhance consumer experiences and bring positive changes to businesses, society, and our daily life. With over 13+ years...",
         "publishDate": "2020-07-18",
         "duration": 2625,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/79332f29-231a-4a44-b3aa-a04ea675a774/ep-105-final_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/105-promoting-global-art-culture-to-chinese-millennials-with-emily-cheung.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -47910,7 +47961,7 @@
         "description": "About Tony LeongTony Leong is a Restaurant Opener Expert, Franchise Advisor and Concept Developer with over 20+ years experience in the Food & Beverage industry. Tony has helped companies, investors and entrepreneurs and established brands from ar...",
         "publishDate": "2020-07-02",
         "duration": 1966,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/2f7ec1fe-e58a-4737-bc97-56aa97d74064/cbc104_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/104-starting-and-growing-a-f-b-franchise-in-china-with-tony-leong.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -47929,7 +47980,7 @@
         "description": "About Simon LimSimon Lim is a long-time entrepreneur, digital marketing and IT consultant who discovered a market niche and high demand for better cross border payments to China. Since then Simon moved into the Fintech and payment industry and is ...",
         "publishDate": "2020-06-02",
         "duration": 1907,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/26620e44-2ade-4372-acf5-a6e3ab9eb102/cbc103_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/103-hong-kong-and-china-fintech-scene-with-simon-lim.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -47948,7 +47999,7 @@
         "description": "About Yereth JansenYereth Jansen is a long-time entrepreneur, marketing, digital and creative expert located in Yunnan province. He is founder and CEO of CloudBridge – Media by Design, located in Yunnan. CloudBridge is the company behind www.desti...",
         "publishDate": "2020-04-01",
         "duration": 2596,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/bb4a8a05-6596-43a0-8fc3-b0eb36ce96cc/ep-102-final_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/102-exploring-yunnan-province-with-yereth-jansen.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -47966,7 +48017,7 @@
         "description": "About Barbara ExBarbara Ex is the founder and CEO of Whitespace. Barbara’s long international career has brought her through many countries, but the last 15 years have been in China, working in both international and domestic companies. Prior to f...",
         "publishDate": "2020-03-21",
         "duration": 2116,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/49186193-221b-45bf-9e43-20c5db6a2db5/ep-101-final_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/101-the-sharing-economy-in-china-with-barbara-ex.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -47983,7 +48034,7 @@
         "description": "Today’s podcast is featuring a look back into history of the China Business Cast with all the hosts from the past!We revisit the past and get all the previous hosts on the show, we get to chat with JP on how it all started, how soon after Mike got...",
         "publishDate": "2020-03-15",
         "duration": 3177,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/9887bcef-7086-46cf-a010-89cfc6825eb3/cbc100_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/100-celebrating-episode-100-and-looking-back-with-all-the-hosts.mp3",
         "topics": [
           "Feminism & Arts",
           "Economic Reform",
@@ -48000,7 +48051,7 @@
         "description": "Today’s podcast is featuring Jons and Simon while they share their experiences on being on the ground in China during the COVID-19 crisis and their thoughts on the impact on business in and with China.EPISODE CONTENT:We share our experiences and d...",
         "publishDate": "2020-02-26",
         "duration": 1936,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/02fdbe4e-8ab6-44cd-8a78-7b69be537f4a/bonus-05-final_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/2020-02-26-impact-of-corona-virus-on-your-china-business-with-jons-and-simon.mp3",
         "topics": [
           "Daily Life",
           "Economic Reform",
@@ -48015,7 +48066,7 @@
         "description": "About Raquel RamirezRaquel Ramirez is the founder of RR Consulting, as well as a proud mentor and an active member of SheLeads. Growing up in Mexico City, Raquel has had 15 years of experience working in the public, private and international secto...",
         "publishDate": "2020-01-15",
         "duration": 2333,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/c50c5be5-92f1-4240-8797-4d34abf45439/sheleads-ep-03-final_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/003-sheleaders-podcast-series-ep-3-being-bold-pays-off-keep-up-with-raquel-ramirez.mp3",
         "topics": [
           "US-China Relations",
           "Semiconductors & AI",
@@ -48036,7 +48087,7 @@
         "description": "About Valérie HoeksDuring her first visit to China in 2000, Valérie Hoeks was fascinated by the energy of the country and its people. Their resourcefulness and tenacity motivated Valérie to complete her Sinology Masters and spend the next twenty y...",
         "publishDate": "2019-12-03",
         "duration": 2839,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/b90472c5-d59f-4d9b-bc83-55ac52756cea/ep-99-expanding-by-merger-and-acquisition_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/099-expanding-by-merger-acquisition-with-valerie-hoeks.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -48055,7 +48106,7 @@
         "description": "Emma Schermer Tamir – Marketing by EmmaSelling online is about story telling. This story is told in pictures, words, packaging, product listings and much more. Emma and her team are experienced copywriters that help you tell your brand story.Why y...",
         "publishDate": "2019-11-27",
         "duration": 2512,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/7b64162a-1fc9-4419-95a7-3b7d7ca78dbd/cross-border-summit-2019-part-2-amazon-and-beyond_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/2019-11-27-cross-border-summit-2019-amazon-and-beyond.mp3",
         "topics": [
           "US-China Relations",
           "Semiconductors & AI",
@@ -48074,7 +48125,7 @@
         "description": "Paulina Masson – ShopkeeperAs an Amazon seller Paulina developed her own software tool to keep track of the 72 different fees that you have to pull from many different reports within Amazon. This software turned into a commercial product called Sh...",
         "publishDate": "2019-11-27",
         "duration": 2457,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/77f37f88-ad9e-4c40-85e0-d61f20e0800a/cross-border-summit-2019-part-1-amazon-special_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/2019-11-27-cross-border-summit-2019-amazon-special.mp3",
         "topics": [
           "US-China Relations",
           "Semiconductors & AI",
@@ -48092,7 +48143,7 @@
         "description": "About Betty TouzeauFell in love with China in 2006. Founded her first E-commerce company in China in 2008 focused on selling Chinese products online in Europe, like Amazon, Cdiscount, Groupon, Alibaba etc. Learned Chinese Mandarin during her first...",
         "publishDate": "2019-10-08",
         "duration": 2458,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/b5d486df-18b0-42b3-8e19-67e32af17ec2/cbc98_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/098-how-can-foreign-companies-make-their-brand-known-to-chinese-tourists-and-consumers-with-betty-touzeau.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -48111,7 +48162,7 @@
         "description": "The audio below is a collaboration podcast I did with Tim Lindeman from China BizConnect. Together with Tim, we have discussed how to make a successful digital entry and get started with digital marketing in China.Digital marketing in China requir...",
         "publishDate": "2019-09-15",
         "duration": 1696,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/8b59d549-22f9-4068-84a0-97ffcee7181c/bonus3_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/2019-09-15-bonus-making-a-successful-digital-entry-in-china-jons-china-bizconnect.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -48129,7 +48180,7 @@
         "description": "The second episode of Sheleaders Podcast had invited Lisa Renkin with us to talk about female roles in politics and diplomat area, the importance of taking risks and having a mentor, strategies on identifying opportunities and maintaining work-lif...",
         "publishDate": "2019-09-07",
         "duration": 3076,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/f1673d7d-87b6-4a15-aebd-fce859990fab/sheleads2_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/002-sheleaders-podcast-series-ep-2-female-roles-with-lisa-renkin.mp3",
         "topics": [
           "US-China Relations",
           "Semiconductors & AI",
@@ -48149,7 +48200,7 @@
         "description": "Today’s podcast we’re together with guest host Michael Eagleton from Trovitech (a leading Supply Chain Solutions Company) visiting the largest tech conference in Asia “RISE” which is held annually in Hong Kong. Michael talks with Anthony Baker Exe...",
         "publishDate": "2019-08-19",
         "duration": 1014,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/70f6639b-b74c-4830-b66b-c15f296dfc47/bonus2_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/2019-08-19-bonus-rise-2019-short-clips-on-the-ground-rise.mp3",
         "topics": [
           "US-China Relations",
           "Semiconductors & AI",
@@ -48168,7 +48219,7 @@
         "description": "About Lina Bartusevičiūtė Lina got her HSK 6 in 2010 and became a sought-after Mandarin Chinese interpreter for official meetings and business delegations, and soon she noticed that language was just a minor barrier in building sustainable cross-c...",
         "publishDate": "2019-08-03",
         "duration": 3442,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/1c158e12-b81a-4ffb-bd48-bb3d5ba05301/cbc97_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/097-cross-cultural-market-entries-with-lina-bartuseviciute.mp3",
         "topics": [
           "US-China Relations",
           "Semiconductors & AI",
@@ -48188,7 +48239,7 @@
         "description": "Today’s podcast is featuring a dialogue about some thoughts on WeChat Mini-Programs with our Guest Tommaso Sora. About Tommaso Sora Tommaso is the founder of Sinaweb 脉国 and Smallchina; Respectively Sinaweb 脉国 is a digital web agency that develops ...",
         "publishDate": "2019-07-30",
         "duration": 1788,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/a814d827-8431-4fa2-b073-f89fc4d699f4/cbc96_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/096-update-on-wechat-mini-programs-with-tommaso-sora.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -48207,7 +48258,7 @@
         "description": "This is a new series of CBC in collaboration with SheLeads, an empowering platform for all professional females in China. SheLeads dedicates to promote female leadership, and in this series, we will bring you interviews with inspiring and successf...",
         "publishDate": "2019-07-01",
         "duration": 3184,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/dd8ba8e9-4356-4d55-9afb-72aa93f8dd76/sheleads1_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/001-sheleaders-podcast-series-ep-1-a-dialogue-between-male-and-female-leaders-panel-discussion-from-sheleads-1-year-anniversary.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -48226,7 +48277,7 @@
         "description": "Today's podcast we are talking about trade wars and cultural differences with Richard Conrad, author of \"Culture Hacks\" Call out for the donation campaign The first 3 listeners who provide the screenshots of their donation can receive the Richard ...",
         "publishDate": "2019-06-14",
         "duration": 2434,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/35aa4484-98e4-4717-954d-d55afee841ac/cbc95_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/095-trade-wars-and-cultural-differences-with-richard-conrad.mp3",
         "topics": [
           "US-China Relations",
           "Semiconductors & AI",
@@ -48246,7 +48297,7 @@
         "description": "Today's podcast we are talking about entrepreneurship, accelerators and unicorns in China with Matthieu Bodin, Regional Manager at Techstars. Note: In between the time of the recording and the release of this episode, Matthieu has move from Techst...",
         "publishDate": "2019-05-23",
         "duration": 2019,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/93a6a25b-b66a-4dfd-b914-0cfd7d961297/cbc94_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/094-entrepreneurship-accelerators-and-unicorns-in-china-with-matthieu-bodin.mp3",
         "topics": [
           "US-China Relations",
           "Semiconductors & AI",
@@ -48266,7 +48317,7 @@
         "description": "Today's podcast we are talking about Open Entrepreneurship and Innovation with Amado Trejo & Luis Sarre, Co-founders of Free Entrepreneurs. Amado Trejo: Previously, working for the Mexican Government in Shanghai, he devoted his endeavors and know-...",
         "publishDate": "2019-05-03",
         "duration": 2633,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/b89e08da-026b-45f4-86b3-b31556dd362b/cbc93_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/093-open-entrepreneurship-and-innovation-with-amado-trejo-luis-sarre-co-founders-of-free-entrepreneurs.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -48285,7 +48336,7 @@
         "description": "Today's podcast we are talking about “How to structure your finances as an Expat” with Mikkel Thorup, host of the popular podcast The Expat Money Show, expat for 20+ years and author of the book “Expat Secrets” Mikkel Thorup: Host Of The Expat Mon...",
         "publishDate": "2019-04-01",
         "duration": 1648,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/a2725fea-527b-485e-8bd2-678404bb55d2/cbc92_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/092-how-to-structure-your-finances-as-an-expat-with-mikkel-thorup.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -48304,7 +48355,7 @@
         "description": "First of all a big thank you to Marian from WeHustle for the invite and having us run around grabbing guests left and right. Thank buddy! So this bonus episode is a bit of a different format. Where we normally have one or two guests in the episode...",
         "publishDate": "2019-03-27",
         "duration": 1603,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/82b2879d-e5c9-44c7-9c94-900db201e385/b1_final_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/2019-03-27-bonus-tecom-conference-impressions-and-insights.mp3",
         "topics": [
           "Dynastic History",
           "Economic Reform",
@@ -48319,7 +48370,7 @@
         "description": "Today’s podcast we are talking about how to optimise and use LinkedIn platform for your business and how is it used in China? This the question we will answering with Daniella Santana in the 91th Episode. About Daniella Santana: Daniella Santana i...",
         "publishDate": "2019-03-14",
         "duration": 2238,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/8913b65c-caf8-4de7-8569-f727495737d1/cbc91_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/091-how-to-optimise-and-use-linkedin-for-business-in-china-with-daniella-santana.mp3",
         "topics": [
           "Semiconductors & AI",
           "Daily Life",
@@ -48337,7 +48388,7 @@
         "description": "In today's episode we are talking about a very popular topic over the last few years in Digital Marketing which is Influence. Which in Asia is the one of the most cost-effective customer acquisition channels. And to talk about it, we invited a fel...",
         "publishDate": "2019-03-01",
         "duration": 1915,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/09318afe-3afc-43c6-a733-7de4be44c8df/cbc90_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/090-douyin-tiktok-and-influencer-marketing-in-asia-with-fabian-bern-partner-at-uplab.mp3",
         "topics": [
           "US-China Relations",
           "Semiconductors & AI",
@@ -48357,7 +48408,7 @@
         "description": "A very interesting episode where Shlomo and Mike are introducing Jons Slemmer as our new host of China Business Cast. From Thailand, Sri Lanka and Chengdu you’ll hear our hosts talking about the exciting news of our podcast. About our new host: Jo...",
         "publishDate": "2019-02-14",
         "duration": 798,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/178ae045-7f37-47a1-a428-0c6fad2db02d/cpc89_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/089-exciting-news-about-china-business-cast-with-shlomo-mike-and-jons-slemmer.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -48375,7 +48426,7 @@
         "description": "Elliott Zaagman (aka “Ell”) is a writer, executive coach, and speaker, helping Chinese enterprises grow into global organizations. During past years he’s been a writer, journalist and researcher on China’s tech industry, as a regular contributor t...",
         "publishDate": "2019-01-30",
         "duration": 1850,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/f628b8e2-a511-437c-b46a-e9fd000cc8b7/cpc88_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/088-how-to-avoid-pr-mistakes-when-chinese-tech-companies-going-global-with-elliott-zaagman.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -48393,7 +48444,7 @@
         "description": "A serial entrepreneur who was co-founder of P1, a fashion social network before Tantan, and served as chief technology officer, reaching from 0 to 10 million users. He went on to work and study in Silicon Valley, USA from early 2014. started a new...",
         "publishDate": "2018-12-30",
         "duration": 1449,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/8e8ed7a9-d62d-4815-ac4a-233b91e2ce5a/cpc87_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/087-unleashing-the-power-of-mini-programs-with-jesse-cai-founder-ceo-of-80percent-io.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -48412,7 +48463,7 @@
         "description": "Gene is an American born Chinese (ABC) with over 20 years of cross-cultural management, business development, consulting, and teaching experience in APAC and Greater China. Gene began managing key accounts, establishing channel partners, and devel...",
         "publishDate": "2018-12-09",
         "duration": 3554,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/9440fe0e-48e7-4e58-8097-9d1d3d641883/cpc86_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/086-cultural-difference-and-leadership-in-china-with-gene-hsu-founder-of-eme-china-consultants.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -48431,7 +48482,7 @@
         "description": "Greg Nance is working to expand education access. Greg is the founder and CEO of Dyad.com, a mentorship platform that has helped students earn over $27M in university scholarships. Greg loves exploring the outdoors he is an ulthramarthoner and has...",
         "publishDate": "2018-10-13",
         "duration": 2199,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/c8273e2a-d37b-4687-9892-47d57d6d9402/cpc85_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/085-learnings-from-being-an-ultramarathon-runner-with-greg-nance-ceo-of-dyad-com.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -48449,7 +48500,7 @@
         "description": "Rico Ngoma is the Founder, CEO & Vlogger at Source Find Asia, a manufacturing consulting company based in Guangzhou China. They make sure their clients are working with top quality suppliers so they don’t have to lift a finger. Having spent over 1...",
         "publishDate": "2018-09-13",
         "duration": 2421,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/de345e25-95b4-4db4-baee-52381468565c/cpc84_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/084-making-an-original-design-manufacturer-odm-product-for-entrepreneurs-with-rico-ngoma-ceo-of-source-find-asia.mp3",
         "topics": [
           "US-China Relations",
           "Semiconductors & AI",
@@ -48467,7 +48518,7 @@
         "description": "Stephen \"Steve\" Mallon studied molecular biology of viral infections and oncology for PhD and post-doc at the University of Chicago before moving to China in 2016 to help start a biotechnology incubator and work for the biomedical team at Triwise ...",
         "publishDate": "2018-09-01",
         "duration": 1885,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/c0511d71-2ce6-43c9-b6fe-14940be77ade/cpc83_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/083-landscape-of-biotech-startups-and-investment-trends-in-china-with-stephen-mallon-of-triwise-capital-investment.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -48486,7 +48537,7 @@
         "description": "Luke Henderson came to China five years ago. First he taught English but soon after he realized Shenzhen was a paradise for makers. As a young maker himself, he started riding the wave of 3D printing and teaching 3D design classes to kids. Now he ...",
         "publishDate": "2018-08-17",
         "duration": 1805,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/e949afa3-f09a-4670-bf1c-da06b0c58e1d/cpc82_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/082-steam-education-in-china-and-makers-culture-with-luke-skywalker-henderson-of-wikifactory.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -48505,7 +48556,7 @@
         "description": "Our guest today is Sonat Yalcinkaya. Sonat has helped multinational companies increase their sales in hundreds of millions or perhaps billion, through his experience with Big Data and now AI. now He takes Big Chinese brands overseas and using Big ...",
         "publishDate": "2018-07-10",
         "duration": 2417,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/c17219af-97f8-4404-a2c1-1ad66c7894d1/cpc81_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/081-taking-big-chinese-brands-overseas-with-sonat-yalcnkaya-ceo-of-soyaka-ai.mp3",
         "topics": [
           "US-China Relations",
           "Semiconductors & AI",
@@ -48524,7 +48575,7 @@
         "description": "Kyle Ellicott is the Founder and Chief Labs Officer of ReadWrite / ReadWrite Labs (formerly known as Wearable IoT World, Inc.), a San Francisco-based Media and Ventures company dedicated to creating the social fabric for businesses around Wearable...",
         "publishDate": "2018-06-01",
         "duration": 2238,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/894f6484-0e92-4a4d-a9ce-634e1a5e40dc/cpc80_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/080-kyle-ellicott-of-readwrite-labs-china-us-cross-border-investment.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -48543,7 +48594,7 @@
         "description": "Johan Nylander is a China correspondent based in Hong Kong. By looking beyond the daily news grind, he aims to find people and entrepreneurs, trends and social movements, that explain what’s really going on in the world’s second largest economy – ...",
         "publishDate": "2018-05-14",
         "duration": 1495,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/e0499035-b966-4f57-8e97-af2e67074909/cpc79_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/079-johan-nylander-are-shenzhen-superstars-challenging-silicon-valley.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -48562,7 +48613,7 @@
         "description": "Maximilian Rech is the program director and assistant professor at International Affairs at ESSCA Shanghai which basically bridges Europe and China. He strives to provide students and colleagues with a Campus that acts as their home base and netwo...",
         "publishDate": "2018-04-23",
         "duration": 2014,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/0424155a-58bb-47a0-ae3d-c3db74ad4383/cpc78_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/078-eu-china-business-with-maximilian-rech-of-essca.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -48581,7 +48632,7 @@
         "description": "Michelle Ibarra is a Mexican American multi-tasking millennial that lives in the hip and trendy Former French Concession neighborhood in Shanghai, China. She has established herself as a leader and collaborator in Asia. As the Asia & Oceania Regio...",
         "publishDate": "2018-03-12",
         "duration": 1539,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/da4b4c60-8bf7-46dc-b406-8b5fa89cb667/cpc77_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/077-wechat-communities-with-michelle-ibarra-of-girls-gone-international.mp3",
         "topics": [
           "US-China Relations",
           "Semiconductors & AI",
@@ -48601,7 +48652,7 @@
         "description": "Greg Curtin is an American working in the tech sector in Shenzhen, China. His work across four continents over the last 15 years has taken him through the materials sciences, agro chemicals, financial analysis, logistics, and consumer electronics ...",
         "publishDate": "2018-02-06",
         "duration": 1490,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/b3a9ed14-924a-4663-8baf-80e253d82248/cpc76_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/076-how-shenzhen-startup-scene-is-like-with-greg-curtin-from-zocus.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -48620,7 +48671,7 @@
         "description": "Drew Kirchhoff is a co-founder of Yoli, a WeChat-first on-demand English and Chinese language learning platform. Before co-founding yoli, Drew worked at Yodo1, where he helped build up the mobile gaming company’s international biz dev and global p...",
         "publishDate": "2018-01-09",
         "duration": 2087,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/ff60102b-8c7a-42e0-b10f-cd891049f8a4/cpc75_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/075-developing-a-tech-startup-on-wechats-platform-with-drew-from-yoli.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -48639,7 +48690,7 @@
         "description": "Mr. Allan Chou is a former partner at Garage Cafe China, the first coffee themed Nationally recognized TMT incubator and co-working space in China. This early stage startup space is the first to open in Innoway in Zhongguancun, Beijing (The Silico...",
         "publishDate": "2017-11-26",
         "duration": 2853,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/fbe3ef8d-d34d-4f88-964d-5451a2e53489/cpc74_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/074-the-mass-entrepreneurship-movement-in-china-with-allan-chou.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -48658,7 +48709,7 @@
         "description": "Yiping (Joe) Xia is the co-founder and CTO of bike-sharing company Mobike.Prior to working at Mobike, Joe Xia worked as head of APAC Uconnect Connectivity at Fiat Chrysler Automobiles, APA SYNC team leader at Ford Motor Company, and senior enginee...",
         "publishDate": "2017-11-10",
         "duration": 940,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/bea9174b-1f4a-4cc2-b8e6-a6b6e9b70308/cpc73_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/073-building-a-unicorn-in-person-interview-with-mobike-co-founder-joe-xia.mp3",
         "topics": [
           "US-China Relations",
           "Semiconductors & AI",
@@ -48677,7 +48728,7 @@
         "description": "Elyse Ribbons is an American entrepreneur, writer, businesswoman, and playwright who lives and works in Beijing. Known in China by her Chinese name Liu Suying (柳素英) who spends time on both corporate work media work (via columns, a nationally syndi...",
         "publishDate": "2017-10-23",
         "duration": 2117,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/8a7d6bcb-b8c4-455d-a918-0c6b446627bb/cpc72_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/072-business-and-non-profits-in-china-is-it-possible-with-elyse-ribbons-from-geili-giving.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -48696,7 +48747,7 @@
         "description": "When we started the show, Mike had a single child and then our two daughters were born 3 weeks apart. So, things have changed. We will try to bring the perspective of how it is to run a business with kids in China and out of China.Episode Content:...",
         "publishDate": "2017-10-08",
         "duration": 1792,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/92d6cb89-ffce-4a7e-8d5b-74513311e4cf/cpc71_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/071-running-a-business-in-china-and-having-kids.mp3",
         "topics": [
           "Dynastic History",
           "Daily Life",
@@ -48714,7 +48765,7 @@
         "description": "It's \"Rosh Hashanah\", the Jewish New Year celebration. Happy New Year to all our listeners! Things in China are changing so fast and the way things that we expect in the West to work are already way beyond that point in China. This is a special fo...",
         "publishDate": "2017-09-20",
         "duration": 1804,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/7d327685-de5c-4351-9bb6-a0ebfb814917/cpc70_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/070-the-fast-and-the-slow-how-things-work-in-china-vs-the-west.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -48732,7 +48783,7 @@
         "description": "Entrepreneur and marketer with strong focus on Mainland China and over 12 years of experience in the region, Ashley Galina Dudarenok is specializing in creative, social media, digital content and campaigns – supporting client’s growth and expansio...",
         "publishDate": "2017-09-07",
         "duration": 2251,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/79b8bc73-3d5b-4800-a8db-0fcda1f5a88b/cpc69_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/069-forget-about-wechat-and-weibo-learn-about-other-social-media-channels-in-china.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -48751,7 +48802,7 @@
         "description": "Jan Smejkal is originally from the Czech Republic but currently lives in Shenzhen (China). He builds an awesome startup community in China, APAC and beyond on behalf of Startup Grind.Episode Content:How Jan got into the startup community scene in ...",
         "publishDate": "2017-08-26",
         "duration": 1902,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/fb133925-4d1c-434e-a078-1307aee8ccba/cpc68_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/068-is-china-ready-for-foreign-startup-differences-in-various-china-startup-communities.mp3",
         "topics": [
           "Semiconductors & AI",
           "Daily Life",
@@ -48769,7 +48820,7 @@
         "description": "Gang Lu is the founder of Technode which is a big website for tech news in Asia. They also organized TechCrunch China.Episode Content:Shlomo and Mike plan their next workation, either in the Philippines or Vietnam Mike talks about E-commerce exper...",
         "publishDate": "2017-08-10",
         "duration": 2056,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/97dfa073-9b16-45b6-b630-26517e84df06/cpc67_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/067-the-story-behind-technode-early-beginnings-to-now-with-gang-lu.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -48787,7 +48838,7 @@
         "description": "Mr. Ralf Willecke is VP Plant Engineering and Manager of Nanjing branch at consultancy IMIG China. Before he was Facility and Administration Manager at Qoros Automotive Plant Changshu, Technical Director of Facility and Maintenance at BS Home Appl...",
         "publishDate": "2017-07-28",
         "duration": 1859,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/d4e6aace-b7c6-413e-8547-0cb5ae0d0d0b/cpc66_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/066-industry-4-0-and-what-it-means-for-china-manufacturing-with-ralf-willecke-of-imig-china.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -48805,7 +48856,7 @@
         "description": "Jim Fields is the Founder and Managing Director of Relay. He specializes in creating stunning pieces of video content, both for large technology brands and disruptive startup businesses. His work has gained millions of views in China for clients s...",
         "publishDate": "2017-07-13",
         "duration": 2687,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/55a08b4b-5fea-4144-987b-a1178ef845b6/cpc65_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/065-how-to-do-video-promotion-in-china-with-jim-fields-of-relay.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -48823,7 +48874,7 @@
         "description": "Matt Brennan and John Artman are the hosts of the China Tech Talk podcast (CTT).Episode Content:Posting new content - is it done in the website first, or on WeChat?Matt and John talk about the differences of the contents they publish on their webs...",
         "publishDate": "2017-06-30",
         "duration": 2903,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/350a944c-9df9-480f-8ea5-649cb698093b/cpc64_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/064-media-in-china-today-balancing-wechat-and-websites-for-your-content-marketing-strategy-with-john-artman-and-matt-brennan.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -48841,7 +48892,7 @@
         "description": "51Talk is China’s leading online English education platform. The company’s mission is to make quality education accessible and affordable, and through their online platform, they enable millions of students across China to take live, one-on-one in...",
         "publishDate": "2017-06-14",
         "duration": 2112,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/1d4e8c00-d9f5-4db1-a204-9d917b5ecfb6/cpc63_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/063-working-in-publicly-traded-chinese-tech-company-as-a-foreigner-with-robyn-shulman-and-james-stewart-from-51talk.mp3",
         "topics": [
           "Semiconductors & AI",
           "Daily Life",
@@ -48859,7 +48910,7 @@
         "description": "Alvin Wang Graylin is today's guest. Mr. Graylin is the China President of Vive (VIVE.com) at HTC leading all aspects of the Vive/VR business in the region.He is also currently Vice-Chairman of the Industry of Virtual Reality Alliance (IVRA.com), ...",
         "publishDate": "2017-05-25",
         "duration": 1935,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/270bc753-fa9a-4c20-ad90-36ade5f87d73/cpc62_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/062-the-state-of-the-ar-vr-virtual-reality-market-in-china-with-alvin-wang-graylin-of-htc.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -48878,7 +48929,7 @@
         "description": "In today's episode, we have AJ Warner as our guest. He is the founder of one of the top 5 education consulting firms in China. AJ Warner founded Touchdown! to provide expert admissions consulting to China’s brightest and most ambitious students an...",
         "publishDate": "2017-05-15",
         "duration": 2083,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/0d8598e9-11e6-42ed-852d-79c707cc8405/cpc61_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/061-getting-empowered-through-practical-training-and-getting-admitted-to-top-business-schools-with-aj-warner-from-touchdown.mp3",
         "topics": [
           "US-China Relations",
           "Semiconductors & AI",
@@ -48898,7 +48949,7 @@
         "description": "Rebecca Fannin Is our guest for this episode. She is a Journalist, author and media entrepreneur She is the founder of Silicon Dragon which organizes events and research. Rebecca writes a weekly column about innovation and venture investment trend...",
         "publishDate": "2017-04-27",
         "duration": 2098,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/31ee16a6-7bd9-49a4-868b-18865cf61123/cpc60_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/060-comparing-startup-ecosystems-around-the-world-and-asia-with-rebecca-fannin-from-silicon-dragon.mp3",
         "topics": [
           "US-China Relations",
           "Semiconductors & AI",
@@ -48916,7 +48967,7 @@
         "description": "Hey All, It's been a little while as I (Shlomo) was traveling. We are back on track now and we've got a new episode for you.This time Mike hosted Josh Steimle speaking about becoming an influencer. He has a global marketing Agency in the US, Hong ...",
         "publishDate": "2017-03-29",
         "duration": 2193,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/1090d537-a015-4692-9b8a-22d7642f5b2f/cpc58_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/058-becoming-an-influencer-and-thought-leader-china-vs-the-west-with-josh-steimle-from-mwi.mp3",
         "topics": [
           "US-China Relations",
           "Semiconductors & AI",
@@ -48936,7 +48987,7 @@
         "description": "Episode Content:About James LalondeCo-founded and ran or helped run 3 successful startups all operating today employing over 500 people and growing. Established 212 distribution partnerships and closed 98 OEM contracts with a minimum value of $1 m...",
         "publishDate": "2017-02-18",
         "duration": 2652,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/9d7034d1-3abe-4b39-b437-31d70b03d1a7/cpc57_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/057-what-it-takes-to-be-a-serial-entrepreneur-in-beijing-with-james-lalonde-from-yoli.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -48956,7 +49007,7 @@
         "description": "We are hosting Bruno here already for the 2nd time. Last time we spoke about investors mindset in China and this time because of regulations the Chinese government there are constrains over outbound investment. Episode Content:Hey Bruno, so for th...",
         "publishDate": "2017-01-21",
         "duration": 2353,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/6a13c53e-635a-4603-b2d9-17a2f32b563e/cpc55_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/055-chinese-regulation-updates-in-cross-border-investments-with-bruno-bensaid-from-shanghaivest.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -48975,7 +49026,7 @@
         "description": "How Nick went from not knowing Mandarin upon arrival in China to working as a Mandarin medical interpreter and translator. Nick first moved to China after college to teach English and ended up staying 6 years total. He is the Author of the book Ul...",
         "publishDate": "2017-01-06",
         "duration": 1782,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/8bc94787-6aff-40e8-9d6e-a5f1bf93b0ba/cpc54_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/054-starting-out-with-a-job-in-china-with-nick-lenczewski.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -48994,7 +49045,7 @@
         "description": "Ready for the last episode of 2016?! This episode is quite different from the ones we did before as it's a recording from a talk given on one of Mike's Global From Asia Hong Kong trips given by kim Leitzes from ParkLU. ParkLU built a platform that...",
         "publishDate": "2016-12-28",
         "duration": 1768,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/35b05e2f-44a1-4c71-9be2-56bf3f344e49/cpc53_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/053-marketing-with-key-opinion-leaders-kols-in-china-with-kim-leitzes-from-parklu.mp3",
         "topics": [
           "Semiconductors & AI",
           "Daily Life",
@@ -49012,7 +49063,7 @@
         "description": "Hey All, this episode is another interview that Mike made in the CHat conference back in Shanghai Interviewing Michael Chee from Fresh PrintsYou thought you need a website and different social media channels to run a startup? Think again, because ...",
         "publishDate": "2016-12-08",
         "duration": 1357,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/89422ce0-7ce9-496c-923f-c619f3732ca9/cpc52_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/052-buidling-a-business-on-wechat-how-chatting-works-within-businesses-today-with-mickey-chee-from-fresh-prints.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -49031,7 +49082,7 @@
         "description": "Ryan Shuken is a growth hacker in residence of Chinaacelerator in Shanghai as well as the program director of MOX which is a mobile Only Accelerator. He's been in China for 12 years now building and helping startups (...and failing like all entrep...",
         "publishDate": "2016-11-28",
         "duration": 1501,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/d489c075-bfae-4150-ae99-19d5e03148c3/cpc51_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/051-the-evolution-and-future-of-western-entrepreneurs-in-china-with-ryan-shuken-from-chinaccelerator.mp3",
         "topics": [
           "US-China Relations",
           "Semiconductors & AI",
@@ -49052,7 +49103,7 @@
         "description": "This week we've got an interview for you from Philip Beck who has 38 year career at C-Level positions in SME’s and publicly-listed companies across the advertising, digital media, eCommerce, marketing, recruitment and traditional media sectors in ...",
         "publishDate": "2016-11-10",
         "duration": 1436,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/933f358d-645f-46b6-9865-03122579ee00/cpc50_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/050-wechat-engagment-for-brands-sme-in-china-with-philip-beck-from-dubeta.mp3",
         "topics": [
           "Semiconductors & AI",
           "Feminism & Arts",
@@ -49069,7 +49120,7 @@
         "description": "Episode Content:Hey Chris, Why don't you tell us more about Cambridge Masks and specifically why you need another mask company. What’s more to invent there?Usually when people think of startups, they think of tech, mobile, iot, but not masks. So, ...",
         "publishDate": "2016-10-07",
         "duration": 1594,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/ac7887ad-aac9-412e-b3e4-1285e787dfb4/cpc48_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/048-smart-product-differentiation-with-chris-dobbing-of-cambridge-masks.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -49087,7 +49138,7 @@
         "description": "Today we have Swan Huang, is the founder and CEO of Ringy. Mike got her for a one on one interview. Ringy is a platform built on top of Wechat giving instant help to foreigners who needs to communicate in Chinese and find info online. Pretty amazi...",
         "publishDate": "2016-09-23",
         "duration": 1804,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/73665749-077f-41bf-b6df-f1897b388fcf/cpc47_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/047-building-a-chat-concierge-wechat-platform-with-swan-huang-from-ringy.mp3",
         "topics": [
           "US-China Relations",
           "Semiconductors & AI",
@@ -49107,7 +49158,7 @@
         "description": "Nils is a sought-after and often quoted speaker and author, whose work is regularly featured in prominent publications and blogs like Game Developer Magazine and Gamasutra. By merging the fields of meme theory, behavioral psychology, and game theo...",
         "publishDate": "2016-09-09",
         "duration": 2354,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/20a10c06-78d7-4b99-89a6-b4bd79044acb/cpc46_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/046-chinese-investor-beijing-startup-insights.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -49126,7 +49177,7 @@
         "description": "“We are driven by passion - so no, we are not learnings the same way. “ Anthony MetivierThis week we host Anthony Metivier who is a memory expert from Memory Magnetic Method. This is an in person interview I (Shlomo) made with him in Tel Aviv whic...",
         "publishDate": "2016-08-25",
         "duration": 2842,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/e1612d94-0f59-4c7f-a5e0-d15078d65b7e/cpc45_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/045-how-to-improve-your-chinese-language-learning-skills-in-fast-and-efficient-way-with-anthony-metivier-from-magnetic-memory-method.mp3",
         "topics": [
           "Semiconductors & AI",
           "Feminism & Arts",
@@ -49143,7 +49194,7 @@
         "description": "This week, talking cross border investments! Joao Monteiro, discussing how deals are done between China, Europe, Portugal- dealing with cross cultures, borders, and more!Episode Content:Intro Joao MonteiroHow did you end up in china?Great to meet ...",
         "publishDate": "2016-08-12",
         "duration": 1990,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/d97eee0f-9b89-4e59-8a41-21162d89a2a2/cpc44_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/044-cross-border-investment-between-china-and-portugal.mp3",
         "topics": [
           "Dynastic History",
           "Feminism & Arts",
@@ -49160,7 +49211,7 @@
         "description": "This week we are talking - wechat! The king of Chinese internet - how can small businesses tap into it? We have Matt Brennan from China Channel giving us some tips and insights on today’s show.Episode Content:How a Small Business Can Leverage Wech...",
         "publishDate": "2016-07-22",
         "duration": 1743,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/b57dc3ce-15d2-4576-baab-037eab8f1500/cpc43_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/043-how-a-small-businesses-can-leverage-wechat-for-a-chinese-business.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -49178,7 +49229,7 @@
         "description": "(Join the listeners community. All details inside)Note from Shlomo: We didn't have China's internet spirits with us this time at the recording, so we are not happy with the quality it came out. Still, we feel that there is still value for our list...",
         "publishDate": "2016-07-07",
         "duration": 1337,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/e12fd0fe-0484-4439-aa4e-7dbb53b077d8/cpc42_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/042-jump-into-the-water-build-an-hr-company-right-out-of-school-with-samantha-kwok-from-jing-jobs.mp3",
         "topics": [
           "Semiconductors & AI",
           "Daily Life",
@@ -49196,7 +49247,7 @@
         "description": "(Special QR code to join our WeChat community inside) RISE conference ended a few weeks ago. I (Shlomo) flew to Hong Kong to the conference and met Mike as well. It was a good chance to do our very first in person episode recording. This one is wi...",
         "publishDate": "2016-06-23",
         "duration": 1676,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/d736e059-4b1f-4da7-9ab3-1db35c20ee0e/cpc41_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/041-building-an-iot-accelerator-in-hong-kong-with-nick-ramil-from-brinc-io.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -49214,7 +49265,7 @@
         "description": "Today's guest is Sam Goodman, author of Where East Eats West: The Street - Smarts Guide to Business in China. Sam is a seasoned market entry and greenfield strategist and advisor, he helps companies to strategically market themselves across variou...",
         "publishDate": "2016-06-10",
         "duration": 1947,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/637292b8-0fd6-402b-8d50-5886e5437460/cpc40_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/040-china-market-entry-tips-tricks-from-sme-to-mnc-with-sam-goodman.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -49233,7 +49284,7 @@
         "description": "Episode Content: Today we have Nathan Siy, in the show. Nathan , is running a high speed electric Bike company, he is also a TV host and a voice over artist. He tells about his (REALLY!) unique company, why he decided to build it and how. It's a c...",
         "publishDate": "2016-05-27",
         "duration": 1820,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/093e81d6-b53e-4ad5-bf71-78e15bc75849/cpc39_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/039-building-an-electric-motorcycle-business-in-beijing-with-nathan-siy.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -49252,7 +49303,7 @@
         "description": "Episode Content:Shlomo: I met James when I lived in Beijing, and he is one of the major community builders and engine behind Barcamp, TEDx , part of the world economic forum (At least these are the ones I’m aware of…) and other events in Beijing.I...",
         "publishDate": "2016-05-12",
         "duration": 1521,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/2aa7a899-9d68-498c-bb9f-61a4e4c86f9f/cpc38_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/038-james-flanagan-building-communities-in-china.mp3",
         "topics": [
           "Semiconductors & AI",
           "Daily Life",
@@ -49270,7 +49321,7 @@
         "description": "Episode Content:We are happy to host Jerel Bonner who is the Author - Sharpening China's Talent, - Published June 2015, and a TEDx Speaker April 2014 Shanghai, \"Becoming the Knowledge Worker\". He lives in China since 2003 and built a successful co...",
         "publishDate": "2016-04-28",
         "duration": 2044,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/8a0b2620-c76f-4609-99d7-7548fb717085/cpc37_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/037-using-corporate-coaching-in-china-to-differentiate-your-skills.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -49289,7 +49340,7 @@
         "description": "Episode Content:Communications professional with 4+ years of experience in China and a 10-year-long passion for journalism, writing and editing.Hello Everybody, this is episode #36 and today we have Bridget Riley with us as a guest. Bridget is not...",
         "publishDate": "2016-04-07",
         "duration": 1823,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/8cab469b-0cd7-4ac7-a550-7a634bf067d8/cpc36_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/036-from-inside-the-american-chamber-of-commerce-in-beijing.mp3",
         "topics": [
           "US-China Relations",
           "Semiconductors & AI",
@@ -49309,7 +49360,7 @@
         "description": "Episode Content:This week we have Alison Freidman who runs Pinpong Productions, a non profit in the performing art sectors. She was featured in the New York times and many other places such as:International Arts Manager: “Is Capitalism Harming the...",
         "publishDate": "2016-03-24",
         "duration": 1872,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/8c658c63-ff15-4993-a72d-7f73fc37ffcf/cpc35_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/035-running-a-chinese-and-overseas-art-production-company-with-alison-friedman.mp3",
         "topics": [
           "US-China Relations",
           "Semiconductors & AI",
@@ -49329,7 +49380,7 @@
         "description": "Today's show we have Meredith Karazin and Kelly Yang from LearnLab. LearnLab /光合空间 is an educational entrepreneur community, bringing together the best in education and business to help entrepreneurs transform learning for all. Our vision is that ...",
         "publishDate": "2016-03-10",
         "duration": 2122,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/aaa05981-91fe-4133-85c0-a5b690787b59/cpc34_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/034-leveraging-ed-tech-to-help-entrepreneurs-transform-education-for-chinese-learners.mp3",
         "topics": [
           "US-China Relations",
           "Semiconductors & AI",
@@ -49349,7 +49400,7 @@
         "description": "Looking to come to China and bring your technology and IP? Want to have the ultimate partner, the Chinese government? Then today's show is for you! We have with us Yahya Yuksel representing a special division of the Foshan city government who is w...",
         "publishDate": "2016-02-25",
         "duration": 2066,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/74fe1caf-fceb-4c02-b578-ffedc3e858d2/cpc33_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/033-chinese-government-investment-programs-in-foshan-city-beyond.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -49368,7 +49419,7 @@
         "description": "This week we are talking Wechat! We have Thomas Graziani from Walk the Chat agency. WalktheChat is an agency focused on helping companies making the most out of WeChat. They provide four key types of services: consulting (helping companies underst...",
         "publishDate": "2016-02-11",
         "duration": 2457,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/8fc8b17b-e864-4064-bc4a-729b35d2c668/cpc32_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/032-wechat-marketing-strategies-for-chinese-business-success.mp3",
         "topics": [
           "Dynastic History",
           "Feminism & Arts",
@@ -49385,7 +49436,7 @@
         "description": "This week we interview Simon Vericel speaking about the right way to do PR (Public relations) in China. Simon has 10+ years of PR experience helping Chinese companies managing their PR overseas and helping foreign companies running PR campaigns is...",
         "publishDate": "2016-01-29",
         "duration": 2592,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/ca414b98-f221-4c4d-8ddf-b0feed893c5a/cpc31_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/031-pr-done-right-in-china-for-startups-with-simon-vericel-from-influence-matters.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -49404,7 +49455,7 @@
         "description": "This week Mike and Shlomo are hosting Richard Coward speaking about Education programs in China as a way to come to China and start a business. Richard actually did the same track. Here is a little more about him. About Richard CowardRichard Cowar...",
         "publishDate": "2016-01-14",
         "duration": 1319,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/5dc8ae5c-c675-4699-8202-a153759249fc/cpc30_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/030-education-programs-as-a-way-to-start-in-china-with-richard-coward-from-china-admissions.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -49423,7 +49474,7 @@
         "description": "About Bruno BensaidArrived in Shanghai in 1997 for a year studying Chinese at one China's top-10 universities. I then moved to Singapore in 1999 to join the APAC Finance team of Cisco Systems. Back in China (2002), I co-managed the China operation...",
         "publishDate": "2015-12-31",
         "duration": 3117,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/cc250c63-ad6f-4b18-bde5-2788801515f2/cpc29_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/029-investor-thinking-entrepreneur-psychology-china-abroad.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -49442,7 +49493,7 @@
         "description": "This episode like all others is broadcasted live on @Startup Noodle (open on your mobile device to subscribe) periscope channel. Hey All, today we have Gregory Van den Bergh as our guest from MiCai Inc. MiCai is a financial technology company (You...",
         "publishDate": "2015-12-17",
         "duration": 2512,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/c83657da-0170-47b0-a721-9a41c5c6237a/cpc28_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/028-navigating-fintech-in-china-with-gregory-van-den-bergh-from-micai.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -49461,7 +49512,7 @@
         "description": "Episode Content:This episode like all others is broadcasted live on @Startup Noodle (open on your mobile device to subscribe) periscope channel. Andy, Looking at your linkedin profile, it seems you had a dream career path bringing Google into Chin...",
         "publishDate": "2015-12-03",
         "duration": 2515,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/b53afaa4-04d9-4776-94e4-1a4268db75d2/cpc27_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/027-andy-tian-co-founder-and-ceo-at-asia-innovations.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -49479,7 +49530,7 @@
         "description": "Today we welcome Martina Fuchs from CCTV (China Central Television) telling us about the career path of a business news reporter for the largest broadcasting organisation in China. Martina is a frequent traveler as part of her work and has great s...",
         "publishDate": "2015-11-20",
         "duration": 1616,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/1de99ef2-dbcd-4e21-8000-8d1bc23d71f2/cpc26_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/026-news-and-business-reporting-in-china-ins-and-outs-with-martina-fuchs-from-cctv-english.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -49498,7 +49549,7 @@
         "description": "Episode Content:Opening MikeTalking about the change in the podcast and introducing Shlomo. Talking about the subject and why we chose it.Mike: Wait, isn’t HK ChinaShlomo: Let’s start with Visa Issues …Mike: How easy / difficult to open a companyS...",
         "publishDate": "2015-11-05",
         "duration": 2801,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/ac28b844-8885-4f5a-bd9e-2269303667bd/cpc25_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/025-comparing-mainland-china-and-hong-kong-tech-scenes-and-living-for-entrepreneurs.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -49516,7 +49567,7 @@
         "description": "Welcome to China Business Cast episode 24! Today’s show we have Anthony Johnson, a British entrepreneur who has had a few ventures in China and a lot of experience hiring and managing staff. But before we start, let’s do a 3 second moment of silen...",
         "publishDate": "2015-08-22",
         "duration": 1499,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/807e70dd-e9e7-4a71-baff-d113c4d9e132/cpc24_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/024-hiring-and-managing-chinese-staff.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -49535,7 +49586,7 @@
         "description": "Episode Content:About Brandon King from Smart Intern ChinaCollege Interns - Looking for a summer job in China, how does it workWhat is the passport visa requirements for China-based internsHow to select the right jobCompanies and Hiring Managers -...",
         "publishDate": "2015-06-30",
         "duration": 2082,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/cf8af7d1-6eba-4140-a85a-6eaeea9a56bf/cpc23_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/023-how-do-internships-in-china-work-for-interns-employers.mp3",
         "topics": [
           "Feminism & Arts",
           "Economic Reform",
@@ -49551,7 +49602,7 @@
         "description": "Episode Content:Introduce Adrian ByeQuestion 1:Hi Mike from Miami, FloridaI have found your youtube videos very informative and have a question for you.I plan to make my first trip to China late this summer and want to know if you can recommend a ...",
         "publishDate": "2015-06-16",
         "duration": 1596,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/618b5ed3-4a5d-446b-b1c1-ec9ba58b7240/cpc22_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/022-questions-on-china-business-chinese-social-media-hiring-an-assistant-in-china-need-a-china-partner.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -49570,7 +49621,7 @@
         "description": "Episode Content:Welcome Ally Mona to the show - so tell us - How You Got Here, What is your China Story?When and why did you first come to China?What did you do between then & starting your latest company Limitless Laowai?How did you get the idea ...",
         "publishDate": "2015-06-04",
         "duration": 2032,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/9cab1c81-c20d-4616-9188-2ebafda30362/cpc21_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/021-china-expat-tips-and-getting-through-the-china-dips.mp3",
         "topics": [
           "Semiconductors & AI",
           "Daily Life",
@@ -49588,7 +49639,7 @@
         "description": "<p>Walking into a Chinese hospital in Nanshan district, Shenzhen, China.</p> Curious to learn more about the medical options for foreigners in China, and get some business tips from a doctor who has his own startup - this show is for you - Welcome...",
         "publishDate": "2015-05-20",
         "duration": 1736,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/1562553a-756f-4298-8fdb-74a241f34ca5/cpc20_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/020-medical-environment-in-china-for-foreigners.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -49607,7 +49658,7 @@
         "description": "<p>Crazy Pandas Near Jing'An Temple in Shanghai, China</p> Thanks JP for that kind message, I am really hoping I can live up to the listeners expectations for the show after his amazing job. I was JP’s first guest on this show, back in episode 1 i...",
         "publishDate": "2015-05-16",
         "duration": 405,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/296f3fa8-37f6-418b-8210-ebfda9dc6bf3/cpc19_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/019-news-updates-new-host-for-china-business-cast.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -49626,7 +49677,7 @@
         "description": "Rui Ma from 500 Startups interviews Soul Htite, co-founder of the Chinese peer to peer lending platform DianRong.com He explains his background prior to starting Dian Rong as well as tips for entrepreneurs for what it takes to get your startup rea...",
         "publishDate": "2015-05-11",
         "duration": 2826,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/753bd8d5-7680-4811-b71b-cca931eaaf0d/cpc18_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/018-running-a-peer-to-peer-lending-platform-in-china.mp3",
         "topics": [
           "Semiconductors & AI",
           "Feminism & Arts",
@@ -49643,7 +49694,7 @@
         "description": "Today’s guest is Laszlo Montgomery, the host and humble narrator of the must-listen China History Podcast. If you haven’t listened to the podcast, I highly recommend checking it out. It’s a truly excellent listen for anyone with even a passing int...",
         "publishDate": "2014-08-29",
         "duration": 1844,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/cee36759-2a9e-43aa-93b9-a06669c1d344/cpc17_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/017-a-brief-history-of-manufacturing-in-china.mp3",
         "topics": [
           "Semiconductors & AI",
           "Economic Reform",
@@ -49659,7 +49710,7 @@
         "description": "Today’s guest is Todd Embley, program director at Chinaccelerator, China’s first mentorship-driven seed stage accelerator program. The Shanghai-based, 90-day accelerator program is driven by the mission of helping entrepreneurs who are innovating ...",
         "publishDate": "2014-07-15",
         "duration": 2409,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/73261ca9-9922-4ec3-b163-fc08ceccda4e/cpc16_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/016-entrepreneurship-and-startups-in-china-with-chinaccelerator.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -49678,7 +49729,7 @@
         "description": "Today’s guest is Rui Ma, Venture Partner at 500 Startups for Greater China. 500 Startups is a Silicon Valley based early stage fund and startup accelerator with an international presence. Rui is China-born, Silicon Valley raised, and currently bas...",
         "publishDate": "2014-05-01",
         "duration": 1783,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/e7849ccc-31f2-43bb-9c29-c68f2cc4b5aa/cpc15_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/015-the-venture-capital-environment-in-china.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -49697,7 +49748,7 @@
         "description": "Today’s guests Nick Ramil and Tim Nybo are the founders behind Lexell, a stone & steel watch brand that raised over $220,000 dollars on Kickstarter. But like every overnight success, it was years in the making. They arrived in Guangzhou, China fro...",
         "publishDate": "2014-04-03",
         "duration": 2858,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/fe0ab317-3399-4fde-96f5-294059317e73/cpc14_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/014-from-guangzhou-china-to-over-220k-on-kickstarter.mp3",
         "topics": [
           "Semiconductors & AI",
           "Daily Life",
@@ -49715,7 +49766,7 @@
         "description": "This interview is part of the Wood Egg project, a series of guides for entrepreneurs covering 16 different Asian countries. I contributed research for the China guide and this was one of the interviews. For the complete WoodEgg Entrepreneurs’ Guid...",
         "publishDate": "2014-03-04",
         "duration": 2035,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/f77dae17-ff5a-414c-9944-982e3da3e15f/cpc13_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/013-chinese-company-setup-an-overview.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -49734,7 +49785,7 @@
         "description": "Today we have Martin Li from Uber’s Asia Expansion team on the show, talking about how Uber is expanding in the Chinese market. Uber, which has the motto “Everyone’s Private Driver”, allows users to summon a car at the touch of a button via its mo...",
         "publishDate": "2013-12-24",
         "duration": 1318,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/0615b667-f8e8-49ef-bc24-5df94750f632/cpc12_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/012-how-uber-is-expanding-in-china.mp3",
         "topics": [
           "Semiconductors & AI",
           "Feminism & Arts",
@@ -49751,7 +49802,7 @@
         "description": "Today’s guest Steve Mushero is the co-founder and CEO of ChinaNetCloud - China's largest internet managed services company. Steve moved to China in 2005 after spending over a decade in Silicon Valley, where he worked as the CTO of a variety of tec...",
         "publishDate": "2013-12-10",
         "duration": 2647,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/5bccc5b8-f3cd-4e12-977d-6304f10318dd/cpc11_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/011-environment-for-tech-startups-in-china.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -49770,7 +49821,7 @@
         "description": "Today’s guest Fongyee Walker is the founder of Dragon Phoenix Wine Consulting, a company that offers consultancy, wine tasting, wine training and education services. Established in 2007, the company offers wine education in China in both English a...",
         "publishDate": "2013-11-26",
         "duration": 1704,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/83105083-6fb7-411e-a47e-c62f1aee3e77/cpc10_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/010-the-truth-about-the-wine-market-in-china.mp3",
         "topics": [
           "Semiconductors & AI",
           "Economic Reform",
@@ -49786,7 +49837,7 @@
         "description": "Today’s guest Frank Lavin is the CEO of Export Now, a company that helps international brands sell to Chinese consumers via Tmall, China’s largest B2C e-commerce platform. Among the brands Export Now works with are the National Football League and...",
         "publishDate": "2013-11-12",
         "duration": 1825,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/dbee2d28-16a5-4e0b-b947-a973aed64189/cpc09_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/009-bringing-foreign-brands-to-china-via-ecommerce.mp3",
         "topics": [
           "Dynastic History",
           "Feminism & Arts",
@@ -49803,7 +49854,7 @@
         "description": "Today’s guest Antoni Watts is the owner of a sourcing company specializing in mobile phone accessory, consumer electronic and gift products. He started the company in October 2009 and quickly grew it to roughly 1 million units in annual turnover. ...",
         "publishDate": "2013-09-03",
         "duration": 2229,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/1f63d8cb-aa8e-464f-b525-af207d33b6bf/cpc08_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/008-building-a-profitable-sourcing-business-from-scratch.mp3",
         "topics": [
           "Feminism & Arts",
           "Economic Reform",
@@ -49819,7 +49870,7 @@
         "description": "Today’s guest Terry Lin is the host of Build My Online Store, a podcast that helps ecommerce entrepreneurs grow their businesses by interviewing successful entrepreneurs, industry experts, and thought leaders. A few months ago, Terry decided to cr...",
         "publishDate": "2013-08-20",
         "duration": 2537,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/a74b686d-91d3-4123-b8ca-feed28033fd1/cpc07_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/007-sourcing-your-first-product-from-china-remotely.mp3",
         "topics": [
           "Feminism & Arts",
           "Economic Reform",
@@ -49835,7 +49886,7 @@
         "description": "Today’s guest David Lancashire came to China in 2003. He is fluent in Chinese Mandarin and he is the founder of PopUp Chinese, an online language education company that teaches Chinese. His company is completely bootstrapped and it’s profitable. T...",
         "publishDate": "2013-08-06",
         "duration": 2211,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/01aafa8d-9779-46a5-b809-2a15328fc135/cpc06_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/006-bootstrapping-a-profitable-online-language-education-business.mp3",
         "topics": [
           "Semiconductors & AI",
           "Economic Reform",
@@ -49851,7 +49902,7 @@
         "description": "Today’s guest Jamon Yerger has been in China since 2004. He is the COO of High Cappin, a company that specializes in apparel and accessories sourcing, including quality assurance, quality control, and project management . Today, we’re here to talk...",
         "publishDate": "2013-07-23",
         "duration": 2378,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/0dd2317c-2c32-4bc6-a99b-5759074e6384/cpc05_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/005-avoiding-sourcing-mistakes.mp3",
         "topics": [
           "Semiconductors & AI",
           "Economic Reform",
@@ -49866,7 +49917,7 @@
         "description": "Today’s guest Peter Keller is an entrepreneur with a great deal of experience in China sourcing for small and medium businesses. Peter is the founder of Fringe Sport, a company that specializes in CrossFit equipment and gear. Before founding Fring...",
         "publishDate": "2013-06-25",
         "duration": 2958,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/e574727b-1906-479a-b3d1-649fcf97d3b6/cpc03_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/003-managing-relationships-with-chinese-factories.mp3",
         "topics": [
           "Semiconductors & AI",
           "Daily Life",
@@ -49884,7 +49935,7 @@
         "description": "Today’s guest Michael Bellamy is a business owner, author, and a bona fide expert in China Sourcing, with over a decade of experience doing business in China. Michael is the author of the book “The Essential Reference Guide to China Sourcing” and ...",
         "publishDate": "2013-06-11",
         "duration": 2499,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/b188aba3-11b5-45a0-955f-131943c04f0d/cpc02_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/002-china-sourcing-essentials.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -49902,7 +49953,7 @@
         "description": "Today’s guest Michael Michelini left his job on Wall Street in 2007 and came to China. He’s currently the co-founder and CEO of Social Agent, an online tool that helps businesses leverage Chinese Social Media for sales. In this episode, we’ll find...",
         "publishDate": "2013-05-29",
         "duration": 1600,
-        "audioUrl": "https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/40081dc5-3f20-4767-a92c-ab963cd0221a/cpc01_tc.mp3?aid=rss_feed&feed=WeHw_1yx",
+        "audioUrl": "https://media.chinabusinesscast.com/episodes/001-profiting-from-chinese-social-media.mp3",
         "topics": [
           "Semiconductors & AI",
           "Feminism & Arts",
@@ -84557,6 +84608,23 @@
     ],
     "episodes": [
       {
+        "id": "sharp-china-ep-https---sharpchina-fm-member-episode-wang-yi-visits-south-ko",
+        "podcastId": "sharp-china",
+        "podcastTitle": "Sharp China with Bill Bishop",
+        "title": "Wang Yi Visits South Korea; Remembering Zhu Rongji; US-China Ahead of Xi’s Visit; How China Monitors Foreigners",
+        "description": "On today’s show Andrew and Bill with Wang Yi’s visit to South Korea this week, including the fortunate timing for the PRC in the wake of President Trump’s decision to scale back joint US-ROK exercises, PRC concerns around North Korea, and dynamics...",
+        "publishDate": "2026-08-20",
+        "duration": 3573,
+        "audioUrl": "https://sharpchina.fm/assets/sharpchina164-final.mp3?access_token=MSorAZNuXsdNR1taQBKjcF",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "sharp-china-ep-https---sharpchina-fm-member-episode-preview-a-memory-maker-",
         "podcastId": "sharp-china",
         "podcastTitle": "Sharp China with Bill Bishop",
@@ -96612,6 +96680,21 @@
     ],
     "episodes": [
       {
+        "id": "trivium-china-ep-buzzsprout-19677324",
+        "podcastId": "trivium-china",
+        "podcastTitle": "The Trivium China Podcast",
+        "title": "Ep 82 - Another grim month for the Chinese economy",
+        "description": "China’s July macro data just landed, and the title of our monthly macro note says it all: “A Grim Picture.”Consumption, investment, and property all deteriorated further last month – and the two props that supported the economy in the first half o...",
+        "publishDate": "2026-08-20",
+        "duration": 2262,
+        "audioUrl": "https://www.buzzsprout.com/2408047/episodes/19677324-ep-82-another-grim-month-for-the-chinese-economy.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Economic Reform"
+        ]
+      },
+      {
         "id": "trivium-china-ep-buzzsprout-19660164",
         "podcastId": "trivium-china",
         "podcastTitle": "The Trivium China Podcast",
@@ -98358,6 +98441,27 @@
     ],
     "episodes": [
       {
+        "id": "asia-insight-ep-nbrpodcasts-podbean-com-9b9b4cf9-89cd-3fa2-b0cd-428508bbc9d7",
+        "podcastId": "asia-insight",
+        "podcastTitle": "Asia Insight (NBR)",
+        "title": "Documenting China’s Borderlands – Episode 10: The Gravity of the Center - China’s Civilizational Aspirations in the Borderlands",
+        "description": "From the National Bureau of Asian Research, an Asia Insight miniseries exploring the geostrategic significance of China’s borderlands, led by Nadège Rolland, Distinguished Fellow for China Studies at NBR. Episode Ten: The Gravity of the Center - C...",
+        "publishDate": "2026-08-20",
+        "duration": 2144,
+        "audioUrl": "https://mcdn.podbean.com/mf/web/ixf5d78wznu2hqra/Borderlands-Episode_Ten_mixdown.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Ancient Trade Routes",
+          "History",
+          "Geopolitics & Politics",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "asia-insight-ep-nbrpodcasts-podbean-com-7332204c-56a3-32f4-ba3e-ae4933019363",
         "podcastId": "asia-insight",
         "podcastTitle": "Asia Insight (NBR)",
@@ -99728,6 +99832,19 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "roundtable-china-ep-1-2765686",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "A moment to pause",
+        "description": "No new episode of Round Table in your feed today. We're pausing briefly because we're cooking up something special behind the scenes, and we can't wait to share it with you soon! We'll be back on schedule tomorrow. In the meantime, feel free to re...",
+        "publishDate": "2026-08-20",
+        "duration": 56,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2608/1187207763174.mp3",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
       {
         "id": "roundtable-china-ep-1-2765677",
         "podcastId": "roundtable-china",
@@ -108075,6 +108192,100 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0820cite",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "US Declares Citizen Wrongfully Detained in China, Demands Release",
+        "description": "",
+        "publishDate": "2026-08-20",
+        "duration": 250,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0820/38e25435-1330-403c-87ab-4106f7f65093/audio.mp3?length=3019925&duration=250",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0820eve",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Evergrande Founder Sentenced to Life in Prison by Chinese Regime",
+        "description": "",
+        "publishDate": "2026-08-20",
+        "duration": 326,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0820/27e2300c-242e-4e8a-affb-2db847858fe4/audio.mp3?length=3938069&duration=326",
+        "topics": [
+          "Economic Reform",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0820eco",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Is China’s Long Slowdown a Structural Collapse?",
+        "description": "",
+        "publishDate": "2026-08-20",
+        "duration": 433,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0819/5892d8ab-a376-4d1c-bca9-686eb6a0beff/audio.mp3?length=5222837&duration=433",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0820san",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "US Sanctions Networks Based in China, Hong Kong, Belarus for Helping Iran Obtain Weapons",
+        "description": "",
+        "publishDate": "2026-08-20",
+        "duration": 293,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0611/69a90b6a-e10b-40ad-8f12-76501a1134ff/audio.mp3?length=3527712&duration=293",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0820tar",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Beyond Tariffs: CCP’s Transshipment Architecture Fueling Global Conflicts",
+        "description": "",
+        "publishDate": "2026-08-20",
+        "duration": 394,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0820/1cc99320-acd1-4fce-8579-39f353269a22/audio.mp3?length=4759157&duration=394",
+        "topics": [
+          "US-China Relations",
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg020",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 20 Jigong's Magic Power Turns Prime Minister's Household Upside Down ",
+        "description": "Playlist Hub",
+        "publishDate": "2026-08-20",
+        "duration": 1656,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg020.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-https---mp3mp4pdf-net-mgz-arrested2025-mp3",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Reported in 2025 4,803 Falun Gong Practitioners Arrested or Harassed for Their Faith",
+        "description": "",
+        "publishDate": "2026-08-20",
+        "duration": 3284,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/Arrested2025.mp3",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0819mh",
         "podcastId": "china-in-depth",
