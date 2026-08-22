@@ -16,6 +16,19 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-another-grim-month-for-the-c",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "Another Grim Month for the Chinese Economy",
+        "description": "Listen now (38 mins) | China&#8217;s July macro data just landed, and the title of our monthly macro note says it all: &#8220;A Grim Picture.&#8221;",
+        "publishDate": "2026-08-21",
+        "duration": 1800,
+        "audioUrl": "https://api.substack.com/feed/podcast/212094991/8c0e941ad9f441b3070d467b4d000f65.mp3",
+        "topics": [
+          "Economic Reform"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-talking-past-each-other-pall",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -12598,6 +12611,26 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "chinatalk-ep-7ccca248-99d5-11f1-a956-c328c6165867",
+        "podcastId": "chinatalk",
+        "podcastTitle": "ChinaTalk",
+        "title": "Lessons from the American Civil War",
+        "description": "Note: This episode was recorded in late 2024. Luckily, there haven't been any US Civil War updates since then, so the episode's content still holds up. Enjoy! During paternity leave, the new influx of dad energy compelled me to read close to 15 ti...",
+        "publishDate": "2026-08-21",
+        "duration": 5530,
+        "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL3680985174.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Economic Reform",
+          "History",
+          "Geopolitics & Politics",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "chinatalk-ep-b31ad282-9121-11f1-ba9e-b3285154d1a5",
         "podcastId": "chinatalk",
@@ -99832,6 +99865,22 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "roundtable-china-ep-1-2765689",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Master of none: why China is scrapping its titles",
+        "description": "For years, a shouted slogan at one of China's most popular restaurant chains made a single chef a household name. Then this summer, it disappeared overnight. Across industries, thousands of so-called masters are suddenly losing their status as new...",
+        "publishDate": "2026-08-21",
+        "duration": 3279,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2608/1087208876783.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "roundtable-china-ep-1-2765686",
         "podcastId": "roundtable-china",
