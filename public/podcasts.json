@@ -12654,6 +12654,26 @@
     ],
     "episodes": [
       {
+        "id": "chinatalk-ep-8a618968-9cd8-11f1-8a84-df8443ed8ad3",
+        "podcastId": "chinatalk",
+        "podcastTitle": "ChinaTalk",
+        "title": "How AI Becomes a Political Crisis",
+        "description": "The political economy of AI — things are getting weird, it seems. We have models on the loose, open weights being dropped from the heavenly temple, and data center protests fanning out across the land. There’s a lot of salience in a way that feels...",
+        "publishDate": "2026-08-24",
+        "duration": 4115,
+        "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL9800263923.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Geopolitics & Politics",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "chinatalk-ep-7ccca248-99d5-11f1-a956-c328c6165867",
         "podcastId": "chinatalk",
         "podcastTitle": "ChinaTalk",
@@ -43481,6 +43501,23 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "sr-kina-ep-rss-sr-se-pod-eid-2860597",
+        "podcastId": "sr-kina",
+        "podcastTitle": "Radiokorrespondenterna Kina",
+        "title": "Så hänger Kina kvar på USA:s bakgård",
+        "description": "Trump vill sparka ut Kina från Latinamerika och höjer tonläget. Men Kina behåller ett starkt fotfäste och handeln med flera länder har ökat. Lyssna på alla avsnitt i Sveriges Radios app. Med en ny nationell säkerhetsstrategi, den sk ”Donroe-doktri...",
+        "publishDate": "2026-08-24",
+        "duration": 1619,
+        "audioUrl": "https://static-cdn.sr.se/laddahem/podradio/2026/08/radiokorrespondenterna_kina_sa_hanger_kina_kvar_pa_usas_b_20260821_1641307879.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "sr-kina-ep-rss-sr-se-pod-eid-2857462",
         "podcastId": "sr-kina",
@@ -99908,6 +99945,39 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-2765710",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "The Soapbox: Are you a \"Lao Deng\" yet?",
+        "description": "A single word, a former boss, and a social media post that changed everything. What started as a personal grievance quickly turned into a legal fight, but the real story is not about the word itself. It is about who gets to use it, who takes offen...",
+        "publishDate": "2026-08-24",
+        "duration": 1292,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2608/1087562756220.mp3",
+        "topics": [
+          "Dynastic History",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765707",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "The story of your ice cup",
+        "description": "The ice cup market in China is heating up in more ways than one. As consumers develop a taste for clearer, slower melting ice in their iced coffee and other chilled beverages, a wave of new players has rushed in to meet the demand. At the same tim...",
+        "publishDate": "2026-08-24",
+        "duration": 1838,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2608/1087562668784.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2765689",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -108283,6 +108353,151 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0824ai",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Fetterman Warns ‘Overreaction’ Against AI and Data Centers Benefits China",
+        "description": "",
+        "publishDate": "2026-08-24",
+        "duration": 610,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0824/025717a5-8935-4ad9-a241-283e31c89369/audio.mp3?length=7347989&duration=610",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0824abs",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Record Absences at China’s Top Anti-Corruption Body Amid Military Shake-Up",
+        "description": "",
+        "publishDate": "2026-08-24",
+        "duration": 298,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0824/2588407b-3ff8-4231-9c7d-715a4af46525/audio.mp3?length=3602260&duration=298",
+        "topics": [
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0824tie",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Bessent Unveils New Round of Iran Sanctions, Warns China on Iran Ties",
+        "description": "",
+        "publishDate": "2026-08-24",
+        "duration": 383,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0824/4a1f79b5-db94-45ad-96d9-1cf4ef40fdd0/audio.mp3?length=4625236&duration=383",
+        "topics": [
+          "US-China Relations"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0824flg",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Brooklyn Parade Spotlights Communist China’s Attack on Faith, Transnational Repression on US Soil",
+        "description": "",
+        "publishDate": "2026-08-24",
+        "duration": 331,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0824/926e7766-cd00-447c-9bf0-887bbcb0feeb/audio.mp3?length=3995957&duration=331",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg023",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 23 Upon Having Rescued the Monks and Temple Jigong Humiliated Qin at Every Challenge",
+        "description": "Playlist Hub",
+        "publishDate": "2026-08-24",
+        "duration": 2262,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg023.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0823aut",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Tesla, Other Automakers Recall 4.3 Million Vehicles in China",
+        "description": "",
+        "publishDate": "2026-08-23",
+        "duration": 211,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0822/63808475-9ef9-4a1d-952d-153b8e0c3cdd/audio.mp3?length=2562581&duration=211",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0823eve",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Evergrande Founder Gets Life but Homebuyers, Suppliers Bear the Costs of China’s Property Collapse",
+        "description": "",
+        "publishDate": "2026-08-23",
+        "duration": 537,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0822/f53c0b86-5570-4d04-ab4e-5de6c4176944/audio.mp3?length=6473333&duration=537",
+        "topics": [
+          "Economic Reform",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0823rev",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s Sad Economic Review",
+        "description": "",
+        "publishDate": "2026-08-23",
+        "duration": 286,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0822/0a05c518-c9c3-4cf2-9ca3-7211dc256476/audio.mp3?length=3453653&duration=286",
+        "topics": [
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0823css",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "CSIS Official Says China Tops Russia as ‘Primary Threat’ in the Arctic",
+        "description": "",
+        "publishDate": "2026-08-23",
+        "duration": 318,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0213/029857c3-219f-4aaa-80a0-f59c307c37e6/audio.mp3?length=3817728&duration=318",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0823arc",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "The Arctic China Sea?",
+        "description": "",
+        "publishDate": "2026-08-23",
+        "duration": 569,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0822/a82dbbdd-7a08-4cbe-850e-de8e496b9610/audio.mp3?length=6853205&duration=569",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg022",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 22 Prime Minister Qin Realizes Only Jigong, His Prisoner, May Cure His Son's Weird Illness",
+        "description": "Playlist Hub",
+        "publishDate": "2026-08-23",
+        "duration": 2103,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg022.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-in-depth-ep-https---mp3mp4pdf-net-feed-",
         "podcastId": "china-in-depth",
