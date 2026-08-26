@@ -90108,6 +90108,23 @@
     ],
     "episodes": [
       {
+        "id": "made-in-china-de-ep-buzzsprout-19674107",
+        "podcastId": "made-in-china-de",
+        "podcastTitle": "Made in China (German)",
+        "title": "#224 – Zwischen China und Deutschland: Was Unternehmer über Märkte, Beziehungen und Geschäftschancen lernen",
+        "description": "Heute drehen wir den Spieß um: Nach über 200 Folgen sitzen Thomas und Damian selbst auf der anderen Seite des Mikrofons. Die Fragen stellt Heiko Lässig, Vorstandsmitglied der German Chamber of Commerce China East.Thomas und Damian erzählen, wie au...",
+        "publishDate": "2026-08-25",
+        "duration": 3687,
+        "audioUrl": "https://www.buzzsprout.com/1869386/episodes/19674107-224-zwischen-china-und-deutschland-was-unternehmer-uber-markte-beziehungen-und-geschaftschancen-lernen.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "made-in-china-de-ep-buzzsprout-19666506",
         "podcastId": "made-in-china-de",
         "podcastTitle": "Made in China (German)",
@@ -99945,6 +99962,35 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-2765722",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Is reading dying? Spoiler: it's complicated",
+        "description": "The obituaries for reading are written every week. Young people scroll past books, grades dip, professors mourn a lost age of deep thought. But the data refuses to cooperate with the gloom. In some corners of the world, reading is surging. Maybe t...",
+        "publishDate": "2026-08-25",
+        "duration": 1093,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2608/1087646497632.mp3",
+        "topics": [
+          "Dynastic History",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765719",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "The second World Humanoid Robot Games",
+        "description": "At the World Humanoid Robot Games, machines run, dance, fight, and even play football. The spectacle is futuristic, but watching them compete is as awkward as it is impressive. For every graceful motion, there is a stumble, a missed grip, or a kic...",
+        "publishDate": "2026-08-25",
+        "duration": 2070,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2608/1087646438394.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Tech & Business"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2765710",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -108353,6 +108399,127 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0825gra",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s College Grads Struggle to Find Jobs as Youth Unemployment Rate Hits 11-Month High",
+        "description": "",
+        "publishDate": "2026-08-25",
+        "duration": 499,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0825/7e062564-cc64-4a3c-aae2-7ef728da0556/audio.mp3?length=6019445&duration=500",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0825ira",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chinese Regime Says Iran Cooperation Should Not Be Disrupted",
+        "description": "",
+        "publishDate": "2026-08-25",
+        "duration": 223,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0825/dfcf2abb-8ec8-4a9b-9206-bd501f79f438/audio.mp3?length=2705429&duration=223",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0825cbp",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "CBP Intercepts Counterfeit Jewelry From China Valued at More Than $3 Million",
+        "description": "",
+        "publishDate": "2026-08-25",
+        "duration": 272,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0825/7dd000db-0460-4522-9674-ce76f702fce2/audio.mp3?length=3287477&duration=272",
+        "topics": [
+          "Dynastic History"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0825bck",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "The Back Door: China, USMCA, and the Fracture in North American Trade",
+        "description": "",
+        "publishDate": "2026-08-25",
+        "duration": 577,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0824/948f2718-113f-4d03-becb-77ce7fec5a6a/audio.mp3?length=6951412&duration=577",
+        "topics": [
+          "Economic Reform"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0825exi",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China Expands Exit Controls, Targeting Tech Workers and Overseas Travelers",
+        "description": "",
+        "publishDate": "2026-08-25",
+        "duration": 340,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0805/95a674ce-365b-494e-8c3c-1b29421d141f/audio.mp3?length=4081248&duration=340",
+        "topics": [
+          "Semiconductors & AI",
+          "Daily Life",
+          "Tech & Business"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0825fly",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Going to China or Hong Kong? The Questions You Should Ask Before You Fly",
+        "description": "",
+        "publishDate": "2026-08-25",
+        "duration": 632,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0825/799cd3db-747c-426f-8833-d50ff7af17e1/audio.mp3?length=7615540&duration=632",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0825zrj",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "The Economic Tsar Who Built Modern China—and Whose Reforms the CCP Is Dismantling",
+        "description": "",
+        "publishDate": "2026-08-25",
+        "duration": 376,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0825/0ce86c88-1d0f-48fe-a959-ce70fc2292dd/audio.mp3?length=4536245&duration=376",
+        "topics": [
+          "Economic Reform",
+          "Geopolitics & Politics",
+          "Tech & Business"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0825ref",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "The False Refuge: Why Turning to China Is No Answer for Disillusioned Western Allies",
+        "description": "",
+        "publishDate": "2026-08-25",
+        "duration": 352,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0825/023a8097-c7df-4b63-996b-aaf9c9d14d1c/audio.mp3?length=4252565&duration=352",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg024",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 24 Now the Prime Minister Expresses Utter Respect for Jigong",
+        "description": "Playlist Hub",
+        "publishDate": "2026-08-25",
+        "duration": 2321,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg024.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0824ai",
         "podcastId": "china-in-depth",
