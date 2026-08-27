@@ -5320,6 +5320,23 @@
     ],
     "episodes": [
       {
+        "id": "chp-ep-414f2cad-ccd2-4c30-baac-fc6a4470eb6e",
+        "podcastId": "chp",
+        "podcastTitle": "The China History Podcast",
+        "title": "A Concise History of China-Pangu to Puyi - Part 1",
+        "description": "Sorry to everyone for making you wait this long. Welcome to the inaugural episode of this series, which will offer you a concise overview of Chinese history from mythical times to the time of the last emperor of the last imperial dynasty.We’ll sta...",
+        "publishDate": "2026-08-26",
+        "duration": 7795,
+        "audioUrl": "https://episodes.captivate.fm/episode/414f2cad-ccd2-4c30-baac-fc6a4470eb6e.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "History",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "chp-ep-16171994-fefa-4374-92f6-b045767d95f8",
         "podcastId": "chp",
         "podcastTitle": "The China History Podcast",
@@ -33491,6 +33508,24 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "china-power-ep-e2c8c3d2-a09d-11f1-8560-07c8125d02f7",
+        "podcastId": "china-power",
+        "podcastTitle": "China Power",
+        "title": "Part II: Biotechnology in U.S.-China Competition: A Conversation with Caitlin Frazer ",
+        "description": "In this second episode of a two-part series on China and biotechnology, Caitlin Frazer joins the ChinaPower Podcast to take a deeper dive into recommendations for how the United States can maintain its leadership in biotechnology as China expands ...",
+        "publishDate": "2026-08-27",
+        "duration": 2968,
+        "audioUrl": "https://traffic.megaphone.fm/CSIS8994614887.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Feminism & Arts",
+          "Geopolitics & Politics",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-power-ep-e7000126-9725-11f1-999e-079bf8b19da7",
         "podcastId": "china-power",
@@ -84720,6 +84755,24 @@
     ],
     "episodes": [
       {
+        "id": "sharp-china-ep-https---sharpchina-fm-member-episode-preview-five-us-china-a",
+        "podcastId": "sharp-china",
+        "podcastTitle": "Sharp China with Bill Bishop",
+        "title": "(Preview) Five US-China (and Russia) Questions; Cabbage with Formaldehyde; The Continuing Tax Crackdown; Unitree Stock Down 45%",
+        "description": "On today’s show Andrew and Bill begin with a series of questions on the US and China, including a look at the likely toothless threats implied by Trump’s “Economic D-Day” agenda, China’s role or lack thereof in a breakdown between the US and Canad...",
+        "publishDate": "2026-08-27",
+        "duration": 674,
+        "audioUrl": "https://sharpchina.fm/assets/sharpchina165-preview.mp3?access_token=MSorAZNuXsdNR1taQBKjcF",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "sharp-china-ep-https---sharpchina-fm-member-episode-wang-yi-visits-south-ko",
         "podcastId": "sharp-china",
         "podcastTitle": "Sharp China with Bill Bishop",
@@ -99962,6 +100015,53 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-2765744",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Do you \"pre-prepare\" your kids for school?",
+        "description": "A two-month summer break sounds like freedom. But for many children in China, it comes with a new set of assignments: previewing lessons, completing workbooks, and preparing for the semester ahead. Parents see it as a way to get a head start, whil...",
+        "publishDate": "2026-08-27",
+        "duration": 1317,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2608/1087818049621.mp3",
+        "topics": [
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765741",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "One-person companies, small-town dreams",
+        "description": "Solo founders are leaving China's biggest cities for county towns, where the cost of living is a fraction of what they paid. AI has made location less relevant, and smaller counties are wroking to attract these one-person companies with real incen...",
+        "publishDate": "2026-08-27",
+        "duration": 1823,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2608/1087817999359.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-02765731",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "IN VIDEO: Why China is scrapping its titles",
+        "description": "For years, a shouted slogan at one of China's most popular restaurant chains made a single chef a household name. Then this summer, it disappeared overnight. Across industries, thousands of so-called masters are suddenly losing their status as new...",
+        "publishDate": "2026-08-26",
+        "duration": 3672,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp4/radio-res.cgtn.com/ueditor/audio/2608/1087716656335.mp4",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2765722",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -108399,6 +108499,100 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0826gx",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Record Flooding Leaves Guangxi Residents Stranded Without Food, Water, Power",
+        "description": "",
+        "publishDate": "2026-08-26",
+        "duration": 303,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0826/e1874024-6d4f-422b-a47b-a0bdcc610506/audio.mp3?length=3666485&duration=304",
+        "topics": [
+          "Daily Life"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0826ch9",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "9 Charts Show How China’s Economy Is Weakening",
+        "description": "",
+        "publishDate": "2026-08-26",
+        "duration": 1511,
+        "audioUrl": "https://podcasts.captivate.fm/media/d8438772-c33a-4985-a7f9-f81e6b67fb78/cw-70.mp3",
+        "topics": [
+          "Feminism & Arts",
+          "Economic Reform",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0826hac",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "US Disables Chinese State-Sponsored Hacking Platforms",
+        "description": "",
+        "publishDate": "2026-08-26",
+        "duration": 360,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0826/8a536fb6-284e-42d8-ba6c-909dd5167cc0/audio.mp3?length=4341845&duration=360",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0826phi",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s Cyber Offensive Threatens Philippine Sovereignty in South China Sea: Analysts",
+        "description": "",
+        "publishDate": "2026-08-26",
+        "duration": 391,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0225/9482b18d-d941-4557-aa2a-5553052bc975/audio.mp3?length=4693824&duration=391",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0826tel",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s Deep Reach Into the US Telecom Network",
+        "description": "",
+        "publishDate": "2026-08-26",
+        "duration": 421,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0826/e07f2b06-2697-4443-b943-9469cec1bc4a/audio.mp3?length=5077685&duration=421",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0826mh",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Falun Dafa News from Around the World – August 26, 2026 ",
+        "description": "",
+        "publishDate": "2026-08-26",
+        "duration": 1518,
+        "audioUrl": "https://en.minghui.org/u/files/podcasts/emh-podcast/EMHPodcast_2158-News.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg025",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 25 Jigong and Friends Go to Help the Needy in a Brothel",
+        "description": "Playlist Hub",
+        "publishDate": "2026-08-26",
+        "duration": 2266,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg025.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0825gra",
         "podcastId": "china-in-depth",
