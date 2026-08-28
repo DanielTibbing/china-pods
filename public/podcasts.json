@@ -1228,6 +1228,24 @@
     ],
     "episodes": [
       {
+        "id": "little-red-podcast-ep-475ff734-0717-40fe-9156-b4b40024835e",
+        "podcastId": "little-red-podcast",
+        "podcastTitle": "The Little Red Podcast",
+        "title": "Money (That’s What I Want): China’s New Investment Regime",
+        "description": "In our fourth episode of the China Rules series, we look at the State Council&rsquo;s brand-new rules on overseas investment. These formalize central control over outbound investment, addressing the Party&rsquo;s concerns about sensitive technolog...",
+        "publishDate": "2026-08-28",
+        "duration": 2345,
+        "audioUrl": "https://traffic.omny.fm/d/clips/a7b4f8fe-59d9-4afc-a79a-a90101378abf/bf2c1d80-3656-4449-9d00-a903004e8f84/475ff734-0717-40fe-9156-b4b40024835e/audio.mp3?utm_source=Podcast&in_playlist=efbff746-e7c1-463a-9d80-a903004e8f8f",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "little-red-podcast-ep-6ebcf16b-a6a8-46dc-88f1-b487006ad289",
         "podcastId": "little-red-podcast",
         "podcastTitle": "The Little Red Podcast",
@@ -30297,6 +30315,24 @@
       "Tech & Business"
     ],
     "episodes": [
+      {
+        "id": "china-global-south-ep-0c20f91b-eb77-46be-9a95-b579d6509d1c",
+        "podcastId": "china-global-south",
+        "podcastTitle": "The China-Global South Podcast",
+        "title": "How China Is Viewed Around the World",
+        "description": "Public opinion toward China is improving across much of the world, especially in emerging economies across Africa, Latin America, and parts of Asia. At the same time, perceptions of the United States have weakened, particularly around its reliabil...",
+        "publishDate": "2026-08-28",
+        "duration": 2266,
+        "audioUrl": "https://traffic.libsyn.com/secure/ea0f0fdd-2944-4ff3-8a00-704e8c67d58b/CGSP_-_Laura_Silver.mp3?dest-id=4287628",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-global-south-ep-7e8dee58-b4aa-4c47-a8f1-bb842dde574b",
         "podcastId": "china-global-south",
@@ -79713,6 +79749,21 @@
     ],
     "episodes": [
       {
+        "id": "chinese-literature-podcast-ep-9f7d1cb4-343d-4901-b712-53d42ae15002",
+        "podcastId": "chinese-literature-podcast",
+        "podcastTitle": "The Chinese Literature Podcast",
+        "title": "Taiwan Travelogue - Addendum",
+        "description": "In May, I did a podcast on Taiwan Travelogue by Yang Shuangzi. I screwed something up. In this episode, I explain what I got wrong and why.",
+        "publishDate": "2026-08-27",
+        "duration": 579,
+        "audioUrl": "https://traffic.libsyn.com/secure/chineseliteraturepodcast/Chinese_Literature_Podcast_-_Yang_Shuangzi_-_Taiwan_Travelogue_-_Addendum.mp3?dest-id=368338",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Daily Life"
+        ]
+      },
+      {
         "id": "chinese-literature-podcast-ep-2f898439-22a1-47e9-82cb-f2632c682947",
         "podcastId": "chinese-literature-podcast",
         "podcastTitle": "The Chinese Literature Podcast",
@@ -100015,6 +100066,37 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-2765756",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Can culture keep you young?",
+        "description": "A new study suggests that regular museum visits and theater outings could slow the biological aging process. The idea is enticing because it requires no prescriptions and no gym time. But researchers are still working to pinpoint the true cause. I...",
+        "publishDate": "2026-08-28",
+        "duration": 1073,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2608/1087902246914.mp3",
+        "topics": [
+          "Dynastic History",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765753",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Why does everyone suddenly want to go to trade school?",
+        "description": "China's top Gaokao scorers are now choosing vocational undergraduate programs over elite universities, drawn by higher starting salaries and job security in an automated economy. The surge in popularity is a clear sign of changing perceptions, but...",
+        "publishDate": "2026-08-28",
+        "duration": 2045,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2608/1087902131916.mp3",
+        "topics": [
+          "Dynastic History",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2765744",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -108499,6 +108581,59 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0827tw",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "The Million-Dollar Question: Will Taiwan Fight If Mainland China Invades?\n",
+        "description": "",
+        "publishDate": "2026-08-27",
+        "duration": 2204,
+        "audioUrl": "https://podcasts.captivate.fm/media/85330540-396f-4b79-b62a-ce2962549164/08-CW-75-converted.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0827usca",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China Is Turning the Canada–US Trade Dispute Into a Strategy to Divide North America, Asia Scholar Says",
+        "description": "",
+        "publishDate": "2026-08-27",
+        "duration": 433,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0828/52ab05a9-b5ab-47da-91e9-2910ff2ddc4b/audio.mp3?length=5217365&duration=433",
+        "topics": [
+          "Economic Reform"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0827spx",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China Exploits SpaceX Moon Crash to Advance Space Warfare",
+        "description": "",
+        "publishDate": "2026-08-27",
+        "duration": 482,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0827/b40ceb92-e855-484b-b9ba-5449f5d221ca/audio.mp3?length=5806901&duration=482",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg026",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 26 A Woman Has Been Saved, Now a Man Seems Need Help",
+        "description": "Playlist Hub",
+        "publishDate": "2026-08-27",
+        "duration": 1504,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg026.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0826gx",
         "podcastId": "china-in-depth",
