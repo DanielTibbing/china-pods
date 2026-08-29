@@ -16,6 +16,33 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-this-week-in-chinas-history-",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "This Week in China’s History: The Battle of Lake Poyang",
+        "description": "August 30, 1363",
+        "publishDate": "2026-08-29",
+        "duration": 1800,
+        "audioUrl": "https://substackcdn.com/image/fetch/$s_!z4LI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F568733ef-0409-4143-91f0-366e3b5669ee_2080x1132.png",
+        "topics": [
+          "History"
+        ]
+      },
+      {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-trivium-china-weekly-recap-w",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "Trivium China Weekly Recap | Washington’s China Policy: All Bluster, No Substance \n",
+        "description": "More bark than bite, more rattle than snake, more smoke than fire &#8211; pick your idiom of choice, but what&#8217;s clear is that Washington has spent the past month making a great deal of noise about China while doing very little about it.",
+        "publishDate": "2026-08-29",
+        "duration": 1800,
+        "audioUrl": "https://substack-post-media.s3.amazonaws.com/public/images/84e83c73-75d6-401a-81f0-31ed3c38aae2_400x400.webp",
+        "topics": [
+          "US-China Relations",
+          "Dynastic History"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-trivium-china-weekly-recap-b",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -652,19 +679,6 @@
         "topics": [
           "Economic Reform",
           "Tech & Business"
-        ]
-      },
-      {
-        "id": "sinica-ep-https---www-sinicapodcast-com-p-this-week-in-chinas-history-",
-        "podcastId": "sinica",
-        "podcastTitle": "The Sinica Podcast",
-        "title": "This Week in China's History: The Tianjin Massacre",
-        "description": "June 21, 1870",
-        "publishDate": "2026-06-21",
-        "duration": 1800,
-        "audioUrl": "https://substackcdn.com/image/fetch/$s_!QUh9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F562d4487-40e1-41bd-81b5-f23b33f32f34_400x310.jpeg",
-        "topics": [
-          "History"
         ]
       },
       {
@@ -96913,6 +96927,22 @@
     ],
     "episodes": [
       {
+        "id": "trivium-china-ep-buzzsprout-19717419",
+        "podcastId": "trivium-china",
+        "podcastTitle": "The Trivium China Podcast",
+        "title": "Ep 83 - Beijing&#39;s new directive to its tech firms: behave abroad",
+        "description": "Chinese tech companies keep getting fined and blocked overseas – sometimes unfairly, and sometimes because they’re behaving exactly like they do at home.Beijing just released a plan to fix both problems at once.Our take: “China’s nefarious plan to...",
+        "publishDate": "2026-08-28",
+        "duration": 1666,
+        "audioUrl": "https://www.buzzsprout.com/2408047/episodes/19717419-ep-83-beijing-s-new-directive-to-its-tech-firms-behave-abroad.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Tech & Business"
+        ]
+      },
+      {
         "id": "trivium-china-ep-buzzsprout-19677324",
         "podcastId": "trivium-china",
         "podcastTitle": "The Trivium China Podcast",
@@ -108581,6 +108611,72 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0828p4",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China Ousts 4 Senior Military Commanders in Widening Purges",
+        "description": "",
+        "publishDate": "2026-08-28",
+        "duration": 461,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0828/48d90d82-5a3f-49b9-b03b-701aba5c8ec2/audio.mp3?length=5560373&duration=461",
+        "topics": [
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0828chx",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chexit: The Global Asset Managers Exiting China",
+        "description": "",
+        "publishDate": "2026-08-28",
+        "duration": 433,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0828/6fb5f85b-a7ec-42f8-b5ac-071cb4eea208/audio.mp3?length=5218517&duration=433",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0828dbt",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Debt Movements Reveal Much About China’s Economic Imbalances",
+        "description": "",
+        "publishDate": "2026-08-28",
+        "duration": 245,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0828/bf7d45d9-917e-4805-ab0d-6d20a5f65c0a/audio.mp3?length=2964917&duration=245",
+        "topics": [
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0828war",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "What Kind of War Is China Preparing For?",
+        "description": "",
+        "publishDate": "2026-08-28",
+        "duration": 517,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0828/14dadb96-d1c4-4429-8ac9-d6cc25726517/audio.mp3?length=6228245&duration=517",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg027",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 27 Jigong Leads a Team Rushing Distance to Rescue a Scholar Called Gao Guotai",
+        "description": "Playlist Hub",
+        "publishDate": "2026-08-28",
+        "duration": 2177,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg027.mp3",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0827tw",
         "podcastId": "china-in-depth",
