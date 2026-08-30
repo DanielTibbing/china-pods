@@ -12703,6 +12703,24 @@
     ],
     "episodes": [
       {
+        "id": "chinatalk-ep-257da0ba-a334-11f1-8c3b-0feea6ade97e",
+        "podcastId": "chinatalk",
+        "podcastTitle": "ChinaTalk",
+        "title": "WarTalk: USN Readiness Reckoning, Steampunk Navy, and AI Cyberwar with Shashank of the Economist",
+        "description": "The USS Abraham Lincoln is coming home after a deployment that stretched past 240 days, and the bill is about to come due: mechanical failures, rations down to the emergency stores, 20,000 unfilled billets at sea, and a maintenance backlog funneli...",
+        "publishDate": "2026-08-29",
+        "duration": 3845,
+        "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL1816749396.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Geopolitics & Politics",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "chinatalk-ep-8a618968-9cd8-11f1-8a84-df8443ed8ad3",
         "podcastId": "chinatalk",
         "podcastTitle": "ChinaTalk",
