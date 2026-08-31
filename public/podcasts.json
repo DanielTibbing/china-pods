@@ -16,6 +16,19 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-one-long-dream-phrase-of-the",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "\"One long dream\" — Phrase of the Week",
+        "description": "An awakening from a life which was never real",
+        "publishDate": "2026-08-30",
+        "duration": 1800,
+        "audioUrl": "https://substackcdn.com/image/fetch/$s_!wqzL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fef0a0438-ba07-4374-acce-20d64b03b174_2000x1200.jpeg",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-this-week-in-chinas-history-",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -43604,6 +43617,22 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "sr-kina-ep-rss-sr-se-pod-eid-2863994",
+        "podcastId": "sr-kina",
+        "podcastTitle": "Radiokorrespondenterna Kina",
+        "title": "Polarskeppen som stärker Kina i Arktis",
+        "description": "Med den så kallade polarsidenvägen vill Kina stärka sin position inom världshandeln och säkra en strategisk rutt till Europa. Nu går trafiken tätare. Lyssna på alla avsnitt i Sveriges Radios app. Ett varmare klimat öppnar upp för en ny kinesisk ha...",
+        "publishDate": "2026-08-31",
+        "duration": 1619,
+        "audioUrl": "https://static-cdn.sr.se/laddahem/podradio/2026/08/radiokorrespondenterna_kina_polarskeppen_som_starker_kina_20260828_1503551758.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "sr-kina-ep-rss-sr-se-pod-eid-2860597",
         "podcastId": "sr-kina",
@@ -108629,6 +108658,98 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0830x",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "X Uncovers 200,000 Chinese Bot Accounts as State-Linked Influence Networks Persist",
+        "description": "",
+        "publishDate": "2026-08-30",
+        "duration": 475,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0830/2c826841-fdff-460c-9429-7a235f3028c5/audio.mp3?length=5721365&duration=475",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0830che",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chinese Chemicals Entered US, Went to Mexico, and Came Back as Fentanyl",
+        "description": "",
+        "publishDate": "2026-08-30",
+        "duration": 405,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0830/0e2de1c1-e9d8-44d6-ab20-bac624939e4f/audio.mp3?length=4882421&duration=405",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0830ca",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China Factor Looms Over Collapse of US–Canada Trade Talks",
+        "description": "",
+        "publishDate": "2026-08-30",
+        "duration": 634,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0829/63c32732-1990-444c-947f-0b342751e758/audio.mp3?length=7639157&duration=634",
+        "topics": [
+          "Economic Reform"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0830tw",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Palau Pushes Back Against China as Taiwan Returns to Pacific Forum",
+        "description": "",
+        "publishDate": "2026-08-30",
+        "duration": 365,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0830/35076932-eaa1-4a11-81d0-c279d430776c/audio.mp3?length=4409813&duration=365",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0830cyb",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Cyber Group Finds Surveillance Backdoors in Routers Sold in US",
+        "description": "",
+        "publishDate": "2026-08-30",
+        "duration": 464,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0830/7fc1a4a7-bdc5-4707-86b3-e8fbd43c882e/audio.mp3?length=5598965&duration=464",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0830mis",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "US Says 85 Americans Are Missing in Tibet–Nepal Flood",
+        "description": "",
+        "publishDate": "2026-08-30",
+        "duration": 396,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0830/2d645875-28b9-42e4-9e94-eb1d379afda4/audio.mp3?length=4779029&duration=396",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg028",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 28 The Destitute Scholar, Gao Guotai, Is in a Deep Trouble",
+        "description": "Playlist Hub",
+        "publishDate": "2026-08-30",
+        "duration": 1771,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg028.mp3",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0828p4",
         "podcastId": "china-in-depth",
