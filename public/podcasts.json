@@ -1265,7 +1265,6 @@
         "audioUrl": "https://traffic.omny.fm/d/clips/a7b4f8fe-59d9-4afc-a79a-a90101378abf/bf2c1d80-3656-4449-9d00-a903004e8f84/475ff734-0717-40fe-9156-b4b40024835e/audio.mp3?utm_source=Podcast&in_playlist=efbff746-e7c1-463a-9d80-a903004e8f8f",
         "topics": [
           "Semiconductors & AI",
-          "Dynastic History",
           "Daily Life",
           "Feminism & Arts",
           "Tech & Business",
@@ -100143,6 +100142,34 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-2765777",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "China Finds: how a compass shapes a culture",
+        "description": "In Chinese, the cardinal directions are woven into everyday language in ways that often go unnoticed. Ordinary expressions carry traces of an older worldview, one that assigned meaning to every point on the horizon. These are not random quirks, bu...",
+        "publishDate": "2026-08-31",
+        "duration": 1476,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2608/1088167749995.mp3",
+        "topics": [
+          "Dynastic History",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765774",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "AI for everyone, one class at a time",
+        "description": "A new divide is emerging in China between those who know how to use AI and those who don't. Office workers are adapting quickly, but what about the street vendor, the retiree, or someone who's never touched a computer? The answer comes from an une...",
+        "publishDate": "2026-08-31",
+        "duration": 1669,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2608/1088167664546.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2765756",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -108658,6 +108685,84 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0831bar",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "G20 Countries Should Consider More Trade Barriers on China, Says Bessent",
+        "description": "",
+        "publishDate": "2026-08-31",
+        "duration": 233,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0831/b7606257-60d3-4bd2-9ac0-67cd6e36712c/audio.mp3?length=2819189&duration=233",
+        "topics": [
+          "Economic Reform"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0831flg",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chinese Scientists Flagged Glacial Flood Danger One Year Before Nepal Catastrophe",
+        "description": "",
+        "publishDate": "2026-08-31",
+        "duration": 452,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0831/8320071f-f672-43fc-b2f9-285d3be6c1aa/audio.mp3?length=5447765&duration=452",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0831nos",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chinese Pressure May Be Behind Pacific Leaders’ No-shows at Key Summit, Experts Say",
+        "description": "",
+        "publishDate": "2026-08-31",
+        "duration": 425,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0831/af6db589-7211-4625-af6f-49a6707ca6f6/audio.mp3?length=5125781&duration=425",
+        "topics": [
+          "US-China Relations"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0831rob",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s Humanoid Robot Companies Face Reality Check",
+        "description": "",
+        "publishDate": "2026-08-31",
+        "duration": 343,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0831/86fc864c-151d-4e70-9789-060865fe4664/audio.mp3?length=4140245&duration=343",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0831bed",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Communist China Has Its Eyes on Your Hospital Bed",
+        "description": "",
+        "publishDate": "2026-08-31",
+        "duration": 261,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0831/1a3824e5-554f-4338-b605-b9f6465303e4/audio.mp3?length=3049013&duration=252",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg029",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 29 Gao Guotai Is Deemed a Criminal Bandit Leader by the Court",
+        "description": "Playlist Hub",
+        "publishDate": "2026-08-31",
+        "duration": 1615,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg029.mp3",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0830x",
         "podcastId": "china-in-depth",
