@@ -16,6 +16,20 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-how-china-is-viewed-around-t",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "How China Is Viewed Around the World ",
+        "description": "Public opinion toward China is improving across much of the world, especially in emerging economies across Africa, Latin America, and parts of Asia.",
+        "publishDate": "2026-09-01",
+        "duration": 1800,
+        "audioUrl": "https://api.substack.com/feed/podcast/213680382/88b77bf174f30620c6ced5ddf654c22c.mp3",
+        "topics": [
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-one-long-dream-phrase-of-the",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -79152,6 +79166,23 @@
     ],
     "episodes": [
       {
+        "id": "china-books-podcast-ep-buzzsprout-19731707",
+        "podcastId": "china-books-podcast",
+        "podcastTitle": "China Books Podcast",
+        "title": "Food Writing with Clarissa Wei ",
+        "description": "The author of a new book of postpartum recovery recipes tells us what to eat while “sitting the month,” and how Taiwanese food is distinct from Chinese cuisine.The China Books Podcast is a companion of China Books Review, a project of Asia Society...",
+        "publishDate": "2026-09-01",
+        "duration": 2207,
+        "audioUrl": "https://www.buzzsprout.com/2252666/episodes/19731707-food-writing-with-clarissa-wei.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Daily Life",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "china-books-podcast-ep-buzzsprout-19459168",
         "podcastId": "china-books-podcast",
         "podcastTitle": "China Books Podcast",
@@ -88271,6 +88302,20 @@
     ],
     "episodes": [
       {
+        "id": "asia-chessboard-ep-efa1df60-a559-11f1-b16d-8b8a24385725",
+        "podcastId": "asia-chessboard",
+        "podcastTitle": "The Asia Chessboard",
+        "title": "Asia in the New Nuclear Age",
+        "description": "Mike is joined by Professor Vipin Narang, the Frank Stanton Professor of Nuclear Security and Political Science and inaugural director of MIT SSP’s Center for Nuclear Security Policy (CNSP). From March 2022 to August 2024, he served as Principal D...",
+        "publishDate": "2026-09-01",
+        "duration": 3372,
+        "audioUrl": "https://traffic.megaphone.fm/CSIS5427303025.mp3",
+        "topics": [
+          "Geopolitics & Politics",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "asia-chessboard-ep-523f3208-9c09-11f1-8475-7777959df3bc",
         "podcastId": "asia-chessboard",
         "podcastTitle": "The Asia Chessboard",
@@ -90272,17 +90317,34 @@
     ],
     "episodes": [
       {
-        "id": "made-in-china-de-ep-buzzsprout-19674107",
+        "id": "made-in-china-de-ep-buzzsprout-19674159",
         "podcastId": "made-in-china-de",
         "podcastTitle": "Made in China (German)",
-        "title": "#224 – Zwischen China und Deutschland: Was Unternehmer über Märkte, Beziehungen und Geschäftschancen lernen",
-        "description": "Heute drehen wir den Spieß um: Nach über 200 Folgen sitzen Thomas und Damian selbst auf der anderen Seite des Mikrofons. Die Fragen stellt Heiko Lässig, Vorstandsmitglied der German Chamber of Commerce China East.Thomas und Damian erzählen, wie au...",
-        "publishDate": "2026-08-25",
-        "duration": 3687,
-        "audioUrl": "https://www.buzzsprout.com/1869386/episodes/19674107-224-zwischen-china-und-deutschland-was-unternehmer-uber-markte-beziehungen-und-geschaftschancen-lernen.mp3",
+        "title": "#225 – Vom Importeur zur eigenen China-Gesellschaft – mit LIQUI MOLY Geschäftsführer Fabian Wedekind",
+        "description": "Heute geht es um eine Folge, in der Fabian Wedekind zeigt, warum LIQUI MOLY sein China-Geschäft nach fast 20 Jahren mit einem lokalen Partner jetzt selbst in die Hand nimmt.Fabian ist Geschäftsführer der neu gegründeten LIQUI MOLY (Shanghai) Inter...",
+        "publishDate": "2026-09-01",
+        "duration": 2036,
+        "audioUrl": "https://www.buzzsprout.com/1869386/episodes/19674159-225-vom-importeur-zur-eigenen-china-gesellschaft-mit-liqui-moly-geschaftsfuhrer-fabian-wedekind.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "made-in-china-de-ep-buzzsprout-19674107",
+        "podcastId": "made-in-china-de",
+        "podcastTitle": "Made in China (German)",
+        "title": "#224 – Was dir keiner über Business in China erzählt ",
+        "description": "Heute drehen wir den Spieß um: Nach über 200 Folgen sitzen Thomas und Damian selbst auf der anderen Seite des Mikrofons. Die Fragen stellt Heiko Lässig, Vorstandsmitglied der German Chamber of Commerce China East.Thomas und Damian erzählen, wie au...",
+        "publishDate": "2026-08-25",
+        "duration": 3687,
+        "audioUrl": "https://www.buzzsprout.com/1869386/episodes/19674107-224-was-dir-keiner-uber-business-in-china-erzahlt.mp3",
+        "topics": [
+          "Semiconductors & AI",
           "Economic Reform",
           "Tech & Business",
           "Culture & Society"
@@ -100142,6 +100204,54 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-2765798",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Generation Global: where East meets the Arab world",
+        "description": "China and Egypt, two ancient civilizations, share deep cultural and historical roots. Today, a new generation is building on that foundation through culture, business, trade, and technology. Round Table's Yushan sat down with CGTN reporter Mèrna A...",
+        "publishDate": "2026-09-02",
+        "duration": 1922,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2609/1088318050067.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Economic Reform",
+          "History",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765789",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "The CD comeback: a feel-good music industry story",
+        "description": "Vinyl gets all the attention, but CDs are actually the ones growing faster, and it's not nostalgic collectors buying them. It's a generation that grew up streaming everything and never owned a CD player in their life. So what's pulling them toward...",
+        "publishDate": "2026-09-01",
+        "duration": 1094,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2609/1088247972990.mp3",
+        "topics": [
+          "Dynastic History",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765786",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "When science class gets real",
+        "description": "Forget the textbook. This fall, science class in China begins outside, where students are running real experiments, hitting real dead ends, and rethinking their approach when things do not go as planned. The goal is not landing on the right answer...",
+        "publishDate": "2026-09-01",
+        "duration": 2022,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2609/1088247822569.mp3",
+        "topics": [
+          "Dynastic History"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2765777",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -108685,6 +108795,73 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0901tw",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Taiwan Criticizes China’s ‘Wolf Warrior’ Diplomacy at Pacific Summit",
+        "description": "",
+        "publishDate": "2026-09-01",
+        "duration": 374,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0901/7a0c1b3e-a1a9-4757-a395-f93c19da0692/audio.mp3?length=4517237&duration=374",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0901y2",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "US Journalist Sentenced to 2 Years in Prison for Acting as Chinese Agent",
+        "description": "",
+        "publishDate": "2026-09-01",
+        "duration": 308,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0901/593cf04a-838c-41bb-bd76-a1f35813fc7b/audio.mp3?length=3722069&duration=308",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0901g20",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Bessent: China Was Sole Dissenter on G20 Summit Statement",
+        "description": "",
+        "publishDate": "2026-09-01",
+        "duration": 133,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0902/cbfda76e-e5b6-4cb4-987f-bd2ab3411313/audio.mp3?length=1617941&duration=133",
+        "topics": [
+          "US-China Relations"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0901mim",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "The Himalayan Disaster and Beijing’s Infallibility",
+        "description": "",
+        "publishDate": "2026-09-01",
+        "duration": 508,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0829/70a5ec75-b6ef-4e4a-a54a-9fba424a139b/audio.mp3?length=6122549&duration=508",
+        "topics": [
+          "Daily Life"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg030",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 30 Jigong Undercover Catches the Real Robbers to Clear Gao Guotai's Name ",
+        "description": "Playlist Hub",
+        "publishDate": "2026-09-01",
+        "duration": 2289,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg030.mp3",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0831bar",
         "podcastId": "china-in-depth",
