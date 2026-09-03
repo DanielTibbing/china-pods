@@ -5378,6 +5378,23 @@
     ],
     "episodes": [
       {
+        "id": "chp-ep-4125c139-4c6d-431c-975c-086514065699",
+        "podcastId": "chp",
+        "podcastTitle": "The China History Podcast",
+        "title": "A Concise History of China-Pangu to Puyi - Part 2",
+        "description": "We’re still in ancient times, picking up from last episode, where we ended with the fall of the Shang. Part 2 will cover the rise of the Ji Clan and the founding of the Zhou Dynasty. We’ll look at the Zhou up through the Spring and Autumn period a...",
+        "publishDate": "2026-09-02",
+        "duration": 7289,
+        "audioUrl": "https://episodes.captivate.fm/episode/4125c139-4c6d-431c-975c-086514065699.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "History",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "chp-ep-414f2cad-ccd2-4c30-baac-fc6a4470eb6e",
         "podcastId": "chp",
         "podcastTitle": "The China History Podcast",
@@ -12728,6 +12745,23 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "chinatalk-ep-09b76e72-a62e-11f1-a671-0f4dce3c28e5",
+        "podcastId": "chinatalk",
+        "podcastTitle": "ChinaTalk",
+        "title": "Cyber Apocalypse, Now? Hugging Face and the Future of Cyber Risk",
+        "description": "OpenAI models mid-training broke out of their sandbox, hacked internal infrastructure, and eventually compromised Hugging Face — the first headline-grade AI breakout, and one that safety researchers saw coming. Is the cyber apocalypse finally on t...",
+        "publishDate": "2026-09-02",
+        "duration": 4253,
+        "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL3329739314.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "chinatalk-ep-257da0ba-a334-11f1-8c3b-0feea6ade97e",
         "podcastId": "chinatalk",
@@ -30373,6 +30407,46 @@
       "Tech & Business"
     ],
     "episodes": [
+      {
+        "id": "china-global-south-ep-826ef2bd-0fd6-44f5-b2b5-1260eb01a137",
+        "podcastId": "china-global-south",
+        "podcastTitle": "The China-Global South Podcast",
+        "title": "China Is Building Influence in Latin America, Quietly",
+        "description": "China's influence in Latin America is increasingly being built through smaller, less visible deals rather than the headline-grabbing infrastructure projects that defined its engagement in the 2010s. Surveillance technology, electric buses, power n...",
+        "publishDate": "2026-09-03",
+        "duration": 2577,
+        "audioUrl": "https://traffic.libsyn.com/secure/ea0f0fdd-2944-4ff3-8a00-704e8c67d58b/CGSP__-_Natalia_Cote-Muoz.mp3?dest-id=4287628",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-global-south-ep-2f949198-d3b7-41e9-855d-2d5812aa2e28",
+        "podcastId": "china-global-south",
+        "podcastTitle": "The China-Global South Podcast",
+        "title": "The Chinamaxxing Trend: Why It's More Than Just a Meme",
+        "description": "China's growing appeal in the Global South is increasingly being shaped by everyday commercial experiences, not just diplomacy or cultural exports. Chinese phones, EVs, apps, infrastructure, entertainment, and consumer brands are becoming part of ...",
+        "publishDate": "2026-09-02",
+        "duration": 3055,
+        "audioUrl": "https://traffic.libsyn.com/secure/ea0f0fdd-2944-4ff3-8a00-704e8c67d58b/CGSP_-_Lizzi_C._Lee_and_Zhuoning_Li.mp3?dest-id=4287628",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Geopolitics & Politics",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-global-south-ep-0c20f91b-eb77-46be-9a95-b579d6509d1c",
         "podcastId": "china-global-south",
@@ -100204,6 +100278,24 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-02765807",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "IN VIDEO: Where East meets the Arab world",
+        "description": "China and Egypt, two ancient civilizations, share deep cultural and historical roots. Today, a new generation is building on that foundation through culture, business, trade, and technology. CGTN podcast Round Table's Yushan sat down with CGTN rep...",
+        "publishDate": "2026-09-03",
+        "duration": 1519,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp4/radio-res.cgtn.com/ueditor/audio/2609/1088406425795.mp4",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Economic Reform",
+          "History",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2765798",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -108795,6 +108887,110 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0902exi",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China Expands Exit Controls, Tracks Citizens’ Overseas Activities",
+        "description": "",
+        "publishDate": "2026-09-02",
+        "duration": 435,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0902/293e395b-0902-4f39-b985-e753a3ecdb92/audio.mp3?length=3823732&duration=316",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0902o46",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s Military Purge Expands as 46 Senior Officers Lose Legislature Seats",
+        "description": "",
+        "publishDate": "2026-09-02",
+        "duration": 244,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0902/ce0672e9-6216-4eb2-81bb-e32a72d17e68/audio.mp3?length=2948500&duration=244",
+        "topics": [
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0902hou",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s Beleaguered Households",
+        "description": "",
+        "publishDate": "2026-09-02",
+        "duration": 303,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0902/78c69360-6306-4ad5-aadc-c9f6ec5f7a6a/audio.mp3?length=3655829&duration=303",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0902eve",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "The System That Built China’s Evergrande—And Brought Down Its Founder",
+        "description": "",
+        "publishDate": "2026-09-02",
+        "duration": 444,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0902/417c5287-9778-405d-bbdf-5a7c67e39b49/audio.mp3?length=5348693&duration=444",
+        "topics": [
+          "Economic Reform"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0902dod",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Court Blocks Pentagon’s ‘Supply-Chain Risk’ Label on Anthropic",
+        "description": "",
+        "publishDate": "2026-09-02",
+        "duration": 205,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0828/5a09f8fd-e6ec-4997-95d1-5e69d88d141f/audio.mp3?length=2489716&duration=205",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0902sup",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s Expanding Global Supply Chains",
+        "description": "",
+        "publishDate": "2026-09-02",
+        "duration": 316,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0902/293e395b-0902-4f39-b985-e753a3ecdb92/audio.mp3?length=3823732&duration=316",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0902mh",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Falun Dafa News from Around the World – September 2, 2026",
+        "description": "",
+        "publishDate": "2026-09-02",
+        "duration": 1643,
+        "audioUrl": "https://en.minghui.org/u/files/podcasts/emh-podcast/EMHPodcast_2164-News.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg031",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 31 Jigong Brings Justice to Gao Guotai's Case, and  then, Evil in a Roadside Town Catches the Monk's Eye ",
+        "description": "Playlist Hub",
+        "publishDate": "2026-09-02",
+        "duration": 2191,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg031.mp3",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0901tw",
         "podcastId": "china-in-depth",
@@ -144282,6 +144478,6 @@
         ]
       }
     ],
-    "status": "active"
+    "status": "stale"
   }
 ]
