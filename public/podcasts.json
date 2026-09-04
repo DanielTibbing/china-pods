@@ -3017,6 +3017,24 @@
     ],
     "episodes": [
       {
+        "id": "pekingology-ep-776a8c3a-a717-11f1-9965-33c50f7aa7ac",
+        "podcastId": "pekingology",
+        "podcastTitle": "Pekingology",
+        "title": "Kurt Campbell on China Strategy and Diplomacy",
+        "description": "In this episode of Pekingology, Henrietta Levin, Senior Fellow with the CSIS Freeman Chair in China Studies, is joined by Kurt Campbell, former Deputy Secretary of State and President Biden’s “Asia Czar.” He is currently Chairman of The Asia Group...",
+        "publishDate": "2026-09-03",
+        "duration": 2745,
+        "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/cohst.app/pdcst/0C0K2I/traffic.megaphone.fm/CSIS1671131977.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Daily Life",
+          "Feminism & Arts",
+          "Geopolitics & Politics",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "pekingology-ep-afdbbcae-9c01-11f1-aae9-1b30f03d0b05",
         "podcastId": "pekingology",
         "podcastTitle": "Pekingology",
@@ -30408,6 +30426,25 @@
     ],
     "episodes": [
       {
+        "id": "china-global-south-ep-849064c0-502d-4944-a3ef-f51379761589",
+        "podcastId": "china-global-south",
+        "podcastTitle": "The China-Global South Podcast",
+        "title": "Is China Decolonizing African Media or Expanding Its Influence?",
+        "description": "China's influence in Africa's media landscape increasingly operates through content-sharing agreements, journalist training, paid placements, and support for local broadcasters. These \"below-the-line\" strategies give Chinese narratives a pathway i...",
+        "publishDate": "2026-09-04",
+        "duration": 3267,
+        "audioUrl": "https://traffic.libsyn.com/secure/ea0f0fdd-2944-4ff3-8a00-704e8c67d58b/CGSP_-_Media.mp3?dest-id=4287628",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "china-global-south-ep-826ef2bd-0fd6-44f5-b2b5-1260eb01a137",
         "podcastId": "china-global-south",
         "podcastTitle": "The China-Global South Podcast",
@@ -30415,7 +30452,7 @@
         "description": "China's influence in Latin America is increasingly being built through smaller, less visible deals rather than the headline-grabbing infrastructure projects that defined its engagement in the 2010s. Surveillance technology, electric buses, power n...",
         "publishDate": "2026-09-03",
         "duration": 2577,
-        "audioUrl": "https://traffic.libsyn.com/secure/ea0f0fdd-2944-4ff3-8a00-704e8c67d58b/CGSP__-_Natalia_Cote-Muoz.mp3?dest-id=4287628",
+        "audioUrl": "https://traffic.libsyn.com/secure/ea0f0fdd-2944-4ff3-8a00-704e8c67d58b/CGSP__-_Natalia_Cote-Muoz_1.mp3?dest-id=4287628",
         "topics": [
           "US-China Relations",
           "Semiconductors & AI",
@@ -41588,6 +41625,22 @@
     ],
     "episodes": [
       {
+        "id": "teatime-chinese-ep-21d9e59f-e8fc-4930-967e-08a83282de94",
+        "podcastId": "teatime-chinese",
+        "podcastTitle": "TeaTime Chinese 茶歇中文",
+        "title": "第97集 : 《奥德赛》和茶歇中文的回来 The Odyssey and the Comeback of TeaTime Chinese",
+        "description": "免费阅读原文 Free transcript 最近，诺兰（Nolan）的新电影《奥德赛》引起了很多人的讨论。在今天的节目里，我们不聊电影。我们听听这个故事的原版，也就是荷马口中的《奥德赛》究竟讲了一个什么样的故事。 Recently, « Odyssey » the movie by Christopher Nolan has aroused much discussion. In today's episode, we won't talk about the movie. Rather...",
+        "publishDate": "2026-09-03",
+        "duration": 1689,
+        "audioUrl": "https://traffic.libsyn.com/secure/teatimechinese/TTCN_97.mp3?dest-id=2693480",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "teatime-chinese-ep-859d1460-1e85-46b1-8bd3-4896f827d206",
         "podcastId": "teatime-chinese",
         "podcastTitle": "TeaTime Chinese 茶歇中文",
@@ -43085,7 +43138,7 @@
         ]
       }
     ],
-    "status": "stale"
+    "status": "active"
   },
   {
     "id": "strangers-in-china",
@@ -100296,6 +100349,38 @@
         ]
       },
       {
+        "id": "roundtable-china-ep-1-2765811",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "The internet cafe 2.0",
+        "description": "The old internet cafe is dead. Dim lights, sticky floors, and cheap instant noodles are gone. In their place are sleek lounges with premium seating, gourmet food, private pods, and showers. These new spaces are just as much about gaming as they ar...",
+        "publishDate": "2026-09-03",
+        "duration": 1294,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2609/1088426353810.mp3",
+        "topics": [
+          "Dynastic History",
+          "Daily Life",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765808",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Train hard, heal harder",
+        "description": "We are more active than ever, but our bodies are paying the price. A fitness boom is fueling a massive surge in sports rehabilitation, from boutique clinics to high-tech recovery tools. The business of healing is growing fast, and a culture of pus...",
+        "publishDate": "2026-09-03",
+        "duration": 1865,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2609/1088426137171.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2765798",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -108887,6 +108972,99 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0903jp",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China-Japan Air Travel Falters as Diplomatic Tensions Persist",
+        "description": "",
+        "publishDate": "2026-09-03",
+        "duration": 307,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0903/e30b7aca-412a-47fa-90f4-ec7d03ac97db/audio.mp3?length=3710207&duration=307",
+        "topics": [
+          "Semiconductors & AI",
+          "Daily Life"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0903pac",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Pacific Leaders Call for 24-Hour Notice of Missile Tests After China Launch",
+        "description": "",
+        "publishDate": "2026-09-03",
+        "duration": 290,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0903/73004447-537b-422f-a42d-1f1ae74b2971/audio.mp3?length=3504862&duration=290",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0903com",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "America vs. Communism",
+        "description": "",
+        "publishDate": "2026-09-03",
+        "duration": 391,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0903/75bbd8fa-156a-431a-9fdd-6c07c8edfb95/audio.mp3?length=4715957&duration=391",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0903nav",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "US Navy’s New AIM-424 Malice: Countering China’s Growing Airpower",
+        "description": "",
+        "publishDate": "2026-09-03",
+        "duration": 551,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0903/039bcf9e-fc0e-476d-836b-c68dadb09e00/audio.mp3?length=6635765&duration=551",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0903del",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Delaware Festivalgoers Voice Outrage Over Forced Organ Harvesting in China",
+        "description": "",
+        "publishDate": "2026-09-03",
+        "duration": 357,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0901/6cd30d29-1cc3-4f8b-bc2d-faee39f99f34/audio.mp3?length=4313333&duration=357",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0903gen",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "State Department: Chinese Communist Party Is Committing Genocide",
+        "description": "",
+        "publishDate": "2026-09-03",
+        "duration": 337,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0903/a8ac0b55-53f3-4d18-bab5-b5e1c46374eb/audio.mp3?length=4062719&duration=337",
+        "topics": [
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg032",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 32 Jigong Sees Through the Demonic Extortion by the Sinister Daoist",
+        "description": "Playlist Hub",
+        "publishDate": "2026-09-03",
+        "duration": 2065,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg032.mp3",
+        "topics": [
+          "Dynastic History"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0902exi",
         "podcastId": "china-in-depth",
