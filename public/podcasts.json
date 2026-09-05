@@ -16,6 +16,19 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-trivium-china-podcast-nobody",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "Trivium China Podcast | Nobody Knows Where the Line Is, and That's the Problem",
+        "description": "Listen now | The US and China have been quietly testing each other&#8217;s limits all summer &#8211; and neither side actually knows where the breaking point is.",
+        "publishDate": "2026-09-05",
+        "duration": 1800,
+        "audioUrl": "https://api.substack.com/feed/podcast/214257199/8add27f8f645939593a9cf64a534f486.mp3",
+        "topics": [
+          "Geopolitics & Politics"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-how-china-is-viewed-around-t",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -85024,6 +85037,22 @@
     ],
     "episodes": [
       {
+        "id": "sharp-china-ep-https---sharpchina-fm-member-episode-chinas-global-strategy-",
+        "podcastId": "sharp-china",
+        "podcastTitle": "Sharp China with Bill Bishop",
+        "title": "China’s Global Strategy; Tragedy on the Nepal-Tibet Border; A 19-1 Vote at the G-20; TikTok Dodges Congress",
+        "description": "On today’s show Andrew and Bill begin with a perspective on PRC strategy under Xi, including what the party wants from global institutions, how the PRC differs from the U.S., and political security as a paramount priority. Then: Thoughts on the he...",
+        "publishDate": "2026-09-04",
+        "duration": 3554,
+        "audioUrl": "https://sharpchina.fm/assets/sharpchina166-final-4549.mp3?access_token=MSorAZNuXsdNR1taQBKjcF",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "sharp-china-ep-https---sharpchina-fm-member-episode-preview-five-us-china-a",
         "podcastId": "sharp-china",
         "podcastTitle": "Sharp China with Bill Bishop",
@@ -97162,6 +97191,25 @@
     ],
     "episodes": [
       {
+        "id": "trivium-china-ep-buzzsprout-19757295",
+        "podcastId": "trivium-china",
+        "podcastTitle": "The Trivium China Podcast",
+        "title": "Ep 84 - Nobody knows where the line is, and that’s the problem",
+        "description": "The US and China have been quietly testing each other’s limits all summer – and neither side actually knows where the breaking point is.To discuss the nature – and limits – of the fragile US-China economic détente, we are joined this week by Evan ...",
+        "publishDate": "2026-09-04",
+        "duration": 3154,
+        "audioUrl": "https://www.buzzsprout.com/2408047/episodes/19757295-ep-84-nobody-knows-where-the-line-is-and-that-s-the-problem.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Economic Reform",
+          "Geopolitics & Politics",
+          "Tech & Business"
+        ]
+      },
+      {
         "id": "trivium-china-ep-buzzsprout-19717419",
         "podcastId": "trivium-china",
         "podcastTitle": "The Trivium China Podcast",
@@ -100330,6 +100378,36 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "roundtable-china-ep-1-2765823",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "The 2026 gray zone of modern romance",
+        "description": "In a relationship, we used to know what crossed the line. Now it is a hidden text, a dating app you are still on, or a friend your partner has never heard of. A new survey of 2,000 people reveals just how blurry the boundaries have become. On the ...",
+        "publishDate": "2026-09-04",
+        "duration": 1346,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2609/1088508878162.mp3",
+        "topics": [
+          "Dynastic History",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765820",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "The 60,000 km path to discovery",
+        "description": "China's highways were once built for function alone. But a new 60,000-kilometer national plan is now tailoring routes specifically for road trips, threading together the Great Wall, the Yellow and Yangtze rivers, and dozens of World Heritage sites...",
+        "publishDate": "2026-09-04",
+        "duration": 2196,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2609/1088508840605.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "roundtable-china-ep-1-02765807",
         "podcastId": "roundtable-china",
@@ -108493,6 +108571,21 @@
     ],
     "episodes": [
       {
+        "id": "wire-china-ep-buzzsprout-19751839",
+        "podcastId": "wire-china",
+        "podcastTitle": "The Wire China Podcast",
+        "title": "China and Big Sky Country",
+        "description": "Montana has been the unlikely source of America’s most influential China-hand senators. Somewhat paradoxically, it’s also one of the most pro-Trump — and tough on China — electorates in the country.In this episode, reporters Savannah Billman and B...",
+        "publishDate": "2026-09-04",
+        "duration": 1179,
+        "audioUrl": "https://www.buzzsprout.com/2591600/episodes/19751839-china-and-big-sky-country.mp3",
+        "topics": [
+          "US-China Relations",
+          "Dynastic History",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "wire-china-ep-buzzsprout-19649355",
         "podcastId": "wire-china",
         "podcastTitle": "The Wire China Podcast",
@@ -108972,6 +109065,59 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0904aut",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Auto Alliance Presses Congress for Permanent Ban on Chinese Connected Cars",
+        "description": "",
+        "publishDate": "2026-09-04",
+        "duration": 216,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0904/7c310fc0-0deb-45fe-af02-8cb374d7139d/audio.mp3?length=2619551&duration=216",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0904lai",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Trump’s Grim Remark on Jimmy Lai—Yet Hope Remains",
+        "description": "",
+        "publishDate": "2026-09-04",
+        "duration": 626,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0519/8caee18d-ca99-4546-a4e0-1fe4a602e1f2/audio.mp3?length=7521984&duration=626",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0904hk",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Hong Kong’s Future May Be Written in Tibet: A Warning From the CCP’s Rule",
+        "description": "",
+        "publishDate": "2026-09-04",
+        "duration": 661,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0904/d2acc1e5-1421-47a8-9a53-cdc5e29157ca/audio.mp3?length=7958783&duration=661",
+        "topics": [
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg033",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 33 Jigong Confronts the Sinister Daoist",
+        "description": "Playlist Hub",
+        "publishDate": "2026-09-04",
+        "duration": 1292,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg033.mp3",
+        "topics": [
+          "Dynastic History"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0903jp",
         "podcastId": "china-in-depth",
