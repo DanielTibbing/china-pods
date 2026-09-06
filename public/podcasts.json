@@ -12777,6 +12777,23 @@
     ],
     "episodes": [
       {
+        "id": "chinatalk-ep-2efa81a0-a8c3-11f1-ba8f-67122bba892d",
+        "podcastId": "chinatalk",
+        "podcastTitle": "ChinaTalk",
+        "title": "WarTalk: GWOT at 25 with Wesley Morgan",
+        "description": "Twenty-five years after 9/11, the Pech Valley represents the war in miniature: outposts meant to shield Afghan villages that instead drew the fighting to their doorsteps, built for reasons nobody manning them could explain. Wesley Morgan spent a d...",
+        "publishDate": "2026-09-05",
+        "duration": 4871,
+        "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL6040080087.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Geopolitics & Politics",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "chinatalk-ep-09b76e72-a62e-11f1-a671-0f4dce3c28e5",
         "podcastId": "chinatalk",
         "podcastTitle": "ChinaTalk",
