@@ -16,6 +16,19 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-western-medicine-works-faste",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "\"Western medicine works faster\" — Phrase of the Week",
+        "description": "Sacked Chinese graduates skipped the labour tribunal at home and complained to Mercedes-Benz instead",
+        "publishDate": "2026-09-06",
+        "duration": 1800,
+        "audioUrl": "https://substackcdn.com/image/fetch/$s_!wtSy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F34e890da-456e-4437-9d27-38f1297b34c9_2000x1200.jpeg",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-trivium-china-podcast-nobody",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -43787,6 +43800,23 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "sr-kina-ep-rss-sr-se-pod-eid-2869597",
+        "podcastId": "sr-kina",
+        "podcastTitle": "Radiokorrespondenterna Kina",
+        "title": "Så obekvämt sitter Putin i Kinas knä",
+        "description": "Relationen mellan Xi Jinping och Vladimir Putin har gått från jämbördig till asymmetrisk. Lyssna på alla avsnitt i Sveriges Radios app. Xi Jinping och Vladimir Putin möttes nyligen på ett toppmöte i Kirgizistan där de bland annat slog fast att de ...",
+        "publishDate": "2026-09-07",
+        "duration": 1620,
+        "audioUrl": "https://static-cdn.sr.se/laddahem/podradio/2026/09/radiokorrespondenterna_kina_sa_obekvamt_sitter_putin_i_kin_20260904_1429335243.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Geopolitics & Politics",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "sr-kina-ep-rss-sr-se-pod-eid-2863994",
         "podcastId": "sr-kina",
@@ -109082,6 +109112,88 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0906jw",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Joshua Wong Faces ‘Life Sentence in All but Name’ in Hong Kong Clampdown Under CCP: Experts",
+        "description": "",
+        "publishDate": "2026-09-06",
+        "duration": 420,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0906/f3b0feca-95ff-47d8-9541-a733588b19a8/audio.mp3?length=5062943&duration=420",
+        "topics": [
+          "Geopolitics & Politics",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0906epo",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Epoch Readers Divided Over Tariffs on Canada, United Over China Concerns",
+        "description": "",
+        "publishDate": "2026-09-06",
+        "duration": 294,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0905/951a37da-d9c3-4218-99f2-fae4128b1584/audio.mp3?length=3556415&duration=294",
+        "topics": [
+          "US-China Relations"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0906ukr",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Reporting From Ukraine: How CCP Support Enables Putin’s War",
+        "description": "",
+        "publishDate": "2026-09-06",
+        "duration": 680,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0904/25f3054b-3f3b-4b01-8d1e-79043f0ad685/audio.mp3?length=8180543&duration=680",
+        "topics": [
+          "Semiconductors & AI",
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0906pro",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s Provinces Show Evidence of Financial Pressure and the Economy’s Imbalances",
+        "description": "",
+        "publishDate": "2026-09-06",
+        "duration": 193,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0905/d261f24f-7be5-4ee4-b6c7-9abb26538689/audio.mp3?length=2337599&duration=193",
+        "topics": [
+          "Economic Reform"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0906tw",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Taiwan Proposes $35 Billion in Defense Spending as Drone Funding Fight Continues",
+        "description": "",
+        "publishDate": "2026-09-06",
+        "duration": 327,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0820/9d2e17f7-4f81-47c0-8500-791e39e8b118/audio.mp3?length=3947573&duration=327",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg034",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 34 Jigong's No-Action Shatters the Rogue Daoist's Sorcery and  Gimmicks",
+        "description": "Playlist Hub",
+        "publishDate": "2026-09-06",
+        "duration": 1751,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg034.mp3",
+        "topics": [
+          "Dynastic History"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0904aut",
         "podcastId": "china-in-depth",
