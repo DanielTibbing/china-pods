@@ -100426,6 +100426,36 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-2765835",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Freshmen, friends, and the fear of fitting in",
+        "description": "A new generation just arrived on campus, and they are rewriting the rules of friendship. They scroll with confidence but clam up in person. They crave connection, yet keep everyone at arm's length. From social anxiety as an identity to the rise of...",
+        "publishDate": "2026-09-07",
+        "duration": 1198,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2609/1088773995777.mp3",
+        "topics": [
+          "Dynastic History",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765832",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "The subway that erases provincial borders",
+        "description": "You live in one city and work in another, and the only thing standing between you and your desk is an hour long crawl through traffic, until now. Beijing's newest subway line does not stop at the city line. It keeps rolling straight into Hebei, tu...",
+        "publishDate": "2026-09-07",
+        "duration": 1943,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2609/1088773928809.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2765823",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -109112,6 +109142,46 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0907xi",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Trump May Leverage Xi Summit to Secure Major Orders: Analysts",
+        "description": "",
+        "publishDate": "2026-09-07",
+        "duration": 332,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0907/e9f2e9b1-6fea-4fa4-a017-9364f7917c2c/audio.mp3?length=4005983&duration=332",
+        "topics": [
+          "US-China Relations"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0907nk",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "As North Korea Grooms a Kim Heir, China’s Succession Remains Unsettled",
+        "description": "",
+        "publishDate": "2026-09-07",
+        "duration": 469,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0907/2612c9a1-1d12-4703-a3c4-1900fd297501/audio.mp3?length=5653343&duration=469",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg035",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 35 Jigong Rids of the Evil Daoist in a Escalating Duel and Saves Boy Liang's Life",
+        "description": "Playlist Hub",
+        "publishDate": "2026-09-07",
+        "duration": 2492,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg035.mp3",
+        "topics": [
+          "Dynastic History",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0906jw",
         "podcastId": "china-in-depth",
