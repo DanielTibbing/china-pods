@@ -30469,6 +30469,26 @@
     ],
     "episodes": [
       {
+        "id": "china-global-south-ep-104b7d55-1ba9-4787-9288-99d3f6eb4be7",
+        "podcastId": "china-global-south",
+        "podcastTitle": "The China-Global South Podcast",
+        "title": "Can Latin America Resist U.S. Pressure to Distance Itself From China?",
+        "description": "Latin America is facing intensifying pressure from Washington to distance itself from China even as Beijing remains the region's leading trading partner. Governments are increasingly caught between U.S. strategic demands and the economic opportuni...",
+        "publishDate": "2026-09-07",
+        "duration": 2111,
+        "audioUrl": "https://traffic.libsyn.com/secure/ea0f0fdd-2944-4ff3-8a00-704e8c67d58b/CGSP_-_Jorge_Heine.mp3?dest-id=4287628",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "china-global-south-ep-849064c0-502d-4944-a3ef-f51379761589",
         "podcastId": "china-global-south",
         "podcastTitle": "The China-Global South Podcast",
@@ -90520,6 +90540,22 @@
     ],
     "episodes": [
       {
+        "id": "made-in-china-de-ep-buzzsprout-19753582",
+        "podcastId": "made-in-china-de",
+        "podcastTitle": "Made in China (German)",
+        "title": "#226 – Prof. Alois Knoll, TUM | „China Speed haben wir nicht drauf“: Was Europa bei Robotik jetzt ändern muss",
+        "description": "Robotik, KI und China Speed: Wie weit ist China Europa voraus? | Prof. Dr.-Ing. Alois KnollWie weit ist China bei Robotik und künstlicher Intelligenz wirklich – und kann Europa mit diesem Entwicklungstempo noch mithalten?Thomas trifft Prof. Dr.-In...",
+        "publishDate": "2026-09-08",
+        "duration": 1735,
+        "audioUrl": "https://www.buzzsprout.com/1869386/episodes/19753582-226-prof-alois-knoll-tum-china-speed-haben-wir-nicht-drauf-was-europa-bei-robotik-jetzt-andern-muss.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Feminism & Arts",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "made-in-china-de-ep-buzzsprout-19674159",
         "podcastId": "made-in-china-de",
         "podcastTitle": "Made in China (German)",
@@ -100426,6 +100462,36 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-2765847",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "The Soapbox: the ninety-minute lunch uproar",
+        "description": "A bank in Hubei decided to close for ninety minutes each afternoon so staff could take a proper break. The public response was anything but calm. Office workers scrambled, elderly customers voiced frustration, and local media fanned the flames. Wh...",
+        "publishDate": "2026-09-08",
+        "duration": 1187,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2609/1188854323265.mp3",
+        "topics": [
+          "Dynastic History"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765844",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Shenzhen's school uniforms back in focus",
+        "description": "The back-to-school season has long meant overpriced uniforms and endless waiting, but Shenzhen offers a different model. Parents buy standard school shirts at corner stores, supermarkets, or through delivery apps for the price of a meal. The city ...",
+        "publishDate": "2026-09-08",
+        "duration": 1955,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2609/1088854237545.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2765835",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -109142,6 +109208,46 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0908nua",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Huawei Goes on Trial Over Alleged Scheme to Steal US Technology",
+        "description": "",
+        "publishDate": "2026-09-08",
+        "duration": 210,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0908/4a2da2ed-5813-4a31-964b-aed000b18663/audio.mp3?length=2548415&duration=210",
+        "topics": [
+          "Semiconductors & AI",
+          "Tech & Business"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0908chi",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Belgium Probes Suspected Espionage Tied to Chinese Gallium-Nitride Chip Firm",
+        "description": "",
+        "publishDate": "2026-09-08",
+        "duration": 383,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0908/565f771f-fec3-4cf4-9a8a-367793af70d2/audio.mp3?length=4620863&duration=383",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg036",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 36 A Greenwood Thief's Sense of Justice",
+        "description": "Playlist Hub",
+        "publishDate": "2026-09-08",
+        "duration": 1647,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg036.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0907xi",
         "podcastId": "china-in-depth",
