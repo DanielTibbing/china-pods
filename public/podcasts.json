@@ -5422,6 +5422,22 @@
     ],
     "episodes": [
       {
+        "id": "chp-ep-0076ef13-ef48-4546-91d3-cfeede5e6765",
+        "podcastId": "chp",
+        "podcastTitle": "The China History Podcast",
+        "title": "A Concise History of China-Pangu to Puyi - Part 3",
+        "description": "I hope you’re all enjoying the series so far. We continue on in Part 3 with the Warring State of Qín under their bellicose and long-reigning King Zhaoxiang 秦昭襄王 using all the powerful tools at his disposal to overcome the rival kingdoms. This will...",
+        "publishDate": "2026-09-09",
+        "duration": 7487,
+        "audioUrl": "https://episodes.captivate.fm/episode/0076ef13-ef48-4546-91d3-cfeede5e6765.mp3",
+        "topics": [
+          "Dynastic History",
+          "Feminism & Arts",
+          "History",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "chp-ep-4125c139-4c6d-431c-975c-086514065699",
         "podcastId": "chp",
         "podcastTitle": "The China History Podcast",
@@ -100462,6 +100478,22 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-02765856",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "IN VIDEO: The 60,000 km path to discovery",
+        "description": "China's highways were once built for function alone. But a new 60,000-kilometer national plan is now tailoring routes specifically for road trips, threading together the Great Wall, the Yellow and Yangtze rivers, and dozens of World Heritage sites...",
+        "publishDate": "2026-09-09",
+        "duration": 3677,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp4/radio-res.cgtn.com/ueditor/audio/2609/1088949483981.mp4",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2765847",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -109208,6 +109240,84 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0909ai",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Bessent: ‘Nothing Else Matters’ If China Pulls Ahead of US in AI",
+        "description": "",
+        "publishDate": "2026-09-09",
+        "duration": 319,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0909/307b24f6-3cff-4f4e-b592-ac3dae249e4b/audio.mp3?length=3855359&duration=319",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0909rev",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s Revised National Defense Mobilization Law and Its Implications for US National Security",
+        "description": "",
+        "publishDate": "2026-09-09",
+        "duration": 412,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0909/67dd222d-6675-45c2-91ee-19120e801e28/audio.mp3?length=4969343&duration=412",
+        "topics": [
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0909lie",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China Lies About Its Rapid Nuclear Weapons Expansion",
+        "description": "",
+        "publishDate": "2026-09-09",
+        "duration": 372,
+        "audioUrl": "https://vod.brightchat.com/assets/2024/1104/80991cd9-9518-4e12-a672-3542e2d1e284/audio.mp3?length=4464864&duration=372",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0909red",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Downplaying Red China’s Nuclear Arsenal",
+        "description": "",
+        "publishDate": "2026-09-09",
+        "duration": 477,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0909/b3d3fd4b-1ede-4dc1-b75a-5286bd02dd64/audio.mp3?length=5752414&duration=477",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0909mh",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Falun Dafa News from Around the World – September 9, 2026 ",
+        "description": "",
+        "publishDate": "2026-09-09",
+        "duration": 1280,
+        "audioUrl": "https://en.minghui.org/u/files/podcasts/emh-podcast/EMHPodcast_2170-News.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg037",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 37 As Promised Jigong Sees Chen Liang \"Under the Bed\"",
+        "description": "Playlist Hub",
+        "publishDate": "2026-09-09",
+        "duration": 1909,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg037.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0908nua",
         "podcastId": "china-in-depth",
