@@ -16,6 +16,36 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-transcript-strategic-stalema",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "Transcript | Strategic Stalemate: Ryan Hass on How Beijing Sees America — and Trump ",
+        "description": "This week on Sinica, I&#8217;m joined once again by Ryan Hass, Director of the John L.",
+        "publishDate": "2026-09-11",
+        "duration": 1800,
+        "audioUrl": "https://substackcdn.com/image/fetch/$s_!V0AH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8b3575d5-f89c-4a3d-a54c-fab78f703e29_1400x1000.png",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Daily Life"
+        ]
+      },
+      {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-strategic-stalemate-ryan-has",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "Strategic Stalemate: Ryan Hass on How Beijing Sees America — and Trump",
+        "description": "This week on Sinica, I&#8217;m joined once again by Ryan Hass, Director of the John L.",
+        "publishDate": "2026-09-11",
+        "duration": 1800,
+        "audioUrl": "https://api.substack.com/feed/podcast/215153331/025cf5e39c236b51f76bd2c221d9e9f5.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Daily Life"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-western-medicine-works-faste",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -30485,6 +30515,24 @@
     ],
     "episodes": [
       {
+        "id": "china-global-south-ep-dc3f7dce-2cd2-4979-b881-91082f97593e",
+        "podcastId": "china-global-south",
+        "podcastTitle": "The China-Global South Podcast",
+        "title": "Want to Do Business With the Chinese? Here's What You Need to Know",
+        "description": "China's growing commercial footprint across the Global South is creating new opportunities, but major knowledge gaps remain over how Chinese businesses build trust, negotiate, and form partnerships. Guanxi, institutional norms, and long-term relat...",
+        "publishDate": "2026-09-10",
+        "duration": 1103,
+        "audioUrl": "https://traffic.libsyn.com/secure/ea0f0fdd-2944-4ff3-8a00-704e8c67d58b/CGSP_-_Muyang.mp3?dest-id=4287628",
+        "topics": [
+          "Semiconductors & AI",
+          "Feminism & Arts",
+          "Economic Reform",
+          "History",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "china-global-south-ep-104b7d55-1ba9-4787-9288-99d3f6eb4be7",
         "podcastId": "china-global-south",
         "podcastTitle": "The China-Global South Podcast",
@@ -33792,6 +33840,26 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "china-power-ep-17146c2a-ad34-11f1-b94b-fb112e159384",
+        "podcastId": "china-power",
+        "podcastTitle": "China Power",
+        "title": "China’s View of the Upcoming Trump-Xi Summit: A Conversation with Da Wei",
+        "description": "In this episode, Dr. Da Wei joins the ChinaPower Podcast to preview this month's Trump-Xi summit in Washington, D.C., and to discuss China's expectations for the meeting. He examines how Beijing views the current trajectory of U.S.-China relations...",
+        "publishDate": "2026-09-10",
+        "duration": 3136,
+        "audioUrl": "https://traffic.megaphone.fm/CSIS1283262348.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-power-ep-e2c8c3d2-a09d-11f1-8560-07c8125d02f7",
         "podcastId": "china-power",
@@ -100478,6 +100546,39 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-2765866",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "CIFTIS 2026: when services and technology meet the city",
+        "description": "The most interesting developments at this year's China International Fair for Trade in Services may be happening outside the venue. Beijing's western districts now have new waterfront spaces, routes and transport, all backed by AI, digital platfor...",
+        "publishDate": "2026-09-10",
+        "duration": 1536,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2609/1089029793800.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Daily Life",
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765863",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Generation Global EP7: What BRICS means for you",
+        "description": "BRICS is meeting in India this week, and the group has grown well beyond its original five economies. Trade, technology, climate and jobs keep expanding the agenda, but a simpler question lingers: does any of it reach ordinary people? Fei Fei asks...",
+        "publishDate": "2026-09-10",
+        "duration": 1577,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2609/1089029606892.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Daily Life",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-02765856",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -109240,6 +109341,46 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0910cw",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "The Honeytrap That Reached Capitol Hill: Fang Fang, Swalwell, and China's Election Playbook",
+        "description": "",
+        "publishDate": "2026-09-10",
+        "duration": 2551,
+        "audioUrl": "https://podcasts.captivate.fm/media/e8bfa55c-dba2-4646-90b7-feece62f0d57/cw-77.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0910tw",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Restoring Trust: Taiwan’s Rightful Place in the Free World",
+        "description": "",
+        "publishDate": "2026-09-10",
+        "duration": 323,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0910/30c7f197-556c-4cc6-897f-afdba419cca0/audio.mp3?length=3899134&duration=323",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg038",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 38 Jigong Conducts a Bedroom Trial",
+        "description": "Playlist Hub",
+        "publishDate": "2026-09-10",
+        "duration": 2085,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg038.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0909ai",
         "podcastId": "china-in-depth",
