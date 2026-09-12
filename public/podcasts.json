@@ -12836,6 +12836,23 @@
     ],
     "episodes": [
       {
+        "id": "chinatalk-ep-c893ce82-ae1a-11f1-9824-f30bf10a08a5",
+        "podcastId": "chinatalk",
+        "podcastTitle": "ChinaTalk",
+        "title": "WarTalk: 9.11, Death of the Army,  So Long Dan Driscoll",
+        "description": "In the week of the 25th anniversary of 9/11, the Secretary of the Army walked into the White House, told the president the force is breaking, and quit. Days earlier his boss had fired the Chief of Staff, disbanded the Army's only drone battalion, ...",
+        "publishDate": "2026-09-11",
+        "duration": 4263,
+        "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL5486675708.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Feminism & Arts",
+          "History",
+          "Geopolitics & Politics",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "chinatalk-ep-2efa81a0-a8c3-11f1-ba8f-67122bba892d",
         "podcastId": "chinatalk",
         "podcastTitle": "ChinaTalk",
@@ -100546,6 +100563,36 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-2765878",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "When being heard becomes a business",
+        "description": "Across China, people are paying strangers for what friends used to give for free — a listener to vent to, or someone to offer custom compliments and rebuild confidence. Maybe connection isn't the problem. Maybe trust is. Today, we're asking what h...",
+        "publishDate": "2026-09-11",
+        "duration": 1020,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2609/1089107652853.mp3",
+        "topics": [
+          "Dynastic History",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765875",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "From disaster simulation to real-life preparedness",
+        "description": "Paying to get knocked around by fake hurricane winds. Wading through a flooded garage that's dry on the other side. Getting swept up in a man-made torrent. It sounds like something to avoid — until you realize people are doing it to learn. Across ...",
+        "publishDate": "2026-09-11",
+        "duration": 2217,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2609/1089107582995.mp3",
+        "topics": [
+          "Dynastic History",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2765866",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -108847,6 +108894,22 @@
     ],
     "episodes": [
       {
+        "id": "wire-china-ep-buzzsprout-19788363",
+        "podcastId": "wire-china",
+        "podcastTitle": "The Wire China Podcast",
+        "title": "Hong Kong Plays the Shell Game",
+        "description": "Birds of a feather tend to stick together, at least in the case of Chinese companies sanctioned by the United States. Our reporter Noah Berman found that many recently sanctioned firms actually share the same address, down to the same floor of a H...",
+        "publishDate": "2026-09-11",
+        "duration": 847,
+        "audioUrl": "https://www.buzzsprout.com/2591600/episodes/19788363-hong-kong-plays-the-shell-game.mp3",
+        "topics": [
+          "US-China Relations",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "wire-china-ep-buzzsprout-19751839",
         "podcastId": "wire-china",
         "podcastTitle": "The Wire China Podcast",
@@ -109341,6 +109404,73 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0911wld",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "The World Comes Out Against China",
+        "description": "",
+        "publishDate": "2026-09-11",
+        "duration": 283,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0911/b9a884c6-a32e-4d9e-b0cf-f3747c7787d4/audio.mp3?length=3425374&duration=283",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0911tra",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "US Says China Travel Risks Are ‘Not Hypothetical’ After Americans Detained",
+        "description": "",
+        "publishDate": "2026-09-11",
+        "duration": 367,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0911/084281af-87b5-41ff-aabb-ec6b3b065318/audio.mp3?length=4432222&duration=367",
+        "topics": [
+          "Semiconductors & AI",
+          "Daily Life"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0911cfc",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "From Confucius Classrooms to China Trips: Beijing’s Influence in US Schools",
+        "description": "",
+        "publishDate": "2026-09-11",
+        "duration": 436,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0911/a3ebdeb9-7565-410a-a7b2-5681f28232ca/audio.mp3?length=5258494&duration=436",
+        "topics": [
+          "Daily Life"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0911def",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s ‘Defense Mobilization’ Plans: How the CCP Could Destroy the Country’s People and Property",
+        "description": "",
+        "publishDate": "2026-09-11",
+        "duration": 350,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0911/47dfc10d-9c34-47d4-ab99-4d365f9d470a/audio.mp3?length=4221118&duration=350",
+        "topics": [
+          "Geopolitics & Politics",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg039",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 39 Jigong Formally Takes Chen Liang as Disciple But Will It Last?",
+        "description": "Playlist Hub",
+        "publishDate": "2026-09-11",
+        "duration": 1922,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg039.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0910cw",
         "podcastId": "china-in-depth",
