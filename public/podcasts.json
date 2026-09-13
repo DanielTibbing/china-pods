@@ -16,6 +16,33 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-chinas-approach-to-ai-in-the",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "China’s Approach to AI in the Global South: Selling the Razor Blades, Not the Razor",
+        "description": "Listen now (81 mins) | Everyone keeps calling the US-China AI competition a race.",
+        "publishDate": "2026-09-13",
+        "duration": 1800,
+        "audioUrl": "https://api.substack.com/feed/podcast/215438537/816cc4248c7b167ef537349203faf62f.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-trivium-weekly-recap-chinas-",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "Trivium Weekly Recap | China’s Investment Picture: From Bad to Marginally Better ",
+        "description": "Investment is supposed to be what props up China&#8217;s economy when growth slows &#8211; but not this year.",
+        "publishDate": "2026-09-13",
+        "duration": 1800,
+        "audioUrl": "https://substack-post-media.s3.amazonaws.com/public/images/3cf6f2d8-6c2d-4c34-8294-c680b0ce4748_400x400.webp",
+        "topics": [
+          "Economic Reform"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-transcript-strategic-stalema",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -123,6 +150,21 @@
         "topics": [
           "US-China Relations",
           "Dynastic History"
+        ]
+      },
+      {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-trivium-china-podcast-beijin",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "Trivium China Podcast | Beijing’s New Directive to its Tech Firms: Behave Abroad",
+        "description": "Listen now | Chinese tech companies keep getting fined and blocked overseas &#8211; sometimes unfairly, and sometimes because they&#8217;re behaving exactly like they do at home.",
+        "publishDate": "2026-08-29",
+        "duration": 1800,
+        "audioUrl": "https://api.substack.com/feed/podcast/212943050/0b05b7362a999dc3b511819ea55d5291.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Daily Life",
+          "Tech & Business"
         ]
       },
       {
@@ -236,22 +278,6 @@
           "Economic Reform",
           "Tech & Business",
           "Culture & Society"
-        ]
-      },
-      {
-        "id": "sinica-ep-https---www-sinicapodcast-com-p-trivium-china-podcast-beijin",
-        "podcastId": "sinica",
-        "podcastTitle": "The Sinica Podcast",
-        "title": "Trivium China Podcast | Beijing Stops Playing Coy",
-        "description": "Listen now | On August 5th, China dropped a new batch of retaliatory economic measures against various US entities.",
-        "publishDate": "2026-08-14",
-        "duration": 1800,
-        "audioUrl": "https://api.substack.com/feed/podcast/211130853/555b69ef45b1300c456a3c827b6e924d.mp3",
-        "topics": [
-          "Semiconductors & AI",
-          "Daily Life",
-          "Economic Reform",
-          "Tech & Business"
         ]
       },
       {
@@ -97374,6 +97400,23 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "trivium-china-ep-buzzsprout-19794130",
+        "podcastId": "trivium-china",
+        "podcastTitle": "The Trivium China Podcast",
+        "title": "Ep 85 - China’s approach to AI in the Global South: selling the razor blades, not the razor",
+        "description": "Everyone keeps calling the US-China AI competition a race.But Eric Olander, co-founder of the China Global South Project, says that framing is wrong – because a race implies a finish line, and this competition doesn't have one.Eric’s view is that ...",
+        "publishDate": "2026-09-12",
+        "duration": 4821,
+        "audioUrl": "https://www.buzzsprout.com/2408047/episodes/19794130-ep-85-china-s-approach-to-ai-in-the-global-south-selling-the-razor-blades-not-the-razor.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Geopolitics & Politics"
+        ]
+      },
       {
         "id": "trivium-china-ep-buzzsprout-19757295",
         "podcastId": "trivium-china",
