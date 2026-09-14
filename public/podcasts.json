@@ -43,6 +43,19 @@
         ]
       },
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-drop-the-chain-phrase-of-the",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "\"Drop the chain\" — Phrase of the Week",
+        "description": "A British driver was pulled from a burning Ferrari by a rival, and the organiser was nowhere to be seen",
+        "publishDate": "2026-09-13",
+        "duration": 1800,
+        "audioUrl": "https://substackcdn.com/image/fetch/$s_!XuJr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5275b85f-a6b0-4974-9a6e-4aea40a3e6d5_2000x1200.jpeg",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-transcript-strategic-stalema",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -43947,6 +43960,23 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "sr-kina-ep-rss-sr-se-pod-eid-2873262",
+        "podcastId": "sr-kina",
+        "podcastTitle": "Radiokorrespondenterna Kina",
+        "title": "Nya ö-offensiven som ska utöka Kinas territorium",
+        "description": "Kina trappar upp sina anspråk på filippinska öar denna gång i det strategiska sundet mellan Taiwan och Filippinerna. Lyssna på alla avsnitt i Sveriges Radios app. Ögruppen Batanes, som utgör Filippinernas nordligaste region, är den senaste i raden...",
+        "publishDate": "2026-09-14",
+        "duration": 1620,
+        "audioUrl": "https://static-cdn.sr.se/laddahem/podradio/2026/09/radiokorrespondenterna_kina_nya_ooffensiven_som_ska_utoka_20260911_1519310253.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "sr-kina-ep-rss-sr-se-pod-eid-2869597",
         "podcastId": "sr-kina",
@@ -109447,6 +109477,61 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0913aut",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Trump Says He’s Open to Chinese Automakers Building Cars in US",
+        "description": "",
+        "publishDate": "2026-09-13",
+        "duration": 168,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0912/40ca2e22-e917-49a2-9c4b-f4a257eafb70/audio.mp3?length=2042110&duration=168",
+        "topics": [
+          "US-China Relations"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0913ai",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Industry Rallies Behind Anthropic CEO’s Call for AI Slowdown",
+        "description": "",
+        "publishDate": "2026-09-13",
+        "duration": 333,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0912/4282c93f-2041-4ff6-b4b5-e597780f72c2/audio.mp3?length=4020670&duration=333",
+        "topics": [
+          "Semiconductors & AI",
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0913xi",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Xi’s ‘Thucydides Trap’ Warning to Trump May Reveal More About China’s Weakness Than America’s",
+        "description": "",
+        "publishDate": "2026-09-13",
+        "duration": 461,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0913/3308cf5a-e356-4220-84d2-d85166e261d8/audio.mp3?length=5560318&duration=461",
+        "topics": [
+          "US-China Relations",
+          "Dynastic History"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg040",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 40 Jigong Makes the Greedy Servants Do Good Deed",
+        "description": "Playlist Hub",
+        "publishDate": "2026-09-13",
+        "duration": 1924,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg040.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0911wld",
         "podcastId": "china-in-depth",
