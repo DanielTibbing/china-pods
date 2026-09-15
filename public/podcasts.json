@@ -1364,6 +1364,22 @@
     ],
     "episodes": [
       {
+        "id": "little-red-podcast-ep-81edc120-88d2-4ca4-b8c5-b4c6003dd8b9",
+        "podcastId": "little-red-podcast",
+        "podcastTitle": "The Little Red Podcast",
+        "title": "The Rise of the Petroyuan:  Who will win the Global Economic Order?",
+        "description": "In the fifth episode in the China Rules series, we look at China&rsquo;s efforts to reshape to global financial system.&nbsp; One milestone has been the recent designation of Deutsche Bank as a renminbi clearing house.&nbsp; China is pushing hard ...",
+        "publishDate": "2026-09-15",
+        "duration": 3397,
+        "audioUrl": "https://traffic.omny.fm/d/clips/a7b4f8fe-59d9-4afc-a79a-a90101378abf/bf2c1d80-3656-4449-9d00-a903004e8f84/81edc120-88d2-4ca4-b8c5-b4c6003dd8b9/audio.mp3?utm_source=Podcast&in_playlist=efbff746-e7c1-463a-9d80-a903004e8f8f",
+        "topics": [
+          "Semiconductors & AI",
+          "Economic Reform",
+          "Geopolitics & Politics",
+          "Tech & Business"
+        ]
+      },
+      {
         "id": "little-red-podcast-ep-475ff734-0717-40fe-9156-b4b40024835e",
         "podcastId": "little-red-podcast",
         "podcastTitle": "The Little Red Podcast",
@@ -12874,6 +12890,25 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "chinatalk-ep-fa751d5e-b0ac-11f1-9359-1fdd594078a2",
+        "podcastId": "chinatalk",
+        "podcastTitle": "ChinaTalk",
+        "title": "ModelTalk: Pacing the Frontier",
+        "description": "ModelTalk regulars Nathan Lambert, who writes Interconnects, and writer Jasmine Sun join to work through a week in which Dario asked the industry to slow down and Trump called the whole thing a conspiracy. Why the Hugging Face hack broke through w...",
+        "publishDate": "2026-09-15",
+        "duration": 4096,
+        "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL7840192387.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Geopolitics & Politics",
+          "Tech & Business"
+        ]
+      },
       {
         "id": "chinatalk-ep-c893ce82-ae1a-11f1-9824-f30bf10a08a5",
         "podcastId": "chinatalk",
@@ -97437,7 +97472,7 @@
         "title": "Ep 85 - China’s approach to AI in the Global South: selling the razor blades, not the razor",
         "description": "Everyone keeps calling the US-China AI competition a race.But Eric Olander, co-founder of the China Global South Project, says that framing is wrong – because a race implies a finish line, and this competition doesn't have one.Eric’s view is that ...",
         "publishDate": "2026-09-12",
-        "duration": 4821,
+        "duration": 4831,
         "audioUrl": "https://www.buzzsprout.com/2408047/episodes/19794130-ep-85-china-s-approach-to-ai-in-the-global-south-selling-the-razor-blades-not-the-razor.mp3",
         "topics": [
           "US-China Relations",
@@ -100635,6 +100670,36 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "roundtable-china-ep-1-2765893",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Seven gourds, one grandpa, and the price of going viral",
+        "description": "It begins in a quiet corner of Shaoxing, on a balcony full of gourds, with an old man happy to wave at whoever shows up. It starts as the kind of story that makes you smile. Then the crowds get bigger, the cameras get closer, and the smile gets ha...",
+        "publishDate": "2026-09-14",
+        "duration": 1421,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2609/1089378973723.mp3",
+        "topics": [
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765890",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Generation Global EP8: Cooling Vests",
+        "description": "In 45-degree heat, air conditioning is a luxury millions can't reach, so researchers at the Beijing Institute of Technology are building something you wear instead. Round Table's Yushan sits down with Ji Wenjie and Fu Ying, two members of the team...",
+        "publishDate": "2026-09-14",
+        "duration": 1745,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2609/1089378911239.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Tech & Business"
+        ]
+      },
       {
         "id": "roundtable-china-ep-1-2765878",
         "podcastId": "roundtable-china",
@@ -109477,6 +109542,98 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0914fbi",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chinese Woman Admits to Gathering Intelligence in US for Beijing: FBI",
+        "description": "",
+        "publishDate": "2026-09-14",
+        "duration": 284,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0914/af04d961-c2b2-4ca3-842f-120158606ced/audio.mp3?length=3434014&duration=284",
+        "topics": [
+          "Daily Life"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0914bri",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "BRICS Summit Produces Neither Common Currency nor Operational Payment System",
+        "description": "",
+        "publishDate": "2026-09-14",
+        "duration": 405,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0914/1a1b5944-a6fa-4a2b-b18f-01ae6cd47951/audio.mp3?length=4880638&duration=405",
+        "topics": [
+          "US-China Relations"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0914how",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "How the CCP Captures Multinational Corporations",
+        "description": "",
+        "publishDate": "2026-09-14",
+        "duration": 605,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0914/4b0d3224-74e1-429d-9510-e607f1eccce0/audio.mp3?length=7291197&duration=605",
+        "topics": [
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0914los",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China Losing Patience With Russia—And BRICS",
+        "description": "",
+        "publishDate": "2026-09-14",
+        "duration": 489,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0914/f814f71b-353e-4f1d-aef1-3e3a68f1883f/audio.mp3?length=5895262&duration=489",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0914ger",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Germany Arrests Munich Couple Suspected of Spying for China",
+        "description": "",
+        "publishDate": "2026-09-14",
+        "duration": 180,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0521/98807e87-113f-4216-b8ae-60773c7d1071/audio.mp3?length=2163168&duration=180",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0914hid",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s Intelligence Recruiters Are Hiding in the Job Market",
+        "description": "",
+        "publishDate": "2026-09-14",
+        "duration": 554,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0914/49f8c0eb-c611-47a6-963a-684adca5e033/audio.mp3?length=6672862&duration=554",
+        "topics": [
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg041",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 41 The Mad Monk Determined to Help a Mad Widow",
+        "description": "Playlist Hub",
+        "publishDate": "2026-09-14",
+        "duration": 1566,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg041.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0913aut",
         "podcastId": "china-in-depth",
