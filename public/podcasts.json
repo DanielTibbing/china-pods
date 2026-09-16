@@ -30606,6 +30606,45 @@
     ],
     "episodes": [
       {
+        "id": "china-global-south-ep-61af8d75-decb-469b-9762-e2aa81df48a9",
+        "podcastId": "china-global-south",
+        "podcastTitle": "The China-Global South Podcast",
+        "title": "China, BRICS and the New Global Order",
+        "description": "China is using a renewed diplomatic push to expand its room for maneuver as global power shifts. Xi Jinping's visits to the Shanghai Cooperation Organization, Central Asia, and Egypt reflect an effort to strengthen alternative governance forums wh...",
+        "publishDate": "2026-09-15",
+        "duration": 4723,
+        "audioUrl": "https://traffic.libsyn.com/secure/ea0f0fdd-2944-4ff3-8a00-704e8c67d58b/CGSP_X_Trivium.mp3?dest-id=4287628",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Geopolitics & Politics",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-global-south-ep-aaaff46b-2766-43e5-a1cf-c03a4c7a6d85",
+        "podcastId": "china-global-south",
+        "podcastTitle": "The China-Global South Podcast",
+        "title": "How One Woman Defined Africa for Millions of Chinese Readers",
+        "description": "For generations of Chinese readers, Taiwanese writer Sanmao offered a rare window into Africa through her bestselling stories of life in the Western Sahara. But her accounts also carried colonial-era stereotypes, romanticized her role in the regio...",
+        "publishDate": "2026-09-15",
+        "duration": 2412,
+        "audioUrl": "https://traffic.libsyn.com/secure/ea0f0fdd-2944-4ff3-8a00-704e8c67d58b/CGSP_-_Jacob_Kushner.mp3?dest-id=4287628",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "History",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "china-global-south-ep-dc3f7dce-2cd2-4979-b881-91082f97593e",
         "podcastId": "china-global-south",
         "podcastTitle": "The China-Global South Podcast",
@@ -88717,6 +88756,23 @@
     ],
     "episodes": [
       {
+        "id": "asia-chessboard-ep-cc9c7850-b138-11f1-8287-0378f095d846",
+        "podcastId": "asia-chessboard",
+        "podcastTitle": "The Asia Chessboard",
+        "title": "Taking Stock of U.S. Strategy in Asia",
+        "description": "In this episode, Mike sits down with Randall Schriver, Chairman of the Board at the Institute for Indo-Pacific Security and former Assistant Secretary of Defense for Indo-Pacific Security Affairs (January 2018-December 2019), to take stock of Amer...",
+        "publishDate": "2026-09-15",
+        "duration": 2713,
+        "audioUrl": "https://traffic.megaphone.fm/CSIS2429792800.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Feminism & Arts",
+          "Geopolitics & Politics",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "asia-chessboard-ep-efa1df60-a559-11f1-b16d-8b8a24385725",
         "podcastId": "asia-chessboard",
         "podcastTitle": "The Asia Chessboard",
@@ -90731,6 +90787,23 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "made-in-china-de-ep-buzzsprout-19808072",
+        "podcastId": "made-in-china-de",
+        "podcastTitle": "Made in China (German)",
+        "title": " #227 – China nach den Boomjahren: Warum deutsche Unternehmen trotzdem weiter investieren | Michael Kern, General Manager, German Industry and Commerce ",
+        "description": "China wächst langsamer, der Wettbewerb nimmt zu und die wirtschaftlichen Rahmenbedingungen verändern sich. Gleichzeitig blicken viele deutsche Unternehmen vor Ort wieder optimistischer auf ihre Geschäftsaussichten. Wie passt das zusammen?Zu Gast i...",
+        "publishDate": "2026-09-15",
+        "duration": 1840,
+        "audioUrl": "https://www.buzzsprout.com/1869386/episodes/19808072-227-china-nach-den-boomjahren-warum-deutsche-unternehmen-trotzdem-weiter-investieren-michael-kern-general-manager-german-industry-and-commerce.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "made-in-china-de-ep-buzzsprout-19753582",
         "podcastId": "made-in-china-de",
@@ -100671,6 +100744,35 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-2765905",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Where do we draw the AI music line?",
+        "description": "It sounded like a hit, it charted like a hit, and radio played it like a hit. There was just one catch. No human made it. Now Australia has become the first country to shut fully AI-generated music out of its official charts and its biggest awards...",
+        "publishDate": "2026-09-15",
+        "duration": 1264,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2609/1089464347584.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765902",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "China's new standards on kids' cosmetics",
+        "description": "A little girl opens a treasure box and finds a tiny eyeshadow palette, a lipstick, and a blush. To her, it's a toy. To her parents, it's a question mark. China is about to tighten the rules on makeup made for kids aged 12 and under, with tougher l...",
+        "publishDate": "2026-09-15",
+        "duration": 1866,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2609/1089464281736.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2765893",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -109542,6 +109644,71 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0915aug",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s Economy Slumps in August as Consumer Spending Slows",
+        "description": "",
+        "publishDate": "2026-09-15",
+        "duration": 259,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0915/a0f6ada4-e198-41cb-b3f7-62a1e55ef932/audio.mp3?length=3129309&duration=259",
+        "topics": [
+          "Economic Reform"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0915ai",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Steve Bannon, Bernie Sanders Join Forces on AI–With Different Approaches to China",
+        "description": "",
+        "publishDate": "2026-09-15",
+        "duration": 241,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0915/8bafa6d9-59fc-4238-89e3-eb440b406e4e/audio.mp3?length=2918206&duration=241",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0915cf",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Analyst: China's New Law 'Wake-Up Call' for Pentagon",
+        "description": "",
+        "publishDate": "2026-09-15",
+        "duration": 1258,
+        "audioUrl": "https://podcasts.captivate.fm/media/5c0f273f-6b65-4f4a-a633-d61aa26d8093/0914-1477947493-CIF-Audio-converted.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0915cw",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Back to Mao: China's Playbook for Taking What's Yours",
+        "description": "",
+        "publishDate": "2026-09-15",
+        "duration": 1383,
+        "audioUrl": "https://podcasts.captivate.fm/media/9dabdcd1-4727-498c-9f52-393074d75589/03-CW-78-converted.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg042",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 42 Jigong Helps the Mad Widow to Take Her Case to the County Court",
+        "description": "Playlist Hub",
+        "publishDate": "2026-09-15",
+        "duration": 2511,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg042.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0914fbi",
         "podcastId": "china-in-depth",
