@@ -16,6 +16,36 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-transcript-not-a-master-plan",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "Transcript | Not a Master Plan: The Real History of China's Rare Earth Dominance, with Gloria Xiong and Jessica Chen Weiss ",
+        "description": "Transcript (courtesy of the fantastic CadreScripts) further down the page.",
+        "publishDate": "2026-09-17",
+        "duration": 1800,
+        "audioUrl": "https://substackcdn.com/image/fetch/$s_!crFc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2aaee3fd-847c-471c-9d17-877faf36eb0a_1575x1082.png",
+        "topics": [
+          "Feminism & Arts",
+          "History",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-not-a-master-plan-the-real-h",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "Not a Master Plan: The Real History of China's Rare Earth Dominance, with Gloria Xiong and Jessica Chen Weiss ",
+        "description": "This week I sat down with Gloria Xiong, Assistant Professor of Government at Colby College, and Jessica Chen Weiss, the David M.",
+        "publishDate": "2026-09-17",
+        "duration": 1800,
+        "audioUrl": "https://api.substack.com/feed/podcast/215775533/3a364dba7f1cb2d5c6e440bef1ca4e78.mp3",
+        "topics": [
+          "Feminism & Arts",
+          "History",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-chinas-approach-to-ai-in-the",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -5506,6 +5536,23 @@
       "History"
     ],
     "episodes": [
+      {
+        "id": "chp-ep-c7b04d57-0eba-49bb-b47d-eae721b5d933",
+        "podcastId": "chp",
+        "podcastTitle": "The China History Podcast",
+        "title": "A Concise History of China-Pangu to Puyi - Part 4",
+        "description": "Thanks for sticking with the program. Twenty-one more episodes to go till the end of the series. This time in part 4, we pick up with the aftermath of Liu Bang's passing in 195BC. This includes the infamous story of Empress Lü. Also covered will b...",
+        "publishDate": "2026-09-16",
+        "duration": 7775,
+        "audioUrl": "https://episodes.captivate.fm/episode/c7b04d57-0eba-49bb-b47d-eae721b5d933.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "History",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "chp-ep-0076ef13-ef48-4546-91d3-cfeede5e6765",
         "podcastId": "chp",
@@ -30605,6 +30652,24 @@
       "Tech & Business"
     ],
     "episodes": [
+      {
+        "id": "china-global-south-ep-8078e330-78d1-4ec3-9452-f2fec07c148e",
+        "podcastId": "china-global-south",
+        "podcastTitle": "The China-Global South Podcast",
+        "title": "How Southeast Asia Sees the Future of Global Cooperation",
+        "description": "Southeast Asia is seeking a greater role in shaping global cooperation, as countries across the region push for institutions that deliver tangible results while preserving ASEAN's centrality and strategic autonomy. A new report, Voices From the Re...",
+        "publishDate": "2026-09-17",
+        "duration": 2585,
+        "audioUrl": "https://traffic.libsyn.com/secure/ea0f0fdd-2944-4ff3-8a00-704e8c67d58b/CGSP_-_SE_ASIA.mp3?dest-id=4287628",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-global-south-ep-61af8d75-decb-469b-9762-e2aa81df48a9",
         "podcastId": "china-global-south",
@@ -85335,6 +85400,23 @@
     ],
     "episodes": [
       {
+        "id": "sharp-china-ep-https---sharpchina-fm-member-episode-preview-the-limited-pot",
+        "podcastId": "sharp-china",
+        "podcastTitle": "Sharp China with Bill Bishop",
+        "title": "(Preview) The Limited Potential for a Pacing Deal; MSS on PRC AI Risks; Distillation and Data Security; The Party’s Approach to Social Media",
+        "description": "On today’s show Andrew and Bill look at several dimensions of the PRC’s approach to AI. First: The various reasons a push for an agreement with U.S. labs to “pace” AI development is unlikely to bear fruit and the history of the CPC’s approach to c...",
+        "publishDate": "2026-09-16",
+        "duration": 807,
+        "audioUrl": "https://sharpchina.fm/assets/sharpchina167-preview.mp3?access_token=MSorAZNuXsdNR1taQBKjcF",
+        "topics": [
+          "Semiconductors & AI",
+          "Feminism & Arts",
+          "History",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "sharp-china-ep-https---sharpchina-fm-member-episode-chinas-global-strategy-",
         "podcastId": "sharp-china",
         "podcastTitle": "Sharp China with Bill Bishop",
@@ -100744,6 +100826,20 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-02765914",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "IN VIDEO: Can you practice your way to survival?",
+        "description": "Paying to get knocked around by fake hurricane winds. Wading through a flooded garage that's dry on the other side. Getting swept up in a man-made torrent. It sounds like something to avoid — until you realize people are doing it to learn. Across ...",
+        "publishDate": "2026-09-16",
+        "duration": 3707,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp4/radio-res.cgtn.com/ueditor/audio/2609/1089546139053.mp4",
+        "topics": [
+          "Dynastic History",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2765905",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -109644,6 +109740,100 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0916exi",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s New Exit Rules Take Effect, Raising Concerns Over Electronic Data Checks",
+        "description": "",
+        "publishDate": "2026-09-16",
+        "duration": 284,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0916/f0e44af2-7f0b-476f-94e9-e2a2e0f01fec/audio.mp3?length=3430846&duration=284",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0916eu",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "EU Says It Will Use All Tools to Rebalance Trade With China",
+        "description": "",
+        "publishDate": "2026-09-16",
+        "duration": 177,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0916/8defc34a-e629-4f35-9028-31ce0da3315f/audio.mp3?length=2152126&duration=177",
+        "topics": [
+          "Economic Reform"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0916mh",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Falun Dafa News from Around the World – September 16, 2026 ",
+        "description": "",
+        "publishDate": "2026-09-16",
+        "duration": 1455,
+        "audioUrl": "https://en.minghui.org/u/files/podcasts/emh-podcast/EMHPodcast_2176-News.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0916fm",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "The Looming Threat of a Chinese Humanoid Robot Flood into the US Market",
+        "description": "",
+        "publishDate": "2026-09-16",
+        "duration": 1080,
+        "audioUrl": "https://podcasts.captivate.fm/media/74b55633-56b5-4733-b8b0-ce66520dc4aa/Podcast-converted.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0916atl",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "EXCLUSIVE: How a Tiny Nation Is Defying Beijing and Defending Its Sovereignty | President Surangel Whipps Jr.",
+        "description": "",
+        "publishDate": "2026-09-16",
+        "duration": 2245,
+        "audioUrl": "https://podcasts.captivate.fm/media/90de1cc0-ddaa-4f47-8e11-61bb99e8087f/260915-Mark-Abbott-and-Brock-Welge-podcast-converted.mp3",
+        "topics": [
+          "Daily Life"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0916cf",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China Tightens Travel Restrictions on Citizens, Foreigners",
+        "description": "",
+        "publishDate": "2026-09-16",
+        "duration": 1411,
+        "audioUrl": "https://podcasts.captivate.fm/media/f128986a-c884-452c-ae94-2c9b15bafa0f/0915-1485004723-CIF-Audio-converted.mp3",
+        "topics": [
+          "Daily Life"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg043",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 43 Jigong Left the County Court and Got Busy Treating a Patient",
+        "description": "Playlist Hub",
+        "publishDate": "2026-09-16",
+        "duration": 1774,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg043.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0915aug",
         "podcastId": "china-in-depth",
