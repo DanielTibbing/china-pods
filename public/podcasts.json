@@ -3158,6 +3158,25 @@
     ],
     "episodes": [
       {
+        "id": "pekingology-ep-a6a80c2e-b212-11f1-84c0-d3eccf229dc1",
+        "podcastId": "pekingology",
+        "podcastTitle": "Pekingology",
+        "title": "Ambassador Dan Kritenbrink on US-China Summits and Strategy",
+        "description": "In this episode of Pekingology, Senior Fellow Henrietta Levin is joined by Ambassador Daniel Kritenbrink, former Assistant Secretary of State for East Asian and Pacific Affairs, U.S. Ambassador to Vietnam, and Senior Director for Asian Affairs at ...",
+        "publishDate": "2026-09-17",
+        "duration": 3336,
+        "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/cohst.app/pdcst/0C0K2I/traffic.megaphone.fm/CSIS8139188997.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Economic Reform",
+          "Geopolitics & Politics",
+          "Tech & Business"
+        ]
+      },
+      {
         "id": "pekingology-ep-776a8c3a-a717-11f1-9965-33c50f7aa7ac",
         "podcastId": "pekingology",
         "podcastTitle": "Pekingology",
@@ -100826,6 +100845,37 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-2765930",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "The Hyrox Beijing incident",
+        "description": "A competitor at HYROX Beijing left a bowel accident across the sleds, mats, and rowers, forcing the other athletes onto contaminated equipment. She still finished first. With no clear rule to handle it, the incident sparked a global debate about w...",
+        "publishDate": "2026-09-17",
+        "duration": 1492,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2609/1089638210246.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765927",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "China's new canal: the Pinglu Canal",
+        "description": "China has just opened its first major canal since 1949. The Pinglu Canal stretches 134 kilometers and represents one of the most significant infrastructure projects in the country's modern history. What could this waterway actually mean for the wa...",
+        "publishDate": "2026-09-17",
+        "duration": 1536,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2609/1089638144082.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Economic Reform",
+          "History",
+          "Tech & Business"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-02765914",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -109740,6 +109790,73 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0917wom",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Women of China Tell Xi Jinping ‘No’",
+        "description": "",
+        "publishDate": "2026-09-17",
+        "duration": 398,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0917/3750992e-aadb-49c1-aedc-ab6cf0250166/audio.mp3?length=4806046&duration=398",
+        "topics": [
+          "Feminism & Arts",
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0917how",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "How the CCP Built—and Broke—China’s Growth Engine",
+        "description": "",
+        "publishDate": "2026-09-17",
+        "duration": 680,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0917/026eae5f-f37c-462c-8d99-b04c86f0c779/audio.mp3?length=8186590&duration=680",
+        "topics": [
+          "Economic Reform",
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0917cur",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s CGTN: A Glimpse Behind the Propaganda Curtain",
+        "description": "",
+        "publishDate": "2026-09-17",
+        "duration": 261,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0917/694627ef-33f1-41db-8385-207b7b75467a/audio.mp3?length=3161854&duration=261",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0917exi",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China Expands Exit Bans and Tightens Controls on Speech and Religion",
+        "description": "",
+        "publishDate": "2026-09-17",
+        "duration": 413,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0917/99ee86c0-c69a-444d-ac66-a748e3728112/audio.mp3?length=4981150&duration=413",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg044",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 44 Jigong's Bogus Accusation Solves the Real Crime",
+        "description": "Playlist Hub",
+        "publishDate": "2026-09-17",
+        "duration": 1862,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg044.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0916exi",
         "podcastId": "china-in-depth",
