@@ -12957,6 +12957,26 @@
     ],
     "episodes": [
       {
+        "id": "chinatalk-ep-47e1118c-b3bf-11f1-a6e8-db04f8f6f9c2",
+        "podcastId": "chinatalk",
+        "podcastTitle": "ChinaTalk",
+        "title": "WarTalk: PLA, 2027, Nukes, and the Pivot to Asia Pirouette",
+        "description": "In the deserts of western China sit 320 brand-new missile silos, and for a while, by the Pentagon's account, some of them simply didn't work. The gap between the PLA on paper and the PLA in practice is where Gerald C. Brown has spent his career. G...",
+        "publishDate": "2026-09-19",
+        "duration": 4644,
+        "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL2970840343.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Geopolitics & Politics",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "chinatalk-ep-fa751d5e-b0ac-11f1-9359-1fdd594078a2",
         "podcastId": "chinatalk",
         "podcastTitle": "ChinaTalk",
@@ -97640,6 +97660,25 @@
     ],
     "episodes": [
       {
+        "id": "trivium-china-ep-buzzsprout-19828345",
+        "podcastId": "trivium-china",
+        "podcastTitle": "The Trivium China Podcast",
+        "title": "Ep 86 - The weaknesses behind China&#39;s booming exports ",
+        "description": "China’s manufacturing output just grew at the fastest pace in six months, but retail sales barely moved last month – and the gap between the two growth rates just hit its widest point in over three years.The upshot: Exports are still picking up th...",
+        "publishDate": "2026-09-18",
+        "duration": 1823,
+        "audioUrl": "https://www.buzzsprout.com/2408047/episodes/19828345-ep-86-the-weaknesses-behind-china-s-booming-exports.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "trivium-china-ep-buzzsprout-19794130",
         "podcastId": "trivium-china",
         "podcastTitle": "The Trivium China Podcast",
@@ -100845,6 +100884,39 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-2765921",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Nineteen new rules for home care",
+        "description": "Bringing someone into your home to clean or care for your family feels like a private arrangement. In China, it is also a thirty-million-person industry, one that has long run on informal deals, unclear hours, and unanswered questions about who is...",
+        "publishDate": "2026-09-18",
+        "duration": 2337,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2609/1089631163685.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765924",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "When presentations become a party game",
+        "description": "You walk into a room and find a stage waiting for you. Someone hands you a presentation you have never seen before. The slides make no sense, the crowd is waiting, and your only job is to keep talking. In Beijing, Shanghai, and a handful of other ...",
+        "publishDate": "2026-09-18",
+        "duration": 1192,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2609/1089631247142.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2765930",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -100936,7 +101008,7 @@
         "id": "roundtable-china-ep-1-2765890",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
-        "title": "Generation Global EP8: Cooling Vests",
+        "title": "Generation Global EP8: Cooling vests",
         "description": "In 45-degree heat, air conditioning is a luxury millions can't reach, so researchers at the Beijing Institute of Technology are building something you wear instead. Round Table's Yushan sits down with Ji Wenjie and Fu Ying, two members of the team...",
         "publishDate": "2026-09-14",
         "duration": 1745,
@@ -109280,6 +109352,24 @@
     ],
     "episodes": [
       {
+        "id": "wire-china-ep-buzzsprout-19824883",
+        "podcastId": "wire-china",
+        "podcastTitle": "The Wire China Podcast",
+        "title": "China’s AI-Loving Factory Heirs",
+        "description": "China’s Gen Z factory heirs have a problem. They graduated into an era where high-tech robots and AI can usher in a new industrial revolution. But frustratingly, the factories run by their parents are too old-fashioned to ditch the pen and paper f...",
+        "publishDate": "2026-09-18",
+        "duration": 983,
+        "audioUrl": "https://www.buzzsprout.com/2591600/episodes/19824883-china-s-ai-loving-factory-heirs.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "wire-china-ep-buzzsprout-19788363",
         "podcastId": "wire-china",
         "podcastTitle": "The Wire China Podcast",
@@ -109790,6 +109880,76 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0918bip",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Bipartisan Lawmakers Seek Tougher China Travel Warning Over Detained Americans",
+        "description": "",
+        "publishDate": "2026-09-18",
+        "duration": 312,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0918/d19e0ee3-00f2-4256-b49f-fe7671a75f0d/audio.mp3?length=3765790&duration=312",
+        "topics": [
+          "Semiconductors & AI",
+          "Daily Life",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0918xi",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Upcoming Trump–Xi Summit Is Really an AI Summit",
+        "description": "",
+        "publishDate": "2026-09-18",
+        "duration": 497,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0918/1d81849b-4e5a-4c61-8f60-a847291d5667/audio.mp3?length=5990590&duration=497",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0918ccp",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "From the Panchen Lama to Joshua Wong: How the CCP Silences a Generation",
+        "description": "",
+        "publishDate": "2026-09-18",
+        "duration": 629,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0918/47809861-ef7c-4c66-ae20-119135090483/audio.mp3?length=7570846&duration=629",
+        "topics": [
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0918cf",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Trump–Xi Summit in Washington: What to Expect",
+        "description": "",
+        "publishDate": "2026-09-18",
+        "duration": 1273,
+        "audioUrl": "https://podcasts.captivate.fm/media/d4cfc0c1-71fd-44b1-b9ce-06f1abc8eb22/0918-1489372918-CIF-Audio-converted.mp3",
+        "topics": [
+          "US-China Relations"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg045",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 45 The Court Finally Finds out Who Masterminded the Crime",
+        "description": "Playlist Hub",
+        "publishDate": "2026-09-18",
+        "duration": 1277,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg045.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0917wom",
         "podcastId": "china-in-depth",
