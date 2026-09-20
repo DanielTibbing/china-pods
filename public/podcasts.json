@@ -100884,6 +100884,22 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-02765945",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Bonus: Cooling vests",
+        "description": "In 45-degree heat, air conditioning is a luxury millions can't reach, so researchers at the Beijing Institute of Technology are building something you wear instead. Round Table's Yushan sits down with Ji Wenjie and Fu Ying, from the team behind a ...",
+        "publishDate": "2026-09-20",
+        "duration": 1615,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp4/radio-res.cgtn.com/ueditor/audio/2609/1089866804206.mp4",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Tech & Business"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2765921",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
