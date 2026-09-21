@@ -16,6 +16,51 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-trivium-china-podcast-the-we",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "Trivium China Podcast | The Weaknesses Behind China's Booming Exports ",
+        "description": "Listen now (30 mins) | China&#8217;s manufacturing output just grew at the fastest pace in six months, but retail sales barely moved last month &#8212; and the gap between the two growth rates just hit its widest point in over three years.",
+        "publishDate": "2026-09-20",
+        "duration": 1800,
+        "audioUrl": "https://api.substack.com/feed/podcast/216589361/570fdae1f0436cf581928c9f2df7ba45.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Economic Reform"
+        ]
+      },
+      {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-china-taiwan-and-the-somalil",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "China, Taiwan and the Somaliland Question",
+        "description": "China&#8217;s engagement across Africa is increasingly shaped by both high-level geopolitics and competition in everyday markets.",
+        "publishDate": "2026-09-20",
+        "duration": 1800,
+        "audioUrl": "https://api.substack.com/feed/podcast/216617922/540dd26d3b3c7e5783a63b710dbb3636.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Economic Reform",
+          "Geopolitics & Politics",
+          "Tech & Business"
+        ]
+      },
+      {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-overnight-success-as-a-mouta",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "\"Overnight success as a Moutai-tier stock\" — Phrase of the Week",
+        "description": "A robot maker's rapid rise stalls",
+        "publishDate": "2026-09-20",
+        "duration": 1800,
+        "audioUrl": "https://substackcdn.com/image/fetch/$s_!t-T1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F423d9c61-8209-408a-96f2-d6bcb59751cf_2000x1200.jpeg",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-transcript-not-a-master-plan",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -5991,7 +6036,7 @@
         "podcastId": "chp",
         "podcastTitle": "The China History Podcast",
         "title": "Ep. 358 | The History of Singapore (Part 10)",
-        "description": "First of all, to all of you who lasted through the entire series up to this concluding episode, I extend to you, my deepest appreciation. I hope you learned a few things about Singapore. Here it is, the final installment of the series. I worked on...",
+        "description": "First of all, to all of you who lasted through the entire series up to this concluding episode, I extend to you, my deepest appreciation. I hope you learned a few things about Singapore.Here it is, the final installment of the series. I worked on ...",
         "publishDate": "2025-01-19",
         "duration": 2859,
         "audioUrl": "https://episodes.captivate.fm/episode/b9e87ffd-df74-43cc-992e-478b3eda5f4b.mp3",
@@ -44139,6 +44184,22 @@
     ],
     "episodes": [
       {
+        "id": "sr-kina-ep-rss-sr-se-pod-eid-2877969",
+        "podcastId": "sr-kina",
+        "podcastTitle": "Radiokorrespondenterna Kina",
+        "title": "Därför platsar BRICS i Kinas världsordning",
+        "description": "Med BRICS-samarbetet som verktyg vill Kina flytta fram sina globala positioner. Lyssna på alla avsnitt i Sveriges Radios app. BRICS blir ett allt viktigare instrument för regeringen i Peking att befästa sin vision om en ny världsordning med tyngdp...",
+        "publishDate": "2026-09-21",
+        "duration": 1620,
+        "audioUrl": "https://static-cdn.sr.se/laddahem/podradio/2026/09/radiokorrespondenterna_kina_darfor_platsar_brics_i_kinas_v_20260918_1502506642.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "sr-kina-ep-rss-sr-se-pod-eid-2873262",
         "podcastId": "sr-kina",
         "podcastTitle": "Radiokorrespondenterna Kina",
@@ -54168,7 +54229,7 @@
         ]
       }
     ],
-    "status": "active"
+    "status": "stale"
   },
   {
     "id": "inside-china-tech",
@@ -100973,6 +101034,7 @@
         "duration": 3707,
         "audioUrl": "https://dts.podtrac.com/redirect.mp4/radio-res.cgtn.com/ueditor/audio/2609/1089546139053.mp4",
         "topics": [
+          "Semiconductors & AI",
           "Dynastic History",
           "Culture & Society"
         ]
@@ -109896,6 +109958,101 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0920et",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Epoch Readers Weigh In on AI Surveillance and Foreign Repression",
+        "description": "",
+        "publishDate": "2026-09-20",
+        "duration": 249,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0919/8ed3902a-2d23-4bf3-ad43-cd161a36cb15/audio.mp3?length=3013822&duration=249",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0920aut",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Auto Industry Urges Trump to Block Chinese Automakers From US Market",
+        "description": "",
+        "publishDate": "2026-09-20",
+        "duration": 207,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0919/763f2825-ce00-4fd3-bec2-2bc8115f744b/audio.mp3?length=2507518&duration=207",
+        "topics": [
+          "US-China Relations",
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0920xi",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "House China Committee Chairman Urges Trump to Take Tough Line With Xi",
+        "description": "",
+        "publishDate": "2026-09-20",
+        "duration": 253,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0919/8905d880-742e-4a6e-9ee1-064ff03f18df/audio.mp3?length=3059901&duration=253",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0920ccp",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Expert Urges US to Prepare for Sudden Collapse of Communist Regime in China",
+        "description": "",
+        "publishDate": "2026-09-20",
+        "duration": 477,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0920/468e7ebb-1edd-4e76-9960-866f2b09d28c/audio.mp3?length=5746942&duration=477",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0920hou",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Houston-Area Birth Tourism Center Shut Down in Legal Action",
+        "description": "",
+        "publishDate": "2026-09-20",
+        "duration": 206,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0920/171f7b83-7150-467e-b4c3-51384d4988e0/audio.mp3?length=2502910&duration=206",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0920trd",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Top US, China Trade Negotiators Meet in New York Ahead of Trump–Xi Summit",
+        "description": "",
+        "publishDate": "2026-09-20",
+        "duration": 178,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0920/33443cd3-3c3c-4116-abdf-50c61240248e/audio.mp3?length=2156446&duration=178",
+        "topics": [
+          "US-China Relations",
+          "Economic Reform"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg046",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 46 A Serial Killer's False Redemption",
+        "description": "Playlist Hub",
+        "publishDate": "2026-09-20",
+        "duration": 1918,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg046.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0918bip",
         "podcastId": "china-in-depth",
