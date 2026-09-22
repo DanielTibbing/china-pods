@@ -8397,7 +8397,7 @@
         "podcastId": "chp",
         "podcastTitle": "The China History Podcast",
         "title": "Ep. 287 | China's Himmler, Dai Li (Part 1)",
-        "description": "In this Part 1 of a 3 episode series covering the life and times of Dai Li, we look at his early beginnings, living the thug life in Shanghai and falling in with all the right people. We'll trace his quick rise up the ranks of Chiang Kai-shek's fo...",
+        "description": "In this, Part 1 of a 3-episode series covering the life and times of Dai Li, we look at his early beginnings, living the thug life in Shanghai and falling in with all the right people. We'll trace his quick rise up the ranks of Chiang Kai-shek's f...",
         "publishDate": "2021-11-15",
         "duration": 1932,
         "audioUrl": "https://episodes.captivate.fm/episode/0a655866-7701-4ec8-a198-58be317577b6.mp3",
@@ -13001,6 +13001,24 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "chinatalk-ep-0df8ed52-9d06-11f1-a79f-c3b0e9b10a75",
+        "podcastId": "chinatalk",
+        "podcastTitle": "ChinaTalk",
+        "title": "Can AI Beat the Pentagon’s Bureaucracy?",
+        "description": "Garrett Berntsen was last seen on ChinaTalk in his role as Deputy CDAO at the State Department. He then went to the Department of Defense for a little bit, and now makes a return in his new role as Chief AI Officer at Accenture Federal Services. W...",
+        "publishDate": "2026-09-22",
+        "duration": 2973,
+        "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL4013794844.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Geopolitics & Politics",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "chinatalk-ep-47e1118c-b3bf-11f1-a6e8-db04f8f6f9c2",
         "podcastId": "chinatalk",
@@ -109958,6 +109976,99 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0921exp",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China Expels 2 Military Chiefs on Disloyalty, Corruption Charges",
+        "description": "",
+        "publishDate": "2026-09-21",
+        "duration": 357,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0921/29bbd378-dfcc-4c53-b853-ad40ea55bcc6/audio.mp3?length=4309246&duration=357",
+        "topics": [
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0921chi",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China Uses Intimidation to Silence Journalists in Pursuit of ‘New World Media Order’: Report",
+        "description": "",
+        "publishDate": "2026-09-21",
+        "duration": 537,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0921/48f7e647-e657-4d9a-aa7f-0a7959165c47/audio.mp3?length=6466654&duration=537",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0921djy",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chinese-Language Epoch Times Website Hit by Massive Cyberattack",
+        "description": "",
+        "publishDate": "2026-09-21",
+        "duration": 218,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0921/173ec17a-7d54-4f6f-87f9-db0d4b33ca7b/audio.mp3?length=2640286&duration=218",
+        "topics": [
+          "Semiconductors & AI",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0921bey",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Beyond Hormuz: China’s Energy Vulnerability Extends to the Strait of Malacca",
+        "description": "",
+        "publishDate": "2026-09-21",
+        "duration": 434,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0921/acbaf1c7-6909-4533-9009-8376b703fc39/audio.mp3?length=5236030&duration=434",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0921sco",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China, Russia, and India Project Unity at SCO Summit—But Fault Lines Remain",
+        "description": "",
+        "publishDate": "2026-09-21",
+        "duration": 611,
+        "audioUrl": "https://vod.brightchat.com/assets/2025/0904/77ddcbf5-c395-49cb-9ba9-d1b5c6d7b0d0/audio.mp3?length=7339680&duration=611",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0921qua",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s Quad-G Plan for Global Hegemony Involves the UN and AI",
+        "description": "",
+        "publishDate": "2026-09-21",
+        "duration": 514,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0921/3fb5e7a1-cfaf-48e9-996c-1e92d7ff21d0/audio.mp3?length=6192190&duration=514",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg047",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 47 Hua Yunlong's Deadly Rampage Through the Capital",
+        "description": "Playlist Hub",
+        "publishDate": "2026-09-21",
+        "duration": 2325,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg047.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0920et",
         "podcastId": "china-in-depth",
