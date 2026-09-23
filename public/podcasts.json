@@ -9060,7 +9060,7 @@
         "podcastId": "chp",
         "podcastTitle": "The China History Podcast",
         "title": "US-China Relations 1969-1972 (Part 7)",
-        "description": "In this episode, we finish off the 1972 visit of Richard Nixon to the PRC. The series finale looks at the exciting meeting between the two leaders, Nixon and Mao, and relives \"the week that changed the world.\" Learn more about your ad choices. Vis...",
+        "description": "In this episode, we finish off the 1972 visit of Richard Nixon to the PRC. The series finale looks at the exciting meeting between the two leaders, Nixon and Mao, and relives \"the week that changed the world.\"",
         "publishDate": "2020-06-29",
         "duration": 2026,
         "audioUrl": "https://episodes.captivate.fm/episode/63f81b5b-4338-42f4-b8d0-2f5e0e8c8059.mp3",
@@ -9278,7 +9278,7 @@
         "podcastId": "chp",
         "podcastTitle": "The China History Podcast",
         "title": "Ep. 244 | The History of Xinjiang (Part 1)",
-        "description": "In this CHP episode, we start a new multi-part series that looks at the history of the land known today as Xinjiang. This series will cover about 4000 years of history starting in this episode with the Tarim Mummies. Learn more about your ad choic...",
+        "description": "In this CHP episode, we start a new multi-part series that looks at the history of the land known today as Xinjiang. This series will cover about 4000 years of history starting in this episode with the Tarim Mummies.",
         "publishDate": "2020-03-23",
         "duration": 1893,
         "audioUrl": "https://episodes.captivate.fm/episode/ac2cc306-f015-406a-93b1-ced83a19909c.mp3",
@@ -9654,7 +9654,7 @@
         "podcastId": "chp",
         "podcastTitle": "The China History Podcast",
         "title": "Ep. 223 | The History of Tang Poetry (Part 6)",
-        "description": "Laszlo finishes up the High Tang period of Chinese poetry. Wang Wei and Meng Haoran are showcased in this episode. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+        "description": "Laszlo finishes up the High Tang period of Chinese poetry. Wang Wei and Meng Haoran are showcased in this episode.",
         "publishDate": "2019-06-02",
         "duration": 1473,
         "audioUrl": "https://episodes.captivate.fm/episode/e1600ef2-4807-42e0-a4aa-57a145766e08.mp3",
@@ -9752,7 +9752,7 @@
         "podcastId": "chp",
         "podcastTitle": "The China History Podcast",
         "title": "Ep. 217 | The History of the Hokkien People (Part 2)",
-        "description": "Laszlo continues his shallow dive into the Hokkien people with a focus on the history of the Hokkien diaspora who populated many cities and towns throughout Southeast Asia. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+        "description": "Laszlo continues his shallow dive into the Hokkien people with a focus on the history of the Hokkien diaspora who populated many cities and towns throughout Southeast Asia.",
         "publishDate": "2019-03-09",
         "duration": 1977,
         "audioUrl": "https://episodes.captivate.fm/episode/043740a8-659a-4726-b78d-991f1bb3a1f0.mp3",
@@ -13017,6 +13017,24 @@
           "Geopolitics & Politics",
           "Tech & Business",
           "Culture & Society"
+        ]
+      },
+      {
+        "id": "chinatalk-ep-a78842bc-b690-11f1-81e3-c3bbd56e23dc",
+        "podcastId": "chinatalk",
+        "podcastTitle": "ChinaTalk",
+        "title": "Julian Gewirtz on Trump-Xi Summit, AI, and Mao Dead Fifty Years Ago!",
+        "description": "Julian Gewirtz, author and former Biden NSC China director, joins ChinaTalk days before Xi Jinping’s first White House visit since 2015. With little substantive agenda on the table, what is the US getting in exchange for the symbolism and pageantr...",
+        "publishDate": "2026-09-22",
+        "duration": 3974,
+        "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL5155841954.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "History",
+          "Geopolitics & Politics"
         ]
       },
       {
@@ -27080,6 +27098,26 @@
     ],
     "episodes": [
       {
+        "id": "soas-context-ep-tag-soundcloud-2010-tracks-2405397411",
+        "podcastId": "soas-context",
+        "podcastTitle": "China in Context",
+        "title": "Ep212: Mr Xi goes to Washington — Stability amid tension?",
+        "description": "Chinese President Xi Jinping’s visit to Washington this month comes amidst continuing tensions over Beijing’s strategic ambitions, US arms sales to Taiwan, and restrictions on US chip exports to China. Congress has just passed a bill pledging sanc...",
+        "publishDate": "2026-09-22",
+        "duration": 2394,
+        "audioUrl": "https://feeds.soundcloud.com/stream/2405397411-soas-china-institute-ep212-mr-xi-goes-to-washington.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "History",
+          "Geopolitics & Politics"
+        ]
+      },
+      {
         "id": "soas-context-ep-tag-soundcloud-2010-tracks-2361178814",
         "podcastId": "soas-context",
         "podcastTitle": "China in Context",
@@ -30754,6 +30792,23 @@
       "Tech & Business"
     ],
     "episodes": [
+      {
+        "id": "china-global-south-ep-17e6ce16-5bc6-4eda-ad0b-afde9e2ac7a9",
+        "podcastId": "china-global-south",
+        "podcastTitle": "The China-Global South Podcast",
+        "title": "After Maduro: The Current State of China-Venezuela Relations",
+        "description": "China's relationship with Venezuela has shifted from a cornerstone of its South American strategy to a visibly diminished partnership. After more than two decades of oil-backed lending, infrastructure investment, and strategic cooperation, Beijing...",
+        "publishDate": "2026-09-22",
+        "duration": 1641,
+        "audioUrl": "https://traffic.libsyn.com/secure/ea0f0fdd-2944-4ff3-8a00-704e8c67d58b/CGSP_-_Andrea_Freitas.mp3?dest-id=4287628",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-global-south-ep-8078e330-78d1-4ec3-9452-f2fec07c148e",
         "podcastId": "china-global-south",
@@ -85518,6 +85573,27 @@
     ],
     "episodes": [
       {
+        "id": "sharp-china-ep-https---sharpchina-fm-member-episode-preview-xi-jinping-come",
+        "podcastId": "sharp-china",
+        "podcastTitle": "Sharp China with Bill Bishop",
+        "title": "(Preview) Xi Jinping Comes to Washington; US-China Agenda, Questions and Expectations; The September Politburo Meeting",
+        "description": "On today’s show Andrew and Bill discuss Xi Jinping’s visit to the United States and what to expect in Washington D.C. this week. First: Reactions to the meeting between Scott Bessent and He Lifeng in New York City Sunday, including outstanding que...",
+        "publishDate": "2026-09-23",
+        "duration": 799,
+        "audioUrl": "https://sharpchina.fm/assets/sharpchina168-preview.mp3?access_token=MSorAZNuXsdNR1taQBKjcF",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Geopolitics & Politics",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "sharp-china-ep-https---sharpchina-fm-member-episode-preview-the-limited-pot",
         "podcastId": "sharp-china",
         "podcastTitle": "Sharp China with Bill Bishop",
@@ -90987,6 +91063,22 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "made-in-china-de-ep-buzzsprout-19837664",
+        "podcastId": "made-in-china-de",
+        "podcastTitle": "Made in China (German)",
+        "title": "#228 – Vietnam statt China? Warum „China + 1“ zu kurz gedacht ist | Alexander Ziehe, Hettich Group",
+        "description": "Südostasien gewinnt wirtschaftlich immer stärker an Bedeutung, internationale Unternehmen investieren und neue Produktionsstandorte entstehen. Gleichzeitig wird die Region von vielen deutschen Unternehmen noch immer unterschätzt. Welche Chancen en...",
+        "publishDate": "2026-09-22",
+        "duration": 2451,
+        "audioUrl": "https://www.buzzsprout.com/1869386/episodes/19837664-228-vietnam-statt-china-warum-china-1-zu-kurz-gedacht-ist-alexander-ziehe-hettich-group.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
       {
         "id": "made-in-china-de-ep-buzzsprout-19808072",
         "podcastId": "made-in-china-de",
@@ -97739,6 +97831,26 @@
     ],
     "episodes": [
       {
+        "id": "trivium-china-ep-buzzsprout-19850206",
+        "podcastId": "trivium-china",
+        "podcastTitle": "The Trivium China Podcast",
+        "title": "Ep 87 - Joerg Wuttke: China told Europe exactly how it would beat us. We didn&#39;t listen.",
+        "description": "Back in 2017, China’s former SASAC chairman told Joerg Wuttke, then president of the EU Chamber of Commerce in China, precisely which industries China’s overcapacity machine would roll through next: EVs, batteries, solar, wind, basic chemicals.Fas...",
+        "publishDate": "2026-09-23",
+        "duration": 3064,
+        "audioUrl": "https://www.buzzsprout.com/2408047/episodes/19850206-ep-87-joerg-wuttke-china-told-europe-exactly-how-it-would-beat-us-we-didn-t-listen.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "trivium-china-ep-buzzsprout-19828345",
         "podcastId": "trivium-china",
         "podcastTitle": "The Trivium China Podcast",
@@ -100962,6 +101074,69 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "roundtable-china-ep-1-2765961",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "He delivered food, then made history",
+        "description": "Deep in the Italian Alps lies a course so punishing that it has broken some of the world's best athletes. This year, it was conquered by Zhao Jiaju, a Chinese runner who once delivered takeout for a living. A year earlier, the same mountains hande...",
+        "publishDate": "2026-09-22",
+        "duration": 1210,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2609/1090067385009.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "History"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765958",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Behind schools' phone bans",
+        "description": "China is pushing harder to remove phones from classrooms, and a new Chongqing regulation marks a notable escalation. Schools there can now ban smartphones, tablets, and smartwatches, but this measure sits inside a juvenile crime prevention law rat...",
+        "publishDate": "2026-09-22",
+        "duration": 1916,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2609/1090067283898.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765949",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "The Why: big tech's battle for keyboards",
+        "description": "Every text you send, every search you run, every question you ask an AI passes through the same quiet piece of software beneath your fingertips, and it is watching all of it. In 2026, China's biggest tech companies are fighting to control that sof...",
+        "publishDate": "2026-09-21",
+        "duration": 1246,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2609/1089980332867.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Tech & Business"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765946",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "China's first AI-BCI medical standard",
+        "description": "China has now approved the world's first national standard for BCI medical devices that use AI to interpret brainwaves, setting rules for how brain data is collected and accessed. The question now is whether that standard makes the technology safe...",
+        "publishDate": "2026-09-21",
+        "duration": 1899,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2609/1089980256924.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Tech & Business"
+        ]
+      },
       {
         "id": "roundtable-china-ep-1-02765945",
         "podcastId": "roundtable-china",
@@ -109976,6 +110151,102 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0922dem",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Democrats Urge Trump to Confront Xi Over Prisoners of Conscience in China During Summit",
+        "description": "",
+        "publishDate": "2026-09-22",
+        "duration": 373,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0922/1e5618a6-df40-4f37-8519-ff17c07bb314/audio.mp3?length=4505662&duration=373",
+        "topics": [
+          "US-China Relations"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0922exp",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China Expands Export Controls on Drug Precursor Chemicals Ahead of Trump–Xi Talks",
+        "description": "",
+        "publishDate": "2026-09-22",
+        "duration": 251,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0922/e96b2ee7-192a-470d-947c-00547a600423/audio.mp3?length=3041470&duration=251",
+        "topics": [
+          "US-China Relations"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0922pea",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China Claims Peacemaker Role While Arming Iran",
+        "description": "",
+        "publishDate": "2026-09-22",
+        "duration": 388,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0922/d19ec79d-8425-4562-807d-811679c4f89f/audio.mp3?length=4676158&duration=388",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0922amb",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "America’s Strategic Ambiguity Over Taiwan Is Changing",
+        "description": "",
+        "publishDate": "2026-09-22",
+        "duration": 433,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0922/a1f11fed-6a70-454e-9589-f7203456509b/audio.mp3?length=5227678&duration=433",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0922tw",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China Fires 27 Rockets Into Taiwan’s Waters in 2nd Day of Military Drills",
+        "description": "",
+        "publishDate": "2026-09-22",
+        "duration": 409,
+        "audioUrl": "https://vod.brightchat.com/assets/2025/1230/6b17de96-a675-4b6b-88b3-0ebe3a5c6bb8/audio.mp3?length=4917888&duration=409",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0922chi",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "How China Turns Presence Into Power",
+        "description": "",
+        "publishDate": "2026-09-22",
+        "duration": 462,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0922/2a7a2184-9f86-4d91-b16f-d766b961a4a3/audio.mp3?length=5566942&duration=462",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg048",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 48 Jigong Effortlessly Catches a Suspect on His Way to See the Prime Minister",
+        "description": "Playlist Hub",
+        "publishDate": "2026-09-22",
+        "duration": 2532,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg048.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0921exp",
         "podcastId": "china-in-depth",
