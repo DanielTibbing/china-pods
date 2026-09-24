@@ -16,6 +16,21 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-trivium-china-podcast-joerg-",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "Trivium China Podcast | Joerg Wuttke: China told Europe Exactly How It Would Beat Us. We Didn't Listen.",
+        "description": "Listen now (51 mins) | Back in 2017, China&#8217;s former SASAC chairman told Joerg Wuttke, then president of the EU Chamber of Commerce in China, precisely which industries China&#8217;s overcapacity machine would roll through next: EVs, batterie...",
+        "publishDate": "2026-09-23",
+        "duration": 1800,
+        "audioUrl": "https://api.substack.com/feed/podcast/217079816/12f1a009085e449305b0a13088e5fa4c.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Daily Life",
+          "Tech & Business"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-trivium-china-podcast-the-we",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -5601,6 +5616,22 @@
     ],
     "episodes": [
       {
+        "id": "chp-ep-f37b8b37-636e-4ba3-bc03-caa420ad0d4d",
+        "podcastId": "chp",
+        "podcastTitle": "The China History Podcast",
+        "title": "A Concise History of China-Pangu to Puyi - Part 5",
+        "description": "From the flames of Red Cliffs to the turmoil of the Sixteen Kingdoms, Part 5 follows China through an age of legendary heroes, fragile reunification, and renewed division. The episode explores the struggles of Cao Cao, Liu Bei, and Sun Quan, the s...",
+        "publishDate": "2026-09-23",
+        "duration": 7566,
+        "audioUrl": "https://episodes.captivate.fm/episode/f37b8b37-636e-4ba3-bc03-caa420ad0d4d.mp3",
+        "topics": [
+          "Dynastic History",
+          "Feminism & Arts",
+          "History",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "chp-ep-c7b04d57-0eba-49bb-b47d-eae721b5d933",
         "podcastId": "chp",
         "podcastTitle": "The China History Podcast",
@@ -10229,7 +10260,7 @@
         "podcastId": "chp",
         "podcastTitle": "The China History Podcast",
         "title": "Ep. 178 | William Mesny (Part 2)",
-        "description": "In part two of this series examining the forgotten life of William Mesny, we hear the second half of his story in China. We're mostly using author David Leffman's 2016 book \"The Mercenary Mandarin\". Learn more about your ad choices. Visit megaphon...",
+        "description": "In part two of this series examining the forgotten life of William Mesny, we hear the second half of his story in China. We're mostly using author David Leffman's 2016 book \"The Mercenary Mandarin\".",
         "publishDate": "2017-01-10",
         "duration": 2611,
         "audioUrl": "https://episodes.captivate.fm/episode/0995c539-5a30-4469-860d-e9a2ac0536d8.mp3",
@@ -10310,7 +10341,7 @@
         "podcastId": "chp",
         "podcastTitle": "The China History Podcast",
         "title": "Ep. 173 | The Tong Wars of New York Chinatown (Part 3)",
-        "description": "Laszlo offers up the exciting conclusion to the 3-part series introducing the Tong Wars. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+        "description": "Laszlo offers up the exciting conclusion to the 3-part series introducing the Tong Wars.",
         "publishDate": "2016-09-03",
         "duration": 2487,
         "audioUrl": "https://episodes.captivate.fm/episode/05828dc7-d047-414f-9cbd-c1e31e05226f.mp3",
@@ -34192,6 +34223,23 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "china-power-ep-b746e6a8-b759-11f1-8942-a398b050fe35",
+        "podcastId": "china-power",
+        "podcastTitle": "China Power",
+        "title": "The State of U.S.-China Relations Ahead of the Trump-Xi Summit: A Conversation with Demetri Sevastopulo and Xiangwei Wang ",
+        "description": "In this episode, Demetri Sevastopulo and Xiangwei Wang join the ChinaPower Podcast to discuss the current state of U.S.-China relations and what to watch for at the Trump-Xi summit in Washington, D.C. Demetri provides the inside scoop as one of ve...",
+        "publishDate": "2026-09-23",
+        "duration": 2901,
+        "audioUrl": "https://traffic.megaphone.fm/CSIS8351408715.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Economic Reform",
+          "Geopolitics & Politics",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-power-ep-17146c2a-ad34-11f1-b94b-fb112e159384",
         "podcastId": "china-power",
@@ -101075,6 +101123,24 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-02765970",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "IN VIDEO: Nineteen rules that could change home care in China",
+        "description": "Bringing someone into your home to clean or care for your family feels like a private arrangement. In China, it is also a thirty-million-person industry, one that has long run on informal deals, unclear hours, and unanswered questions about who is...",
+        "publishDate": "2026-09-23",
+        "duration": 3577,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp4/radio-res.cgtn.com/ueditor/audio/2609/1090143599326.mp4",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2765961",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -110151,6 +110217,125 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0923fam",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Families Call for Release of Loved Ones in China as Xi Visits US",
+        "description": "",
+        "publishDate": "2026-09-23",
+        "duration": 744,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0923/da4e7f99-5623-4767-8ab1-4fea5e880857/audio.mp3?length=8951806&duration=744",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0923coa",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Coast Guard Intercepts Alleged Smuggling Vessel With 13 Chinese Nationals",
+        "description": "",
+        "publishDate": "2026-09-23",
+        "duration": 175,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0923/ba8bfa78-317e-4019-a7dd-f785d29bbbbd/audio.mp3?length=2122750&duration=175",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0923hom",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "‘Bring Them Home’: Americans Push to Free Loved Ones Jailed in China",
+        "description": "",
+        "publishDate": "2026-09-23",
+        "duration": 347,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0923/d2bcdaa1-47ac-438d-830b-031620729f7b/audio.mp3?length=4192893&duration=347",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0923ext",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Bessent Says US Agreed to Extend China Trade Deal Through Jan. 10",
+        "description": "",
+        "publishDate": "2026-09-23",
+        "duration": 236,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0923/114ce4b2-12e0-4e40-854b-1c40d85af841/audio.mp3?length=2860606&duration=236",
+        "topics": [
+          "Economic Reform"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0923lay",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "House China Committee Chairman Lays Out Expectations for Trump-Xi Summit",
+        "description": "",
+        "publishDate": "2026-09-23",
+        "duration": 209,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0923/e39f1166-99de-4021-a1bd-98bb15b9bb51/audio.mp3?length=2536606&duration=209",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0923dem",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Ahead of Trump–Xi Summit, Democrats Call for Tighter China Chip Controls",
+        "description": "",
+        "publishDate": "2026-09-23",
+        "duration": 158,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0924/9691d843-3e5f-4887-9c32-c35bde5b23df/audio.mp3?length=1920862&duration=158",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0923oil",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s Limited Access to Oil May Force a Strategic Discussion at Trump–Xi Summit",
+        "description": "",
+        "publishDate": "2026-09-23",
+        "duration": 403,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0922/aa8823fe-3bf0-4930-8853-146da274f7be/audio.mp3?length=4866526&duration=403",
+        "topics": [
+          "US-China Relations"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0923mh",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Falun Dafa News from Around the World – September 23, 2026",
+        "description": "",
+        "publishDate": "2026-09-23",
+        "duration": 1259,
+        "audioUrl": "https://en.minghui.org/u/files/podcasts/emh-podcast/EMHPodcast_2182-News.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg049",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 49 Jigong Leads the Team to Catch the Criminals",
+        "description": "Playlist Hub",
+        "publishDate": "2026-09-23",
+        "duration": 2568,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg049.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0922dem",
         "podcastId": "china-in-depth",
