@@ -10517,7 +10517,7 @@
         "podcastId": "chp",
         "podcastTitle": "The China History Podcast",
         "title": "Ep. 162 | Zhou Enlai (Part 2)",
-        "description": "In this second part of what's shaping up to be a long series, Laszlo picks up at the Zhongshan Gunboat Incident and follows the life of Zhou Enlai through the challenging years of 1926-1934. Support this podcast at — https://redcircle.com/the-chin...",
+        "description": "In this second part of what's shaping up to be a long series, Laszlo picks up at the Zhongshan Gunboat Incident and follows the life of Zhou Enlai through the challenging years of 1926-1934.",
         "publishDate": "2015-11-13",
         "duration": 2856,
         "audioUrl": "https://episodes.captivate.fm/episode/1b9d424f-4639-458a-9fe9-d0e73393e5f2.mp3",
@@ -10525,7 +10525,6 @@
           "Semiconductors & AI",
           "Dynastic History",
           "Feminism & Arts",
-          "History",
           "Culture & Society"
         ]
       },
@@ -101123,6 +101122,37 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-2765987",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "The apartment complex campus problem",
+        "description": "Living on campus has long been a standard part of university life in China, but that is now starting to change. Instead of staying within campus walls, many students are moving into residential buildings, as universities across the country buy or ...",
+        "publishDate": "2026-09-24",
+        "duration": 1424,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2609/1090240038902.mp3",
+        "topics": [
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765984",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "WorldSkills in Shanghai",
+        "description": "In Shanghai this week, the WorldSkills Competition has brought together around 1,400 young competitors from 68 countries. They are repairing cars, programming drones, and working with a level of precision that comes down to half a millimeter. It i...",
+        "publishDate": "2026-09-24",
+        "duration": 1706,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2609/1090239948269.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-02765970",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -109689,6 +109719,24 @@
     ],
     "episodes": [
       {
+        "id": "wire-china-ep-buzzsprout-19854832",
+        "podcastId": "wire-china",
+        "podcastTitle": "The Wire China Podcast",
+        "title": "FCC vs the PRC",
+        "description": "The main muscle of President Trump's second-term China policy isn't at the State Department. Nor is it at the Department of Commerce. Instead, it's the U.S. television regulator. Reporter Noah Berman and editor Andrew Peaple are back this episode ...",
+        "publishDate": "2026-09-24",
+        "duration": 977,
+        "audioUrl": "https://www.buzzsprout.com/2591600/episodes/19854832-fcc-vs-the-prc.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Feminism & Arts",
+          "Geopolitics & Politics",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "wire-china-ep-buzzsprout-19824883",
         "podcastId": "wire-china",
         "podcastTitle": "The Wire China Podcast",
@@ -110217,6 +110265,113 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0924to",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "‘I’ll Shoot You Dead': Falun Gong Practitioner Attacked Outside Chinese Consulate in Toronto",
+        "description": "",
+        "publishDate": "2026-09-24",
+        "duration": 278,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0924/bacbbe32-f8d7-449d-b57d-b0e89d19ec80/audio.mp3?length=3361438&duration=278",
+        "topics": [
+          "US-China Relations"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0924stop",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "‘Stop Transnational Repression’: Community Leaders Condemn Attack on Falun Gong Practitioner Outside Chinese Consulate in Toronto",
+        "description": "",
+        "publishDate": "2026-09-24",
+        "duration": 559,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0925/c2784705-71e4-4bda-848a-906824202bd2/audio.mp3?length=6739102&duration=559",
+        "topics": [
+          "US-China Relations"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0924ai",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Trump Says No New AI Guardrails Planned With China",
+        "description": "",
+        "publishDate": "2026-09-24",
+        "duration": 144,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0924/d10d730f-78e6-4fa3-bf38-41f30d548f69/audio.mp3?length=1758718&duration=145",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0924xi",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Trump Meets China’s Xi for Talks on Trade, AI Amid Human Rights Protests",
+        "description": "",
+        "publishDate": "2026-09-24",
+        "duration": 139,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0925/574b5fdc-c4ef-4ea3-a093-9285cf43e8f0/audio.mp3?length=1688446&duration=139",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Economic Reform"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0924hr",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Human Rights Shouldn’t Take Back Seat in Trump–Xi Talks, Rallygoers Urge",
+        "description": "",
+        "publishDate": "2026-09-24",
+        "duration": 376,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0925/64144e3b-e05a-4e49-b53d-d45c556c2bf8/audio.mp3?length=4541950&duration=376",
+        "topics": [
+          "US-China Relations"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0924arc2",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "US Monitors Chinese Marine Presence in Arctic Near Alaska as It Secures Greenland Deal",
+        "description": "",
+        "publishDate": "2026-09-24",
+        "duration": 660,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0923/e4316bae-1425-402d-bdf9-bbafe705e24d/audio.mp3?length=7940062&duration=660",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0924arc",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s Arctic Optionality Quest Turning Access Into Leverage",
+        "description": "",
+        "publishDate": "2026-09-24",
+        "duration": 448,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0924/a6c57340-646e-41e5-9ed7-7af58653eca3/audio.mp3?length=5397886&duration=448",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg050",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 50 Jigong's Team  Catches an Assassin",
+        "description": "Playlist Hub",
+        "publishDate": "2026-09-24",
+        "duration": 2381,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg050.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0923fam",
         "podcastId": "china-in-depth",
