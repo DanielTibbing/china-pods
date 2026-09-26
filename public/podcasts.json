@@ -12944,7 +12944,7 @@
         "podcastId": "chp",
         "podcastTitle": "The China History Podcast",
         "title": "Ep. 11 | Kang Sheng",
-        "description": "Kang Sheng 康生 was a sinister character from modern Chinese history who was both Chairman Mao's close confidant and creator of China's Secret Police. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+        "description": "Kang Sheng 康生 was a sinister character from modern Chinese history who was both Chairman Mao's close confidant and creator of China's Secret Police.",
         "publishDate": "2010-08-19",
         "duration": 1924,
         "audioUrl": "https://episodes.captivate.fm/episode/cbe0863e-ff3f-4483-8888-83d5aa4498b7.mp3",
@@ -13031,6 +13031,25 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "chinatalk-ep-dede156e-b908-11f1-8eab-afb6aa5ffde5",
+        "podcastId": "chinatalk",
+        "podcastTitle": "ChinaTalk",
+        "title": "WarTalk: Potemkin Pacific, Midterm Budget Woes",
+        "description": "WarTalk regulars Bryan Clark of the Hudson Institute, Justin McIntosh, and Tony Stark join Jordan. We discuss… The Potemkin Pacific — why Paparo has half the planet on his map and nothing to fight with, and how the Iran blockade became the status ...",
+        "publishDate": "2026-09-25",
+        "duration": 4348,
+        "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL2965005827.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Geopolitics & Politics",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "chinatalk-ep-0df8ed52-9d06-11f1-a79f-c3b0e9b10a75",
         "podcastId": "chinatalk",
@@ -42171,6 +42190,22 @@
     ],
     "episodes": [
       {
+        "id": "teatime-chinese-ep-f5ca421e-8d55-4fa9-b0ae-dbda496f82bc",
+        "podcastId": "teatime-chinese",
+        "podcastTitle": "TeaTime Chinese 茶歇中文",
+        "title": "第98集：项羽，英雄的悲剧 Xiang Yu, tragedy of a hero",
+        "description": "免费阅读原文 Free transcript 项羽（前232 – 前202）是秦朝末年起义军中的一股重要力量。秦亡后，他与刘邦争夺天下。史学家说，\"羽之神勇，千古无二\"。在今天的节目里，我们就来看看项羽的一生。 Xiang Yu (232 BC – 202 BC) is an important force of rebellion against the Qin Dynasty. After the demise of Qin, he went on to fight Liu Bang ...",
+        "publishDate": "2026-09-25",
+        "duration": 1856,
+        "audioUrl": "https://traffic.libsyn.com/secure/teatimechinese/TTCN_98.mp3?dest-id=2693480",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "History",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "teatime-chinese-ep-21d9e59f-e8fc-4930-967e-08a83282de94",
         "podcastId": "teatime-chinese",
         "podcastTitle": "TeaTime Chinese 茶歇中文",
@@ -44303,6 +44338,24 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "sr-kina-ep-rss-sr-se-pod-eid-2881241",
+        "podcastId": "sr-kina",
+        "podcastTitle": "Radiokorrespondenterna Kina",
+        "title": "Extrapodd: Därför rullade Trump ut röda mattan för Xi",
+        "description": "Under pompa och ståt träffas Donald Trump och Xi Jinping, men även om de tycks ha matchat sina kostymer så saknas lösningar på rivaliteten mellan de två. Lyssna på alla avsnitt i Sveriges Radios app. Det finns gott om tvistefrågor mellan jättarna ...",
+        "publishDate": "2026-09-25",
+        "duration": 1605,
+        "audioUrl": "https://static-cdn.sr.se/laddahem/podradio/2026/09/radiokorrespondenterna_kina_extrapodd_darfor_rullade_trum_20260925_1413255379.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Geopolitics & Politics",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "sr-kina-ep-rss-sr-se-pod-eid-2877969",
         "podcastId": "sr-kina",
@@ -97878,6 +97931,25 @@
     ],
     "episodes": [
       {
+        "id": "trivium-china-ep-buzzsprout-19863816",
+        "podcastId": "trivium-china",
+        "podcastTitle": "The Trivium China Podcast",
+        "title": "Ep 88 - The Xi-Trump risk nobody&#39;s pricing in",
+        "description": "US President Donald Trump met Xi Jinping on the tarmac at Joint Base Andrews on Wednesday – a rare honor last extended to the Pope by Barack Obama.The atmospherics of the greeting and the rest of Xi’s Washington trip were great. The actual deliver...",
+        "publishDate": "2026-09-25",
+        "duration": 2235,
+        "audioUrl": "https://www.buzzsprout.com/2408047/episodes/19863816-ep-88-the-xi-trump-risk-nobody-s-pricing-in.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Economic Reform",
+          "Geopolitics & Politics",
+          "Tech & Business"
+        ]
+      },
+      {
         "id": "trivium-china-ep-buzzsprout-19850206",
         "podcastId": "trivium-china",
         "podcastTitle": "The Trivium China Podcast",
@@ -101121,6 +101193,37 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "roundtable-china-ep-1-02765983",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "IN VIDEO: Under the full moon",
+        "description": "There is something comforting about knowing the moon on September 25th is the same one that has watched over this festival for generations. It will shine down on family dinners and quiet apartments, on people coming home and people who cannot. Lif...",
+        "publishDate": "2026-09-25",
+        "duration": 2113,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp4/radio-res.cgtn.com/ueditor/audio/2609/1090236675333.mp4",
+        "topics": [
+          "Dynastic History",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2765977",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Under the full moon: traditions, tastes and travels",
+        "description": "There is something comforting about knowing the moon on September 25th is the same one that has watched over this festival for generations. It will shine down on family dinners and quiet apartments, on people coming home and people who cannot. Lif...",
+        "publishDate": "2026-09-25",
+        "duration": 1982,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2609/1090233746018.mp3",
+        "topics": [
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "roundtable-china-ep-1-2765987",
         "podcastId": "roundtable-china",
@@ -110265,6 +110368,74 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0925sen",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "US Senators Remind Americans of ‘Humanity’s Worst Atrocities’ in China Amid Xi’s Visit",
+        "description": "",
+        "publishDate": "2026-09-25",
+        "duration": 333,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0926/c490f02e-745b-4124-8f48-b8f5ab6a1a5c/audio.mp3?length=4024414&duration=333",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0925key",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Key Takeaways From Trump–Xi Summit",
+        "description": "",
+        "publishDate": "2026-09-25",
+        "duration": 402,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0925/7db17356-8a63-4b80-91a9-df442826b3c9/audio.mp3?length=4852990&duration=402",
+        "topics": [
+          "US-China Relations"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0925scs",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s Growing Military Presence Could Strain US Defenses in South China Sea: Analysts",
+        "description": "",
+        "publishDate": "2026-09-25",
+        "duration": 370,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0904/fbdc1d0d-0dba-420e-ba03-31b535d31923/audio.mp3?length=4469663&duration=370",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0925rob",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s Military Robots Could Outpace America",
+        "description": "",
+        "publishDate": "2026-09-25",
+        "duration": 538,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0924/8a89b173-0087-42b2-aeee-282f94c82555/audio.mp3?length=6483070&duration=538",
+        "topics": [
+          "Semiconductors & AI",
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg051",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 51 The Assassin Told Jigong Where to Catch the Most Wanted Hua Yunlong",
+        "description": "Playlist Hub",
+        "publishDate": "2026-09-25",
+        "duration": 2277,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg051.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0924to",
         "podcastId": "china-in-depth",
