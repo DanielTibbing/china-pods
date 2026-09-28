@@ -16,6 +16,19 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-paying-to-suffer-phrase-of-t",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "\"Paying to suffer\" — Phrase of the Week",
+        "description": "HYROX's Beijing scandal turns a joke about elective misery uncomfortably literal",
+        "publishDate": "2026-09-27",
+        "duration": 1800,
+        "audioUrl": "https://substackcdn.com/image/fetch/$s_!0d6_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1bf3770f-adce-42b8-b2a7-d95bbc16c7a9_2000x1200.jpeg",
+        "topics": [
+          "Daily Life"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-trivium-china-podcast-joerg-",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -11814,7 +11827,7 @@
         "podcastId": "chp",
         "podcastTitle": "The China History Podcast",
         "title": "Ep. 90 | The Cultural Revolution (Part 8)",
-        "description": "In this final episode of the Cultural Revolution overview we look at the events that went down in 1976 as well as the massive mopping-up operation that took place after the fall of the Gang of Four. Learn more about your ad choices. Visit megaphon...",
+        "description": "In this final episode of the Cultural Revolution overview we look at the events that went down in 1976 as well as the massive mopping-up operation that took place after the fall of the Gang of Four.",
         "publishDate": "2012-07-02",
         "duration": 1822,
         "audioUrl": "https://episodes.captivate.fm/episode/fe4f26c6-679e-4e38-84a6-76feb80e74a9.mp3",
@@ -11882,7 +11895,6 @@
         "audioUrl": "https://episodes.captivate.fm/episode/47750d08-df2d-401e-8162-97e0be5cebcd.mp3",
         "topics": [
           "Feminism & Arts",
-          "History",
           "Culture & Society"
         ]
       },
@@ -11922,7 +11934,7 @@
         "podcastId": "chp",
         "podcastTitle": "The China History Podcast",
         "title": "Ep. 83 | The Cultural Revolution (Part 1)",
-        "description": "By popular demand, Laszlo begins to trace the history of the Cultural Revolution. This week's episode looks at the events leading up to the moment in 1966 when Mao called for the people to Bombard the Headquarters and to tear down the government. ...",
+        "description": "By popular demand, Laszlo begins to trace the history of the Cultural Revolution. This week's episode looks at the events leading up to the moment in 1966 when Mao called for the people to Bombard the Headquarters and to tear down the government.",
         "publishDate": "2012-05-13",
         "duration": 1985,
         "audioUrl": "https://episodes.captivate.fm/episode/caa70040-5fc0-491d-8217-48497f282839.mp3",
@@ -11999,7 +12011,7 @@
         "podcastId": "chp",
         "podcastTitle": "The China History Podcast",
         "title": "Ep. 77 | The Silk Road & Marco Polo",
-        "description": "In this farewell look at the Silk Road, we discuss a few more interesting things and then give the travels and adventures of Marco Polo a once over. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+        "description": "In this farewell look at the Silk Road, we discuss a few more interesting things and then give the travels and adventures of Marco Polo a once over.",
         "publishDate": "2012-03-14",
         "duration": 1877,
         "audioUrl": "https://episodes.captivate.fm/episode/ca51aa4d-b711-40c3-922f-cc7874f651ce.mp3",
@@ -12087,7 +12099,7 @@
         "podcastId": "chp",
         "podcastTitle": "The China History Podcast",
         "title": "Ep. 70 | Deng Xiaoping (Part 8)",
-        "description": "Today we conclude our eight-part overview of Dr. Ezra Vogel's recent biography of Deng Xiaoping. In this installment we focus on Deng's dramatic and brilliant Southern Tour of January-February 1992. Learn more about your ad choices. Visit megaphon...",
+        "description": "Today we conclude our eight-part overview of Dr. Ezra Vogel's recent biography of Deng Xiaoping. In this installment we focus on Deng's dramatic and brilliant Southern Tour of January-February 1992.",
         "publishDate": "2012-01-08",
         "duration": 2275,
         "audioUrl": "https://episodes.captivate.fm/episode/d057e616-499f-4a20-a23b-a9941ee8f2f5.mp3",
@@ -12102,7 +12114,7 @@
         "podcastId": "chp",
         "podcastTitle": "The China History Podcast",
         "title": "Ep. 69 | Deng Xiaoping (Part 7)",
-        "description": "After a holiday delay, Laszlo is back with the 7th and almost final episode of our overview of Ezra Vogel's new biography of Deng. In this episode we look at the meat and potatoes of the Reform years from 1979 to 1989. Learn more about your ad cho...",
+        "description": "After a holiday delay, Laszlo is back with the 7th and almost final episode of our overview of Ezra Vogel's new biography of Deng. In this episode, we look at the meat and potatoes of the Reform years from 1979 to 1989.",
         "publishDate": "2011-12-30",
         "duration": 2241,
         "audioUrl": "https://episodes.captivate.fm/episode/b379ae2a-bef1-4e35-b143-7ca3823bd514.mp3",
@@ -12117,7 +12129,7 @@
         "podcastId": "chp",
         "podcastTitle": "The China History Podcast",
         "title": "Ep. 68 | Deng Xiaoping (Part 6)",
-        "description": "In this sixth installment of the Deng Xiaoping overview, we focus on 1978-1979. In this episode we see Deng return to power a third time. Deng immediately throws all his energy into advancing the cause of modernization in China. Learn more about y...",
+        "description": "In this sixth installment of the Deng Xiaoping overview, we focus on 1978-1979. In this episode we see Deng return to power a third time. Deng immediately throws all his energy into advancing the cause of modernization in China.",
         "publishDate": "2011-12-19",
         "duration": 2252,
         "audioUrl": "https://episodes.captivate.fm/episode/8f6f48d8-f68e-480c-b17d-c023523ef9ac.mp3",
@@ -12148,7 +12160,7 @@
         "podcastId": "chp",
         "podcastTitle": "The China History Podcast",
         "title": "Ep. 66 | Deng Xiaoping (Part 4)",
-        "description": "After a bit of a delay, this week we look again at Deng Xiaoping and his struggles during the Cultural Revolution Years from 1966 to 1975. Seems we still have a long way to go yet. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+        "description": "After a bit of a delay, this week we look again at Deng Xiaoping and his struggles during the Cultural Revolution Years from 1966 to 1975. Seems we still have a long way to go yet.",
         "publishDate": "2011-12-03",
         "duration": 2220,
         "audioUrl": "https://episodes.captivate.fm/episode/684052a6-6ecd-4eac-94cf-2f8ab7f6e48e.mp3",
@@ -12164,7 +12176,7 @@
         "podcastId": "chp",
         "podcastTitle": "The China History Podcast",
         "title": "Ep. 65 | Deng Xiaoping (Part 3)",
-        "description": "Today in Part 3 of our Deng Xiaoping overview we look at The Great One's life from 1952 after his return from the Southwest Bureau all the way up to the start of the Cultural Revolution. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+        "description": "Today in Part 3 of our Deng Xiaoping overview we look at The Great One's life from 1952 after his return from the Southwest Bureau all the way up to the start of the Cultural Revolution.",
         "publishDate": "2011-11-23",
         "duration": 1779,
         "audioUrl": "https://episodes.captivate.fm/episode/9e138f7e-e1ba-407f-b51c-9ec3cfefead6.mp3",
@@ -12311,7 +12323,7 @@
         "podcastId": "chp",
         "podcastTitle": "The China History Podcast",
         "title": "Ep. 55 | The Shanghai Massacre 1927",
-        "description": "Today we're back with more history. We look at the Shanghai Massacre of April 12, 1927. This was the defining moment when Chiang Kai-shek and his allies and supporters made a bloody break with the Communists. Learn more about your ad choices. Visi...",
+        "description": "Today we're back with more history. We look at the Shanghai Massacre of April 12, 1927. This was the defining moment when Chiang Kai-shek and his allies and supporters made a bloody break with the Communists.",
         "publishDate": "2011-08-30",
         "duration": 1990,
         "audioUrl": "https://episodes.captivate.fm/episode/b829c849-5d53-4e54-b910-86670b9cb82b.mp3",
@@ -44339,6 +44351,22 @@
     ],
     "episodes": [
       {
+        "id": "sr-kina-ep-rss-sr-se-pod-eid-2869794",
+        "podcastId": "sr-kina",
+        "podcastTitle": "Radiokorrespondenterna Kina",
+        "title": "Robotarna kliver fram när Kina krymper",
+        "description": "Minskat barnafödande är en ödesfråga för Kina. Blir robotar Kinas framtidslösning när dyrare kondomer och patriotisk propaganda inte rår på befolkningskurvan? Lyssna på alla avsnitt i Sveriges Radios app. Stor tillgång på billig arbetskraft har va...",
+        "publishDate": "2026-09-28",
+        "duration": 1666,
+        "audioUrl": "https://static-cdn.sr.se/laddahem/podradio/2026/09/radiokorrespondenterna_kina_robotarna_kliver_framnar_kina_20260921_1006211783.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "sr-kina-ep-rss-sr-se-pod-eid-2881241",
         "podcastId": "sr-kina",
         "podcastTitle": "Radiokorrespondenterna Kina",
@@ -57461,6 +57489,20 @@
     ],
     "episodes": [
       {
+        "id": "china-flexpat-ep-buzzsprout-19872806",
+        "podcastId": "china-flexpat",
+        "podcastTitle": "China Flexpat",
+        "title": "China Horse Business Podcast - Season 5 - Intro",
+        "description": "For more info about the China Horse Business Tour in Mid-October 2026, please reach out : contact@wonder-horse.comSupport the show",
+        "publishDate": "2026-09-28",
+        "duration": 508,
+        "audioUrl": "https://www.buzzsprout.com/479218/episodes/19872806-china-horse-business-podcast-season-5-intro.mp3",
+        "topics": [
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
+      {
         "id": "china-flexpat-ep-buzzsprout-15775014",
         "podcastId": "china-flexpat",
         "podcastTitle": "China Flexpat",
@@ -59400,7 +59442,7 @@
         ]
       }
     ],
-    "status": "stale"
+    "status": "active"
   },
   {
     "id": "caixin-sinica-business-brief",
