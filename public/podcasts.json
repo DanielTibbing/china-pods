@@ -16,6 +16,32 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-from-barefoot-doctors-to-bio",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "From Barefoot Doctors to Biologics: Dr. Ruby Wang on China's Healthcare Revolution",
+        "description": "This week on Sinica, I sit down with Dr.",
+        "publishDate": "2026-09-29",
+        "duration": 1800,
+        "audioUrl": "https://api.substack.com/feed/podcast/217768142/5b6e0dbd1d768a2dc69a7b016f1c24ab.mp3",
+        "topics": [
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-transcript-from-barefoot-doc",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "Transcript | From Barefoot Doctors to Biologics: Dr. Ruby Wang on China's Healthcare Revolution",
+        "description": "Transcript (courtesy of the fantastic CadreScripts) further down the page.",
+        "publishDate": "2026-09-29",
+        "duration": 1800,
+        "audioUrl": "https://substackcdn.com/image/fetch/$s_!DRpl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4b2557bb-13d5-4aba-b83a-bdc432d18130_1120x800.png",
+        "topics": [
+          "Geopolitics & Politics"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-paying-to-suffer-phrase-of-t",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -189,6 +215,19 @@
         ]
       },
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-this-week-in-chinas-history-",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "This Week in China’s History | The Boxer Protocol",
+        "description": "September 7, 1901",
+        "publishDate": "2026-09-11",
+        "duration": 1800,
+        "audioUrl": "https://substackcdn.com/image/fetch/$s_!q3v5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1fa592f7-6ec4-4376-9e63-ff9e8eae3bfe_764x335.jpeg",
+        "topics": [
+          "History"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-western-medicine-works-faste",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -239,19 +278,6 @@
         "audioUrl": "https://substackcdn.com/image/fetch/$s_!wqzL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fef0a0438-ba07-4374-acce-20d64b03b174_2000x1200.jpeg",
         "topics": [
           "Culture & Society"
-        ]
-      },
-      {
-        "id": "sinica-ep-https---www-sinicapodcast-com-p-this-week-in-chinas-history-",
-        "podcastId": "sinica",
-        "podcastTitle": "The Sinica Podcast",
-        "title": "This Week in China’s History: The Battle of Lake Poyang",
-        "description": "August 30, 1363",
-        "publishDate": "2026-08-29",
-        "duration": 1800,
-        "audioUrl": "https://substackcdn.com/image/fetch/$s_!z4LI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F568733ef-0409-4143-91f0-366e3b5669ee_2080x1132.png",
-        "topics": [
-          "History"
         ]
       },
       {
@@ -11180,7 +11206,7 @@
         "podcastId": "chp",
         "podcastTitle": "The China History Podcast",
         "title": "Ep. 133 | The Song Emperor Huizong (Part 2)",
-        "description": "This time in Part 2 of our series we look at Huizong as he attempts to assemble his team and deal with bitter factional strife that was rampant since the Wang Anshi New Reforms. We also look at Huizong the great patron of the arts. Learn more abou...",
+        "description": "This time in Part 2 of our series we look at Huizong as he attempts to assemble his team and deal with bitter factional strife that was rampant since the Wang Anshi New Reforms. We also look at Huizong the great patron of the arts.",
         "publishDate": "2014-04-19",
         "duration": 2288,
         "audioUrl": "https://episodes.captivate.fm/episode/e09d85b3-f2eb-4289-8489-c5e679f48e87.mp3",
@@ -11593,7 +11619,7 @@
         "podcastId": "chp",
         "podcastTitle": "The China History Podcast",
         "title": "Ep. 107 | The History of Hong Kong (Part 7)",
-        "description": "We're back with Part 7 of Laszlo's overview of the History of Hong Kong. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+        "description": "We're back with Part 7 of Laszlo's overview of the History of Hong Kong.",
         "publishDate": "2012-12-24",
         "duration": 2263,
         "audioUrl": "https://episodes.captivate.fm/episode/0284d1b1-5ce5-4bd2-8161-3e87785a0e67.mp3",
@@ -11657,7 +11683,7 @@
         "podcastId": "chp",
         "podcastTitle": "The China History Podcast",
         "title": "Ep. 103 | The History of Hong Kong (Part 3)",
-        "description": "Welcome back to Part 3 of Laszlo's overview of the History of Hong Kong. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+        "description": "Welcome back to Part 3 of Laszlo's overview of the History of Hong Kong.",
         "publishDate": "2012-11-09",
         "duration": 2130,
         "audioUrl": "https://episodes.captivate.fm/episode/8453500a-0ceb-4f30-9387-58f6bfe95f18.mp3",
@@ -13043,6 +13069,27 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "chinatalk-ep-2062b16c-bb4c-11f1-99c9-fbb9dc4ce4d1",
+        "podcastId": "chinatalk",
+        "podcastTitle": "ChinaTalk",
+        "title": "China's Economy is Broken | Logan Wright",
+        "description": "After the global financial crisis, China added a third of global GDP to its bank assets in just eight years... the largest single-country credit expansion in at least a century. Today investment is contracting, growth is less than a percent, and t...",
+        "publishDate": "2026-09-29",
+        "duration": 5282,
+        "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL9044496790.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "History",
+          "Geopolitics & Politics",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "chinatalk-ep-dede156e-b908-11f1-8eab-afb6aa5ffde5",
         "podcastId": "chinatalk",
@@ -110410,6 +110457,220 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0928cf",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Taiwan Responds to Xi's Taiwan Independence Remarks - China in Focus",
+        "description": "",
+        "publishDate": "2026-09-28",
+        "duration": 1246,
+        "audioUrl": "https://podcasts.captivate.fm/media/43de0271-6017-49b5-a951-811e3fed3099/0925-1497098373-CIF-Audio-converted.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0928ca",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Foreign Minister Urged to Demand Answers From Beijing After Falun Gong Practitioners Attacked Outside Toronto ",
+        "description": "",
+        "publishDate": "2026-09-28",
+        "duration": 382,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0929/73dd27d2-03c0-4999-828a-e489a8219371/audio.mp3?length=4608190&duration=382",
+        "topics": [
+          "Daily Life"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0928tar",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "US, China Release Product Lists for $30 Billion Reciprocal Tariff Reduction Deal",
+        "description": "",
+        "publishDate": "2026-09-28",
+        "duration": 199,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0928/04eb31ce-d795-4e78-9644-b4de9223603e/audio.mp3?length=2411614&duration=199",
+        "topics": [
+          "US-China Relations"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0928phi",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China Blocks Philippine Resupply Mission in South China Sea",
+        "description": "",
+        "publishDate": "2026-09-28",
+        "duration": 278,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0928/c87629bb-b8ea-4f88-abc6-a79dc6248d6f/audio.mp3?length=3361150&duration=278",
+        "topics": [
+          "US-China Relations"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0928eu1",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "EU Says It Will Use All Tools to Rebalance Trade With China",
+        "description": "",
+        "publishDate": "2026-09-28",
+        "duration": 177,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0916/8defc34a-e629-4f35-9028-31ce0da3315f/audio.mp3?length=2152126&duration=177",
+        "topics": [
+          "Economic Reform"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0928eu",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Trade Tensions Between Europe and China Are Coming to a Head",
+        "description": "",
+        "publishDate": "2026-09-28",
+        "duration": 418,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0927/2328a1ba-66b8-4128-9c99-fd57013995e7/audio.mp3?length=5042782&duration=418",
+        "topics": [
+          "Dynastic History",
+          "Economic Reform"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg053",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 53 Jigong Comes Upstairs to Get Hua Yunlong in the Tavern",
+        "description": "Playlist Hub",
+        "publishDate": "2026-09-28",
+        "duration": 1964,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg053.mp3",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0927tar",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "US, China Announce Reciprocal Tariff Reduction Plan for $30 Billion in Goods",
+        "description": "",
+        "publishDate": "2026-09-27",
+        "duration": 279,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0926/0a0750e7-6d5d-4b67-8124-a44e976b51d3/audio.mp3?length=3372958&duration=279",
+        "topics": [
+          "US-China Relations"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0927xi",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Xi’s Military Purge Creates Challenge for Rebuilding China’s Command Structure",
+        "description": "",
+        "publishDate": "2026-09-27",
+        "duration": 408,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0926/2a966708-1d44-4e79-82fa-65ad627edb08/audio.mp3?length=4918366&duration=408",
+        "topics": [
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0927eu",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Mired in Economic Troubles, China Can’t Afford Trade War With EU: Analysts",
+        "description": "",
+        "publishDate": "2026-09-27",
+        "duration": 416,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0926/3e0d0218-ec69-43a6-abda-128cdc33a0ae/audio.mp3?length=5022910&duration=416",
+        "topics": [
+          "US-China Relations",
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0927vis",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "US Working to Close Visa Loophole for Chinese Visitors: Homan",
+        "description": "",
+        "publishDate": "2026-09-27",
+        "duration": 255,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0927/3fa430c6-b541-4ec8-8f14-b21e9cc04a55/audio.mp3?length=3089278&duration=255",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0927ai",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Trump Rejects Integrating With China on AI",
+        "description": "",
+        "publishDate": "2026-09-27",
+        "duration": 184,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0927/9b0f97f3-e5f0-4f4b-8f2e-0432548b8fa1/audio.mp3?length=2236509&duration=184",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0927edu",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "The CCP Expands Political Control Over China’s Education",
+        "description": "",
+        "publishDate": "2026-09-27",
+        "duration": 376,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0927/4c1b0dc7-2550-448e-b4c2-0feb48a63207/audio.mp3?length=4532446&duration=376",
+        "topics": [
+          "Geopolitics & Politics",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0927yua",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China Rolls out New Measures to Take Yuan Global; Analysts Say It Won’t Be Able to Displace US Dollar",
+        "description": "",
+        "publishDate": "2026-09-27",
+        "duration": 425,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0619/60b3210f-df15-45cc-9189-43083ace2bb1/audio.mp3?length=5111712&duration=425",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0927dll",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Why Is China Reducing Its Dependence on the Dollar?",
+        "description": "",
+        "publishDate": "2026-09-27",
+        "duration": 382,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0927/594bd356-e10c-4087-bbe3-62a93e3c7feb/audio.mp3?length=4610782&duration=382",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg052",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 52 Now Jigong Has Three Tasks to Takle",
+        "description": "Playlist Hub",
+        "publishDate": "2026-09-27",
+        "duration": 2520,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg052.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0925sen",
         "podcastId": "china-in-depth",
