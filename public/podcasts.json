@@ -5668,6 +5668,23 @@
     ],
     "episodes": [
       {
+        "id": "chp-ep-52e1e0e7-913f-4250-8dc0-39a5b98042d1",
+        "podcastId": "chp",
+        "podcastTitle": "The China History Podcast",
+        "title": "A Concise History of China-Pangu to Puyi - Part 6",
+        "description": "After centuries of division, how did China find its way back to unity? Part 6 follows the Northern and Southern Dynasties through an age of political upheaval, cultural transformation, and the flourishing of Buddhism. In Part 6, we'll also explore...",
+        "publishDate": "2026-09-30",
+        "duration": 8089,
+        "audioUrl": "https://episodes.captivate.fm/episode/52e1e0e7-913f-4250-8dc0-39a5b98042d1.mp3",
+        "topics": [
+          "Dynastic History",
+          "Feminism & Arts",
+          "Economic Reform",
+          "History",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "chp-ep-f37b8b37-636e-4ba3-bc03-caa420ad0d4d",
         "podcastId": "chp",
         "podcastTitle": "The China History Podcast",
@@ -11264,16 +11281,16 @@
         "id": "chp-ep-fab36d32af9afe39775d444a8d8cda6b",
         "podcastId": "chp",
         "podcastTitle": "The China History Podcast",
-        "title": "Ep. 130 | Morris Two-Gun Cohen (Part 1)",
+        "title": "Ep. 130 | Morris Two-Gun Cohen",
         "description": "Today I wanted to introduce a sort of lovable rogue who haunted the hotel lobbies of Shanghai, Guangzhou, Hong Kong, London, and Edmonton. Today's subject was by no means a historic figure. In fact, I don't think you can even call him a bit player...",
         "publishDate": "2014-02-23",
-        "duration": 3244,
+        "duration": 8643,
         "audioUrl": "https://episodes.captivate.fm/episode/9aa11cbc-48e5-4c7d-a25e-16dc6147bb9b.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
           "Daily Life",
-          "Feminism & Arts",
+          "History",
           "Culture & Society"
         ]
       },
@@ -101323,6 +101340,20 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-2766038",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Your travel guide for 2026 National Day holiday",
+        "description": "With Mid-Autumn and National Day bookending a rare calendar gap, travelers are pouncing on what might be 2026's biggest escape window. Domestic hotspots are surging, but overseas demand is climbing fast, too. So what is really driving this rush, a...",
+        "publishDate": "2026-10-01",
+        "duration": 1577,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2609/1090748692927.mp3",
+        "topics": [
+          "Dynastic History",
+          "Daily Life"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2765980",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -101331,6 +101362,20 @@
         "publishDate": "2026-09-30",
         "duration": 1272,
         "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2609/1090234025745.mp3",
+        "topics": [
+          "Dynastic History",
+          "Economic Reform"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-02766072",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "IN VIDEO: We stopped talking, and nobody noticed",
+        "description": "Consider all the small conversations you did not have today. The barista, the neighbor, the colleague you passed without stopping. On their own, each one seems like nothing. They add up to thousands of words that were never spoken, and a new study...",
+        "publishDate": "2026-09-30",
+        "duration": 1658,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp4/radio-res.cgtn.com/ueditor/audio/2609/1090762730749.mp4",
         "topics": [
           "Dynastic History",
           "Economic Reform"
@@ -110030,6 +110075,23 @@
     ],
     "episodes": [
       {
+        "id": "wire-china-ep-buzzsprout-19885536",
+        "podcastId": "wire-china",
+        "podcastTitle": "The Wire China Podcast",
+        "title": "AI Safety with Chinese Characteristics",
+        "description": "Early this summer, Anthropic's advanced AI model Mythos stunned the tech world by identifying thousands of previously unknown vulnerabilities across the internet and even in U.S. government systems. Across the Pacific, Chinese AI regulators were a...",
+        "publishDate": "2026-09-30",
+        "duration": 1271,
+        "audioUrl": "https://www.buzzsprout.com/2591600/episodes/19885536-ai-safety-with-chinese-characteristics.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Daily Life",
+          "Geopolitics & Politics",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "wire-china-ep-buzzsprout-19854832",
         "podcastId": "wire-china",
         "podcastTitle": "The Wire China Podcast",
@@ -110576,6 +110638,128 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-0930hk",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Cotton Calls for Military Supply Chain Security Review After F-35 Parts Diverted to Hong Kong",
+        "description": "",
+        "publishDate": "2026-09-30",
+        "duration": 266,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0930/deb306a8-00f4-49da-9cb5-727aeecfcead/audio.mp3?length=3221470&duration=266",
+        "topics": [
+          "Semiconductors & AI",
+          "Feminism & Arts",
+          "Geopolitics & Politics",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0930frd",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Ford CEO Urges Caution Over Chinese Automakers, Citing Europe’s Situation",
+        "description": "",
+        "publishDate": "2026-09-30",
+        "duration": 281,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0930/2a76463b-74c6-41fe-8391-e6d00815ad16/audio.mp3?length=3391102&duration=281",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0930san",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "US Sanctions 13 Over Iran Weapons Procurement",
+        "description": "",
+        "publishDate": "2026-09-30",
+        "duration": 365,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0930/ff1254c1-5cb8-4a6e-917f-04074b9fdcf8/audio.mp3?length=4403710&duration=365",
+        "topics": [
+          "US-China Relations"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0930sen",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Senator Seeks to Block Chinese Firms on Pentagon Blacklist From Trading in US",
+        "description": "",
+        "publishDate": "2026-09-30",
+        "duration": 195,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0930/079db357-6703-40c2-a5f4-97298118e1bb/audio.mp3?length=2361502&duration=195",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0930c22",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "The Catch-22 of Business With China",
+        "description": "",
+        "publishDate": "2026-09-30",
+        "duration": 273,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0929/2fd9bf73-81ea-45dd-957d-974a5999012b/audio.mp3?length=3304414&duration=273",
+        "topics": [
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0930sum",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "The $60 Billion US–China Summit",
+        "description": "",
+        "publishDate": "2026-09-30",
+        "duration": 442,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0930/735bfed1-3583-4bb8-bc80-7fc13ffe6358/audio.mp3?length=5330492&duration=442",
+        "topics": [
+          "US-China Relations"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0930csh",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Beijing Injects More Cash Into China’s Economy",
+        "description": "",
+        "publishDate": "2026-09-30",
+        "duration": 260,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0930/3dbc2915-1a8c-49ec-b11b-5794b88fcee0/audio.mp3?length=3147454&duration=260",
+        "topics": [
+          "Daily Life",
+          "Economic Reform"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-0930mh",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Falun Dafa News from Around the World – September 30, 2026",
+        "description": "",
+        "publishDate": "2026-09-30",
+        "duration": 1514,
+        "audioUrl": "https://en.minghui.org/u/files/podcasts/emh-podcast/EMHPodcast_2188-News.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg055",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 55 Jigong Found the Robbed Gold Ingots",
+        "description": "Playlist Hub",
+        "publishDate": "2026-09-30",
+        "duration": 2131,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg055.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0929cf",
         "podcastId": "china-in-depth",
