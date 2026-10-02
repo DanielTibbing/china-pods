@@ -3270,6 +3270,24 @@
     ],
     "episodes": [
       {
+        "id": "pekingology-ep-7675fbea-bcdc-11f1-98ac-1f9fa2b757ac",
+        "podcastId": "pekingology",
+        "podcastTitle": "Pekingology",
+        "title": "China’s Global Strategy Under Xi Jinping",
+        "description": "In this episode of Pekingology, Senior Fellow Henrietta Levin is joined by Steve Tsang, Director of the SOAS China Institute and co-author of the new book China’s Global Strategy under Xi Jinping, to discuss China’s ambitions under Xi Jinping and ...",
+        "publishDate": "2026-10-01",
+        "duration": 2946,
+        "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/cohst.app/pdcst/0C0K2I/traffic.megaphone.fm/CSIS8451702582.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Economic Reform",
+          "Geopolitics & Politics",
+          "Tech & Business"
+        ]
+      },
+      {
         "id": "pekingology-ep-a6a80c2e-b212-11f1-84c0-d3eccf229dc1",
         "podcastId": "pekingology",
         "podcastTitle": "Pekingology",
@@ -51426,7 +51444,7 @@
         ]
       }
     ],
-    "status": "active"
+    "status": "stale"
   },
   {
     "id": "tech-in-shanghai",
@@ -85786,6 +85804,25 @@
     ],
     "episodes": [
       {
+        "id": "sharp-china-ep-https---sharpchina-fm-member-episode-the-strategic-stalemate",
+        "podcastId": "sharp-china",
+        "podcastTitle": "Sharp China with Bill Bishop",
+        "title": "The Strategic Stalemate Era for the US and China; Xi Welcomes American Young People; Domestic Crackdowns and Economic Concerns",
+        "description": "On today’s show Andrew and Bill talk through Xi Jinping’s trip to Washington last week, including low expectations that were met, lots of pageantry in between, why both sides are incentivized to preserve stability for now, and how Mao Zedong’s wri...",
+        "publishDate": "2026-10-01",
+        "duration": 3655,
+        "audioUrl": "https://sharpchina.fm/assets/sharpchina169-final-0026.mp3?access_token=MSorAZNuXsdNR1taQBKjcF",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Daily Life",
+          "Economic Reform",
+          "Geopolitics & Politics",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "sharp-china-ep-https---sharpchina-fm-member-episode-preview-xi-jinping-come",
         "podcastId": "sharp-china",
         "podcastTitle": "Sharp China with Bill Bishop",
@@ -101340,6 +101377,21 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-2766044",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "From chaos to order: China's new national shared bike standards",
+        "description": "For years, shared bikes have made short-distance travel easier in Chinese cities, but they have also brought familiar headaches. This September, regulators moved to fix that. A new national standard for internet-based rental bicycles has been appr...",
+        "publishDate": "2026-10-02",
+        "duration": 1333,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2609/1090748823900.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2766038",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -101351,6 +101403,36 @@
         "topics": [
           "Dynastic History",
           "Daily Life"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-02766068",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "IN VIDEO: Your travel guide for 2026 National Day holiday",
+        "description": "With Mid-Autumn and National Day bookending a rare calendar gap, travelers are pouncing on what might be 2026's biggest escape window. Domestic hotspots are surging, but overseas demand is climbing fast, too. So what is really driving this rush? O...",
+        "publishDate": "2026-10-01",
+        "duration": 1900,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp4/radio-res.cgtn.com/ueditor/audio/2609/1090757153034.mp4",
+        "topics": [
+          "Dynastic History",
+          "Daily Life"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2766041",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Remembering the Flying Tigers",
+        "description": "As part of our National Day holiday specials, we're bringing you episodes from Ni How Are You. This is a series of cross-cultural conversations exploring how people in China and the United States see, experience, and understand each other. Today's...",
+        "publishDate": "2026-10-01",
+        "duration": 1572,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2609/1090748766104.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Feminism & Arts",
+          "History",
+          "Culture & Society"
         ]
       },
       {
@@ -110638,6 +110720,84 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-1001cf",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Accord Tackles China’s Steel Overcapacity",
+        "description": "",
+        "publishDate": "2026-10-01",
+        "duration": 1345,
+        "audioUrl": "https://podcasts.captivate.fm/media/84c62858-1348-4b08-ba63-ed6a49bd0e30/1001-1504618298-CIF-Audio-converted.mp3",
+        "topics": [
+          "Daily Life"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1001wh",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China-Linked Hackers Impersonated Former White House Official in AI Spy Campaign: Report",
+        "description": "",
+        "publishDate": "2026-10-01",
+        "duration": 276,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1001/724ce0fc-3ba3-4cf0-a373-29ba88150500/audio.mp3?length=3339550&duration=276",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1001xi",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Trump Says He Discussed China’s Political Prisoners With Xi at Summit",
+        "description": "",
+        "publishDate": "2026-10-01",
+        "duration": 255,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1001/bc9f1283-eed5-40c3-a079-9db1824200ef/audio.mp3?length=3080926&duration=255",
+        "topics": [
+          "US-China Relations"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1001nvd1",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Nvidia to Buy AI Platform Hugging Face in $12.9 Billion Deal",
+        "description": "",
+        "publishDate": "2026-10-01",
+        "duration": 257,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0903/6df0fc5d-ea7c-4336-bcb4-9a4b61006837/audio.mp3?length=3110879&duration=257",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1001nvd",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s Exploitation of Nvidia’s Downstream Control Problems",
+        "description": "",
+        "publishDate": "2026-10-01",
+        "duration": 422,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0930/717f17fd-74be-4131-bc96-d4bd81785c19/audio.mp3?length=5090878&duration=422",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg056",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 56 Again Someone Arrives Just in Time to Pay Restraunt Bill for Jigong",
+        "description": "Playlist Hub",
+        "publishDate": "2026-10-01",
+        "duration": 1374,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg056.mp3",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
       {
         "id": "china-in-depth-ep-0930hk",
         "podcastId": "china-in-depth",
