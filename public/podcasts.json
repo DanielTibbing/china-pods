@@ -13112,6 +13112,27 @@
     ],
     "episodes": [
       {
+        "id": "chinatalk-ep-87a3f1da-be01-11f1-b587-4ff1a91c0c47",
+        "podcastId": "chinatalk",
+        "podcastTitle": "ChinaTalk",
+        "title": "Section 301 and the Spice Man who Sued Trump Over Them",
+        "description": "In February, the Supreme Court ruled Trump's IEEPA tariffs illegal. So why is everyone still paying them? Because the administration rebuilt them: first under Section 122, then under Section 301, and now the 301 tariffs are in court too. So ChinaT...",
+        "publishDate": "2026-10-02",
+        "duration": 3914,
+        "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL7112894980.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Geopolitics & Politics",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "chinatalk-ep-2062b16c-bb4c-11f1-99c9-fbb9dc4ce4d1",
         "podcastId": "chinatalk",
         "podcastTitle": "ChinaTalk",
@@ -98114,6 +98135,23 @@
     ],
     "episodes": [
       {
+        "id": "trivium-china-ep-buzzsprout-19900059",
+        "podcastId": "trivium-china",
+        "podcastTitle": "The Trivium China Podcast",
+        "title": "Ep 89 - Inside China&#39;s two-decade campaign to win over Latin America",
+        "description": "From ports to lithium mines to diplomatic battles over Taiwan, China has spent two decades persistently building influence across Latin America and the Caribbean – one contract, one relationship, one chamber of commerce at a time.Leland Lazarus’s ...",
+        "publishDate": "2026-10-02",
+        "duration": 3427,
+        "audioUrl": "https://www.buzzsprout.com/2408047/episodes/19900059-ep-89-inside-china-s-two-decade-campaign-to-win-over-latin-america.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
+      {
         "id": "trivium-china-ep-buzzsprout-19863816",
         "podcastId": "trivium-china",
         "podcastTitle": "The Trivium China Podcast",
@@ -101389,6 +101427,20 @@
           "Semiconductors & AI",
           "Dynastic History",
           "Daily Life"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2766047",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "A cappella as a bridge between cultures",
+        "description": "As part of our National Day holiday special, we are bringing you episodes from Ni How Are You, a series of cross-cultural conversations exploring how people in China and the United States see, experience and understand each other. Today's episode ...",
+        "publishDate": "2026-10-02",
+        "duration": 1803,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2609/1090748928082.mp3",
+        "topics": [
+          "Feminism & Arts",
+          "Culture & Society"
         ]
       },
       {
@@ -110720,6 +110772,88 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-1002cw0",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Drained Gift Cards: Inside the Fraud DHS Says Funds Fentanyl and Human Trafficking",
+        "description": "",
+        "publishDate": "2026-10-02",
+        "duration": 953,
+        "audioUrl": "https://podcasts.captivate.fm/media/ab96ca3f-29b1-4394-a1b8-cad4dda79595/02-CW-80-converted.mp3",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1002ca",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "California Man Accused of Routing More Than $300 Million in Restricted Servers to China",
+        "description": "",
+        "publishDate": "2026-10-02",
+        "duration": 344,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1002/315a2927-6578-4f61-a723-44b39eb00794/audio.mp3?length=4149118&duration=344",
+        "topics": [
+          "Dynastic History"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1002ai",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "AI Less Than a Year Away From Developing Its Own Language, Researcher Tells Congress",
+        "description": "",
+        "publishDate": "2026-10-02",
+        "duration": 176,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0930/5430ca5f-073a-4366-bc92-7d5520a8cadd/audio.mp3?length=2134558&duration=176",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1002ske",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Be Skeptical of an AI Security Partnership With China",
+        "description": "",
+        "publishDate": "2026-10-02",
+        "duration": 303,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1001/24cb352b-883c-4917-a9aa-dbb1c8974915/audio.mp3?length=3659518&duration=303",
+        "topics": [
+          "Semiconductors & AI",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1002cw",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Spy Hunting During Xi’s Visit to Washington—Terri Wu Style",
+        "description": "",
+        "publishDate": "2026-10-02",
+        "duration": 1345,
+        "audioUrl": "https://podcasts.captivate.fm/media/ab96ca3f-29b1-4394-a1b8-cad4dda79595/02-CW-80-converted.mp3",
+        "topics": [
+          "US-China Relations"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg057",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 57 There Is Justice Even Among the Greenwood Outlaws",
+        "description": "Playlist Hub",
+        "publishDate": "2026-10-02",
+        "duration": 1983,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg057.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-in-depth-ep-1001cf",
         "podcastId": "china-in-depth",
