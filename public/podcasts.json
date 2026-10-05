@@ -16,6 +16,20 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-universally-acclaimed-phrase",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "\"Universally acclaimed\" — Phrase of the Week",
+        "description": "Which is how the songs of Liu Huan will be remembered",
+        "publishDate": "2026-10-04",
+        "duration": 1800,
+        "audioUrl": "https://substackcdn.com/image/fetch/$s_!172c!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F727072df-858b-4737-a8a1-35bbaada8f17_2000x1200.jpeg",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-the-fever-broken-for-now",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -8264,18 +8278,16 @@
         "id": "chp-ep-29d747b8-ced6-4239-af48-e93431975632",
         "podcastId": "chp",
         "podcastTitle": "The China History Podcast",
-        "title": "Ep. 300 | The History of Chinese Alchemy (Part 2)",
-        "description": "For this Milestone Episode in CHP history, we finish off our overview of the history of Chinese alchemy. Top billing this time will be the biggest name in the industry, Ge Hong 葛洪. Other notable alchemists and alchemical works will be introduced u...",
+        "title": "Ep. 300 | The History of Chinese Alchemy",
+        "description": "For this Milestone Episode in CHP history, I'm presenting an overview of the history of Chinese alchemy. Top billing this time will be the biggest name in the industry, Ge Hong 葛洪. Other notable alchemists and alchemical works will be introduced u...",
         "publishDate": "2022-05-15",
-        "duration": 2195,
+        "duration": 3874,
         "audioUrl": "https://episodes.captivate.fm/episode/296481fe-dd1a-4219-a5b3-b3e6ee0ee5f3.mp3",
         "topics": [
           "Dynastic History",
-          "Feminism & Arts",
           "Economic Reform",
           "History",
-          "Tech & Business",
-          "Culture & Society"
+          "Tech & Business"
         ]
       },
       {
@@ -8360,14 +8372,13 @@
         "id": "chp-ep-08062310-35b5-4313-ac4b-727bbc30a6ee",
         "podcastId": "chp",
         "podcastTitle": "The China History Podcast",
-        "title": "Ep. 295 | Sino-Roman Relations (Part 1)",
-        "description": "This is sort of a strange topic. In Part 1 we'll look at the early history that took place between the Han Dynasty and the Western Roman Empire. Before we tuck into the chicken ribs that are Sino-Roman Relations, I'll introduce you to the far-out ...",
+        "title": "Ep. 295 | Sino-Roman Relations",
+        "description": "This is sort of a strange topic. We'll look at the early history that took place between the Han Dynasty and the Western Roman Empire. Before we tuck into the chicken ribs that are Sino-Roman Relations, I'll introduce you to the far-out theory tha...",
         "publishDate": "2022-03-06",
-        "duration": 1936,
+        "duration": 3546,
         "audioUrl": "https://episodes.captivate.fm/episode/d19af199-816e-4e23-87aa-76d2e28f9799.mp3",
         "topics": [
           "Dynastic History",
-          "Feminism & Arts",
           "History",
           "Culture & Society"
         ]
@@ -9893,14 +9904,13 @@
         "id": "chp-ep-834e3b614ad641c79aa99e2871779521",
         "podcastId": "chp",
         "podcastTitle": "The China History Podcast",
-        "title": "Ep. 215 | V.K. Wellington Koo (Part 2)",
-        "description": "In this longer than expected Part 2 episode, we look at Wellington Koo's role in the Paris Peace Conference and all the drama that surrounded this historic event from one hundred years ago. Then we'll look at the rest of Koo's career as a statesma...",
+        "title": "Ep. 215 | V.K. Wellington Koo",
+        "description": "This episode first came out around the the time of the 100 year anniversary of the signing of the Treaty of Versailles that ended WWI. This is an overview of a giant from that time and a Chinese patriot who served his nation for many decades. We'l...",
         "publishDate": "2019-02-10",
-        "duration": 2312,
+        "duration": 3963,
         "audioUrl": "https://episodes.captivate.fm/episode/48d3f060-a778-48a2-8a5f-23c3b4f7c9d5.mp3",
         "topics": [
-          "Dynastic History",
-          "Feminism & Arts",
+          "Semiconductors & AI",
           "Culture & Society"
         ]
       },
@@ -10280,13 +10290,12 @@
         "id": "chp-ep-cd7992724653c40b23b4236fdde7088a",
         "podcastId": "chp",
         "podcastTitle": "The China History Podcast",
-        "title": "Ep. 182 | The Nanjing Massacre (Part 1)",
-        "description": "This is a very emotional, controversial, and sensitive subject for a whole lot of reasons. Over the next two episodes, Laszlo will review material from past episodes to discuss the lead-up to the Massacre. Then in Part 2 the actual event itself as...",
+        "title": "Ep. 182 | The Nanjing Massacre",
+        "description": "This is a very emotional, controversial, and sensitive subject for a whole lot of reasons. Laszlo will review material from past episodes to discuss the lead-up to the Massacre and the actual event itself, as well as the story of the Nanjing Safet...",
         "publishDate": "2017-05-11",
-        "duration": 2714,
+        "duration": 5754,
         "audioUrl": "https://episodes.captivate.fm/episode/795005ab-04a8-4a8f-9978-49108b61498d.mp3",
         "topics": [
-          "Feminism & Arts",
           "Culture & Society"
         ]
       },
@@ -44458,6 +44467,22 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "sr-kina-ep-rss-sr-se-pod-eid-2884815",
+        "podcastId": "sr-kina",
+        "podcastTitle": "Radiokorrespondenterna Kina",
+        "title": "Det vill Kina ha i Norden",
+        "description": "Vad är Kinas plan för de nordiska länderna? Lyssna på alla avsnitt i Sveriges Radios app. När den kinesiske utrikesministern Wang Yi besökte Stockholm i somras var det första gången på 22 år som en chef från kinesiska UD besökte Sverige. Trots att...",
+        "publishDate": "2026-10-05",
+        "duration": 1744,
+        "audioUrl": "https://static-cdn.sr.se/laddahem/podradio/2026/10/radiokorrespondenterna_kina_det_vill_kina_ha_i_norden_20261002_1457378498.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "sr-kina-ep-rss-sr-se-pod-eid-2869794",
         "podcastId": "sr-kina",
@@ -101413,6 +101438,19 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-2766050",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "What's with hardship camps?",
+        "description": "Imagine paying good money to send your kid somewhere with no Wi-Fi, no electricity, and a whole lot of manual labor, on purpose. That is not a punishment; that is the pitch. It is called \"eat bitterness\" camp. Are these hardship camps actually bui...",
+        "publishDate": "2026-10-05",
+        "duration": 1567,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2609/1090749033432.mp3",
+        "topics": [
+          "Daily Life"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2766044",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -110770,6 +110808,99 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-1004cf",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Man Allegedly Sold $300M U.S. AI Tech to China- China in Focus",
+        "description": "",
+        "publishDate": "2026-10-04",
+        "duration": 1349,
+        "audioUrl": "https://podcasts.captivate.fm/media/90d917f1-0dbb-4a7a-bcc3-aff399307f02/1002-1509839931-CIF-Audio-converted.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Tech & Business"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1004et",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Epoch Survey: Readers React to Trump–Xi Talks",
+        "description": "",
+        "publishDate": "2026-10-04",
+        "duration": 266,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1002/e9b9eccf-1bab-41ce-95ab-785028b16670/audio.mp3?length=3216286&duration=266",
+        "topics": [
+          "US-China Relations"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1004ott",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "More Than 50,000 Sign Petition Calling for Shen Yun’s Return to Ottawa",
+        "description": "",
+        "publishDate": "2026-10-04",
+        "duration": 350,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1003/a70ae9a4-8b5f-4d9b-a491-d3a7bc5cdc01/audio.mp3?length=4228318&duration=350",
+        "topics": [
+          "Dynastic History"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1004arc",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s Arctic Ambitions Meet New Security Barriers in Greenland",
+        "description": "",
+        "publishDate": "2026-10-04",
+        "duration": 834,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1003/ddce5140-7ab4-420a-98c4-0e103ccbd869/audio.mp3?length=10031230&duration=834",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1004xi0",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Trump–Xi Summit: Beyond the Handshakes—Will Anything Really Change?",
+        "description": "",
+        "publishDate": "2026-10-04",
+        "duration": 550,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0928/36bbf7ef-6406-4429-b2f6-534c62ba8745/audio.mp3?length=6624190&duration=550",
+        "topics": [
+          "US-China Relations",
+          "Dynastic History"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1004xi",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "What Trump and Xi Can’t Settle on a Piece of Paper",
+        "description": "",
+        "publishDate": "2026-10-04",
+        "duration": 546,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1001/5422ebf3-da8e-4717-ab95-f06f9280b682/audio.mp3?length=6582430&duration=546",
+        "topics": [
+          "US-China Relations"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg058",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 58 Two Outlaw Heros Are Drugged and About to Be Executed",
+        "description": "Playlist Hub",
+        "publishDate": "2026-10-04",
+        "duration": 1824,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg058.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-in-depth-ep-1002cw0",
         "podcastId": "china-in-depth",
