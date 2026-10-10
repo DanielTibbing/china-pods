@@ -16,6 +16,57 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-beijings-quiet-deleveraging-",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "Beijing’s Quiet Deleveraging Push",
+        "description": "Listen now (33 mins) | For the first time in recent memory, a senior Chinese economic official is really pushing the idea that China needs to control its debt-to-GDP ratio.",
+        "publishDate": "2026-10-10",
+        "duration": 1800,
+        "audioUrl": "https://api.substack.com/feed/podcast/219686370/5628ec73f9e3285740ae90e7dc54b05a.mp3",
+        "topics": [
+          "Daily Life",
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
+      {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-transcript-afra-wang-on-lian",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "Transcript | Afra Wang on Liangzhu, China’s Vibe-Coding Capital, and the Anxious Optimism of the AI Boom",
+        "description": "This week on Sinica, I&#8217;m joined again by Afra Wang, the Bay Area-based writer behind the AI newsletter Concurrent, who was last on the show in January to talk about her Wired piece on The Morning Star of Lingao and China&#8217;s &#8220;Indus...",
+        "publishDate": "2026-10-09",
+        "duration": 1800,
+        "audioUrl": "https://substackcdn.com/image/fetch/$s_!PZJj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1e14e89f-1097-4ffe-8c20-d27431c42a1c_1120x800.png",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-afra-wang-on-liangzhu-chinas",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "Afra Wang on Liangzhu, China’s Vibe-Coding Capital, and the Anxious Optimism of the AI Boom",
+        "description": "This week on Sinica, I&#8217;m joined again by Afra Wang, the Bay Area-based writer behind the AI newsletter Concurrent, who was last on the show in January to talk about her Wired piece on The Morning Star of Lingao and China&#8217;s &#8220;Indus...",
+        "publishDate": "2026-10-09",
+        "duration": 1800,
+        "audioUrl": "https://api.substack.com/feed/podcast/219533246/0cf49a7d2ce5fcf31a19d606a9d7c4c0.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-china-isnt-ignoring-ai-risk-",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -121,6 +172,20 @@
           "Semiconductors & AI",
           "Daily Life",
           "Tech & Business"
+        ]
+      },
+      {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-this-week-in-chinas-history-",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "This Week in China’s History: Qing Diplomats Chafe over China’s Relegation to “Third-Class State” at the Hague",
+        "description": "September 22, 1907",
+        "publishDate": "2026-09-21",
+        "duration": 1800,
+        "audioUrl": "https://substackcdn.com/image/fetch/$s_!zmbq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbcc3f569-a9a6-4337-a5b1-ffb741cf5d90_2156x1194.png",
+        "topics": [
+          "Dynastic History",
+          "History"
         ]
       },
       {
@@ -266,19 +331,6 @@
           "US-China Relations",
           "Semiconductors & AI",
           "Daily Life"
-        ]
-      },
-      {
-        "id": "sinica-ep-https---www-sinicapodcast-com-p-this-week-in-chinas-history-",
-        "podcastId": "sinica",
-        "podcastTitle": "The Sinica Podcast",
-        "title": "This Week in China’s History | The Boxer Protocol",
-        "description": "September 7, 1901",
-        "publishDate": "2026-09-11",
-        "duration": 1800,
-        "audioUrl": "https://substackcdn.com/image/fetch/$s_!q3v5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1fa592f7-6ec4-4376-9e63-ff9e8eae3bfe_764x335.jpeg",
-        "topics": [
-          "History"
         ]
       },
       {
@@ -98377,6 +98429,23 @@
     ],
     "episodes": [
       {
+        "id": "trivium-china-ep-buzzsprout-19937449",
+        "podcastId": "trivium-china",
+        "podcastTitle": "The Trivium China Podcast",
+        "title": "Ep 91 - Beijing’s quiet deleveraging push",
+        "description": "For the first time in recent memory, a senior Chinese economic official is really pushing the idea that China needs to control its debt-to-GDP ratio.In a recent Qiushi essay, central bank (PBoC) Governor Pan Gongsheng laid out why credit growth ha...",
+        "publishDate": "2026-10-09",
+        "duration": 1988,
+        "audioUrl": "https://www.buzzsprout.com/2408047/episodes/19937449-ep-91-beijing-s-quiet-deleveraging-push.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
+      {
         "id": "trivium-china-ep-buzzsprout-19919811",
         "podcastId": "trivium-china",
         "podcastTitle": "The Trivium China Podcast",
@@ -101673,6 +101742,50 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "roundtable-china-ep-1-2766128",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Bonus: Radio drama The Sound of a City",
+        "description": "Round Table presents The Sound of a City, an original audio drama from CGTN Radio. The story is inspired by real cases handled through Beijing's 12345 Citizen Service Hotline.",
+        "publishDate": "2026-10-10",
+        "duration": 1211,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2610/1091527767152.mp3",
+        "topics": [
+          "Dynastic History",
+          "Daily Life"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-02766118",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "IN VIDEO: The little loofah that launched an industry",
+        "description": "You've probably used one to scrub a pan. Maybe you've even worn one on your feet or found it hiding in a skincare product. But the loofah is far more than a bathroom staple. It is the backbone of an industry that spans provinces, employs thousands...",
+        "publishDate": "2026-10-09",
+        "duration": 2063,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp4/radio-res.cgtn.com/ueditor/audio/2610/1091452674777.mp4",
+        "topics": [
+          "Dynastic History",
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2766125",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "The little loofah that launched an industry",
+        "description": "You've probably scrubbed a pan with one. You could even have worn one on your feet or found it hiding in a skincare product. But the loofah is far more than a bathroom staple. It is the backbone of an industry that spans provinces, employs thousan...",
+        "publishDate": "2026-10-09",
+        "duration": 1998,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2610/1091527714183.mp3",
+        "topics": [
+          "Dynastic History",
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
       {
         "id": "roundtable-china-ep-1-2766115",
         "podcastId": "roundtable-china",
@@ -110582,6 +110695,25 @@
     ],
     "episodes": [
       {
+        "id": "wire-china-ep-buzzsprout-19930353",
+        "podcastId": "wire-china",
+        "podcastTitle": "The Wire China Podcast",
+        "title": "A Tale of Two Chipmakers",
+        "description": "In 2021, a Chinese-American engineer founded a specialized semiconductor company in Belgium. A year later, a similar company opened in Fuzhou, China — partially owned by the same engineer. Was economic espionage involved?Reporter Noah Berman is ba...",
+        "publishDate": "2026-10-09",
+        "duration": 806,
+        "audioUrl": "https://www.buzzsprout.com/2591600/episodes/19930353-a-tale-of-two-chipmakers.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "wire-china-ep-buzzsprout-19885536",
         "podcastId": "wire-china",
         "podcastTitle": "The Wire China Podcast",
@@ -111145,6 +111277,71 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-1009cf",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "US Offers $10 Million Reward for Alleged Chinese Hacker - China in Focus",
+        "description": "",
+        "publishDate": "2026-10-09",
+        "duration": 1364,
+        "audioUrl": "https://podcasts.captivate.fm/media/b0859b36-e578-4556-ab48-a9eda12caf91/1008-1522408727-CIF-Audio-converted.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1009ai",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Is America Winning the AI Race? We Asked 10 Experts.",
+        "description": "",
+        "publishDate": "2026-10-09",
+        "duration": 1894,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1008/874a4419-750d-4a01-acf8-aa95759d7144/audio.mp3?length=22759102&duration=1895",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1009sk",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China-Based Hacker Likely Used AI to Hit South Korean Banks: CrowdStrike Report",
+        "description": "",
+        "publishDate": "2026-10-09",
+        "duration": 272,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1009/97ea6a05-c920-4295-8255-cd7f64ac7933/audio.mp3?length=3290590&duration=272",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1009d7",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "US Seizes 7 Domains Used by China-Linked Hackers to Target Critical Infrastructure",
+        "description": "",
+        "publishDate": "2026-10-09",
+        "duration": 461,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1009/f01bf042-7c9e-4121-ace9-403792cd73de/audio.mp3?length=5558589&duration=461",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg063",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 63 Jigong Cured Two Patients Before Facing Hua Yunlong",
+        "description": "Playlist Hub",
+        "publishDate": "2026-10-09",
+        "duration": 1379,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg063.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-in-depth-ep-1008cf",
         "podcastId": "china-in-depth",
@@ -141233,19 +141430,6 @@
         "topics": [
           "US-China Relations",
           "Semiconductors & AI",
-          "Culture & Society"
-        ]
-      },
-      {
-        "id": "china-in-depth-ep-1009cf",
-        "podcastId": "china-in-depth",
-        "podcastTitle": "China in Depth",
-        "title": "Premier Li Qiang Makes Rare Trip to North Korea",
-        "description": "",
-        "publishDate": "2025-10-09",
-        "duration": 1358,
-        "audioUrl": "https://podcasts.captivate.fm/media/18cd51a1-7792-4b4e-af8f-2207a51c7416/1009-20574-CIF-P-converted.mp3",
-        "topics": [
           "Culture & Society"
         ]
       },
