@@ -16,6 +16,19 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-tourist-trap-souvenir-trio-p",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "\"Tourist-trap souvenir trio\" — Phrase of the Week",
+        "description": "Young Chinese travellers are browsing, but not buying",
+        "publishDate": "2026-10-11",
+        "duration": 1800,
+        "audioUrl": "https://substackcdn.com/image/fetch/$s_!bpCl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F62b86c72-0a9b-4c3d-a44a-37aa1baf691c_2000x1200.jpeg",
+        "topics": [
+          "Daily Life"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-beijings-quiet-deleveraging-",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -44693,6 +44706,22 @@
     ],
     "episodes": [
       {
+        "id": "sr-kina-ep-rss-sr-se-pod-eid-2885913",
+        "podcastId": "sr-kina",
+        "podcastTitle": "Radiokorrespondenterna Kina",
+        "title": "Tysk-franska stoppknappen som ska skrämma Kina",
+        "description": "Det blåser upp till storm i handelsförbindelserna mellan EU och Kina. Lyssna på alla avsnitt i Sveriges Radios app. EU:s handelskommissionär åker till Kina för att pressa Peking till ett ramverk som minskar det omfattande handelsunderskottet mella...",
+        "publishDate": "2026-10-12",
+        "duration": 1620,
+        "audioUrl": "https://static-cdn.sr.se/laddahem/podradio/2026/10/program_rk_kina_12_oktober_podd_och_fm_20261009_1453505917.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "sr-kina-ep-rss-sr-se-pod-eid-2884815",
         "podcastId": "sr-kina",
         "podcastTitle": "Radiokorrespondenterna Kina",
@@ -57846,6 +57875,20 @@
       "Tech & Business"
     ],
     "episodes": [
+      {
+        "id": "china-flexpat-ep-buzzsprout-19945584",
+        "podcastId": "china-flexpat",
+        "podcastTitle": "China Flexpat",
+        "title": "S5E02 - China Team at Aichi-Nagoya Asian Games/Haitang Equestrian/Taotao",
+        "description": "Contact us for more info: contact@wonder-horse.comSupport the show",
+        "publishDate": "2026-10-12",
+        "duration": 579,
+        "audioUrl": "https://www.buzzsprout.com/479218/episodes/19945584-s5e02-china-team-at-aichi-nagoya-asian-games-haitang-equestrian-taotao.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History"
+        ]
+      },
       {
         "id": "china-flexpat-ep-buzzsprout-19917995",
         "podcastId": "china-flexpat",
@@ -111277,6 +111320,100 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-1011p6",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China Replaces 6 Provincial Chiefs in 2 Days: A Deepening Vulnerability for the CCP",
+        "description": "",
+        "publishDate": "2026-10-11",
+        "duration": 429,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1012/cfdc4205-bcb8-4987-bc49-550fed9c7453/audio.mp3?length=5175262&duration=429",
+        "topics": [
+          "Daily Life",
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1011gld",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "What’s Driving China’s Latest Gold Rush?",
+        "description": "",
+        "publishDate": "2026-10-11",
+        "duration": 474,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1012/01372361-ad27-4701-b97b-b6b4d87298af/audio.mp3?length=5713534&duration=474",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1011sea",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Is Sea Legend Shipping the Next Tool for Sanctions Evasion?",
+        "description": "",
+        "publishDate": "2026-10-11",
+        "duration": 404,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1012/5ef87c4f-59b3-477f-aef0-efd3ba0189fe/audio.mp3?length=4867102&duration=404",
+        "topics": [
+          "US-China Relations"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1011pla",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "PLA Purge May Be Driving China to Rely More on Military Pressure Against Taiwan: Analysts",
+        "description": "",
+        "publishDate": "2026-10-11",
+        "duration": 401,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0904/e7116447-4289-417c-851d-f0bd0e921009/audio.mp3?length=4842623&duration=401",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1011lao",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s Influence in Laos",
+        "description": "",
+        "publishDate": "2026-10-11",
+        "duration": 357,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1012/5ca00bcd-06bb-4dbb-bdcc-98bb951ef3e9/audio.mp3?length=4304638&duration=357",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1011flg",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Reported in First Half of 2026: 54 Falun Gong Practitioners Die in the Persecution of Their Faith",
+        "description": "PDF",
+        "publishDate": "2026-10-11",
+        "duration": 1719,
+        "audioUrl": "https://d11uxv8pa79pab.cloudfront.net/flgdeath2026-1-6.mp3",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg064",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 64 Jigong Is Taming a Greenwood Outlaw",
+        "description": "Playlist Hub",
+        "publishDate": "2026-10-11",
+        "duration": 2688,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg064.mp3",
+        "topics": [
+          "Dynastic History"
+        ]
+      },
       {
         "id": "china-in-depth-ep-1009cf",
         "podcastId": "china-in-depth",
