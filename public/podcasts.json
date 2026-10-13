@@ -13250,6 +13250,20 @@
     ],
     "episodes": [
       {
+        "id": "chinatalk-ep-b0419e1c-c2b6-11f1-8a5a-b7a018cc2e95",
+        "podcastId": "chinatalk",
+        "podcastTitle": "ChinaTalk",
+        "title": "Matt Yglesias + Jerusalem Demsas + Jordan Crossover Pod ",
+        "description": "I join Matt and Jerusalem for an unhinged conversation (most entertaining of the year?) about China, AI, corruption, politics, and various other things. Check out their show The Argument, it's good. Learn more about your ad choices. Visit megaphon...",
+        "publishDate": "2026-10-12",
+        "duration": 4060,
+        "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL3983133821.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Geopolitics & Politics"
+        ]
+      },
+      {
         "id": "chinatalk-ep-0308f04c-c356-11f1-835c-fbffaff6b369",
         "podcastId": "chinatalk",
         "podcastTitle": "ChinaTalk",
@@ -101786,6 +101800,34 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-2766143",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Soapbox: Disposable fashion",
+        "description": "What if fashion were made to be worn just once? In China, some young travelers are embracing \"disposable clothes\", cheap outfits designed to look good in photos, not to last. Why is this trend taking off? And what does it reveal about how we shop ...",
+        "publishDate": "2026-10-12",
+        "duration": 1332,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2610/1091796620207.mp3",
+        "topics": [
+          "Dynastic History",
+          "Daily Life"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2766140",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "All about parks",
+        "description": "Everyone loves a park. It's an oasis to relax, recharge, and reconnect with nature. How can cities make them both accessible and sustainable? Beyond urban green spaces, China is also building a national park system to protect nature outside of cit...",
+        "publishDate": "2026-10-12",
+        "duration": 1800,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2610/1091796546933.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2766128",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -111320,6 +111362,125 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-1012cw",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s Banks Built the Boom. Now, They’re Hiding the Bust.",
+        "description": "",
+        "publishDate": "2026-10-12",
+        "duration": 1103,
+        "audioUrl": "https://podcasts.captivate.fm/media/9f00613a-7c62-41b4-811d-1923a0ee1890/03-CW-82-converted.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1012ai",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Epoch Readers Cautious About Restrictions on AI Amid Competition With China",
+        "description": "",
+        "publishDate": "2026-10-12",
+        "duration": 292,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1010/94a827d2-fefe-4108-8f9c-155e4297cb05/audio.mp3?length=3529342&duration=292",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1012tw",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Taiwan President Says Island’s Defense Is Test of Global Rules Amid China Pressure",
+        "description": "",
+        "publishDate": "2026-10-12",
+        "duration": 304,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1010/0c54b7cf-afca-4431-8328-4624f00f94d0/audio.mp3?length=3679678&duration=304",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1012eu",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "EU, China Reach Understanding That Could Halve Chinese Hybrid Car Exports",
+        "description": "",
+        "publishDate": "2026-10-12",
+        "duration": 305,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1010/af0e6221-eacd-46dc-b2f3-fa8591d5da39/audio.mp3?length=3679966&duration=305",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1012lon",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "London Mansion Linked to China’s Evergrande Group Founder Lies Abandoned",
+        "description": "",
+        "publishDate": "2026-10-12",
+        "duration": 320,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1010/b91297af-fdce-49b0-9cbc-48a35dc9124e/audio.mp3?length=3866589&duration=320",
+        "topics": [
+          "Economic Reform"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1012sel",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s Treasury Sell-Off Does Not Mean It Is Leaving the Dollar",
+        "description": "",
+        "publishDate": "2026-10-12",
+        "duration": 423,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1012/a1434073-e35e-454e-b738-7c6b9cf78b1a/audio.mp3?length=5102685&duration=423",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1012fre",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Freed Chinese Pastor Honored With Lantos Prize for Defending Religious Freedom",
+        "description": "",
+        "publishDate": "2026-10-12",
+        "duration": 254,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1012/e8f72383-8593-40d5-bd1b-fce72b2893d4/audio.mp3?length=3070846&duration=254",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1012flg",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Persecution of Falun Gong Practitioners Aged 60 and Above in the First Half of 2026",
+        "description": "PDF",
+        "publishDate": "2026-10-12",
+        "duration": 1611,
+        "audioUrl": "https://d11uxv8pa79pab.cloudfront.net/20261-6elder.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg065",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 65 Jigong Nailed the Demon Who Haunted Ma Jing for Months",
+        "description": "Playlist Hub",
+        "publishDate": "2026-10-12",
+        "duration": 2125,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg065.mp3",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
       {
         "id": "china-in-depth-ep-1011p6",
         "podcastId": "china-in-depth",
