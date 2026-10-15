@@ -16,6 +16,34 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-kill-switch-and-second-strik",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "“Kill Switch” and “Second Strike Weapon:” Cuban Missile Crisis Vibes in the European China Debate ",
+        "description": "&#352;ef&#269;ovi&#269; negotiates in Beijing as Merz and Macron devise a new weapon for a trade war. Ultimately, credibility, vulnerability, and room for negotiation will determine the outcome.",
+        "publishDate": "2026-10-14",
+        "duration": 1800,
+        "audioUrl": "https://substackcdn.com/image/fetch/$s_!D0WL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe070632e-aac3-4c29-a2ea-f6c6667d059e_1456x1092.png",
+        "topics": [
+          "US-China Relations",
+          "Daily Life",
+          "Economic Reform"
+        ]
+      },
+      {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-india-and-china-are-talking-",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "India and China Are Talking Again. Can They Trust Each Other?",
+        "description": "India and China are cautiously rebuilding ties after years of confrontation, but normalization remains fragile.",
+        "publishDate": "2026-10-14",
+        "duration": 1800,
+        "audioUrl": "https://api.substack.com/feed/podcast/220323232/db07e50ca8751af4c2c21543b9c25045.mp3",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-tourist-trap-souvenir-trio-p",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -5791,6 +5819,24 @@
       "History"
     ],
     "episodes": [
+      {
+        "id": "chp-ep-e90b2369-7541-4e55-912f-6047b8df9370",
+        "podcastId": "chp",
+        "podcastTitle": "The China History Podcast",
+        "title": "A Concise History of China-Pangu to Puyi - Part 8",
+        "description": "Tang China’s borders are expanding, its capital is welcoming the world, and behind the palace walls, Wu Zetian is making her move.In Part 8 of From Pangu to Puyi, we follow the Tang from the reign of Taizong into the age of Gaozong and the extraor...",
+        "publishDate": "2026-10-14",
+        "duration": 7827,
+        "audioUrl": "https://episodes.captivate.fm/episode/e90b2369-7541-4e55-912f-6047b8df9370.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "History",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "chp-ep-62a02ba8-8b91-469a-a960-10b6b0fce764",
         "podcastId": "chp",
@@ -38049,6 +38095,22 @@
     ],
     "episodes": [
       {
+        "id": "merics-ep-buzzsprout-19954814",
+        "podcastId": "merics",
+        "podcastTitle": "MERICS China Podcast",
+        "title": "China in 26: Die europäisch-chinesischen Handelsbeziehungen",
+        "description": "In dieser Ausgabe unserer Podcast-Serie „China in 26“ sprechen Bernhard Bartsch, Mikko Huotari und Claudia Wessling ausnahmsweise nur über ein Thema, nämlich über die europäisch-chinesischen Handelsbeziehungen. Sie diskutieren die Ergebnisse der V...",
+        "publishDate": "2026-10-14",
+        "duration": 1881,
+        "audioUrl": "https://www.buzzsprout.com/1825833/episodes/19954814-china-in-26-die-europaisch-chinesischen-handelsbeziehungen.mp3",
+        "topics": [
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "merics-ep-buzzsprout-19508724",
         "podcastId": "merics",
         "podcastTitle": "MERICS China Podcast",
@@ -42590,6 +42652,23 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "teatime-chinese-ep-12e5d427-0112-44d9-9ab4-3fddfee4b795",
+        "podcastId": "teatime-chinese",
+        "podcastTitle": "TeaTime Chinese 茶歇中文",
+        "title": "第99集：机器人和中国 Robots and China",
+        "description": "Learn languages 1-on-1 with native teachers on italki. 🎉 Use code TEATIME to get $5 off your first lesson 💻 Web: https://go.italki.com/teatime2610 | 📱 App: https://go.italki.com/teatime2610app 免费阅读原文 Free transcript 很多人说，未来是机器人的未来，人工智能的未来… … 在这...",
+        "publishDate": "2026-10-14",
+        "duration": 1460,
+        "audioUrl": "https://traffic.libsyn.com/secure/teatimechinese/TTCN_99.mp3?dest-id=2693480",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "History",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "teatime-chinese-ep-f5ca421e-8d55-4fa9-b0ae-dbda496f82bc",
         "podcastId": "teatime-chinese",
@@ -111462,6 +111541,98 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-1014mh",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Falun Dafa News from Around the World – October 14, 2026",
+        "description": "",
+        "publishDate": "2026-10-14",
+        "duration": 1597,
+        "audioUrl": "https://en.minghui.org/u/files/podcasts/emh-podcast/EMHPodcast_2200-News.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1014c10",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "10 in China Charged in North Korean Fraud Scheme Targeting US Companies",
+        "description": "",
+        "publishDate": "2026-10-14",
+        "duration": 368,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1014/d4c73210-d8ee-4066-9048-7bd4b9d03cd8/audio.mp3?length=4440574&duration=368",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1014drl",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China Announces 5 Days of Live Fire Military Drills",
+        "description": "",
+        "publishDate": "2026-10-14",
+        "duration": 318,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1014/bfc1d7c7-005f-426b-888f-46ea0b9190ac/audio.mp3?length=3842974&duration=318",
+        "topics": [
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1014tem",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Missouri Sues Chinese-Owned Temu for ‘Aggressive’ Data Collection",
+        "description": "",
+        "publishDate": "2026-10-14",
+        "duration": 284,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1014/d8f98d05-2f39-4b11-a05f-f6091f38b7fd/audio.mp3?length=3431134&duration=284",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1014ai",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Does China Have Enough Water for Its Thirsty AI Data Centers?",
+        "description": "",
+        "publishDate": "2026-10-14",
+        "duration": 429,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1014/9e55e67e-0561-4356-846f-b5a4822500a9/audio.mp3?length=5176990&duration=429",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1014cal",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "A Bipartisan Wake-Up Call on China’s Infiltration",
+        "description": "",
+        "publishDate": "2026-10-14",
+        "duration": 291,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1014/eded9e5a-7071-457e-8959-16d7912f4d28/audio.mp3?length=3522142&duration=291",
+        "topics": [
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg067",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 67 Jigong Divinates Hua Yunlong's Next Move ",
+        "description": "Playlist Hub",
+        "publishDate": "2026-10-14",
+        "duration": 1748,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg067.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-in-depth-ep-1013xi",
         "podcastId": "china-in-depth",
