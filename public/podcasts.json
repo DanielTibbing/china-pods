@@ -3404,6 +3404,23 @@
     ],
     "episodes": [
       {
+        "id": "pekingology-ep-80a14d9c-c801-11f1-9e94-fbbf0faa572e",
+        "podcastId": "pekingology",
+        "podcastTitle": "Pekingology",
+        "title": "How China's Economic Miracle Shattered",
+        "description": "In this episode of Pekingology, Senior Fellow Henrietta Levin is joined by Logan Wright, author of the new book Broken China: How the Economic Miracle Shattered and What it Means for the World. Logan argues the Chinese economy is already shrinking...",
+        "publishDate": "2026-10-15",
+        "duration": 2884,
+        "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/cohst.app/pdcst/0C0K2I/traffic.megaphone.fm/CSIS2199506865.mp3",
+        "topics": [
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "pekingology-ep-7675fbea-bcdc-11f1-98ac-1f9fa2b757ac",
         "podcastId": "pekingology",
         "podcastTitle": "Pekingology",
@@ -13295,6 +13312,26 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "chinatalk-ep-bb003e22-c8a0-11f1-bcf1-0703eb0109c3",
+        "podcastId": "chinatalk",
+        "podcastTitle": "ChinaTalk",
+        "title": "From Posting to Policy: Saif Khan on DUV and the AI Balance",
+        "description": "Saif Khan makes his ChinaTalk debut. He is perhaps my favorite example of posting-to-policy that I’ve seen over the course of my time following Washington. Saif wrote some truly excellent deep dives into AI and semiconductors during his time at CS...",
+        "publishDate": "2026-10-15",
+        "duration": 3589,
+        "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL1959464988.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Geopolitics & Politics",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "chinatalk-ep-b0419e1c-c2b6-11f1-8a5a-b7a018cc2e95",
         "podcastId": "chinatalk",
@@ -38094,6 +38131,26 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "merics-ep-buzzsprout-19966309",
+        "podcastId": "merics",
+        "podcastTitle": "MERICS China Podcast",
+        "title": "The CCP prepares for the Fifth Plenum, with Alexander Davey",
+        "description": "Ahead of the 21st National Congress of the Chinese Communist Party (CCP) next year, Beijing is doubling down on social and political stability. In this episode of our podcast, MERICS Analyst Alexander Davey joins Johannes Heller-John to discuss th...",
+        "publishDate": "2026-10-15",
+        "duration": 1160,
+        "audioUrl": "https://www.buzzsprout.com/1825833/episodes/19966309-the-ccp-prepares-for-the-fifth-plenum-with-alexander-davey.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Geopolitics & Politics",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "merics-ep-buzzsprout-19954814",
         "podcastId": "merics",
@@ -101952,6 +102009,38 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-2766188",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "From vacation to skillcation",
+        "description": "Welcome to the skillcation, a holiday built around learning something new. And Gen Z travelers are embracing this trend. So why is Gen Z trading poolside naps for hands-on lessons? And what makes learning a skill part of the vacation experience? O...",
+        "publishDate": "2026-10-15",
+        "duration": 1474,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2610/1092051940092.mp3",
+        "topics": [
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2766185",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Women shaping rural futures",
+        "description": "The UN Food and Agriculture Organization has honored 100 Woman Farmer Heroes from around the world, including two from China. With 2026 marking the International Year of the Woman Farmer, we bring you their stories and explore how women are making...",
+        "publishDate": "2026-10-15",
+        "duration": 1655,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2610/1092051732684.mp3",
+        "topics": [
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2766155",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -110959,6 +111048,22 @@
     ],
     "episodes": [
       {
+        "id": "wire-china-ep-buzzsprout-19965388",
+        "podcastId": "wire-china",
+        "podcastTitle": "The Wire China Podcast",
+        "title": "Survivor: China Industrial Policy Edition",
+        "description": "In 2022, memory chip manufacturer YMTC looked like it was on the way out. The Chinese chipmaker had just been hit with U.S. sanctions and lost a major contract with Apple. But four years later, YMTC is now the third largest memory chip maker in th...",
+        "publishDate": "2026-10-15",
+        "duration": 963,
+        "audioUrl": "https://www.buzzsprout.com/2591600/episodes/19965388-survivor-china-industrial-policy-edition.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
+      {
         "id": "wire-china-ep-buzzsprout-19930353",
         "podcastId": "wire-china",
         "podcastTitle": "The Wire China Podcast",
@@ -111541,6 +111646,89 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-1015rem",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China Offers Rare Earths for Europe’s Military Technology",
+        "description": "",
+        "publishDate": "2026-10-15",
+        "duration": 446,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1015/c5b6cef8-91df-4af3-b40a-30e70b65325a/audio.mp3?length=5353056&duration=446",
+        "topics": [
+          "Semiconductors & AI",
+          "Feminism & Arts",
+          "Geopolitics & Politics",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1015trp",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "As Democratic Socialists Grow in US, a Renewed Focus on Trips to China",
+        "description": "",
+        "publishDate": "2026-10-15",
+        "duration": 484,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1015/f8ee608b-4959-4412-8c49-e5d6dec577e8/audio.mp3?length=5811840&duration=484",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1015spy",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "US Law Wasn’t Built for How China’s Spies Operate in America",
+        "description": "",
+        "publishDate": "2026-10-15",
+        "duration": 1225,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1014/ff8fa63e-e356-4bc8-beec-dd133de152da/audio.mp3?length=14605534&duration=1215",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1015eu",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "EU Leaders Open Brussels Summit With Focus on China Trade, Energy Costs",
+        "description": "",
+        "publishDate": "2026-10-15",
+        "duration": 272,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1015/a275aa35-a73c-48ad-b7c1-af503edd008b/audio.mp3?length=3270528&duration=272",
+        "topics": [
+          "US-China Relations",
+          "Economic Reform"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1015atl",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Peter Navarro: ‘The Biggest Coverup in Medical History'",
+        "description": "",
+        "publishDate": "2026-10-15",
+        "duration": 3440,
+        "audioUrl": "https://d11uxv8pa79pab.cloudfront.net/261008-Peter-Navarro-podcast-converted.mp3",
+        "topics": [
+          "History"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg068",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 68 Donation vs Theft - Greenwood Heroes Against a Petty Thief",
+        "description": "Playlist Hub",
+        "publishDate": "2026-10-15",
+        "duration": 2452,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg068.mp3",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
       {
         "id": "china-in-depth-ep-1014mh",
         "podcastId": "china-in-depth",
@@ -141140,20 +141328,6 @@
         "duration": 318,
         "audioUrl": "https://vod.brightchat.com/assets/2025/1015/02becb2d-457e-4abf-9a09-4f9137d7d1ff/audio.mp3?length=3820320&duration=318",
         "topics": [
-          "Culture & Society"
-        ]
-      },
-      {
-        "id": "china-in-depth-ep-1015rem",
-        "podcastId": "china-in-depth",
-        "podcastTitle": "China in Depth",
-        "title": "US May Decouple From China If Rare Earths Dispute Persists: Bessent",
-        "description": "",
-        "publishDate": "2025-10-15",
-        "duration": 292,
-        "audioUrl": "https://vod.brightchat.com/assets/2025/1015/bd550321-db07-4b7f-909e-10c19ce781c4/audio.mp3?length=3506112&duration=292",
-        "topics": [
-          "Feminism & Arts",
           "Culture & Society"
         ]
       },
