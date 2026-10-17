@@ -16,6 +16,19 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-trivium-china-podcast-china-",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "Trivium China Podcast | China on Exchange Rate Revaluation: We’re Not Interested",
+        "description": "Listen now (22 mins) | On October 8, the PBoC published an essay &#8211; in both English and Chinese &#8211; defending China&#8217;s exchange rate policy and pushing back on foreign calls for the RMB to appreciate.",
+        "publishDate": "2026-10-16",
+        "duration": 1800,
+        "audioUrl": "https://api.substack.com/feed/podcast/220715139/98519ac8aec214a35519e0153f6316e1.mp3",
+        "topics": [
+          "Dynastic History"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-kill-switch-and-second-strik",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -849,23 +862,6 @@
         "audioUrl": "https://substackcdn.com/image/fetch/$s_!rSvu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F734ba97c-b486-45d0-9147-4d0bd23e0a43_2000x1200.jpeg",
         "topics": [
           "Geopolitics & Politics"
-        ]
-      },
-      {
-        "id": "sinica-ep-https---www-sinicapodcast-com-p-trivium-china-podcast-china-",
-        "podcastId": "sinica",
-        "podcastTitle": "The Sinica Podcast",
-        "title": "Trivium China Podcast | China Is Building a Market for Data. Why Isn’t America?\n",
-        "description": "Listen now | Data has become one of the most important inputs in the modern economy, especially as access to high-quality information increasingly shapes the global race to develop artificial intelligence.",
-        "publishDate": "2026-07-18",
-        "duration": 1800,
-        "audioUrl": "https://api.substack.com/feed/podcast/207505758/6dfbb48605d674b80fedbb1e2e7d8668.mp3",
-        "topics": [
-          "Semiconductors & AI",
-          "Feminism & Arts",
-          "Economic Reform",
-          "Tech & Business",
-          "Culture & Society"
         ]
       },
       {
@@ -13312,6 +13308,22 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "chinatalk-ep-9caa3c8e-c454-11f1-9a4c-6f55dfed8feb",
+        "podcastId": "chinatalk",
+        "podcastTitle": "ChinaTalk",
+        "title": "Why a Chinese AI Lab’s Product Lead Thinks AGI is “Inevitable” | Richard Bian ",
+        "description": "Richard Bian is the head of product operations for Ant Ling, the foundational LLM at Ant. If you don’t know Ant, they most famously make Alipay, which makes your money and your world run when you’re in China and sometimes beyond. Richard is a form...",
+        "publishDate": "2026-10-16",
+        "duration": 4433,
+        "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL1186224077.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
       {
         "id": "chinatalk-ep-bb003e22-c8a0-11f1-bcf1-0703eb0109c3",
         "podcastId": "chinatalk",
@@ -98676,6 +98688,23 @@
     ],
     "episodes": [
       {
+        "id": "trivium-china-ep-buzzsprout-19971125",
+        "podcastId": "trivium-china",
+        "podcastTitle": "The Trivium China Podcast",
+        "title": "Ep 93 - China on exchange rate revaluation: we’re not interested",
+        "description": "On October 8, the PBoC published an essay – in both English and Chinese – defending China’s exchange rate policy and pushing back on foreign calls for the RMB to appreciate.Just like MofCom’s July essay on overcapacity, the piece takes aim at the ...",
+        "publishDate": "2026-10-16",
+        "duration": 1339,
+        "audioUrl": "https://www.buzzsprout.com/2408047/episodes/19971125-ep-93-china-on-exchange-rate-revaluation-we-re-not-interested.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
+      {
         "id": "trivium-china-ep-buzzsprout-19955345",
         "podcastId": "trivium-china",
         "podcastTitle": "The Trivium China Podcast",
@@ -102008,6 +102037,34 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "roundtable-china-ep-1-2766158",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "When a stranger steps in family care",
+        "description": "Picture an elderly person standing alone in the lobby of a major Chinese hospital — staring at a check-in machine they've never used, a queue they can't find the end of, a payment screen that only takes a phone they don't have. For you, it's a hos...",
+        "publishDate": "2026-10-16",
+        "duration": 1973,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2610/1091877657735.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2766161",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "What are we really buying when we buy bread?",
+        "description": "Two loaves sit side by side in the bread aisle. They look basically identical — but one says \"artisan,\" one says \"traditional,\" one is frozen, one is \"freshly baked,\" and the labels mean almost nothing. The prices don't make sense. \"Fresh\" might b...",
+        "publishDate": "2026-10-16",
+        "duration": 1128,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2610/1091877732428.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "roundtable-china-ep-1-2766188",
         "podcastId": "roundtable-china",
@@ -111647,6 +111704,91 @@
     ],
     "episodes": [
       {
+        "id": "china-in-depth-ep-https---filedn-eu-laemytxekyhk29ob9g34pd8-share-20online-20e",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "22 Years:Nine Commenteries on the Communist Party 1",
+        "description": "",
+        "publishDate": "2026-10-16",
+        "duration": 2239,
+        "audioUrl": "https://filedn.eu/laEmYtxEKYhk29OB9g34pD8/SHARE%20ONLINE%20EN/Nine%20Commentaries%20on%20the%20Communist%20Party/1.%20Nine%20Commentaries%20Pt%201%20%20What%20the%20Communist%20Party%20Is.mp3?_=1",
+        "topics": [
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1016x",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "X Suspends 13,000 Accounts in Suspected China, Russia, Iran Operations Targeting US Politics",
+        "description": "",
+        "publishDate": "2026-10-16",
+        "duration": 266,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1015/a8aa682d-e9b9-47ff-b894-070051845615/audio.mp3?length=3201120&duration=266",
+        "topics": [
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1016ai",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China Plans to Tighten Export Controls on AI Technologies",
+        "description": "",
+        "publishDate": "2026-10-16",
+        "duration": 249,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1016/c6082d26-40ec-45e2-9753-89e7f74e003a/audio.mp3?length=3013534&duration=249",
+        "topics": [
+          "Semiconductors & AI",
+          "Tech & Business"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1016mic",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Will AI Micro-Entrepreneurs Save China’s Job Market?",
+        "description": "",
+        "publishDate": "2026-10-16",
+        "duration": 403,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1016/cab7cfce-daa9-4240-9495-17733f532521/audio.mp3?length=4859902&duration=403",
+        "topics": [
+          "Semiconductors & AI",
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1016sen",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Senators Plan Taiwan Trip Ahead of Trump’s Summit With Xi Jinping",
+        "description": "",
+        "publishDate": "2026-10-16",
+        "duration": 162,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0329/ec2308c2-5070-4361-af2d-917251beddfd/audio.mp3?length=1952352&duration=162",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1016trp",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Trump’s Quiet Signals to Xi on Taiwan",
+        "description": "",
+        "publishDate": "2026-10-16",
+        "duration": 397,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1016/77deff58-5a2e-4a9b-8bb7-cfcfe256dd65/audio.mp3?length=4791934&duration=397",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI"
+        ]
+      },
+      {
         "id": "china-in-depth-ep-1015rem",
         "podcastId": "china-in-depth",
         "podcastTitle": "China in Depth",
@@ -119432,6 +119574,19 @@
           "Semiconductors & AI",
           "Dynastic History",
           "Feminism & Arts"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg069",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 69 Just as Jigong Predicted Hua Yunlong Shows up as a Sexual Predator",
+        "description": "Playlist Hub",
+        "publishDate": "2026-06-28",
+        "duration": 2159,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg069.mp3",
+        "topics": [
+          "Culture & Society"
         ]
       },
       {
