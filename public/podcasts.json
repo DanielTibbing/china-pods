@@ -13309,6 +13309,25 @@
     ],
     "episodes": [
       {
+        "id": "chinatalk-ep-aebd96be-c44a-11f1-80a0-ef65a15b8484",
+        "podcastId": "chinatalk",
+        "podcastTitle": "ChinaTalk",
+        "title": "Drone Dominance | Travis Metz - DIU Acting Director",
+        "description": "He was recently promoted to DIU’s acting director after spending the past year running the Drone Dominance Program. Co-hosting are Brian Clark, senior fellow at Hudson Institute and a retired submariner, and Justin McIntosh, a twenty-year retired ...",
+        "publishDate": "2026-10-17",
+        "duration": 4974,
+        "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL1254158164.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Geopolitics & Politics",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "chinatalk-ep-9caa3c8e-c454-11f1-9a4c-6f55dfed8feb",
         "podcastId": "chinatalk",
         "podcastTitle": "ChinaTalk",
