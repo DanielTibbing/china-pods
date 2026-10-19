@@ -16,6 +16,20 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-more-haste-less-speed-phrase",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "“More haste, less speed” — Phrase of the Week",
+        "description": "A luxury car&#8217;s poor quality brake pedals expose the cost of rushing to market",
+        "publishDate": "2026-10-18",
+        "duration": 1800,
+        "audioUrl": "https://substackcdn.com/image/fetch/$s_!l_xJ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e472743-70f4-4a06-9cc2-0340aad82f5d_2000x1200.jpeg",
+        "topics": [
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-trivium-china-podcast-china-",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -44906,6 +44920,22 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "sr-kina-ep-rss-sr-se-pod-eid-2888849",
+        "podcastId": "sr-kina",
+        "podcastTitle": "Radiokorrespondenterna Kina",
+        "title": "Så hotar Kinas ekonomiska skuggsida att tippa ekonomin",
+        "description": "Trots enorma framsteg har den kinesiska ekonomin en mörkare baksida. Lyssna på alla avsnitt i Sveriges Radios app. Kinas ekonomiska utveckling beskrivs ofta som en framgångssaga, präglad av högteknologisk innovation och snabb tillväxt. Bakom de op...",
+        "publishDate": "2026-10-19",
+        "duration": 1620,
+        "audioUrl": "https://static-cdn.sr.se/laddahem/podradio/2026/10/radiokorrespondenterna_kina_sa_hotar_kinas_ekonomiska_skug_20261016_1445351258.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "sr-kina-ep-rss-sr-se-pod-eid-2885913",
         "podcastId": "sr-kina",
@@ -111726,13 +111756,65 @@
         "id": "china-in-depth-ep-https---filedn-eu-laemytxekyhk29ob9g34pd8-share-20online-20e",
         "podcastId": "china-in-depth",
         "podcastTitle": "China in Depth",
-        "title": "22 Years:Nine Commenteries on the Communist Party 1",
+        "title": "22 Years:Nine Commenteries on the Communist Party 2",
         "description": "",
-        "publishDate": "2026-10-16",
-        "duration": 2239,
-        "audioUrl": "https://filedn.eu/laEmYtxEKYhk29OB9g34pD8/SHARE%20ONLINE%20EN/Nine%20Commentaries%20on%20the%20Communist%20Party/1.%20Nine%20Commentaries%20Pt%201%20%20What%20the%20Communist%20Party%20Is.mp3?_=1",
+        "publishDate": "2026-10-18",
+        "duration": 2867,
+        "audioUrl": "https://filedn.eu/laEmYtxEKYhk29OB9g34pD8/SHARE%20ONLINE%20EN/Nine%20Commentaries%20on%20the%20Communist%20Party/2.%20Nine%20Commentaries%20Pt%202%20%20The%20Beginnings%20of%20the%20Chinese%20Communist%20Party.mp3?_=2",
         "topics": [
           "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1018xi",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Xi’s Anti-Corruption Warning Fuels Questions Over His Grip on China’s Military",
+        "description": "",
+        "publishDate": "2026-10-18",
+        "duration": 358,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1017/af6c5654-c0be-4685-b6e4-a38f71091d25/audio.mp3?length=4320766&duration=358",
+        "topics": [
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1018ept",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Survey Finds Epoch Readers Favor Defending US Allies Despite Risks of Wider War",
+        "description": "",
+        "publishDate": "2026-10-18",
+        "duration": 328,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1017/6fb99d59-031d-480f-a7cc-2a1a249e5a02/audio.mp3?length=3966526&duration=328",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1018dod",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "How the Pentagon’s Blacklist Shows the Real US–China Rivalry",
+        "description": "",
+        "publishDate": "2026-10-18",
+        "duration": 788,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1016/e18f01d5-0e54-4e49-8b91-a30713cfc346/audio.mp3?length=9467424&duration=788",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg070",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 70 Lei and Chen Spoiled Hua's Crime Action",
+        "description": "Playlist Hub",
+        "publishDate": "2026-10-18",
+        "duration": 1481,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg070.mp3",
+        "topics": [
           "Culture & Society"
         ]
       },
@@ -111805,6 +111887,19 @@
         "topics": [
           "US-China Relations",
           "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg069",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 69 Just as Jigong Predicted Hua Yunlong Shows up as a Sexual Predator",
+        "description": "Playlist Hub",
+        "publishDate": "2026-10-16",
+        "duration": 2159,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg069.mp3",
+        "topics": [
+          "Culture & Society"
         ]
       },
       {
@@ -119593,19 +119688,6 @@
           "Semiconductors & AI",
           "Dynastic History",
           "Feminism & Arts"
-        ]
-      },
-      {
-        "id": "china-in-depth-ep-ljg069",
-        "podcastId": "china-in-depth",
-        "podcastTitle": "China in Depth",
-        "title": "Chapter 69 Just as Jigong Predicted Hua Yunlong Shows up as a Sexual Predator",
-        "description": "Playlist Hub",
-        "publishDate": "2026-06-28",
-        "duration": 2159,
-        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg069.mp3",
-        "topics": [
-          "Culture & Society"
         ]
       },
       {
