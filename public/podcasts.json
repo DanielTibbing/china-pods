@@ -13323,6 +13323,24 @@
     ],
     "episodes": [
       {
+        "id": "chinatalk-ep-38c1d164-cc01-11f1-b260-1f602f3533d5",
+        "podcastId": "chinatalk",
+        "podcastTitle": "ChinaTalk",
+        "title": "The MATCH Act and China’s DUV Imports",
+        "description": "Nick Brown is a co-founder of the Center for Technology and Statecraft (CTS), a new think tank spun out of IFP, that looks at long-term technology challenges and opportunities facing the US. Nick was a physics major, spent a while as a software en...",
+        "publishDate": "2026-10-20",
+        "duration": 4663,
+        "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL9459321754.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Daily Life",
+          "Feminism & Arts",
+          "Geopolitics & Politics",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "chinatalk-ep-aebd96be-c44a-11f1-80a0-ef65a15b8484",
         "podcastId": "chinatalk",
         "podcastTitle": "ChinaTalk",
@@ -31315,6 +31333,24 @@
       "Tech & Business"
     ],
     "episodes": [
+      {
+        "id": "china-global-south-ep-b3e95966-18af-4c6f-ae19-e4b77812f104",
+        "podcastId": "china-global-south",
+        "podcastTitle": "The China-Global South Podcast",
+        "title": "How China's Biggest Bank Advances Beijing's Global Ambitions",
+        "description": "The world's largest bank by assets is also a powerful instrument of Chinese statecraft. An investigation by the International Consortium of Investigative Journalists, based on 4.8 million confidential records, reveals how Industrial and Commercial...",
+        "publishDate": "2026-10-20",
+        "duration": 2243,
+        "audioUrl": "https://traffic.libsyn.com/secure/ea0f0fdd-2944-4ff3-8a00-704e8c67d58b/International_Consortium_of_Investigative_Journal.mp3?dest-id=4287628",
+        "topics": [
+          "US-China Relations",
+          "Daily Life",
+          "Feminism & Arts",
+          "Geopolitics & Politics",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-global-south-ep-5010973d-27df-43e1-8bc0-206b81bff7a9",
         "podcastId": "china-global-south",
@@ -58106,6 +58142,19 @@
       "Tech & Business"
     ],
     "episodes": [
+      {
+        "id": "china-flexpat-ep-buzzsprout-19982406",
+        "podcastId": "china-flexpat",
+        "podcastTitle": "China Flexpat",
+        "title": "S5E03 - 2026 Longines FEI Jumping World Cup HZ/Bojun Equestrian Club/Bi Cheng",
+        "description": "Contact us for more info: contact@wonder-horse.comSupport the show",
+        "publishDate": "2026-10-19",
+        "duration": 540,
+        "audioUrl": "https://www.buzzsprout.com/479218/episodes/19982406-s5e03-2026-longines-fei-jumping-world-cup-hz-bojun-equestrian-club-bi-cheng.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-flexpat-ep-buzzsprout-19945584",
         "podcastId": "china-flexpat",
@@ -98222,7 +98271,7 @@
         ]
       }
     ],
-    "status": "active"
+    "status": "stale"
   },
   {
     "id": "china-hands",
@@ -102086,6 +102135,35 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "roundtable-china-ep-1-2766170",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "When wildlife meets city streets",
+        "description": "Across China, wildlife keeps turning up in places built for people, from shops and streets to parks after dark. The line between the built environment and the natural one is blurring in real time. Why is this happening now, and what is pulling the...",
+        "publishDate": "2026-10-19",
+        "duration": 1827,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2610/1091960259989.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Daily Life",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2766173",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Sneakerinas and the slimming of sneakers",
+        "description": "Remember when sneakers looked like tiny cars strapped to your feet? Those chunky soles are still around, but they are now sharing shelf space with something slimmer, softer and surprisingly delicate. Think ballet ribbons wrapped around rubber sole...",
+        "publishDate": "2026-10-19",
+        "duration": 1230,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2610/1091960566028.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History"
+        ]
+      },
       {
         "id": "roundtable-china-ep-1-2766158",
         "podcastId": "roundtable-china",
@@ -111756,13 +111834,93 @@
         "id": "china-in-depth-ep-https---filedn-eu-laemytxekyhk29ob9g34pd8-share-20online-20e",
         "podcastId": "china-in-depth",
         "podcastTitle": "China in Depth",
-        "title": "22 Years:Nine Commenteries on the Communist Party 2",
+        "title": "Nine Commenteries on the Communist Party 3",
         "description": "",
-        "publishDate": "2026-10-18",
-        "duration": 2867,
-        "audioUrl": "https://filedn.eu/laEmYtxEKYhk29OB9g34pD8/SHARE%20ONLINE%20EN/Nine%20Commentaries%20on%20the%20Communist%20Party/2.%20Nine%20Commentaries%20Pt%202%20%20The%20Beginnings%20of%20the%20Chinese%20Communist%20Party.mp3?_=2",
+        "publishDate": "2026-10-19",
+        "duration": 3996,
+        "audioUrl": "https://filedn.eu/laEmYtxEKYhk29OB9g34pD8/SHARE%20ONLINE%20EN/Nine%20Commentaries%20on%20the%20Communist%20Party/3.%20Nine%20Commentaries%20Pt%203%20%20The%20Tyranny%20of%20the%20Chinese%20Communist%20Party.mp3?_=3",
         "topics": [
           "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1019sy",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Shen Yun Hosts Government, Community Leaders to Expose CCP Transnational Repression",
+        "description": "",
+        "publishDate": "2026-10-19",
+        "duration": 625,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1020/e689874c-3153-4bcb-82ca-2d15c62a0006/audio.mp3?length=7528222&duration=625",
+        "topics": [
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1019ev",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Europe Went All In on EVs. Now Its Automakers Are Losing Out.",
+        "description": "",
+        "publishDate": "2026-10-19",
+        "duration": 773,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1016/67d10555-3d55-4b0e-a22b-f596cd314888/audio.mp3?length=9306622&duration=773",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1019det",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "US Warns Americans of ‘Serious Risk of Wrongful Detention’ in China",
+        "description": "",
+        "publishDate": "2026-10-19",
+        "duration": 262,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1019/dc9ba31e-39f5-4b91-8283-05724eaa0e6b/audio.mp3?length=3169342&duration=262",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1019ds",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "US Orders DeepSeek Removed From Federal Government Systems",
+        "description": "",
+        "publishDate": "2026-10-19",
+        "duration": 234,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1019/7d93ff6e-ca97-47c6-b803-dd95c954b7f2/audio.mp3?length=2831806&duration=234",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1019cw",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Japan’s Red Line on Taiwan, and Why Its China Trade Boom May Not Last, ft. Stephen Nagy",
+        "description": "",
+        "publishDate": "2026-10-19",
+        "duration": 3602,
+        "audioUrl": "https://podcasts.captivate.fm/media/79f3df84-c0ad-4d1a-ad23-a0a883618580/02-CW-83-converted.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Economic Reform"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg071",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 71 Jigong Foretells That Lei and Chen Will Face Death",
+        "description": "Playlist Hub",
+        "publishDate": "2026-10-19",
+        "duration": 2339,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg071.mp3",
+        "topics": [
           "Culture & Society"
         ]
       },
@@ -143491,6 +143649,23 @@
     ],
     "episodes": [
       {
+        "id": "dumbrill-podcast-ep-944e5292-1a9a-4fb3-ad82-b0b66b3dea1f",
+        "podcastId": "dumbrill-podcast",
+        "podcastTitle": "The Dumbrill Podcast",
+        "title": "Western Propaganda MELTDOWN Over a Xinjiang Starbucks",
+        "description": "When Starbucks recently opened locations in Xinjiang, the \"professional\" China-watching community went into a complete meltdown. Why? Because the reality of what is actually happening on the ground in China is actively destroying their carefully c...",
+        "publishDate": "2026-10-19",
+        "duration": 640,
+        "audioUrl": "https://episodes.captivate.fm/episode/944e5292-1a9a-4fb3-ad82-b0b66b3dea1f.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Geopolitics & Politics",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "dumbrill-podcast-ep-c13d6e99-b556-444b-93de-b51fd5e54f9d",
         "podcastId": "dumbrill-podcast",
         "podcastTitle": "The Dumbrill Podcast",
@@ -143843,7 +144018,7 @@
         ]
       }
     ],
-    "status": "stale"
+    "status": "active"
   },
   {
     "id": "drum-tower",
@@ -144125,7 +144300,7 @@
         ]
       }
     ],
-    "status": "active"
+    "status": "stale"
   },
   {
     "id": "environment-china",
