@@ -16,6 +16,20 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-how-chinas-biggest-bank-adva",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "How China’s Biggest Bank Advances Beijing’s Global Ambitions",
+        "description": "The world&#8217;s largest bank by assets is also a powerful instrument of Chinese statecraft.",
+        "publishDate": "2026-10-20",
+        "duration": 1800,
+        "audioUrl": "https://api.substack.com/feed/podcast/221277770/91bb437d4e2a778009db24761029be6f.mp3",
+        "topics": [
+          "Daily Life",
+          "Geopolitics & Politics"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-more-haste-less-speed-phrase",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -58186,11 +58200,11 @@
         "id": "china-flexpat-ep-buzzsprout-19872806",
         "podcastId": "china-flexpat",
         "podcastTitle": "China Flexpat",
-        "title": "China Horse Business Podcast - Season 5 - Intro",
+        "title": "Season 5 - Introduction",
         "description": "For more info about the China Horse Business Tour in Mid-October 2026, please reach out : contact@wonder-horse.comSupport the show",
         "publishDate": "2026-09-28",
         "duration": 508,
-        "audioUrl": "https://www.buzzsprout.com/479218/episodes/19872806-china-horse-business-podcast-season-5-intro.mp3",
+        "audioUrl": "https://www.buzzsprout.com/479218/episodes/19872806-season-5-introduction.mp3",
         "topics": [
           "Economic Reform",
           "Tech & Business"
@@ -91967,6 +91981,24 @@
     ],
     "episodes": [
       {
+        "id": "made-in-china-de-ep-buzzsprout-19971749",
+        "podcastId": "made-in-china-de",
+        "podcastTitle": "Made in China (German)",
+        "title": "#232 – ALDI in China von null: Was 40 Städte über Chinas Konsumenten verraten – mit Christoph Schwaiger",
+        "description": "Wie baut man in China einen Händler auf, wenn es Eigenmarken im Markt kaum gibt, jede Kategorie Dutzende Anbieter hat und die Kunden täglich lange pendeln? Und was können deutsche Unternehmen daraus lernen?Zu Gast ist Christoph Schwaiger, ehemalig...",
+        "publishDate": "2026-10-20",
+        "duration": 2548,
+        "audioUrl": "https://www.buzzsprout.com/1869386/episodes/19971749-232-aldi-in-china-von-null-was-40-stadte-uber-chinas-konsumenten-verraten-mit-christoph-schwaiger.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "made-in-china-de-ep-buzzsprout-19955543",
         "podcastId": "made-in-china-de",
         "podcastTitle": "Made in China (German)",
@@ -100744,6 +100776,22 @@
     ],
     "episodes": [
       {
+        "id": "asia-insight-ep-nbrpodcasts-podbean-com-b685cba2-2859-36f7-844e-771c74331bc7",
+        "podcastId": "asia-insight",
+        "podcastTitle": "Asia Insight (NBR)",
+        "title": "LNG in a Changing World: Supply Shocks and Asia’s Energy Future",
+        "description": "Amid renewed volatility in global LNG markets, NBR asked Kurt Glaubitz and Leslie Palti-Guzman to reflect on what shifting supply dynamics and geopolitical risks mean for Asia’s energy security. In conversation with NBR Advisor and Energy Security...",
+        "publishDate": "2026-10-20",
+        "duration": 2285,
+        "audioUrl": "https://mcdn.podbean.com/mf/web/c7ybmmr543xqmk3r/NBR_Energy_Security_Program_Podcast_Oct_20.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
+      {
         "id": "asia-insight-ep-nbrpodcasts-podbean-com-9b9b4cf9-89cd-3fa2-b0cd-428508bbc9d7",
         "podcastId": "asia-insight",
         "podcastTitle": "Asia Insight (NBR)",
@@ -102135,6 +102183,37 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "roundtable-china-ep-1-2766212",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Woman Hero Yin Yuzhen's story",
+        "description": "Meet Yin Yuzhen, China's pioneering desert fighter and the final honoree on the FAO's 100 Women Heroes list. For 40 years, she has fought desertification, transforming not only the landscape but also the lives of people she has inspired. Among the...",
+        "publishDate": "2026-10-20",
+        "duration": 1476,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2610/1092485629563.mp3",
+        "topics": [
+          "Dynastic History",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2766209",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "How China's advanced manufacturing goes global",
+        "description": "A robot makes your latte in under a minute. A Chinese motorcycle takes on the world's best on the racetrack. At the Canton Fair, these are more than eye-catching innovations. They reflect how Chinese manufacturing is evolving. As Chinese companies...",
+        "publishDate": "2026-10-20",
+        "duration": 1708,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2610/1092485511709.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
       {
         "id": "roundtable-china-ep-1-2766170",
         "podcastId": "roundtable-china",
@@ -111232,6 +111311,22 @@
     ],
     "episodes": [
       {
+        "id": "wire-china-ep-buzzsprout-19987732",
+        "podcastId": "wire-china",
+        "podcastTitle": "The Wire China Podcast",
+        "title": "Geely Goes North: Canada&#39;s Chinese Car U-Turn",
+        "description": "We’re taking a little time this week to re-share one of our all-time favorite episodes: Why did Canada suddenly decide to open up its market to Chinese cars? Earlier this month, Chinese carmaker Geely announced it would start selling in Canada in ...",
+        "publishDate": "2026-10-20",
+        "duration": 937,
+        "audioUrl": "https://www.buzzsprout.com/2591600/episodes/19987732-geely-goes-north-canada-s-chinese-car-u-turn.mp3",
+        "topics": [
+          "Feminism & Arts",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "wire-china-ep-buzzsprout-19965388",
         "podcastId": "wire-china",
         "podcastTitle": "The Wire China Podcast",
@@ -111834,14 +111929,123 @@
         "id": "china-in-depth-ep-https---filedn-eu-laemytxekyhk29ob9g34pd8-share-20online-20e",
         "podcastId": "china-in-depth",
         "podcastTitle": "China in Depth",
-        "title": "Nine Commenteries on the Communist Party 3",
+        "title": "Nine Commenteries on the Communist Party 4",
         "description": "",
-        "publishDate": "2026-10-19",
-        "duration": 3996,
-        "audioUrl": "https://filedn.eu/laEmYtxEKYhk29OB9g34pD8/SHARE%20ONLINE%20EN/Nine%20Commentaries%20on%20the%20Communist%20Party/3.%20Nine%20Commentaries%20Pt%203%20%20The%20Tyranny%20of%20the%20Chinese%20Communist%20Party.mp3?_=3",
+        "publishDate": "2026-10-20",
+        "duration": 2063,
+        "audioUrl": "https://filedn.eu/laEmYtxEKYhk29OB9g34pD8/SHARE%20ONLINE%20EN/Nine%20Commentaries%20on%20the%20Communist%20Party/4.%20Nine%20Commentaries%20Pt%204%20%20How%20the%20Communist%20Party%20Opposes%20the%20Universe.mp3?_=4",
         "topics": [
           "Feminism & Arts",
           "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1020xi",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Xi Promised Prosperity, but China’s Wealth Gap With America Is Growing",
+        "description": "",
+        "publishDate": "2026-10-20",
+        "duration": 341,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1020/146f2d33-5920-4ff5-98ee-bc21bd0de4cb/audio.mp3?length=4115998&duration=341",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1020phi",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Philippines Refutes Beijing’s Claim That US Warship ‘Illegally Intruded’ in South China Sea",
+        "description": "",
+        "publishDate": "2026-10-20",
+        "duration": 271,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1021/b094c702-93fd-4d07-a7ea-c8884269212c/audio.mp3?length=3275038&duration=271",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Daily Life"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1020us",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "US Sanctions Chinese Companies Linked to Convicted Ex-Google Engineer",
+        "description": "",
+        "publishDate": "2026-10-20",
+        "duration": 293,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1020/9472d1d9-3703-45dd-8d4d-c8aed9e78b20/audio.mp3?length=3537982&duration=293",
+        "topics": [
+          "US-China Relations"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1020org",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s Transplant System Masks Human Rights Abuses, Report Finds",
+        "description": "",
+        "publishDate": "2026-10-20",
+        "duration": 520,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1020/01dc36f9-2bcf-4450-a42f-4c1f7f29909f/audio.mp3?length=6269950&duration=520",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1020ca",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "How Canada’s Push for Closer Ties With China Comes With Major Risks",
+        "description": "",
+        "publishDate": "2026-10-20",
+        "duration": 428,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1020/bff2479f-ef51-4455-9e33-d83420ae385e/audio.mp3?length=5165182&duration=428",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1020tw",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s Military Studies Russia’s War, With Implications for Taiwan",
+        "description": "",
+        "publishDate": "2026-10-20",
+        "duration": 376,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1020/e2fa3fa0-2d40-4a54-b6a3-5468356d75b5/audio.mp3?length=4533310&duration=376",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1020bj",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Selective Maritime Protection: A Safer Lane for Beijing",
+        "description": "",
+        "publishDate": "2026-10-20",
+        "duration": 376,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1020/cde8e1f8-1c48-4d6f-82b7-27df2559056b/audio.mp3?length=4543102&duration=376",
+        "topics": [
+          "Daily Life",
+          "Ancient Trade Routes"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg072",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 72 Hua Wants to Finish off His Mentor, Yang Ming as Well as Lei and Chen",
+        "description": "Playlist Hub",
+        "publishDate": "2026-10-20",
+        "duration": 2186,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg072.mp3",
+        "topics": [
+          "Dynastic History"
         ]
       },
       {
@@ -141031,19 +141235,6 @@
         "audioUrl": "https://vod.brightchat.com/assets/2025/1020/d00205a0-d3f5-4bcf-b756-08d02a868bd1/audio.mp3?length=5292000&duration=441",
         "topics": [
           "Culture & Society"
-        ]
-      },
-      {
-        "id": "china-in-depth-ep-1020xi",
-        "podcastId": "china-in-depth",
-        "podcastTitle": "China in Depth",
-        "title": "Trump Makes List of Demands for China Ahead of Potential Meeting With Xi",
-        "description": "",
-        "publishDate": "2025-10-20",
-        "duration": 267,
-        "audioUrl": "https://vod.brightchat.com/assets/2025/1020/17a3a83b-466c-422d-97ff-0dcf725bafcb/audio.mp3?length=3214368&duration=267",
-        "topics": [
-          "US-China Relations"
         ]
       },
       {
