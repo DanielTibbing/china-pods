@@ -5861,6 +5861,24 @@
     ],
     "episodes": [
       {
+        "id": "chp-ep-014231f2-cb8b-414f-ac2b-3b2c5ac5c5a7",
+        "podcastId": "chp",
+        "podcastTitle": "The China History Podcast",
+        "title": "A Concise History of China-Pangu to Puyi - Part 9",
+        "description": "From the triumph of Wu Zetian to the splendor of Xuanzong’s court, the Tang reached extraordinary heights. How did it all come undone?In Part 9 of From Pangu to Puyi, we continue the story from China’s only female emperor through the Tang’s golden...",
+        "publishDate": "2026-10-21",
+        "duration": 8771,
+        "audioUrl": "https://episodes.captivate.fm/episode/014231f2-cb8b-414f-ac2b-3b2c5ac5c5a7.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "History",
+          "Geopolitics & Politics",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "chp-ep-e90b2369-7541-4e55-912f-6047b8df9370",
         "podcastId": "chp",
         "podcastTitle": "The China History Podcast",
@@ -27635,6 +27653,25 @@
     ],
     "episodes": [
       {
+        "id": "soas-context-ep-tag-soundcloud-2010-tracks-2423302443",
+        "podcastId": "soas-context",
+        "podcastTitle": "China in Context",
+        "title": "Ep214: Chinese EVs: Highly charged — and ready to overtake?",
+        "description": "Chinese electric vehicle brands may not yet be on everybody's roads, but they're certainly on the minds of policy makers around the world. With Donald Trump musing recently on whether to allow Chinese cars to be manufactured in the US, leading Ame...",
+        "publishDate": "2026-10-21",
+        "duration": 2570,
+        "audioUrl": "https://feeds.soundcloud.com/stream/2423302443-soas-china-institute-ep214-chinese-evs-highly.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
+      {
         "id": "soas-context-ep-tag-soundcloud-2010-tracks-2414773344",
         "podcastId": "soas-context",
         "podcastTitle": "China in Context",
@@ -31347,6 +31384,26 @@
       "Tech & Business"
     ],
     "episodes": [
+      {
+        "id": "china-global-south-ep-7830e368-e380-4e13-bd23-ffb1a8c63a85",
+        "podcastId": "china-global-south",
+        "podcastTitle": "The China-Global South Podcast",
+        "title": "Why China's New Military Facility in Laos Matters",
+        "description": "China's new joint air training facility in Laos highlights Beijing's incremental expansion of its military access across Southeast Asia. The 2,000-meter runway could extend the operational reach of Chinese aircraft, although its current capabiliti...",
+        "publishDate": "2026-10-21",
+        "duration": 1714,
+        "audioUrl": "https://traffic.libsyn.com/secure/ea0f0fdd-2944-4ff3-8a00-704e8c67d58b/CGSP_-_Laos.mp3?dest-id=4287628",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Geopolitics & Politics",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-global-south-ep-b3e95966-18af-4c6f-ae19-e4b77812f104",
         "podcastId": "china-global-south",
@@ -86439,6 +86496,25 @@
     ],
     "episodes": [
       {
+        "id": "sharp-china-ep-https---sharpchina-fm-member-episode-preview-new-export-cont",
+        "podcastId": "sharp-china",
+        "podcastTitle": "Sharp China with Bill Bishop",
+        "title": "(Preview) New Export Controls in Multiple Sectors; Q3 GDP and the Fifth Plenum; Europe Presses Forward; OpenAI and Nvidia Chips",
+        "description": "On today’s show Andrew and Bill begin with a raft of proposed export controls from Beijing on AI related technologies, solar components, and machinery, as well as continued angst surrounding Japan’s rare earth access. Then: Reactions to strong Q3 ...",
+        "publishDate": "2026-10-21",
+        "duration": 879,
+        "audioUrl": "https://sharpchina.fm/assets/sharpchina171-preview.mp3?access_token=MSorAZNuXsdNR1taQBKjcF",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "sharp-china-ep-https---sharpchina-fm-member-episode-preview-brussels-and-be",
         "podcastId": "sharp-china",
         "podcastTitle": "Sharp China with Bill Bishop",
@@ -111929,13 +112005,65 @@
         "id": "china-in-depth-ep-https---filedn-eu-laemytxekyhk29ob9g34pd8-share-20online-20e",
         "podcastId": "china-in-depth",
         "podcastTitle": "China in Depth",
-        "title": "Nine Commenteries on the Communist Party 4",
+        "title": "Nine Commenteries on the Communist Party 5",
         "description": "",
-        "publishDate": "2026-10-20",
-        "duration": 2063,
-        "audioUrl": "https://filedn.eu/laEmYtxEKYhk29OB9g34pD8/SHARE%20ONLINE%20EN/Nine%20Commentaries%20on%20the%20Communist%20Party/4.%20Nine%20Commentaries%20Pt%204%20%20How%20the%20Communist%20Party%20Opposes%20the%20Universe.mp3?_=4",
+        "publishDate": "2026-10-21",
+        "duration": 3304,
+        "audioUrl": "https://filedn.eu/laEmYtxEKYhk29OB9g34pD8/SHARE%20ONLINE%20EN/Nine%20Commentaries%20on%20the%20Communist%20Party/5.%20Nine%20Commentaries%20Pt%205%20%20The%20Collusion%20of%20Jiang%20Zemin%20with%20the%20CCP%20to%20Persecute%20Falun%20Gong.mp3?_=5",
         "topics": [
           "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1021spy",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Former CSIS Chief Says China Will Spy on Canadians Through Chinese EVs",
+        "description": "",
+        "publishDate": "2026-10-21",
+        "duration": 325,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1019/1da66fea-aedc-4ae3-be4f-2aaa5ab7074d/audio.mp3?length=3929374&duration=325",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1021mh",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Falun Dafa News from Around the World",
+        "description": "",
+        "publishDate": "2026-10-21",
+        "duration": 1485,
+        "audioUrl": "https://en.minghui.org/u/files/podcasts/emh-podcast/EMHPodcast_2206-News.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1021atl",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Former DIA Chief Reveals China’s Playbook for Stealing American IP, from Tesla to Coca-Cola to F-35s | David Shedd",
+        "description": "",
+        "publishDate": "2026-10-21",
+        "duration": 4051,
+        "audioUrl": "https://podcasts.captivate.fm/media/0e8c36d1-573f-4fd8-8c5b-2b5be26c1221/261015-David-Shedd-podcast-converted.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg073",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 73 Jigong Revives Lei, Chen and Yang from Their Death ",
+        "description": "Playlist Hub",
+        "publishDate": "2026-10-21",
+        "duration": 2160,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg073.mp3",
+        "topics": [
           "Culture & Society"
         ]
       },
