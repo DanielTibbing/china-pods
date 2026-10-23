@@ -34863,6 +34863,23 @@
     ],
     "episodes": [
       {
+        "id": "china-power-ep-26874bd4-ce48-11f1-a425-9bd977550e9c",
+        "podcastId": "china-power",
+        "podcastTitle": "China Power",
+        "title": "A China-India Tactical Thaw?: A Conversation with Dhruva Jaishankar and Tanvi Madan ",
+        "description": "In this episode, Dhruva Jaishankar and Tanvi Madan join the ChinaPower Podcast to discuss the current state of China-India relations and whether recent developments signal a thaw between the two countries. The conversation examines the drivers beh...",
+        "publishDate": "2026-10-22",
+        "duration": 3009,
+        "audioUrl": "https://traffic.megaphone.fm/CSIS3693949330.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Economic Reform",
+          "Geopolitics & Politics",
+          "Tech & Business"
+        ]
+      },
+      {
         "id": "china-power-ep-b027a97e-c286-11f1-95bc-3bd4652f342a",
         "podcastId": "china-power",
         "podcastTitle": "China Power",
@@ -98894,6 +98911,23 @@
     ],
     "episodes": [
       {
+        "id": "trivium-china-ep-buzzsprout-20005821",
+        "podcastId": "trivium-china",
+        "podcastTitle": "The Trivium China Podcast",
+        "title": "Ep 94 - China’s hollow growth",
+        "description": "China’s GDP growth rose to 4.5% y/y in Q3, after slipping to 4.3% in Q2. That puts it right at the bottom edge of Beijing’s 4.5–5% target range.On the surface, that looks like a real pickup. A closer look tells a less encouraging story.Nearly all ...",
+        "publishDate": "2026-10-22",
+        "duration": 1445,
+        "audioUrl": "https://www.buzzsprout.com/2408047/episodes/20005821-ep-94-china-s-hollow-growth.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
+      {
         "id": "trivium-china-ep-buzzsprout-19971125",
         "podcastId": "trivium-china",
         "podcastTitle": "The Trivium China Podcast",
@@ -102259,6 +102293,35 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "roundtable-china-ep-1-2766234",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Why does everything have to be at double speed?",
+        "description": "Why spend 30 minutes watching a video when you can get the key points in three? With AI doing the reading, summarizing and note-taking for us, information is just a few clicks away. For young people juggling classes, work and endless content, that...",
+        "publishDate": "2026-10-22",
+        "duration": 1374,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2610/1092660744366.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2766230",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Could Super El Niño hit your wallet?",
+        "description": "Has your morning coffee crept up in price again? Picture an ocean thousands of kilometers away, warming toward what may be the strongest El Niño on record. Are the two connected? Not yet, but that heat could reach the farms behind your coffee, you...",
+        "publishDate": "2026-10-22",
+        "duration": 1783,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2610/1092660631330.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "roundtable-china-ep-1-2766212",
         "podcastId": "roundtable-china",
@@ -112005,13 +112068,91 @@
         "id": "china-in-depth-ep-https---filedn-eu-laemytxekyhk29ob9g34pd8-share-20online-20e",
         "podcastId": "china-in-depth",
         "podcastTitle": "China in Depth",
-        "title": "Nine Commenteries on the Communist Party 5",
+        "title": "Nine Commenteries on the Communist Party 6",
         "description": "",
-        "publishDate": "2026-10-21",
-        "duration": 3304,
-        "audioUrl": "https://filedn.eu/laEmYtxEKYhk29OB9g34pD8/SHARE%20ONLINE%20EN/Nine%20Commentaries%20on%20the%20Communist%20Party/5.%20Nine%20Commentaries%20Pt%205%20%20The%20Collusion%20of%20Jiang%20Zemin%20with%20the%20CCP%20to%20Persecute%20Falun%20Gong.mp3?_=5",
+        "publishDate": "2026-10-22",
+        "duration": 4147,
+        "audioUrl": "https://filedn.eu/laEmYtxEKYhk29OB9g34pD8/SHARE%20ONLINE%20EN/Nine%20Commentaries%20on%20the%20Communist%20Party/6.%20Nine%20Commentaries%20Pt%206%20%20%20How%20the%20Chinese%20Communist%20Party%20Destroyed%20Traditional%20Culture.mp3?_=6",
         "topics": [
           "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1022pro",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s Provincial Shake-Ups Highlight Aging Leadership and Xi’s Succession Strategy: Analysts",
+        "description": "",
+        "publishDate": "2026-10-22",
+        "duration": 283,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1022/462a739e-8b00-4771-9431-378c4766e480/audio.mp3?length=3417598&duration=283",
+        "topics": [
+          "Daily Life"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1022des",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Because Matters Are Getting Desperate, China Turns to Significant Fiscal Reform",
+        "description": "",
+        "publishDate": "2026-10-22",
+        "duration": 272,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1022/edada2a3-84e4-4ad5-bb5a-b344ce318ab2/audio.mp3?length=3291166&duration=272",
+        "topics": [
+          "Economic Reform"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1022mya",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "US Myanmar Minerals Push Faces Beijing’s Influence",
+        "description": "",
+        "publishDate": "2026-10-22",
+        "duration": 382,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1022/0a95e17c-4e4f-4835-a41c-a326362e958c/audio.mp3?length=4608478&duration=382",
+        "topics": [
+          "Daily Life"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1022dom",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "The China Shock Domino Effect",
+        "description": "",
+        "publishDate": "2026-10-22",
+        "duration": 460,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0529/47383530-ae16-48af-8585-3454b41c518d/audio.mp3?length=5525568&duration=460",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1022sur",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "The Hollow Triumph: Heavy Costs of China’s Record Trade Surplus",
+        "description": "",
+        "publishDate": "2026-10-22",
+        "duration": 377,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1023/c2409a85-6f63-40f2-8b0c-f867c1c3cd2a/audio.mp3?length=4554046&duration=377",
+        "topics": [
+          "Economic Reform"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg074",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 74 A Giant Simpleton Journeys into the Greenwood",
+        "description": "Playlist Hub",
+        "publishDate": "2026-10-22",
+        "duration": 1705,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg074.mp3",
+        "topics": [
           "Culture & Society"
         ]
       },
