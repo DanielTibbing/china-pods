@@ -81456,6 +81456,23 @@
     ],
     "episodes": [
       {
+        "id": "chinese-literature-podcast-ep-632f6310-895b-4334-9f7d-693745db3d1d",
+        "podcastId": "chinese-literature-podcast",
+        "podcastTitle": "The Chinese Literature Podcast",
+        "title": "Liaozhai - Mr Historian of the Strange - Susan Wan Dolling Interview",
+        "description": "Ghosts, fox spirits, seductive women, and terrifying monsters populate Liaozhai Zhiyi, one of China's greatest collections of supernatural tales. Just in time for Halloween, translator Susan Wan Dolling joins the Chinese Literature Podcast to disc...",
+        "publishDate": "2026-10-23",
+        "duration": 1754,
+        "audioUrl": "https://traffic.libsyn.com/secure/chineseliteraturepodcast/Chinese_Literature_Podcast_-_Mr_Historian_of_the_Strange_-_Susan_Wan_Dolling_Interview_.mp3?dest-id=368338",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "History",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "chinese-literature-podcast-ep-9f7d1cb4-343d-4901-b712-53d42ae15002",
         "podcastId": "chinese-literature-podcast",
         "podcastTitle": "The Chinese Literature Podcast",
@@ -92077,17 +92094,16 @@
         "id": "made-in-china-de-ep-buzzsprout-19971749",
         "podcastId": "made-in-china-de",
         "podcastTitle": "Made in China (German)",
-        "title": "#232 – ALDI in China von null: Was 40 Städte über Chinas Konsumenten verraten – mit Christoph Schwaiger",
-        "description": "Wie baut man in China einen Händler auf, wenn es Eigenmarken im Markt kaum gibt, jede Kategorie Dutzende Anbieter hat und die Kunden täglich lange pendeln? Und was können deutsche Unternehmen daraus lernen?Zu Gast ist Christoph Schwaiger, ehemalig...",
+        "title": "#232 – Handel in China von null aufbauen: Was 40 Städte über Chinas Konsumenten verraten – mit Christoph Schwaiger",
+        "description": "Wie baut man in China einen Händler auf, wenn es kaum Eigenmarken gibt, jede Kategorie Dutzende Anbieter hat und die Kunden täglich lange pendeln?Zu Gast ist Christoph Schwaiger. Er kam 2014 nach Shanghai, um für einen internationalen Lebensmittel...",
         "publishDate": "2026-10-20",
         "duration": 2548,
-        "audioUrl": "https://www.buzzsprout.com/1869386/episodes/19971749-232-aldi-in-china-von-null-was-40-stadte-uber-chinas-konsumenten-verraten-mit-christoph-schwaiger.mp3",
+        "audioUrl": "https://www.buzzsprout.com/1869386/episodes/19971749-232-handel-in-china-von-null-aufbauen-was-40-stadte-uber-chinas-konsumenten-verraten-mit-christoph-schwaiger.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
           "Daily Life",
           "Feminism & Arts",
-          "Tech & Business",
           "Culture & Society"
         ]
       },
@@ -102294,6 +102310,35 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-2766237",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Straight to senior high?",
+        "description": "Zhongkao, China's high school entrance exam, is a milestone nearly every Chinese student must face. But now, some cities and counties are weighing a bold idea: let students move straight into senior high school. Could scrapping Zhongkao ease stude...",
+        "publishDate": "2026-10-23",
+        "duration": 2235,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2610/1092660806918.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2766240",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Shanshenbu and more: Decoding China's viral buzzwords",
+        "description": "From \"Flash Step\" to \"no heartburn,\" catchphrases are taking China's internet by storm. People are copying the moves, sharing the jokes, and joining the fun. But there's often more to these viral trends than meets the eye. Let's unpack the buzzwor...",
+        "publishDate": "2026-10-23",
+        "duration": 1309,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2610/1092660878992.mp3",
+        "topics": [
+          "Dynastic History",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2766234",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -112068,13 +112113,66 @@
         "id": "china-in-depth-ep-https---filedn-eu-laemytxekyhk29ob9g34pd8-share-20online-20e",
         "podcastId": "china-in-depth",
         "podcastTitle": "China in Depth",
-        "title": "Nine Commenteries on the Communist Party 6",
+        "title": "Nine Commenteries on the Communist Party 7",
         "description": "",
-        "publishDate": "2026-10-22",
-        "duration": 4147,
-        "audioUrl": "https://filedn.eu/laEmYtxEKYhk29OB9g34pD8/SHARE%20ONLINE%20EN/Nine%20Commentaries%20on%20the%20Communist%20Party/6.%20Nine%20Commentaries%20Pt%206%20%20%20How%20the%20Chinese%20Communist%20Party%20Destroyed%20Traditional%20Culture.mp3?_=6",
+        "publishDate": "2026-10-23",
+        "duration": 2393,
+        "audioUrl": "https://filedn.eu/laEmYtxEKYhk29OB9g34pD8/SHARE%20ONLINE%20EN/Nine%20Commentaries%20on%20the%20Communist%20Party/7.%20Nine%20Commentaries%20Pt%207%20%20The%20Chinese%20Communist%20Party%E2%80%99s%20History%20of%20Killing.mp3?_=7",
         "topics": [
           "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1023tre",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Treasury Proposes Expanding US Investment Curbs on Chinese AI, Biotech",
+        "description": "",
+        "publishDate": "2026-10-23",
+        "duration": 376,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1024/73973856-e320-4531-bb8b-d8b8e95760e9/audio.mp3?length=4533886&duration=376",
+        "topics": [
+          "Semiconductors & AI",
+          "Tech & Business"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1023fra",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "France, Germany Push for EU Rapid-Response Trade Tool With Likely Focus on China",
+        "description": "",
+        "publishDate": "2026-10-23",
+        "duration": 192,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1006/edf7055b-ff90-44be-a148-99e2b9ce1c14/audio.mp3?length=2328094&duration=192",
+        "topics": [
+          "Economic Reform"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1023ger",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "With Exports Down, Germany Is Finally Tougher on China",
+        "description": "",
+        "publishDate": "2026-10-23",
+        "duration": 417,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1023/26cb2d97-0be9-4b45-82b4-40282a8e02b0/audio.mp3?length=5030974&duration=417",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg075",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 75 A Roomful Sworn Brothers Caught Hua Yunlong Hiding Under the Bed",
+        "description": "Playlist Hub",
+        "publishDate": "2026-10-23",
+        "duration": 2655,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg075.mp3",
+        "topics": [
           "Culture & Society"
         ]
       },
