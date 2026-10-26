@@ -16,6 +16,34 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-the-trivium-weekly-recap-hol",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "The Trivium Weekly Recap | Hollow Growth",
+        "description": "China&#8217;s economy accelerated in Q3 &#8212; but before you pop the champagne, it&#8217;s worth checking where the growth came from.",
+        "publishDate": "2026-10-26",
+        "duration": 1800,
+        "audioUrl": "https://substack-post-media.s3.amazonaws.com/public/images/6faf19ea-59a3-4985-a678-bcb18663ab50_400x400.webp",
+        "topics": [
+          "Economic Reform"
+        ]
+      },
+      {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-it-doesnt-give-you-heartburn",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "“It doesn’t give you heartburn” — Phrase of the Week",
+        "description": "A line from China&#8217;s AI micro-dramas has become an unlikely compliment",
+        "publishDate": "2026-10-25",
+        "duration": 1800,
+        "audioUrl": "https://substackcdn.com/image/fetch/$s_!2cK3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F325806df-699f-4bf8-8b52-9b3cbc7e46da_2000x1200.jpeg",
+        "topics": [
+          "Semiconductors & AI",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-how-chinas-biggest-bank-adva",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -190,6 +218,19 @@
         ]
       },
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-this-week-in-chinas-history-",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "This Week in China’s History | The “Bloody Saturday” Photograph Published",
+        "description": "October 5, 1937",
+        "publishDate": "2026-10-04",
+        "duration": 1800,
+        "audioUrl": "https://substackcdn.com/image/fetch/$s_!VDV8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb49092c3-f3ca-40cc-86ad-651fd803b51f_500x417.png",
+        "topics": [
+          "History"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-the-fever-broken-for-now",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -254,20 +295,6 @@
           "Semiconductors & AI",
           "Daily Life",
           "Tech & Business"
-        ]
-      },
-      {
-        "id": "sinica-ep-https---www-sinicapodcast-com-p-this-week-in-chinas-history-",
-        "podcastId": "sinica",
-        "podcastTitle": "The Sinica Podcast",
-        "title": "This Week in China’s History: Qing Diplomats Chafe over China’s Relegation to “Third-Class State” at the Hague",
-        "description": "September 22, 1907",
-        "publishDate": "2026-09-21",
-        "duration": 1800,
-        "audioUrl": "https://substackcdn.com/image/fetch/$s_!zmbq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbcc3f569-a9a6-4337-a5b1-ffb741cf5d90_2156x1194.png",
-        "topics": [
-          "Dynastic History",
-          "History"
         ]
       },
       {
@@ -13354,6 +13381,22 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "chinatalk-ep-6e00feb4-d088-11f1-8a38-d365f5324343",
+        "podcastId": "chinatalk",
+        "podcastTitle": "ChinaTalk",
+        "title": "WarTalk: Kofman on Starlink + What Ukraine Can Teach the U.S. Military",
+        "description": "Ukraine and Russia have rebuilt their armies around drones, deception, and long-range strike. What should the U.S. military take from it? Michael Kofman joins WarTalk regulars Jordan Schneider, Justin McIntosh, and Tony Stark. We discuss: How much...",
+        "publishDate": "2026-10-25",
+        "duration": 5126,
+        "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL5975052881.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Feminism & Arts",
+          "Geopolitics & Politics",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "chinatalk-ep-38c1d164-cc01-11f1-b260-1f602f3533d5",
         "podcastId": "chinatalk",
@@ -45044,6 +45087,23 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "sr-kina-ep-rss-sr-se-pod-eid-2891579",
+        "podcastId": "sr-kina",
+        "podcastTitle": "Radiokorrespondenterna Kina",
+        "title": "Så ska Kina undvika bränna sig i Mellanöstern",
+        "description": "I skuggan av USA:s krig mot Iran flyttar Kina fram sina positioner. Men balansgången mellan konflikter i regionen kan bli tuff. Lyssna på alla avsnitt i Sveriges Radios app. För första gången på tio år besökte Kinas högsta ledare Xi Jinping Egypte...",
+        "publishDate": "2026-10-26",
+        "duration": 1620,
+        "audioUrl": "https://static-cdn.sr.se/laddahem/podradio/2026/10/radiokorrespondenterna_kina_sa_ska_kina_undvika_branna_sig_20261023_1509198042.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Geopolitics & Politics",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "sr-kina-ep-rss-sr-se-pod-eid-2888849",
         "podcastId": "sr-kina",
@@ -112113,13 +112173,94 @@
         "id": "china-in-depth-ep-https---filedn-eu-laemytxekyhk29ob9g34pd8-share-20online-20e",
         "podcastId": "china-in-depth",
         "podcastTitle": "China in Depth",
-        "title": "Nine Commenteries on the Communist Party 7",
+        "title": "Nine Commenteries on the Communist Party 8",
         "description": "",
-        "publishDate": "2026-10-23",
-        "duration": 2393,
-        "audioUrl": "https://filedn.eu/laEmYtxEKYhk29OB9g34pD8/SHARE%20ONLINE%20EN/Nine%20Commentaries%20on%20the%20Communist%20Party/7.%20Nine%20Commentaries%20Pt%207%20%20The%20Chinese%20Communist%20Party%E2%80%99s%20History%20of%20Killing.mp3?_=7",
+        "publishDate": "2026-10-25",
+        "duration": 2658,
+        "audioUrl": "https://filedn.eu/laEmYtxEKYhk29OB9g34pD8/SHARE%20ONLINE%20EN/Nine%20Commentaries%20on%20the%20Communist%20Party/8.%20Nine%20Commentaries%20Pt%208%20%20How%20the%20Chinese%20Communist%20Party%20Is%20an%20Evil%20Cult.mp3?_=8",
         "topics": [
           "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1025spy",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "California Woman Accused of Working as Chinese Spy Pleads Not Guilty",
+        "description": "",
+        "publishDate": "2026-10-25",
+        "duration": 195,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1024/6b37d2c9-c667-4db2-bde5-383701a79b14/audio.mp3?length=2371294&duration=195",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1025air",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China Is Making It Harder to Leave. Some People Find Out at the Airport Gate.",
+        "description": "",
+        "publishDate": "2026-10-25",
+        "duration": 1127,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1022/9fb03551-9f2f-492d-8854-d01f6495fdc0/audio.mp3?length=13551454&duration=1127",
+        "topics": [
+          "Semiconductors & AI",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1025fcc",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "FCC Bans 2 Video Devices With Chinese-Made Surveillance Chips",
+        "description": "",
+        "publishDate": "2026-10-25",
+        "duration": 237,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1025/f02f7792-45cd-412b-9176-a2b3826f4937/audio.mp3?length=2864062&duration=237",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1025cus",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "CUSMA Is Becoming an Economic-Security Pact. Canada Should Treat It Like One.",
+        "description": "",
+        "publishDate": "2026-10-25",
+        "duration": 402,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0822/67851c3f-300d-4e88-8cb9-eba2f0f4a270/audio.mp3?length=4852757&duration=402",
+        "topics": [
+          "Dynastic History",
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1025td",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "What the TD Bank and Bank of America Cases Reveal About Cross-Border Financial Crime",
+        "description": "",
+        "publishDate": "2026-10-25",
+        "duration": 414,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1024/9e6a2181-24ed-493c-92bb-318476a3443e/audio.mp3?length=4996702&duration=414",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg076",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 76 Jigong Knocks at the Door. Hua Panickes",
+        "description": "Playlist Hub",
+        "publishDate": "2026-10-25",
+        "duration": 2448,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg076.mp3",
+        "topics": [
           "Culture & Society"
         ]
       },
