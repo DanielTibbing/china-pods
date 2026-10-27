@@ -16,6 +16,32 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-transcript-mr-chinas-great-e",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "Transcript | Mr. China’s Great Enterprise: Tim Clissold and the Fight for a Chinese Civilisation A-level",
+        "description": "This week on Sinica, I sit down in Beijing with Tim Clissold.",
+        "publishDate": "2026-10-27",
+        "duration": 1800,
+        "audioUrl": "https://substackcdn.com/image/fetch/$s_!qNY3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F388de59c-9706-4710-9edf-33fab4ffce9d_1120x800.png",
+        "topics": [
+          "Daily Life"
+        ]
+      },
+      {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-mr-chinas-great-enterprise-t",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "Mr. China’s Great Enterprise: Tim Clissold and the Fight for a Chinese Civilisation A-level",
+        "description": "This week on Sinica, I sit down in Beijing with Tim Clissold.",
+        "publishDate": "2026-10-27",
+        "duration": 1800,
+        "audioUrl": "https://api.substack.com/feed/podcast/222124624/4daf9234ac090d366f89f06d480fa9b5.mp3",
+        "topics": [
+          "Daily Life"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-the-trivium-weekly-recap-hol",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -26,6 +52,33 @@
         "audioUrl": "https://substack-post-media.s3.amazonaws.com/public/images/6faf19ea-59a3-4985-a678-bcb18663ab50_400x400.webp",
         "topics": [
           "Economic Reform"
+        ]
+      },
+      {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-trivium-china-podcast-chinas",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "Trivium China Podcast | China’s Hollow Growth",
+        "description": "Listen now (24 mins) | China&#8217;s GDP growth rose to 4.5% y/y in Q3, after slipping to 4.3% in Q2.",
+        "publishDate": "2026-10-26",
+        "duration": 1800,
+        "audioUrl": "https://api.substack.com/feed/podcast/222135669/f108c59535e2b1317213d730afd7e47c.mp3",
+        "topics": [
+          "Economic Reform"
+        ]
+      },
+      {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-if-you-can-win-the-market-in",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "If you can win the market in China, you can win the market in the world",
+        "description": "Henry Huiyao Wang on Chinese investment in Europe, the dispute over competitive conditions, and Europe&#8217;s room for maneuver between China and the United States.",
+        "publishDate": "2026-10-26",
+        "duration": 1800,
+        "audioUrl": "https://substackcdn.com/image/fetch/$s_!lM6S!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F31114c43-20f8-486e-9278-432d376188a5_1535x2047.png",
+        "topics": [
+          "Economic Reform",
+          "Tech & Business"
         ]
       },
       {
@@ -1141,22 +1194,6 @@
         "audioUrl": "https://substackcdn.com/image/fetch/$s_!czZi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F42b29f07-9918-4a5d-843d-c08ba8cdde5b_2000x1200.jpeg",
         "topics": [
           "Daily Life"
-        ]
-      },
-      {
-        "id": "sinica-ep-https---www-sinicapodcast-com-p-trivium-china-podcast-chinas",
-        "podcastId": "sinica",
-        "podcastTitle": "The Sinica Podcast",
-        "title": "Trivium China Podcast | China's Growth Model Hits Another Reality Check",
-        "description": "Listen now | China&#8217;s economy started 2026 with surprising momentum &#8212; but the latest monthly macro data underscores that many of the country&#8217;s underlying challenges remain firmly in place.",
-        "publishDate": "2026-06-20",
-        "duration": 1800,
-        "audioUrl": "https://api.substack.com/feed/podcast/202799775/b469da87f414ab61560ec8cba7e1ff7c.mp3",
-        "topics": [
-          "Semiconductors & AI",
-          "Feminism & Arts",
-          "Economic Reform",
-          "Culture & Society"
         ]
       },
       {
@@ -38344,6 +38381,22 @@
     ],
     "episodes": [
       {
+        "id": "merics-ep-buzzsprout-20021641",
+        "podcastId": "merics",
+        "podcastTitle": "MERICS China Podcast",
+        "title": "China in 26: Mögliches Trump-Xi-Putin-Treffen + Exportkontrollen + Fünftes Plenum",
+        "description": "In dieser Ausgabe unserer Podcast-Serie „China in 26“ sprechen Bernhard Bartsch, Mikko Huotari und Claudia Wessling über ein angeblich geplantes Dreier-Treffen von Vladimir Putin, Donald Trump und Xi Jinping, über eine vorgeschlagene Ausweitung vo...",
+        "publishDate": "2026-10-26",
+        "duration": 1825,
+        "audioUrl": "https://www.buzzsprout.com/1825833/episodes/20021641-china-in-26-mogliches-trump-xi-putin-treffen-exportkontrollen-funftes-plenum.mp3",
+        "topics": [
+          "US-China Relations",
+          "Feminism & Arts",
+          "Geopolitics & Politics",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "merics-ep-buzzsprout-19966309",
         "podcastId": "merics",
         "podcastTitle": "MERICS China Podcast",
@@ -58290,6 +58343,21 @@
       "Tech & Business"
     ],
     "episodes": [
+      {
+        "id": "china-flexpat-ep-buzzsprout-20026085",
+        "podcastId": "china-flexpat",
+        "podcastTitle": "China Flexpat",
+        "title": "S5E04 - The 13th Longines Beijing Masters/Shanghai Maduhui/The Horse Blog of Sister Kitty",
+        "description": "Contact us for more info: contact@wonder-horse.comSupport the show",
+        "publishDate": "2026-10-27",
+        "duration": 646,
+        "audioUrl": "https://www.buzzsprout.com/479218/episodes/20026085-s5e04-the-13th-longines-beijing-masters-shanghai-maduhui-the-horse-blog-of-sister-kitty.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life"
+        ]
+      },
       {
         "id": "china-flexpat-ep-buzzsprout-19982406",
         "podcastId": "china-flexpat",
@@ -102370,6 +102438,35 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-2766259",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "The Soapbox: when the college allowance gets cut",
+        "description": "A freshman's allowance gets slashed mid-semester, setting off a small family negotiation over weekly payments, a trial period, and a bonus tied to exam results. What looks like a simple money dispute runs deeper, raising questions about dependence...",
+        "publishDate": "2026-10-26",
+        "duration": 1334,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2610/1093002640212.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2766256",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Can computing cure disease faster?",
+        "description": "What if we could understand disease and predict whether a treatment will work before spending years and billions of dollars testing it? China has made computational medicine a national priority, betting that AI, supercomputing, and massive biologi...",
+        "publishDate": "2026-10-26",
+        "duration": 1811,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2610/1093002405219.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2766237",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -112173,13 +112270,82 @@
         "id": "china-in-depth-ep-https---filedn-eu-laemytxekyhk29ob9g34pd8-share-20online-20e",
         "podcastId": "china-in-depth",
         "podcastTitle": "China in Depth",
-        "title": "Nine Commenteries on the Communist Party 8",
+        "title": "Nine Commenteries on the Communist Party 9",
         "description": "",
-        "publishDate": "2026-10-25",
-        "duration": 2658,
-        "audioUrl": "https://filedn.eu/laEmYtxEKYhk29OB9g34pD8/SHARE%20ONLINE%20EN/Nine%20Commentaries%20on%20the%20Communist%20Party/8.%20Nine%20Commentaries%20Pt%208%20%20How%20the%20Chinese%20Communist%20Party%20Is%20an%20Evil%20Cult.mp3?_=8",
+        "publishDate": "2026-10-26",
+        "duration": 5000,
+        "audioUrl": "https://filedn.eu/laEmYtxEKYhk29OB9g34pD8/SHARE%20ONLINE%20EN/Nine%20Commentaries%20on%20the%20Communist%20Party/9.%20Nine%20Commentaries%20Pt%209%20%20The%20Unscrupulous%20Nature%20of%20the%20Chinese%20Communist%20Party.mp3?_=9",
         "topics": [
           "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1026msf",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China-Linked Hackers Used AI Tool in Global Cyberattacks, Microsoft Says",
+        "description": "",
+        "publishDate": "2026-10-26",
+        "duration": 381,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1026/572504b2-d994-4b02-ae05-42df9132f186/audio.mp3?length=4594355&duration=381",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1026woe",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s Economic Woes Deepen as CCP Plenum Focuses on Political Control",
+        "description": "",
+        "publishDate": "2026-10-26",
+        "duration": 369,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1026/700cd19d-d52b-446b-86f1-8e96960b7f2d/audio.mp3?length=4454685&duration=369",
+        "topics": [
+          "Economic Reform",
+          "Geopolitics & Politics",
+          "Tech & Business"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1026u14",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "US and 14 Partners Launch Industrial Overcapacity Initiative Amid China Concerns",
+        "description": "",
+        "publishDate": "2026-10-26",
+        "duration": 277,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1009/c5fe3dde-035b-42eb-9488-8b146a23bd08/audio.mp3?length=3351358&duration=277",
+        "topics": [
+          "Daily Life",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1026car",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Beijing’s ‘Carbon Credit’ Racket Is Driving Western Automakers Off a Cliff",
+        "description": "",
+        "publishDate": "2026-10-26",
+        "duration": 589,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1026/eadc1552-af0e-4c12-8a16-d6b29c4608cb/audio.mp3?length=7096222&duration=589",
+        "topics": [
+          "Daily Life"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg077",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 77 Jigong Ordered Hua to Be Thrown Down a Deep Valley",
+        "description": "Playlist Hub",
+        "publishDate": "2026-10-26",
+        "duration": 2033,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg077.mp3",
+        "topics": [
           "Culture & Society"
         ]
       },
