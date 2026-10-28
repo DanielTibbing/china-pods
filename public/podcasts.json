@@ -1728,6 +1728,26 @@
     ],
     "episodes": [
       {
+        "id": "little-red-podcast-ep-83cdbcf4-8461-40e7-9844-b4f1000a89da",
+        "podcastId": "little-red-podcast",
+        "podcastTitle": "The Little Red Podcast",
+        "title": "Bank Balance: China Purges its Finances",
+        "description": "In the sixth episode in our China Rules series, we examine China&rsquo;s purge of its banks. China&rsquo;s banks are three times bigger than the US banking system, holding assets worth $60 trillion &ndash; equivalent to half the world&rsquo;s GDP....",
+        "publishDate": "2026-10-28",
+        "duration": 2958,
+        "audioUrl": "https://traffic.omny.fm/d/clips/a7b4f8fe-59d9-4afc-a79a-a90101378abf/bf2c1d80-3656-4449-9d00-a903004e8f84/83cdbcf4-8461-40e7-9844-b4f1000a89da/audio.mp3?utm_source=Podcast&in_playlist=efbff746-e7c1-463a-9d80-a903004e8f8f",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Geopolitics & Politics",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "little-red-podcast-ep-81edc120-88d2-4ca4-b8c5-b4c6003dd8b9",
         "podcastId": "little-red-podcast",
         "podcastTitle": "The Little Red Podcast",
@@ -13418,6 +13438,25 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "chinatalk-ep-3d434f8e-a7a2-11f1-8d76-3b79f14c3588",
+        "podcastId": "chinatalk",
+        "podcastTitle": "ChinaTalk",
+        "title": "What's Broken About China's Economy + The Cost of Keeping China Out | Meg Rithmire",
+        "description": "ChinaTalk spends a lot of time on the leading lights of the Chinese economy... the MiniMaxes, ByteDances, Unitrees, and BYDs of the world. But what about the rest of the system, the part growing at zero to two percent? To talk about what's broken,...",
+        "publishDate": "2026-10-27",
+        "duration": 5657,
+        "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL1229337744.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "chinatalk-ep-6e00feb4-d088-11f1-8a38-d365f5324343",
         "podcastId": "chinatalk",
@@ -31464,6 +31503,25 @@
       "Tech & Business"
     ],
     "episodes": [
+      {
+        "id": "china-global-south-ep-0203b8d7-5917-411e-8488-e5f213f4b798",
+        "podcastId": "china-global-south",
+        "podcastTitle": "The China-Global South Podcast",
+        "title": "The U.S. Wants Global South Countries to Reject Chinese AI. Will They?",
+        "description": "China's AI competition with the United States is increasingly about more than building the most powerful models. For countries across the Global South, affordability, practical performance, customization, and control over data are often more impor...",
+        "publishDate": "2026-10-27",
+        "duration": 2113,
+        "audioUrl": "https://traffic.libsyn.com/secure/ea0f0fdd-2944-4ff3-8a00-704e8c67d58b/CGSP_-_Kyle_Chan.mp3?dest-id=4287628",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-global-south-ep-7830e368-e380-4e13-bd23-ffb1a8c63a85",
         "podcastId": "china-global-south",
@@ -92219,6 +92277,22 @@
     ],
     "episodes": [
       {
+        "id": "made-in-china-de-ep-buzzsprout-20007928",
+        "podcastId": "made-in-china-de",
+        "podcastTitle": "Made in China (German)",
+        "title": "#233 – De-Risking in der Praxis: Was deutsche Firmen in China jetzt wirklich tun – mit Jens Hildebrandt, Vice President Government Relations Greater China bei BASF",
+        "description": "Wie spricht ein deutsches Unternehmen mit der chinesischen Regierung, und was passiert dabei hinter den Kulissen? Und was verstehen deutsche Politiker und Manager an China häufig falsch?Zu Gast ist Jens Hildebrandt, Vice President Government Relat...",
+        "publishDate": "2026-10-27",
+        "duration": 1875,
+        "audioUrl": "https://www.buzzsprout.com/1869386/episodes/20007928-233-de-risking-in-der-praxis-was-deutsche-firmen-in-china-jetzt-wirklich-tun-mit-jens-hildebrandt-vice-president-government-relations-greater-china-bei-basf.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "made-in-china-de-ep-buzzsprout-19971749",
         "podcastId": "made-in-china-de",
         "podcastTitle": "Made in China (German)",
@@ -102438,6 +102512,68 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-2766237",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Straight to senior high?",
+        "description": "Zhongkao, China's high school entrance exam, is a milestone nearly every Chinese student must face. But now, some cities and counties are weighing a bold idea: let students move straight into senior high school. Could scrapping Zhongkao ease stude...",
+        "publishDate": "2026-10-28",
+        "duration": 2235,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2610/1092660806918.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-02766233",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "IN VIDEO: Straight to senior high?",
+        "description": "Zhongkao, China's high school entrance exam, is a milestone nearly every Chinese student must face. But now, some cities and counties are weighing a bold idea: let students move straight into senior high school. Could scrapping Zhongkao ease stude...",
+        "publishDate": "2026-10-28",
+        "duration": 2244,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp4/radio-res.cgtn.com/ueditor/audio/2610/1092660254196.mp4",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2766277",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "No coffee, no seat? New café seating rules stir debate",
+        "description": "A new café seating policy from Starbucks has reignited a debate here in China about what coffee shops are for. Are they simply places to buy coffee, or public-facing spaces where people can work, study, meet friends, or take a break? / Duolingo is...",
+        "publishDate": "2026-10-27",
+        "duration": 1593,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2610/1093093333362.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2766274",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Are people taking long-distance buses again?",
+        "description": "China's long-distance coach industry is staging a comeback, with electric buses, smarter route planning, and services tailored to traveler needs driving the revival. How is the humble coach finding new ways to win passengers back in a country wher...",
+        "publishDate": "2026-10-27",
+        "duration": 1582,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2610/1093093242512.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2766259",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -102467,17 +102603,18 @@
         ]
       },
       {
-        "id": "roundtable-china-ep-1-2766237",
+        "id": "roundtable-china-ep-1-02766255",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
-        "title": "Straight to senior high?",
-        "description": "Zhongkao, China's high school entrance exam, is a milestone nearly every Chinese student must face. But now, some cities and counties are weighing a bold idea: let students move straight into senior high school. Could scrapping Zhongkao ease stude...",
-        "publishDate": "2026-10-23",
-        "duration": 2235,
-        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2610/1092660806918.mp3",
+        "title": "IN VIDEO: Decoding China's viral buzzwords",
+        "description": "From \"Flash Step\" to \"no heartburn,\" catchphrases are taking China's internet by storm. People are copying the moves, sharing the jokes, and joining the fun. Let's unpack the buzzwords, explore the cultural references, and see what gets lost in tr...",
+        "publishDate": "2026-10-26",
+        "duration": 1325,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp4/radio-res.cgtn.com/ueditor/audio/2610/1092992706902.mp4",
         "topics": [
-          "Semiconductors & AI",
-          "Dynastic History"
+          "Dynastic History",
+          "Feminism & Arts",
+          "Culture & Society"
         ]
       },
       {
@@ -111652,6 +111789,25 @@
     ],
     "episodes": [
       {
+        "id": "wire-china-ep-buzzsprout-20024976",
+        "podcastId": "wire-china",
+        "podcastTitle": "The Wire China Podcast",
+        "title": "Chinese Farms Get a Boost from Solar",
+        "description": "What will China do with all its solar panels? Many of them, it turns out, are going on farms — turning sheep pens and fish ponds into green energy hubs.In this episode, reporter Peiyue Wu and features editor Tom Mitchell discuss why Chinese entrep...",
+        "publishDate": "2026-10-27",
+        "duration": 1111,
+        "audioUrl": "https://www.buzzsprout.com/2591600/episodes/20024976-chinese-farms-get-a-boost-from-solar.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "wire-china-ep-buzzsprout-19987732",
         "podcastId": "wire-china",
         "podcastTitle": "The Wire China Podcast",
@@ -112266,6 +112422,97 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-1027dhs",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "DHS Suspends Visa-Free Travel Program for Chinese Nationals to Northern Mariana Islands",
+        "description": "",
+        "publishDate": "2026-10-27",
+        "duration": 209,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1027/fb069e96-7ad5-4a2f-8f38-8d2afecacaf5/audio.mp3?length=2531989&duration=209",
+        "topics": [
+          "Daily Life"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1027cor",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Insiders Allege Beijing’s Corruption Probes Could Reach Families of Former Chinese Leaders",
+        "description": "",
+        "publishDate": "2026-10-27",
+        "duration": 305,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1027/f424643e-f3a8-4d60-858f-7375ce4f650e/audio.mp3?length=3685429&duration=305",
+        "topics": [
+          "Daily Life"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1027sea",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "US Expands Trade With Southeast Asia as It Pivots From China",
+        "description": "",
+        "publishDate": "2026-10-27",
+        "duration": 359,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1027/2db070f9-7cc6-4e2c-a870-08bc1fc917e0/audio.mp3?length=4334293&duration=359",
+        "topics": [
+          "Economic Reform"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1027deb",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Financial Expert Says China’s ‘Investability’ Debate Is Over. The Record Says Otherwise.",
+        "description": "",
+        "publishDate": "2026-10-27",
+        "duration": 416,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1027/37b34d4d-5327-42b6-8f0d-4f0b8b85eee2/audio.mp3?length=5014549&duration=416",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1027p10",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "10 Pitfalls From a US–China–Russia Summit",
+        "description": "",
+        "publishDate": "2026-10-27",
+        "duration": 343,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1027/4f4a31c2-d8ef-4d4b-88af-376c3fa6edb3/audio.mp3?length=4136725&duration=343",
+        "topics": [
+          "US-China Relations"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1027cw",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Succession—the CCP Edition",
+        "description": "",
+        "publishDate": "2026-10-27",
+        "duration": 1927,
+        "audioUrl": "https://podcasts.captivate.fm/media/29f0d59b-09f0-49c2-aab1-2df669751f33/03-1026-ep-84-converted.mp3",
+        "topics": [
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg078",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 78 Jigong Is Facing Murder Charges in Court ",
+        "description": "Playlist Hub",
+        "publishDate": "2026-10-27",
+        "duration": 3184,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg078.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-in-depth-ep-https---filedn-eu-laemytxekyhk29ob9g34pd8-share-20online-20e",
         "podcastId": "china-in-depth",
