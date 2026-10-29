@@ -111,6 +111,20 @@
         ]
       },
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-this-week-in-chinas-history-",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "This Week in China’s History | The Beijing Streetcar Riot",
+        "description": "October 22, 1929",
+        "publishDate": "2026-10-19",
+        "duration": 1800,
+        "audioUrl": "https://substackcdn.com/image/fetch/$s_!hki0!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2502d26c-e974-417b-878d-0571b80581f6_600x600.png",
+        "topics": [
+          "Daily Life",
+          "History"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-more-haste-less-speed-phrase",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -268,19 +282,6 @@
         "topics": [
           "Semiconductors & AI",
           "Dynastic History"
-        ]
-      },
-      {
-        "id": "sinica-ep-https---www-sinicapodcast-com-p-this-week-in-chinas-history-",
-        "podcastId": "sinica",
-        "podcastTitle": "The Sinica Podcast",
-        "title": "This Week in China’s History | The “Bloody Saturday” Photograph Published",
-        "description": "October 5, 1937",
-        "publishDate": "2026-10-04",
-        "duration": 1800,
-        "audioUrl": "https://substackcdn.com/image/fetch/$s_!VDV8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb49092c3-f3ca-40cc-86ad-651fd803b51f_500x417.png",
-        "topics": [
-          "History"
         ]
       },
       {
@@ -5944,6 +5945,26 @@
       "History"
     ],
     "episodes": [
+      {
+        "id": "chp-ep-2af1bc3d-9ecd-48fd-bd4d-4e1a36332ac6",
+        "podcastId": "chp",
+        "podcastTitle": "The China History Podcast",
+        "title": "A Concise History of China-Pangu to Puyi - Part 10",
+        "description": "As we begin Part 10 of this Pangu to Puyi series, the Tang Dynasty is gone, China is divided, and another age of warlords is underway. Out of the turmoil, the Song will build a dynasty celebrated for its scholarship, prosperity, and cultural brill...",
+        "publishDate": "2026-10-28",
+        "duration": 8601,
+        "audioUrl": "https://episodes.captivate.fm/episode/2af1bc3d-9ecd-48fd-bd4d-4e1a36332ac6.mp3",
+        "topics": [
+          "US-China Relations",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "History",
+          "Geopolitics & Politics",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "chp-ep-014231f2-cb8b-414f-ac2b-3b2c5ac5c5a7",
         "podcastId": "chp",
@@ -31504,6 +31525,25 @@
     ],
     "episodes": [
       {
+        "id": "china-global-south-ep-45be74ab-9064-4202-a12c-5adc9163d688",
+        "podcastId": "china-global-south",
+        "podcastTitle": "The China-Global South Podcast",
+        "title": "China Finds New Ways to Expand Its Clean Tech Abroad",
+        "description": "Chinese companies are accelerating overseas investment in clean technology manufacturing as domestic overcapacity, weak demand and rising trade barriers push them to seek new markets. A global manufacturing investment database shows that Chinese f...",
+        "publishDate": "2026-10-28",
+        "duration": 2120,
+        "audioUrl": "https://traffic.libsyn.com/secure/ea0f0fdd-2944-4ff3-8a00-704e8c67d58b/CGSP_-_Clean_Tech.mp3?dest-id=4287628",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "china-global-south-ep-0203b8d7-5917-411e-8488-e5f213f4b798",
         "podcastId": "china-global-south",
         "podcastTitle": "The China-Global South Podcast",
@@ -43032,6 +43072,22 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "teatime-chinese-ep-124a255c-f04c-444b-8a9a-76b2cfa621bb",
+        "podcastId": "teatime-chinese",
+        "podcastTitle": "TeaTime Chinese 茶歇中文",
+        "title": "第100集：今天的中国孩子们怎么了？What's wrong with the Chinese kids today",
+        "description": "This episode is sponsored by : maayot • Daily Chinese Lessons: Read, Listen, Speak, Write Use this link to get a 5-day free trial, then 10% off for the first 3 months. 今年，我回了两次中国。我的小学老师告诉我，今天的孩子跟我们那个时候完全不一样。我在拜访亲戚的时候，也观察到了这些不同之处。他们花更多的时间玩手机游戏，看短视频...",
+        "publishDate": "2026-10-28",
+        "duration": 1737,
+        "audioUrl": "https://traffic.libsyn.com/secure/teatimechinese/TTCN_100.mp3?dest-id=2693480",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "teatime-chinese-ep-12e5d427-0112-44d9-9ab4-3fddfee4b795",
         "podcastId": "teatime-chinese",
@@ -102512,20 +102568,6 @@
     ],
     "episodes": [
       {
-        "id": "roundtable-china-ep-1-2766237",
-        "podcastId": "roundtable-china",
-        "podcastTitle": "Roundtable China",
-        "title": "Straight to senior high?",
-        "description": "Zhongkao, China's high school entrance exam, is a milestone nearly every Chinese student must face. But now, some cities and counties are weighing a bold idea: let students move straight into senior high school. Could scrapping Zhongkao ease stude...",
-        "publishDate": "2026-10-28",
-        "duration": 2235,
-        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2610/1092660806918.mp3",
-        "topics": [
-          "Semiconductors & AI",
-          "Dynastic History"
-        ]
-      },
-      {
         "id": "roundtable-china-ep-1-02766233",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -102537,6 +102579,21 @@
         "topics": [
           "Semiconductors & AI",
           "Dynastic History"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-02766255",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "IN VIDEO: Decoding China's viral buzzwords",
+        "description": "From \"Flash Step\" to \"no heartburn,\" catchphrases are taking China's internet by storm. People are copying the moves, sharing the jokes, and joining the fun. Let's unpack the buzzwords, explore the cultural references, and see what gets lost in tr...",
+        "publishDate": "2026-10-28",
+        "duration": 1325,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp4/radio-res.cgtn.com/ueditor/audio/2610/1092992706902.mp4",
+        "topics": [
+          "Dynastic History",
+          "Feminism & Arts",
+          "Culture & Society"
         ]
       },
       {
@@ -102603,18 +102660,17 @@
         ]
       },
       {
-        "id": "roundtable-china-ep-1-02766255",
+        "id": "roundtable-china-ep-1-2766237",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
-        "title": "IN VIDEO: Decoding China's viral buzzwords",
-        "description": "From \"Flash Step\" to \"no heartburn,\" catchphrases are taking China's internet by storm. People are copying the moves, sharing the jokes, and joining the fun. Let's unpack the buzzwords, explore the cultural references, and see what gets lost in tr...",
-        "publishDate": "2026-10-26",
-        "duration": 1325,
-        "audioUrl": "https://dts.podtrac.com/redirect.mp4/radio-res.cgtn.com/ueditor/audio/2610/1092992706902.mp4",
+        "title": "Straight to senior high?",
+        "description": "Zhongkao, China's high school entrance exam, is a milestone nearly every Chinese student must face. But now, some cities and counties are weighing a bold idea: let students move straight into senior high school. Could scrapping Zhongkao ease stude...",
+        "publishDate": "2026-10-23",
+        "duration": 2235,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2610/1092660806918.mp3",
         "topics": [
-          "Dynastic History",
-          "Feminism & Arts",
-          "Culture & Society"
+          "Semiconductors & AI",
+          "Dynastic History"
         ]
       },
       {
@@ -112422,6 +112478,73 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-1028b480",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s Tech Stocks Lose $480 Billion as Market Turmoil Deepens",
+        "description": "",
+        "publishDate": "2026-10-28",
+        "duration": 323,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1028/0fc2b628-c299-40a4-8476-eebd65fdb2f9/audio.mp3?length=3901141&duration=323",
+        "topics": [
+          "Semiconductors & AI",
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1028van",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "US Imposes 264 Percent Duties on Chinese Van Trailers, Subassemblies",
+        "description": "",
+        "publishDate": "2026-10-28",
+        "duration": 304,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1028/a81a1749-7c6b-46aa-a2d4-c5a30bc6f278/audio.mp3?length=3668725&duration=304",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1028forc",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "US Blocks Imports From 3 Chinese Genetics Companies Over Forced Labor Concerns",
+        "description": "",
+        "publishDate": "2026-10-28",
+        "duration": 271,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1028/ce3e5d2f-e93e-4d07-8127-a82cfa7d49a1/audio.mp3?length=3275028&duration=271",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1028mh",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Falun Dafa News from Around the World – October 28, 2026",
+        "description": "",
+        "publishDate": "2026-10-28",
+        "duration": 1664,
+        "audioUrl": "https://en.minghui.org/u/files/podcasts/emh-podcast/EMHPodcast_2212-News.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg079",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 79 Jigong Is Setting up a Dragnet to Catch the Killer",
+        "description": "Playlist Hub",
+        "publishDate": "2026-10-28",
+        "duration": 2351,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg079.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-in-depth-ep-1027dhs",
         "podcastId": "china-in-depth",
@@ -144760,6 +144883,27 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "dumbrill-podcast-ep-e562d804-7593-44fe-b343-7fccefccf584",
+        "podcastId": "dumbrill-podcast",
+        "podcastTitle": "The Dumbrill Podcast",
+        "title": "The West Would Rather Let The Planet Burn Than Lose To China",
+        "description": "For thirty years, the Western establishment lectured the world about the urgent need to transition to green energy at all costs. But the moment China actually scaled up manufacturing to make green tech affordable for the entire planet, the rules c...",
+        "publishDate": "2026-10-28",
+        "duration": 754,
+        "audioUrl": "https://episodes.captivate.fm/episode/e562d804-7593-44fe-b343-7fccefccf584.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Geopolitics & Politics",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "dumbrill-podcast-ep-af830808-75df-4fcb-92be-1bfb0f8f87a3",
         "podcastId": "dumbrill-podcast",
