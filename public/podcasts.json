@@ -3513,6 +3513,23 @@
     ],
     "episodes": [
       {
+        "id": "pekingology-ep-04482d4c-d238-11f1-8586-c380b6d4c5ae",
+        "podcastId": "pekingology",
+        "podcastTitle": "Pekingology",
+        "title": "China's Techno-Industrial Strategy",
+        "description": "In this episode of Pekingology, Senior Fellow Henrietta Levin is joined by Gerard DiPippo, Director for Global Macro at Eurasia Group. Henrietta and Gerard unpack the Chinese government's ambitious techno-industrial policy. They discuss the AI rac...",
+        "publishDate": "2026-10-29",
+        "duration": 2663,
+        "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/cohst.app/pdcst/0C0K2I/traffic.megaphone.fm/CSIS8173971255.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Daily Life",
+          "Economic Reform",
+          "Ancient Trade Routes",
+          "Tech & Business"
+        ]
+      },
+      {
         "id": "pekingology-ep-80a14d9c-c801-11f1-9e94-fbbf0faa572e",
         "podcastId": "pekingology",
         "podcastTitle": "Pekingology",
@@ -13459,6 +13476,23 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "chinatalk-ep-db310002-d271-11f1-91e0-23c19ab54b34",
+        "podcastId": "chinatalk",
+        "podcastTitle": "ChinaTalk",
+        "title": "The Manhattan Project, Take Two",
+        "description": "In the new era of global competition, being at the forefront of Super Intelligence innovation equals geopolitical power. To maintain leadership and establish the next world order, the U.S. is moving to cement its lead. Barnett Koven is a Managing ...",
+        "publishDate": "2026-10-29",
+        "duration": 2750,
+        "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL1778267818.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Economic Reform",
+          "Geopolitics & Politics",
+          "Tech & Business"
+        ]
+      },
       {
         "id": "chinatalk-ep-3d434f8e-a7a2-11f1-8d76-3b79f14c3588",
         "podcastId": "chinatalk",
@@ -81027,11 +81061,11 @@
         "id": "china-books-podcast-ep-buzzsprout-19731707",
         "podcastId": "china-books-podcast",
         "podcastTitle": "China Books Podcast",
-        "title": "Food Writing with Clarissa Wei ",
+        "title": "Ep. 36: Food Writing with Clarissa Wei ",
         "description": "The author of a new book of postpartum recovery recipes tells us what to eat while “sitting the month,” and how Taiwanese food is distinct from Chinese cuisine.The China Books Podcast is a companion of China Books Review, a project of Asia Society...",
         "publishDate": "2026-09-01",
         "duration": 2207,
-        "audioUrl": "https://www.buzzsprout.com/2252666/episodes/19731707-food-writing-with-clarissa-wei.mp3",
+        "audioUrl": "https://www.buzzsprout.com/2252666/episodes/19731707-ep-36-food-writing-with-clarissa-wei.mp3",
         "topics": [
           "US-China Relations",
           "Semiconductors & AI",
@@ -81044,11 +81078,11 @@
         "id": "china-books-podcast-ep-buzzsprout-19459168",
         "podcastId": "china-books-podcast",
         "podcastTitle": "China Books Podcast",
-        "title": "34: Spies in Shanghai with Heather Salter",
+        "title": "Ep. 35: Spies in Shanghai with Heather Salter",
         "description": "The author and historian discusses a dramatic Soviet espionage case in interwar Shanghai that rocked the international community and presaged the Cold War.The China Books Podcast is a companion of China Books Review, a project of Asia Society’s Ce...",
         "publishDate": "2026-08-04",
         "duration": 1749,
-        "audioUrl": "https://www.buzzsprout.com/2252666/episodes/19459168-34-spies-in-shanghai-with-heather-salter.mp3",
+        "audioUrl": "https://www.buzzsprout.com/2252666/episodes/19459168-ep-35-spies-in-shanghai-with-heather-salter.mp3",
         "topics": [
           "US-China Relations",
           "Semiconductors & AI",
@@ -81062,11 +81096,11 @@
         "id": "china-books-podcast-ep-buzzsprout-19454868",
         "podcastId": "china-books-podcast",
         "podcastTitle": "China Books Podcast",
-        "title": "China’s Disappearing Countryside, with Colin Flahive",
+        "title": "Ep. 34: China’s Disappearing Countryside, with Colin Flahive",
         "description": "Over the last quarter century, the countryside of southwest China has been transformed. The author of two memoirs reflects on what is lost, and what is gained.The China Books Podcast is a companion of China Books Review, a project of Asia Society’...",
         "publishDate": "2026-07-07",
         "duration": 1932,
-        "audioUrl": "https://www.buzzsprout.com/2252666/episodes/19454868-china-s-disappearing-countryside-with-colin-flahive.mp3",
+        "audioUrl": "https://www.buzzsprout.com/2252666/episodes/19454868-ep-34-china-s-disappearing-countryside-with-colin-flahive.mp3",
         "topics": [
           "US-China Relations",
           "Semiconductors & AI",
@@ -81080,11 +81114,11 @@
         "id": "china-books-podcast-ep-buzzsprout-19277158",
         "podcastId": "china-books-podcast",
         "podcastTitle": "China Books Podcast",
-        "title": "Murder in Hong Kong with Simon Elegant",
+        "title": "Ep. 33: Murder in Hong Kong with Simon Elegant",
         "description": "The Hong Kong-born novelist and journalist talks us through his new novel \"City on Fire,\" a whodunnit thriller set against the 2019 protests.The China Books Podcast is a companion of China Books Review, a project of Asia Society’s Center on U.S.-C...",
         "publishDate": "2026-06-02",
         "duration": 1970,
-        "audioUrl": "https://www.buzzsprout.com/2252666/episodes/19277158-murder-in-hong-kong-with-simon-elegant.mp3",
+        "audioUrl": "https://www.buzzsprout.com/2252666/episodes/19277158-ep-33-murder-in-hong-kong-with-simon-elegant.mp3",
         "topics": [
           "US-China Relations",
           "Semiconductors & AI",
@@ -81097,11 +81131,11 @@
         "id": "china-books-podcast-ep-buzzsprout-19123644",
         "podcastId": "china-books-podcast",
         "podcastTitle": "China Books Podcast",
-        "title": "Ancient Chinese Politics with Daniel Bell",
+        "title": "Ep. 32: Ancient Chinese Politics with Daniel Bell",
         "description": "The Legalists and Confucians still run the show in today’s China, argues a scholar of classical Chinese thought — but the Mohists and Daoists still have a voice in the debate.The China Books Podcast is a companion of China Books Review, a project ...",
         "publishDate": "2026-05-05",
         "duration": 2281,
-        "audioUrl": "https://www.buzzsprout.com/2252666/episodes/19123644-ancient-chinese-politics-with-daniel-bell.mp3",
+        "audioUrl": "https://www.buzzsprout.com/2252666/episodes/19123644-ep-32-ancient-chinese-politics-with-daniel-bell.mp3",
         "topics": [
           "US-China Relations",
           "Dynastic History",
@@ -81115,11 +81149,11 @@
         "id": "china-books-podcast-ep-buzzsprout-18971815",
         "podcastId": "china-books-podcast",
         "podcastTitle": "China Books Podcast",
-        "title": "Confucius and Women, with Erin Cline",
+        "title": "Ep. 31: Confucius and Women, with Erin Cline",
         "description": "Misogyny and patriarchy are a later misreading of The Analects, argues the author of a new translation of the Confucian classic.The China Books Podcast is a companion of China Books Review, a project of Asia Society’s Center on U.S.-China Relation...",
         "publishDate": "2026-04-07",
         "duration": 2277,
-        "audioUrl": "https://www.buzzsprout.com/2252666/episodes/18971815-confucius-and-women-with-erin-cline.mp3",
+        "audioUrl": "https://www.buzzsprout.com/2252666/episodes/18971815-ep-31-confucius-and-women-with-erin-cline.mp3",
         "topics": [
           "US-China Relations",
           "Dynastic History",
@@ -81132,11 +81166,11 @@
         "id": "china-books-podcast-ep-buzzsprout-18778488",
         "podcastId": "china-books-podcast",
         "podcastTitle": "China Books Podcast",
-        "title": "Chinese Comedy with Jesse Appell",
+        "title": "Ep. 30: Chinese Comedy with Jesse Appell",
         "description": "The bilingual comedian talks us through the traditional “xiangsheng” form of Chinese comic repartee, and explains whether Beijing can take a joke.The China Books Podcast is a companion of China Books Review, a project of Asia Society’s Center on U...",
         "publishDate": "2026-03-03",
         "duration": 2778,
-        "audioUrl": "https://www.buzzsprout.com/2252666/episodes/18778488-chinese-comedy-with-jesse-appell.mp3",
+        "audioUrl": "https://www.buzzsprout.com/2252666/episodes/18778488-ep-30-chinese-comedy-with-jesse-appell.mp3",
         "topics": [
           "US-China Relations",
           "Semiconductors & AI",
@@ -81149,11 +81183,11 @@
         "id": "china-books-podcast-ep-buzzsprout-18598454",
         "podcastId": "china-books-podcast",
         "podcastTitle": "China Books Podcast",
-        "title": "Islamic China with Rian Thum",
+        "title": "Ep. 29: Islamic China with Rian Thum",
         "description": "Islam has been part of China’s religious and cultural fabric for over a millennium, yet often it is seen as a foreign element. The author of a new study explains just how wrong that is.The China Books Podcast is a companion of China Books Review, ...",
         "publishDate": "2026-02-03",
         "duration": 2271,
-        "audioUrl": "https://www.buzzsprout.com/2252666/episodes/18598454-islamic-china-with-rian-thum.mp3",
+        "audioUrl": "https://www.buzzsprout.com/2252666/episodes/18598454-ep-29-islamic-china-with-rian-thum.mp3",
         "topics": [
           "US-China Relations",
           "Semiconductors & AI",
@@ -81166,11 +81200,11 @@
         "id": "china-books-podcast-ep-buzzsprout-18426165",
         "podcastId": "china-books-podcast",
         "podcastTitle": "China Books Podcast",
-        "title": "Chinese Horror with Xueting C. Ni",
+        "title": "Ep. 28: Chinese Horror with Xueting C. Ni",
         "description": "Horror writing has an unsavory reputation in China, but comes with a long history and is full of biting social commentary. The translator of a recent collection explains what lurks beneath.The China Books Podcast is a companion of China Books Revi...",
         "publishDate": "2026-01-06",
         "duration": 1814,
-        "audioUrl": "https://www.buzzsprout.com/2252666/episodes/18426165-chinese-horror-with-xueting-c-ni.mp3",
+        "audioUrl": "https://www.buzzsprout.com/2252666/episodes/18426165-ep-28-chinese-horror-with-xueting-c-ni.mp3",
         "topics": [
           "US-China Relations",
           "Semiconductors & AI",
@@ -102568,6 +102602,52 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-2766295",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Drink big water, sleep big sleep: the internet's love of naming things",
+        "description": "Every small habit now comes with a name. A morning routine becomes an optimized system, and a few favorite songs become a curated playlist. Social media in China and also elsewhere in the world has turned ordinary life into something to label, pac...",
+        "publishDate": "2026-10-30",
+        "duration": 1290,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2610/1093264398666.mp3",
+        "topics": [
+          "Dynastic History",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2766301",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "China Finds: can tech revive ancient Liangzhu?",
+        "description": "Liangzhu offers rare evidence of early state formation in China, and safeguarding a 5,000-year-old civilization means more than preserving artifacts. The next generation also needs to feel what life was like then, so experts are using drone light ...",
+        "publishDate": "2026-10-29",
+        "duration": 1062,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2610/1093266233418.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "History",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2766298",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Can AI read health reliably?",
+        "description": "AI tools can review scans, faces, and even your tongues. In China, a machine can tell you what's wrong with your body in minutes after a quick scan of your tongue. But healthcare AI also raises real questions about its promises, its blind spots, a...",
+        "publishDate": "2026-10-29",
+        "duration": 2059,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2610/1093266184234.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-02766233",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -112478,6 +112558,101 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-1029atl",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "The Iran War, China’s Gas Station, and Hidden Links to Riots in France | Richard Miniter",
+        "description": "",
+        "publishDate": "2026-10-29",
+        "duration": 2531,
+        "audioUrl": "https://podcasts.captivate.fm/media/73cc8ec5-2134-4c52-90dc-2fa93f7c8ff3/261022-Richard-Miniter-Final-audio-converted.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1029tri",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "She Took Her Triplets Back to China. She Returned With 2.",
+        "description": "",
+        "publishDate": "2026-10-29",
+        "duration": 626,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1029/0b0917e2-ab7c-4068-8f9c-3033076b69cf/audio.mp3?length=7540885&duration=626",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1029y12",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chinese National Gets 12 Years for Transporting Cocaine for Terrorist-Listed Cartel",
+        "description": "",
+        "publishDate": "2026-10-29",
+        "duration": 227,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1029/f8a21cc7-49b7-447d-9502-63784793519d/audio.mp3?length=2752309&duration=227",
+        "topics": [
+          "Semiconductors & AI",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1029t2",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China Reparations: Washington Should Start With $2 Trillion in China-Held US Assets",
+        "description": "",
+        "publishDate": "2026-10-29",
+        "duration": 396,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1029/7147951d-43fe-4e06-8fd7-d4610f113424/audio.mp3?length=4775509&duration=396",
+        "topics": [
+          "US-China Relations",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1029eu",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "EU Weighs Extending China Import Restraints Beyond Cars",
+        "description": "",
+        "publishDate": "2026-10-29",
+        "duration": 282,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1023/a75484ae-f3fa-4f7d-9da1-162e52dd5912/audio.mp3?length=3406942&duration=282",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1029eur",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Europe Sees an Opening to Get Tough With China",
+        "description": "",
+        "publishDate": "2026-10-29",
+        "duration": 388,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1029/944b9637-51fa-45d2-bdff-691876994cd5/audio.mp3?length=4679317&duration=388",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg080",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 80 Jigong Trapped the Killers by Faking His Own Death",
+        "description": "Masterpiece Podcasts: Collection of Chinese Classic Novels",
+        "publishDate": "2026-10-29",
+        "duration": 2558,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg080.mp3",
+        "topics": [
+          "Feminism & Arts"
+        ]
+      },
       {
         "id": "china-in-depth-ep-1028b480",
         "podcastId": "china-in-depth",
@@ -141118,20 +141293,6 @@
         ]
       },
       {
-        "id": "china-in-depth-ep-1029atl",
-        "podcastId": "china-in-depth",
-        "podcastTitle": "China in Depth",
-        "title": "Here’s How Trump Can Leverage the CCP’s Greatest Vulnerability | Ambassador Sam Brownback",
-        "description": "",
-        "publishDate": "2025-10-29",
-        "duration": 2338,
-        "audioUrl": "https://episodes.captivate.fm/episode/1bc871ec-56e0-411d-88a5-e6cd12ffafeb.mp3",
-        "topics": [
-          "US-China Relations",
-          "Geopolitics & Politics"
-        ]
-      },
-      {
         "id": "china-in-depth-ep-1029mh",
         "podcastId": "china-in-depth",
         "podcastTitle": "China in Depth",
@@ -144899,6 +145060,24 @@
           "Daily Life",
           "Feminism & Arts",
           "Economic Reform",
+          "Geopolitics & Politics",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "dumbrill-podcast-ep-85e1f4ef-4ade-4c83-80dd-b529fbe0d870",
+        "podcastId": "dumbrill-podcast",
+        "podcastTitle": "The Dumbrill Podcast",
+        "title": "Why the Pentagon is TERRIFIED of Mandarin Classes",
+        "description": "The Pentagon just declared war on... Chinese flashcards? 🇨🇳🇺🇸Defense Secretary Pete Hegseth recently puffed out his chest to announce the dismantling of 80 \"propaganda cells\" across U.S. universities. But what high-tech espionage ring did they...",
+        "publishDate": "2026-10-28",
+        "duration": 556,
+        "audioUrl": "https://episodes.captivate.fm/episode/85e1f4ef-4ade-4c83-80dd-b529fbe0d870.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
           "Geopolitics & Politics",
           "Tech & Business",
           "Culture & Society"
