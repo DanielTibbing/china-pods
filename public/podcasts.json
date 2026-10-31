@@ -13477,6 +13477,23 @@
     ],
     "episodes": [
       {
+        "id": "chinatalk-ep-ef7e07cc-d4b4-11f1-aa4f-3f283ac998db",
+        "podcastId": "chinatalk",
+        "podcastTitle": "ChinaTalk",
+        "title": "WarTalk: Pressing the War Button: Iran, Cuba, and Rubio 2028",
+        "description": "The blockade is squeezing Iran. So why does it keep being easier to press the war button? WarTalk regulars Jordan Schneider, Justin McIntosh, Bryan Clark, and Tony Stark. Why the strikes continue when the blockade is doing the real work, and what ...",
+        "publishDate": "2026-10-31",
+        "duration": 4134,
+        "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL3824091546.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Geopolitics & Politics",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "chinatalk-ep-db310002-d271-11f1-91e0-23c19ab54b34",
         "podcastId": "chinatalk",
         "podcastTitle": "ChinaTalk",
@@ -38512,6 +38529,24 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "merics-ep-buzzsprout-20046205",
+        "podcastId": "merics",
+        "podcastTitle": "MERICS China Podcast",
+        "title": "Chinese Soft Power in Africa, with Maria Repnikova and Daria Impiombato",
+        "description": "The power of countries lies not only in their military might, but also in how well they can promote their values and visions abroad. In this episode, we look at Chinese Soft Power, particularly in Africa: What Beijing wants to achieve, how it goes...",
+        "publishDate": "2026-10-30",
+        "duration": 1858,
+        "audioUrl": "https://www.buzzsprout.com/1825833/episodes/20046205-chinese-soft-power-in-africa-with-maria-repnikova-and-daria-impiombato.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Geopolitics & Politics",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "merics-ep-buzzsprout-20021641",
         "podcastId": "merics",
@@ -101194,6 +101229,21 @@
     ],
     "episodes": [
       {
+        "id": "asia-insight-ep-nbrpodcasts-podbean-com-19d15ae5-c81d-3f8c-a89f-5773871b7e40",
+        "podcastId": "asia-insight",
+        "podcastTitle": "Asia Insight (NBR)",
+        "title": "Next in Line: Bangladesh's Rising Leaders and Foreign Policy",
+        "description": "From the National Bureau of Asian Research, an Asia Insight miniseries examining the future of foreign policy through the lens of emerging leadership in South and Southeast Asia. This sixth and final episode features Dr. Christopher Clary of the U...",
+        "publishDate": "2026-10-30",
+        "duration": 2091,
+        "audioUrl": "https://mcdn.podbean.com/mf/web/uygjfhj98nkxvm3z/Next-in-Line-Episode-6-October-2026_mixdown.mp3",
+        "topics": [
+          "Feminism & Arts",
+          "Geopolitics & Politics",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "asia-insight-ep-nbrpodcasts-podbean-com-b685cba2-2859-36f7-844e-771c74331bc7",
         "podcastId": "asia-insight",
         "podcastTitle": "Asia Insight (NBR)",
@@ -102613,6 +102663,21 @@
         "topics": [
           "Dynastic History",
           "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2766292",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "How can public hospitals help solve China's childcare dilemma?",
+        "description": "Who looks after your baby when you go back to work? Across China, more public hospitals are now stepping into the childcare business, offering care for children under three. Could that make childcare more affordable for young families? On the show...",
+        "publishDate": "2026-10-30",
+        "duration": 2357,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2610/1093264270879.mp3",
+        "topics": [
+          "Dynastic History",
+          "Economic Reform",
+          "Tech & Business"
         ]
       },
       {
@@ -112558,6 +112623,113 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-1030xi2",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Xi Tightens Party Control Ahead of 2027 Congress as China Faces Mounting Challenges",
+        "description": "",
+        "publishDate": "2026-10-30",
+        "duration": 366,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1030/aed22772-b624-4aaf-907a-2bce391d61cf/audio.mp3?length=4417525&duration=366",
+        "topics": [
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1030fcc",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "FCC Proposes to Restrict Chinese Telecom Carriers’ Access to US Phone Numbers",
+        "description": "",
+        "publishDate": "2026-10-30",
+        "duration": 224,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1030/02ef5447-dfa1-488f-a2ef-987e5d0d2459/audio.mp3?length=2713429&duration=224",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1030xi",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chinese Leader Xi’s Rules for a Closed Society Exposed",
+        "description": "",
+        "publishDate": "2026-10-30",
+        "duration": 455,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1030/f674b9c1-d215-493b-b08c-d82a70683253/audio.mp3?length=5489461&duration=455",
+        "topics": [
+          "Daily Life",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1030rem",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China Playing Hardball With Its Rare-Earth Monopoly",
+        "description": "",
+        "publishDate": "2026-10-30",
+        "duration": 389,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1030/14d5fd8d-050a-4e18-b3e5-ce527a654a2f/audio.mp3?length=4691412&duration=389",
+        "topics": [
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1030hou",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "The Facade of Prosperity: Why China’s Households Aren’t Spending",
+        "description": "",
+        "publishDate": "2026-10-30",
+        "duration": 470,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1030/d38aa423-690e-49bf-8dae-2ba70693938c/audio.mp3?length=5663699&duration=470",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1030prg",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Paraguay Joins US-Led Pax Silica Initiative on AI Supply Chains",
+        "description": "",
+        "publishDate": "2026-10-30",
+        "duration": 301,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1027/85b151d2-f68d-4346-97e1-19c9547df1c5/audio.mp3?length=3643093&duration=301",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1030ai",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s ‘World AI Cooperation Organization’",
+        "description": "",
+        "publishDate": "2026-10-30",
+        "duration": 396,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1030/7dca1014-4adf-49cd-be50-89b38f794f40/audio.mp3?length=4778965&duration=396",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg081",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 81 With One Case Solved and Two More to Go a Resurrected Jigong Is on the Move Rightaway",
+        "description": "Masterpiece Podcasts: Collection of Chinese Classic Novels",
+        "publishDate": "2026-10-30",
+        "duration": 2308,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg081.mp3",
+        "topics": [
+          "Feminism & Arts"
+        ]
+      },
       {
         "id": "china-in-depth-ep-1029atl",
         "podcastId": "china-in-depth",
@@ -145044,6 +145216,26 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "dumbrill-podcast-ep-03ef7ece-cdb5-47de-9f76-316d1570a0e1",
+        "podcastId": "dumbrill-podcast",
+        "podcastTitle": "The Dumbrill Podcast",
+        "title": "Why Mbappé’s Mao Meme Backfired So Badly in China",
+        "description": "When French football star Kylian Mbappé laughed at a meme of himself in a Mao-style cap during a podcast, it sparked a swift backlash in China—sponsorships were canceled, state media weighed in, and Western headlines immediately branded it a class...",
+        "publishDate": "2026-10-31",
+        "duration": 833,
+        "audioUrl": "https://episodes.captivate.fm/episode/03ef7ece-cdb5-47de-9f76-316d1570a0e1.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Feminism & Arts",
+          "Economic Reform",
+          "History",
+          "Geopolitics & Politics",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "dumbrill-podcast-ep-e562d804-7593-44fe-b343-7fccefccf584",
         "podcastId": "dumbrill-podcast",
