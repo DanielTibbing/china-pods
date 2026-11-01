@@ -16,6 +16,21 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-trivium-china-weekly-recap-b",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "Trivium China Weekly Recap | Beijing’s Involution Toolkit",
+        "description": "| It&#8217;s been more than a year since Beijing launched its anti-involution campaign to stop industries sinking into destructive price wars.",
+        "publishDate": "2026-11-01",
+        "duration": 1800,
+        "audioUrl": "https://substack-post-media.s3.amazonaws.com/public/images/00da8762-139f-4e66-a85f-fde09b9c8de2_400x400.webp",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-transcript-mr-chinas-great-e",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -576,20 +591,6 @@
           "Semiconductors & AI",
           "Daily Life",
           "Tech & Business"
-        ]
-      },
-      {
-        "id": "sinica-ep-https---www-sinicapodcast-com-p-trivium-china-weekly-recap-b",
-        "podcastId": "sinica",
-        "podcastTitle": "The Sinica Podcast",
-        "title": "Trivium China Weekly Recap | Beijing’s answer to weak demand? ",
-        "description": "If you&#8217;ve been waiting for Beijing to unveil a plan to fix China&#8217;s flagging consumption, we have an answer for you.",
-        "publishDate": "2026-08-24",
-        "duration": 1800,
-        "audioUrl": "https://substack-post-media.s3.amazonaws.com/public/images/55cce7ff-7048-4566-adbe-be18efd853c0_400x400.webp",
-        "topics": [
-          "Semiconductors & AI",
-          "Daily Life"
         ]
       },
       {
