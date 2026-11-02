@@ -16,6 +16,20 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-the-us-wants-global-south-co",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "The U.S. Wants Global South Countries to Reject Chinese AI. Will They?",
+        "description": "China&#8217;s AI competition with the United States is increasingly about more than building the most powerful models.",
+        "publishDate": "2026-11-02",
+        "duration": 1800,
+        "audioUrl": "https://api.substack.com/feed/podcast/223111321/0c22d5f9bcd3d351841104bd556c7a33.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-trivium-china-weekly-recap-b",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -28,6 +42,33 @@
           "Semiconductors & AI",
           "Dynastic History",
           "Daily Life"
+        ]
+      },
+      {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-too-much-kindness-breeds-res",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "“Too much kindness breeds resentment” — Phrase of the Week",
+        "description": "Starbucks China ends free seating and lots of people are upset about it",
+        "publishDate": "2026-11-01",
+        "duration": 1800,
+        "audioUrl": "https://substackcdn.com/image/fetch/$s_!c6CB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2e4aca42-8180-4298-98ad-86147dfc3cfd_2000x1200.jpeg",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-what-europe-must-be-able-to-",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "What Europe Must Be Able to Do for Itself ",
+        "description": "The Kiel Institute wants to translate market access into industrial capability. BusinessEurope and China&#8217;s new plan for strengthening industrial foundations show what this ambition requires.",
+        "publishDate": "2026-11-01",
+        "duration": 1800,
+        "audioUrl": "https://substackcdn.com/image/fetch/$s_!Y_Ov!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F566d5b8d-69f8-416f-8be5-8c1f15c8d106_1214x1382.png",
+        "topics": [
+          "Economic Reform",
+          "Tech & Business"
         ]
       },
       {
@@ -8713,7 +8754,7 @@
         "podcastTitle": "The China History Podcast",
         "title": "Sino-Roman Relations",
         "description": "This is sort of a strange topic. We'll look at the early history that took place between the Han Dynasty and the Western Roman Empire. Before we tuck into the chicken ribs that are Sino-Roman Relations, I'll introduce you to the far-out theory tha...",
-        "publishDate": "2022-03-06",
+        "publishDate": "2022-03-07",
         "duration": 3546,
         "audioUrl": "https://episodes.captivate.fm/episode/d19af199-816e-4e23-87aa-76d2e28f9799.mp3",
         "topics": [
@@ -10241,7 +10282,7 @@
         "podcastTitle": "The China History Podcast",
         "title": "V.K. Wellington Koo",
         "description": "This episode first came out around the the time of the 100 year anniversary of the signing of the Treaty of Versailles that ended WWI. This is an overview of a giant from that time and a Chinese patriot who served his nation for many decades. We'l...",
-        "publishDate": "2019-02-10",
+        "publishDate": "2019-02-11",
         "duration": 3963,
         "audioUrl": "https://episodes.captivate.fm/episode/48d3f060-a778-48a2-8a5f-23c3b4f7c9d5.mp3",
         "topics": [
@@ -10654,7 +10695,7 @@
         "podcastTitle": "The China History Podcast",
         "title": "The Earliest Years of Christianity in China",
         "description": "Many people don't know that the first preaching of Christianity in China pre-dated the Jesuits by more than nine centuries. We'll take a second cursory look at the Jesuits as part of a bigger story that includes Christianity in China during the Ta...",
-        "publishDate": "2017-02-20",
+        "publishDate": "2017-02-21",
         "duration": 2976,
         "audioUrl": "https://episodes.captivate.fm/episode/770868fd-172b-40c7-a5a5-7cbc97aa4aa9.mp3",
         "topics": [
@@ -11689,7 +11730,7 @@
         "podcastTitle": "The China History Podcast",
         "title": "The History of American Chinese Cuisine",
         "description": "After a record-breaking pause in the action, Laszlo is back with one last episode to finish 2013. This time we look at the interesting and amusing history of Chinese cuisine in America, an oft-requested topic here at the China History Podcast. Thi...",
-        "publishDate": "2013-12-30",
+        "publishDate": "2013-12-31",
         "duration": 2538,
         "audioUrl": "https://episodes.captivate.fm/episode/13f69ef7-7829-4c53-9970-7734e2407709.mp3",
         "topics": [
@@ -12535,7 +12576,7 @@
         "podcastTitle": "The China History Podcast",
         "title": "Deng Xiaoping (Part 7)",
         "description": "After a holiday delay, Laszlo is back with the 7th and almost final episode of our overview of Ezra Vogel's new biography of Deng. In this episode, we look at the meat and potatoes of the Reform years from 1979 to 1989.",
-        "publishDate": "2011-12-30",
+        "publishDate": "2011-12-31",
         "duration": 2241,
         "audioUrl": "https://episodes.captivate.fm/episode/b379ae2a-bef1-4e35-b143-7ca3823bd514.mp3",
         "topics": [
@@ -45324,6 +45365,24 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "sr-kina-ep-rss-sr-se-pod-eid-2892344",
+        "podcastId": "sr-kina",
+        "podcastTitle": "Radiokorrespondenterna Kina",
+        "title": "Så påverkar mellanårsvalet konkurrensen mellan Kina och USA",
+        "description": "Det amerikanska mellanårsvalet kan komma att påverka relationen mellan stormakterna på flera sätt. Lyssna på alla avsnitt i Sveriges Radios app. Xi Jinpings och Donald Trumps relation har präglats av artiga utspel och ömsesidig respekt, samtidigt ...",
+        "publishDate": "2026-11-02",
+        "duration": 1620,
+        "audioUrl": "https://static-cdn.sr.se/laddahem/podradio/2026/10/radiokorrespondenterna_kina_sa_paverkar_mellanarsvalet_kon_20261030_1704109172.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Geopolitics & Politics",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "sr-kina-ep-rss-sr-se-pod-eid-2891579",
         "podcastId": "sr-kina",
@@ -112624,6 +112683,58 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-1101sch",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Scholar Concerned by Lack of China Mention in Canada’s New National Security Strategy",
+        "description": "",
+        "publishDate": "2026-11-01",
+        "duration": 586,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1031/c9a56343-6115-4e75-85b0-a01b867caea7/audio.mp3?length=7060213&duration=586",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1101mp",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "MP Questions Global Affairs Over Unfinished Review of Canada’s China-Led Bank Membership",
+        "description": "",
+        "publishDate": "2026-11-01",
+        "duration": 167,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1030/06c379a9-c91f-40da-8392-359007c4180c/audio.mp3?length=2025685&duration=167",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1101ai",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s ‘World AI Cooperation Organization’",
+        "description": "",
+        "publishDate": "2026-11-01",
+        "duration": 396,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1030/7dca1014-4adf-49cd-be50-89b38f794f40/audio.mp3?length=4778965&duration=396",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg082",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 82 Jigong Trapped One of the Killers of the Unsolved Murders",
+        "description": "Masterpiece Podcasts: Collection of Chinese Classic Novels",
+        "publishDate": "2026-11-01",
+        "duration": 2330,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg082.mp3",
+        "topics": [
+          "Feminism & Arts"
+        ]
+      },
       {
         "id": "china-in-depth-ep-1030xi2",
         "podcastId": "china-in-depth",
