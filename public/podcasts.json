@@ -31618,6 +31618,26 @@
     ],
     "episodes": [
       {
+        "id": "china-global-south-ep-2412ef76-12bb-4ddf-945c-74d410e7465d",
+        "podcastId": "china-global-south",
+        "podcastTitle": "The China-Global South Podcast",
+        "title": "Can the U.S. Push China Out of Peru and Latin America?",
+        "description": "Peru's Port of Chancay has become a new flashpoint in U.S.–China competition in Latin America. As Washington raises concerns about Chinese control of the strategic Pacific port, a pending ruling by Peru's Constitutional Tribunal could determine wh...",
+        "publishDate": "2026-11-03",
+        "duration": 2638,
+        "audioUrl": "https://traffic.libsyn.com/secure/ea0f0fdd-2944-4ff3-8a00-704e8c67d58b/CGSP_-_Alonso_E._Illueca.mp3?dest-id=4287628",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "china-global-south-ep-45be74ab-9064-4202-a12c-5adc9163d688",
         "podcastId": "china-global-south",
         "podcastTitle": "The China-Global South Podcast",
@@ -58586,6 +58606,19 @@
       "Tech & Business"
     ],
     "episodes": [
+      {
+        "id": "china-flexpat-ep-buzzsprout-20058134",
+        "podcastId": "china-flexpat",
+        "podcastTitle": "China Flexpat",
+        "title": "S5E05 - 15th China Elite Polo Tournament/Chengdu International Equestrian Ctr/The Equestrian Big Sister, Xiao Tian",
+        "description": "Contact us for more info: contact@wonder-horse.comSupport the show",
+        "publishDate": "2026-11-02",
+        "duration": 543,
+        "audioUrl": "https://www.buzzsprout.com/479218/episodes/20058134-s5e05-15th-china-elite-polo-tournament-chengdu-international-equestrian-ctr-the-equestrian-big-sister-xiao-tian.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-flexpat-ep-buzzsprout-20026085",
         "podcastId": "china-flexpat",
@@ -102712,6 +102745,35 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-2766319",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "From Grandpa Dante to star making: China's NPC craze",
+        "description": "Chinese tourist sites are no longer just backdrops for vacation photos. Step inside one and you may find yourself cast in a story. Performers take on characters, characters become stars, and some attractions now recruit talent from overseas in pur...",
+        "publishDate": "2026-11-02",
+        "duration": 1238,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2611/1093608728269.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2766316",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "When farming takes flight",
+        "description": "China operates the world's largest fleet of agricultural drones. They spray crops, scout fields, and haul fruit down mountainsides that once cost hours of sweat to cross. On many farms, the hardest worker no longer stands in the field. It hums ove...",
+        "publishDate": "2026-11-02",
+        "duration": 1924,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2611/1093608678166.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2766295",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -112683,6 +112745,59 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-1102ser",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Defeat of Serbia’s Pro-China Leader a ‘Significant Setback’ for Beijing: Analyst",
+        "description": "",
+        "publishDate": "2026-11-02",
+        "duration": 388,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1102/384c8a4c-a525-41cb-a2cd-cb483735c377/audio.mp3?length=4681621&duration=388",
+        "topics": [
+          "Daily Life"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1102che",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s Chemical Expansion Squeezes Global Producers, Including US Firms: Report",
+        "description": "",
+        "publishDate": "2026-11-02",
+        "duration": 317,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1102/b6b4729c-6a32-4883-936a-b5d9b25f600e/audio.mp3?length=3834325&duration=317",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1102cw",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "What China’s Big Leadership Meeting Tells Us About the CCP’s Future",
+        "description": "",
+        "publishDate": "2026-11-02",
+        "duration": 1391,
+        "audioUrl": "https://podcasts.captivate.fm/media/eca0a7bb-d516-4a5c-925b-f25842bfcd29/02-CW-85-converted.mp3",
+        "topics": [
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg083",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 83 Jigong Fakes Death Again, This Time to Trap a Daoist",
+        "description": "Playlist Hub",
+        "publishDate": "2026-11-02",
+        "duration": 2104,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg083.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History"
+        ]
+      },
       {
         "id": "china-in-depth-ep-1101sch",
         "podcastId": "china-in-depth",
