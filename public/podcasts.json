@@ -13519,6 +13519,24 @@
     ],
     "episodes": [
       {
+        "id": "chinatalk-ep-c18f57c6-d793-11f1-bd95-132b57e0e2cd",
+        "podcastId": "chinatalk",
+        "podcastTitle": "ChinaTalk",
+        "title": "Roasting China's AI Industry (中文版) ",
+        "description": "You can read a translation into English of this interview here: https://www.chinatalk.media/p/how-to-make-fun-of-chinese-ai Xianyu (咸鱼), the writer behind 葬AI — “Funeral AI” — produces some of the best satire out there about China’s AI industry. C...",
+        "publishDate": "2026-11-03",
+        "duration": 3815,
+        "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL9306501058.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "chinatalk-ep-ef7e07cc-d4b4-11f1-aa4f-3f283ac998db",
         "podcastId": "chinatalk",
         "podcastTitle": "ChinaTalk",
@@ -81170,6 +81188,24 @@
     ],
     "episodes": [
       {
+        "id": "china-books-podcast-ep-buzzsprout-20062005",
+        "podcastId": "china-books-podcast",
+        "podcastTitle": "China Books Podcast",
+        "title": "Ep. 38: Will China Cure Cancer? with Ruby Wang",
+        "description": "You may know of the “DeepSeek moment,” China’s arrival at the frontier of artificial intelligence in 2025. But have you heard of “Akeso”, the biotech company that heralds China’s rise to the top of global medical research? It might be more signifi...",
+        "publishDate": "2026-11-03",
+        "duration": 2214,
+        "audioUrl": "https://www.buzzsprout.com/2252666/episodes/20062005-ep-38-will-china-cure-cancer-with-ruby-wang.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Daily Life",
+          "Feminism & Arts",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "china-books-podcast-ep-buzzsprout-19915507",
         "podcastId": "china-books-podcast",
         "podcastTitle": "China Books Podcast",
@@ -92495,6 +92531,21 @@
     ],
     "episodes": [
       {
+        "id": "made-in-china-de-ep-buzzsprout-20032725",
+        "podcastId": "made-in-china-de",
+        "podcastTitle": "Made in China (German)",
+        "title": "#234 – The Great Rotation: Why German Exports Are Moving Beyond China – with Rajiv Biswas (CEO, Asia-Pacific Economics)",
+        "description": "In 2021, China was Germany's second largest export market. By 2025, it had dropped to sixth place. In 2025 alone, German exports to China fell by around 10%, driven largely by falling auto exports and growing competition from Chinese domestic bran...",
+        "publishDate": "2026-11-03",
+        "duration": 2207,
+        "audioUrl": "https://www.buzzsprout.com/1869386/episodes/20032725-234-the-great-rotation-why-german-exports-are-moving-beyond-china-with-rajiv-biswas-ceo-asia-pacific-economics.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
+      {
         "id": "made-in-china-de-ep-buzzsprout-20007928",
         "podcastId": "made-in-china-de",
         "podcastTitle": "Made in China (German)",
@@ -102745,6 +102796,50 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-02766340",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "IN VIDEO: How can public hospitals help solve China's childcare dilemma?",
+        "description": "Across China, more public hospitals are now stepping into the childcare business, offering care for children under three. Could that make childcare more affordable for young families? On the show: Steve, Yushan & Yushun",
+        "publishDate": "2026-11-04",
+        "duration": 2350,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp4/radio-res.cgtn.com/ueditor/audio/2611/1093759949984.mp4",
+        "topics": [
+          "Dynastic History",
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2766328",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Badminton's shuttlecock shake-up",
+        "description": "Badminton players in China are finally catching a break after two years of steep price increases. Cheaper raw materials and synthetic shuttlecocks squeezing the feather market are quietly reshaping the industry. Casual players welcome the lower pr...",
+        "publishDate": "2026-11-03",
+        "duration": 1723,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2611/1093698449200.mp3",
+        "topics": [
+          "Dynastic History",
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2766331",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "The medical reality show firestorm",
+        "description": "Cameras roll as medical students compete, and viewers question whether they are ready for real patients. A Chinese reality show has sparked fierce debate after contestants stumbled through basic clinical tasks. The fallout raises questions about m...",
+        "publishDate": "2026-11-03",
+        "duration": 1437,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2611/1093698498108.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2766319",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -112112,6 +112207,23 @@
     ],
     "episodes": [
       {
+        "id": "wire-china-ep-buzzsprout-20062351",
+        "podcastId": "wire-china",
+        "podcastTitle": "The Wire China Podcast",
+        "title": "Huawei Goes to Court",
+        "description": "00:00 – Introduction 01:10 – Inside the Courtroom: The Case Against Huawei 03:52 – Skycom, Meng Wanzhou, and the \"Two Michaels\" 06:06 – \"Tappy\" the Robot 07:05 – Geopolitical Context08:18 – Huawei’s Defense Strategy 09:47 – Possible Verdicts 12:20...",
+        "publishDate": "2026-11-03",
+        "duration": 1172,
+        "audioUrl": "https://www.buzzsprout.com/2591600/episodes/20062351-huawei-goes-to-court.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Daily Life",
+          "Geopolitics & Politics",
+          "Tech & Business"
+        ]
+      },
+      {
         "id": "wire-china-ep-buzzsprout-20024976",
         "podcastId": "wire-china",
         "podcastTitle": "The Wire China Podcast",
@@ -112745,6 +112857,58 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-1103deb",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China Is Drowning in Debt, and It Bodes Ill for the Economy’s Future",
+        "description": "",
+        "publishDate": "2026-11-03",
+        "duration": 312,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1103/2836d218-c5c0-4b78-af53-2b88b26b301d/audio.mp3?length=3774708&duration=312",
+        "topics": [
+          "Economic Reform"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1103all",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Beijing Using ‘All Manner of Tactics to Sway American Values,’ Analyst Warns",
+        "description": "",
+        "publishDate": "2026-11-03",
+        "duration": 408,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1030/6a7b9520-1fc0-4b41-abbc-710b69e1cd60/audio.mp3?length=4923829&duration=408",
+        "topics": [
+          "Daily Life"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1103atl",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chinese Information Warfare, Biological Threats, and a Coming Global War? | Gordon Chang",
+        "description": "",
+        "publishDate": "2026-11-03",
+        "duration": 2865,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/atl1103.mp3",
+        "topics": [
+          "Dynastic History"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg084",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 84 Jigong Smells Out Two Assassins from Under the Bed",
+        "description": "Playlist Hub",
+        "publishDate": "2026-11-03",
+        "duration": 1892,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg084.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-in-depth-ep-1102ser",
         "podcastId": "china-in-depth",
