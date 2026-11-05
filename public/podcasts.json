@@ -6005,6 +6005,23 @@
     ],
     "episodes": [
       {
+        "id": "chp-ep-8c9e4970-47b1-4df6-9681-5aff89681a6e",
+        "podcastId": "chp",
+        "podcastTitle": "The China History Podcast",
+        "title": "A Concise History of China-Pangu to Puyi - Part 11",
+        "description": "It's another week and another episode from this series that looks at Chinese history from mythical times to the last emperor. Thanks to everyone (especially Bob K in Myrtle Beach) who have given me your kind words and appreciation for this latest ...",
+        "publishDate": "2026-11-04",
+        "duration": 8597,
+        "audioUrl": "https://episodes.captivate.fm/episode/8c9e4970-47b1-4df6-9681-5aff89681a6e.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "History",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "chp-ep-2af1bc3d-9ecd-48fd-bd4d-4e1a36332ac6",
         "podcastId": "chp",
         "podcastTitle": "The China History Podcast",
@@ -27903,6 +27920,23 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "soas-context-ep-tag-soundcloud-2010-tracks-2432148174",
+        "podcastId": "soas-context",
+        "podcastTitle": "China in Context",
+        "title": "Ep215: Meet the Hackers: China-US cyber espionage — the new 'Great Game'?",
+        "description": "Hacking and cyber espionage continue to make global headlines, amidst fears that AI will only make such intrusions easier. This summer, the US Department of Justice accused a Chinese hacker group of attacking the systems of NASA, the Federal Reser...",
+        "publishDate": "2026-11-04",
+        "duration": 2610,
+        "audioUrl": "https://feeds.soundcloud.com/stream/2432148174-soas-china-institute-ep215-meet-the-hackers-china.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "soas-context-ep-tag-soundcloud-2010-tracks-2423302443",
         "podcastId": "soas-context",
@@ -55066,6 +55100,314 @@
     ],
     "episodes": [
       {
+        "id": "china-tech-talk-ep-substack-post-222862226",
+        "podcastId": "china-tech-talk",
+        "podcastTitle": "China Tech Talk (TP Huang)",
+        "title": "Quick Take 4: My thoughts on current state of AI &amp; economy",
+        "description": "This is a quick recording from me on the eve of a bloodbath on the US stock market with respect to the tech sector. The AI pressure on software sector is finally here. Yes, deflation is happening and that is actually horrible for these US tech fir...",
+        "publishDate": "2026-10-30",
+        "duration": 2100,
+        "audioUrl": "https://api.substack.com/feed/podcast/222862226/9321a1b9421138a060e5be385b3cad33.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-tech-talk-ep-substack-post-221792123",
+        "podcastId": "china-tech-talk",
+        "podcastTitle": "China Tech Talk (TP Huang)",
+        "title": "Episode with Han Feizi on China’s economy in 2026",
+        "description": "This week, I’ve been looking at the global economy on the verge of melting down and thinking about what happened in China in 2008. I asked Han Feizi to come on the show to talk about their response in the wake of 2008 and what they could do this t...",
+        "publishDate": "2026-10-26",
+        "duration": 3690,
+        "audioUrl": "https://api.substack.com/feed/podcast/221792123/02dd1d045b7087c6908058b5dbbea16e.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Economic Reform"
+        ]
+      },
+      {
+        "id": "china-tech-talk-ep-substack-post-218850898",
+        "podcastId": "china-tech-talk",
+        "podcastTitle": "China Tech Talk (TP Huang)",
+        "title": "My episode with Ben Norton",
+        "description": "This week, I welcomed Ben Norton onto my show. I have been following Ben for a while on his youtube channel and X account.When I was in Beijing over the summer, I found out from some mutual contacts that Ben is in fact studying in Tsinghua Univers...",
+        "publishDate": "2026-10-08",
+        "duration": 4958,
+        "audioUrl": "https://api.substack.com/feed/podcast/218850898/bbcd83feb184d53507e8add2964597f4.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-tech-talk-ep-substack-post-218638563",
+        "podcastId": "china-tech-talk",
+        "podcastTitle": "China Tech Talk (TP Huang)",
+        "title": "Episode with Snek on Bond &amp; rest of finance market",
+        "description": "This week, I welcomed back my friend Snek on the show to talk about something that will inevitably effect the entire global economy, but especially the tech sector, which is the bond meltdown and rising oil prices across the board.I think we are a...",
+        "publishDate": "2026-10-03",
+        "duration": 4172,
+        "audioUrl": "https://api.substack.com/feed/podcast/218638563/3a9131e936d64d3c015387973a287371.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Economic Reform",
+          "History",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-tech-talk-ep-substack-post-215046558",
+        "podcastId": "china-tech-talk",
+        "podcastTitle": "China Tech Talk (TP Huang)",
+        "title": "Quick Take 3: My early thoughts on time in China",
+        "description": "I did a very early morning quick take on my trip to China. I’m sure there will be more on this since so much stuff happened while I was there. But I really wanted to just the message that China is becoming a really livable place and people are mov...",
+        "publishDate": "2026-09-16",
+        "duration": 2434,
+        "audioUrl": "https://api.substack.com/feed/podcast/215046558/a857a5b2fce0d204c9d8c42421dcfe31.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-tech-talk-ep-substack-post-206652079",
+        "podcastId": "china-tech-talk",
+        "podcastTitle": "China Tech Talk (TP Huang)",
+        "title": "My Episode with Lei on Tau Scaling and Reusable rocket",
+        "description": "I had a chance to go over Tau Scaling and reusable rocket with Lei. As Lei is the person who shares my point of view the closest on Tau Scaling and Huawei’s efforts on this front, we really spent a lot of time explaining why what Huawei did in the...",
+        "publishDate": "2026-09-08",
+        "duration": 4429,
+        "audioUrl": "https://api.substack.com/feed/podcast/206652079/198eba38d55fb1a7a7c895914d4fbdbc.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History"
+        ]
+      },
+      {
+        "id": "china-tech-talk-ep-substack-post-211011740",
+        "podcastId": "china-tech-talk",
+        "podcastTitle": "China Tech Talk (TP Huang)",
+        "title": "China Tech Talk @ Tsinghua AI school",
+        "description": "I am currently in Beijing and have the pleasure of getting together with some friends in Tsinghua University in the AI school. I was welcomed by Alex and Qian Yu. We sat down talked a lot about the academia, AI research in China, getting talent to...",
+        "publishDate": "2026-08-13",
+        "duration": 4810,
+        "audioUrl": "https://api.substack.com/feed/podcast/211011740/0bfa02271c4d1c962f59c7a4e0ba0852.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Daily Life",
+          "Feminism & Arts",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-tech-talk-ep-substack-post-209485508",
+        "podcastId": "china-tech-talk",
+        "podcastTitle": "China Tech Talk (TP Huang)",
+        "title": "My appearance on Taipology to talk about China's AI progress",
+        "description": "I was fortunate to be invited by Angelica Oung last week to talk about China’s AI progress in light of Kimi K3, DUVi lithography new, CXMT IPO and the KOSPI market crash.Things have changed a little bit since the podcast, but CXMT remains very imp...",
+        "publishDate": "2026-08-04",
+        "duration": 3315,
+        "audioUrl": "https://api.substack.com/feed/podcast/209485508/d3b1f8756b5e3e109d49e9676dd437a3.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
+      {
+        "id": "china-tech-talk-ep-substack-post-209432674",
+        "podcastId": "china-tech-talk",
+        "podcastTitle": "China Tech Talk (TP Huang)",
+        "title": "Quick take 2: Deepseek V4 Flash",
+        "description": "My quick thoughts on DSV4-Flash: Huge improvement over the original. It took 3 to 4 months, but we essentially got something close to GLM-5.2 in software engineering tasks.I did some testing today on VS Code using cline plugin. DSv4-Flash is essen...",
+        "publishDate": "2026-08-01",
+        "duration": 609,
+        "audioUrl": "https://api.substack.com/feed/podcast/209432674/dabb662c9c559ffc7afba510d1933283.mp3",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-tech-talk-ep-substack-post-208261810",
+        "podcastId": "china-tech-talk",
+        "podcastTitle": "China Tech Talk (TP Huang)",
+        "title": "My Quick Take on Kimi K3 and GLM-5.2",
+        "description": "I’m staring a new series of what I call quick takes. These will be shorter (15-20 minutes) than scheduled podcast. They will be recorded whenever something interesting comes up in the tech world and I don’t want to wait to talk to someone about it...",
+        "publishDate": "2026-07-23",
+        "duration": 1281,
+        "audioUrl": "https://api.substack.com/feed/podcast/208261810/4c454a31a93b622f8822f993aa706662.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-tech-talk-ep-substack-post-208082568",
+        "podcastId": "china-tech-talk",
+        "podcastTitle": "China Tech Talk (TP Huang)",
+        "title": "Talking about Kimi K3/WAIC on Carl Zha podcast",
+        "description": "This week, I had a chance to go on Carl Zha’s livestream to talk about the launch of Kimi K3 and what we saw at WAIC. Unfortunately, I had to leave early due to family obligations, but I think most of the issues I wanted to cover was already talke...",
+        "publishDate": "2026-07-22",
+        "duration": 3146,
+        "audioUrl": "https://api.substack.com/feed/podcast/208082568/5ad5f9b59902a588cecd6ea42f381ca9.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Tech & Business"
+        ]
+      },
+      {
+        "id": "china-tech-talk-ep-substack-post-206365741",
+        "podcastId": "china-tech-talk",
+        "podcastTitle": "China Tech Talk (TP Huang)",
+        "title": "Episode with Electric Felix",
+        "description": "This week, I invited Electric Felix on my show to talk more about EVs. I first encountered him on X/Twitter and then followed his journey on EVs in Europe as well as his trips in China and what he experienced there in Yunnan and charging stations....",
+        "publishDate": "2026-07-21",
+        "duration": 3715,
+        "audioUrl": "https://api.substack.com/feed/podcast/206365741/cf41230f0d5e1e4afcb886da8e46ba55.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
+      {
+        "id": "china-tech-talk-ep-substack-post-206844863",
+        "podcastId": "china-tech-talk",
+        "podcastTitle": "China Tech Talk (TP Huang)",
+        "title": "My talk with Carl Zha on Long March 10B launch and recovery",
+        "description": "I had the pleasure recently to go on Carl’s live stream to talk about the recent LM-10B launch and recovery. Why this was significant and why China picked its design of recovering in offshore pad. We also talked a little bit about the strategic im...",
+        "publishDate": "2026-07-21",
+        "duration": 5688,
+        "audioUrl": "https://api.substack.com/feed/podcast/206844863/515fe7401ba714bd671660da42ad52bf.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-tech-talk-ep-substack-post-204969622",
+        "podcastId": "china-tech-talk",
+        "podcastTitle": "China Tech Talk (TP Huang)",
+        "title": "My discussion with Carl Zha on China's AI progress and GLM/Zai",
+        "description": "I’ve been wanting to do an episode on GLM-5.2 & Zhipu for a while, but didn’t get a chance to do so. Last week, I did a live stream on Carl Zha’s channel and here is my piece on it.I’ve had very good experience with GLM-5.2 so far and will probabl...",
+        "publishDate": "2026-07-07",
+        "duration": 6321,
+        "audioUrl": "https://api.substack.com/feed/podcast/204969622/d674962a42d8136434f39c3df19c1b1b.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History"
+        ]
+      },
+      {
+        "id": "china-tech-talk-ep-substack-post-203908974",
+        "podcastId": "china-tech-talk",
+        "podcastTitle": "China Tech Talk (TP Huang)",
+        "title": "Episode 30 with Andy Collingwood",
+        "description": "This week, I welcome Andy from Multipolarity podcast onto my show. I’ve been listening to his show for a while and always enjoyed him and Phillip Pilkington’s discussion on geopolitics, European politics and the increasing multiploar world that we...",
+        "publishDate": "2026-07-04",
+        "duration": 4563,
+        "audioUrl": "https://api.substack.com/feed/podcast/203908974/074cbc83931a0514e13b6fe04d33f333.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Geopolitics & Politics",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-tech-talk-ep-substack-post-203727039",
+        "podcastId": "china-tech-talk",
+        "podcastTitle": "China Tech Talk (TP Huang)",
+        "title": "Episode with China Driven/Will Sundin",
+        "description": "When I started really getting into Chinese EVs in 2022/2023, there really wasn’t that much material in English about what was going on in China's EV industry. When I did search on YouTube, I would often find content by Wheelsboy, Elliott Richards ...",
+        "publishDate": "2026-06-27",
+        "duration": 3272,
+        "audioUrl": "https://api.substack.com/feed/podcast/203727039/78dcda67344219b9a1cd600f89c67d39.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-tech-talk-ep-substack-post-200654089",
+        "podcastId": "china-tech-talk",
+        "podcastTitle": "China Tech Talk (TP Huang)",
+        "title": "Episode 28: Marcel Münch",
+        "description": "I had the pleasure this week to welcome Marcel on my show. I would recommend everyone to follow Marcel on X as well as on his website and YouTube channel. A really good guy and we had a great discussion. I first followed and noticed Marcel because...",
+        "publishDate": "2026-06-16",
+        "duration": 4178,
+        "audioUrl": "https://api.substack.com/feed/podcast/200654089/a6e65e4ee0d564d67ff919dc35981814.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-tech-talk-ep-substack-post-200218554",
+        "podcastId": "china-tech-talk",
+        "podcastTitle": "China Tech Talk (TP Huang)",
+        "title": "My episode on AI Proem with Grace Shao",
+        "description": "I had the pleasure to join Grace on this episode of AI Proem. We covered a lot of topics here. A lot of stuff on AI, semiconductors and robotics, but obviously also all the other techs that I talk about.I didn’t break ground on anything new, but I...",
+        "publishDate": "2026-06-09",
+        "duration": 3028,
+        "audioUrl": "https://api.substack.com/feed/podcast/200218554/5f2276121c2c47d66f058437a89a342c.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Daily Life",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-tech-talk-ep-substack-post-200215320",
+        "podcastId": "china-tech-talk",
+        "podcastTitle": "China Tech Talk (TP Huang)",
+        "title": "My Radio War Nerd Episode",
+        "description": "I had the pleasure of joining RWN on his podcast to talk about China and PLA and WestPac conflict. I thank Mark and John for welcoming me on their show and giving me the opportunities to just explain how we got here and why we saw a lot of the ala...",
+        "publishDate": "2026-06-02",
+        "duration": 5125,
+        "audioUrl": "https://api.substack.com/feed/podcast/200215320/c427285f05df563a9464581ac37fe8e6.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History"
+        ]
+      },
+      {
         "id": "china-tech-talk-ep-substack-post-198331976",
         "podcastId": "china-tech-talk",
         "podcastTitle": "China Tech Talk (TP Huang)",
@@ -55566,7 +55908,7 @@
         ]
       }
     ],
-    "status": "stale"
+    "status": "active"
   },
   {
     "id": "inside-china-tech",
@@ -90343,7 +90685,6 @@
         "duration": 2984,
         "audioUrl": "https://api.substack.com/feed/podcast/118015268/feb9e754675213d2038f781705dfa9e7.mp3",
         "topics": [
-          "US-China Relations",
           "Semiconductors & AI",
           "Dynastic History",
           "Daily Life",
@@ -90393,8 +90734,6 @@
           "Daily Life",
           "Feminism & Arts",
           "Economic Reform",
-          "Ancient Trade Routes",
-          "History",
           "Geopolitics & Politics",
           "Tech & Business",
           "Culture & Society"
@@ -90432,7 +90771,6 @@
         "duration": 2802,
         "audioUrl": "https://api.substack.com/feed/podcast/43591505/d65d38d52b02cc4e67559bfe1df763fe.mp3",
         "topics": [
-          "US-China Relations",
           "Semiconductors & AI",
           "Dynastic History",
           "Daily Life",
@@ -99398,6 +99736,27 @@
     ],
     "episodes": [
       {
+        "id": "trivium-china-ep-buzzsprout-20074321",
+        "podcastId": "trivium-china",
+        "podcastTitle": "The Trivium China Podcast",
+        "title": "Ep 95 - China’s critical minerals off switch isn’t as ironclad as Washington thinks",
+        "description": "During Xi Jinping’s late-September visit to Washington, the US and China extended their trade truce – but more than a month later, there’s still no Federal Register notice or amended MofCom announcement formalizing it.Jessica DiCarlo, an assistant...",
+        "publishDate": "2026-11-04",
+        "duration": 4143,
+        "audioUrl": "https://www.buzzsprout.com/2408047/episodes/20074321-ep-95-china-s-critical-minerals-off-switch-isn-t-as-ironclad-as-washington-thinks.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Geopolitics & Politics",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "trivium-china-ep-buzzsprout-20005821",
         "podcastId": "trivium-china",
         "podcastTitle": "The Trivium China Podcast",
@@ -102808,6 +103167,20 @@
           "Dynastic History",
           "Economic Reform",
           "Tech & Business"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-02766341",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "IN VIDEO: Drink big water: the internet's love of naming things",
+        "description": "A morning routine becomes an optimized system, and a few favorite songs become a curated playlist. Social media in China and also elsewhere in the world has turned ordinary life into something to label, package, and present, and that playful habit...",
+        "publishDate": "2026-11-04",
+        "duration": 1246,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp4/radio-res.cgtn.com/ueditor/audio/2611/1093760450484.mp4",
+        "topics": [
+          "Dynastic History",
+          "Culture & Society"
         ]
       },
       {
@@ -112857,6 +113230,32 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-1104mh",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Falun Dafa News from Around the World – November 4, 2026",
+        "description": "",
+        "publishDate": "2026-11-04",
+        "duration": 1389,
+        "audioUrl": "https://en.minghui.org/u/files/podcasts/emh-podcast/EMHPodcast_2218-News.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg085",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 85 Jigong Is to Raid the Iron Buddha Temple",
+        "description": "Playlist Hub",
+        "publishDate": "2026-11-04",
+        "duration": 1551,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg085.mp3",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
       {
         "id": "china-in-depth-ep-1103deb",
         "podcastId": "china-in-depth",
@@ -145607,6 +146006,24 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "dumbrill-podcast-ep-92713299-f07a-411c-ab8a-387d2f84a773",
+        "podcastId": "dumbrill-podcast",
+        "podcastTitle": "The Dumbrill Podcast",
+        "title": "Unhinged Campus Attacker Was a UN \"Human Rights\" Witness Against China",
+        "description": "In April 2023, Temulun Togochog was given a microphone at the United Nations to accuse China of carrying out a full-scale \"cultural genocide\" and completely banning the Mongolian language in Inner Mongolia. Then, on November 1, 2026, she went vira...",
+        "publishDate": "2026-11-04",
+        "duration": 1073,
+        "audioUrl": "https://episodes.captivate.fm/episode/92713299-f07a-411c-ab8a-387d2f84a773.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Geopolitics & Politics",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "dumbrill-podcast-ep-03ef7ece-cdb5-47de-9f76-316d1570a0e1",
         "podcastId": "dumbrill-podcast",
