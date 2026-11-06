@@ -16,6 +16,32 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-sinica-weekend-edition-three",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "Sinica Weekend Edition: Three Days Out and About in Beijing",
+        "description": "Something different this week.",
+        "publishDate": "2026-11-05",
+        "duration": 1800,
+        "audioUrl": "https://api.substack.com/feed/podcast/223573138/b13d6536b5b8bafebed7868f8d3d3d37.mp3",
+        "topics": [
+          "Daily Life"
+        ]
+      },
+      {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-transcript-sinica-weekend-ed",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "Transcript | Sinica Weekend Edition: Three Days Out and About in Beijing",
+        "description": "Transcript (courtesy of the fantastic CadreScripts) further down the page.",
+        "publishDate": "2026-11-05",
+        "duration": 1800,
+        "audioUrl": "https://substackcdn.com/image/fetch/$s_!i04r!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc1355403-51b7-45c3-b937-09b26e739473_1120x800.png",
+        "topics": [
+          "Daily Life"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-the-us-wants-global-south-co",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -35206,6 +35232,24 @@
     ],
     "episodes": [
       {
+        "id": "china-power-ep-11ace0c0-d956-11f1-bbd4-534ac843dc58",
+        "podcastId": "china-power",
+        "podcastTitle": "China Power",
+        "title": "Dissecting China's Fifth Plenum: A Conversation with Neil Thomas and Joseph Torigian ",
+        "description": "In this episode of the ChinaPower Podcast, Neil Thomas and Dr. Joseph Torigian join us to discuss the outcomes of China's recent Fifth Plenum. The conversation examines what happened at the plenum, notable personnel developments including the near...",
+        "publishDate": "2026-11-05",
+        "duration": 2384,
+        "audioUrl": "https://traffic.megaphone.fm/CSIS3971076610.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Daily Life",
+          "Feminism & Arts",
+          "Geopolitics & Politics",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "china-power-ep-26874bd4-ce48-11f1-a425-9bd977550e9c",
         "podcastId": "china-power",
         "podcastTitle": "China Power",
@@ -38643,6 +38687,23 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "merics-ep-buzzsprout-20078466",
+        "podcastId": "merics",
+        "podcastTitle": "MERICS China Podcast",
+        "title": "Outcomes of the Fifth Plenum, with Katja Drinhausen and Daria Impiombato",
+        "description": "Last week, the Central Committee of the Chinese Communist Party gathered for its fifth plenary session. Katja Drinhausen, Head of the Politics and Society Team at MERICS, and Daria Impiombato, Senior Analyst at MERICS, join Johannes Heller-John to...",
+        "publishDate": "2026-11-05",
+        "duration": 1239,
+        "audioUrl": "https://www.buzzsprout.com/1825833/episodes/20078466-outcomes-of-the-fifth-plenum-with-katja-drinhausen-and-daria-impiombato.mp3",
+        "topics": [
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Geopolitics & Politics",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "merics-ep-buzzsprout-20046205",
         "podcastId": "merics",
@@ -45476,11 +45537,11 @@
         "id": "sr-kina-ep-rss-sr-se-pod-eid-2888849",
         "podcastId": "sr-kina",
         "podcastTitle": "Radiokorrespondenterna Kina",
-        "title": "Så hotar Kinas ekonomiska skuggsida att tippa ekonomin",
+        "title": "Kinas ekonomiska skuggsida",
         "description": "Trots enorma framsteg har den kinesiska ekonomin en mörkare baksida. Lyssna på alla avsnitt i Sveriges Radios app. Kinas ekonomiska utveckling beskrivs ofta som en framgångssaga, präglad av högteknologisk innovation och snabb tillväxt. Bakom de op...",
         "publishDate": "2026-10-19",
         "duration": 1620,
-        "audioUrl": "https://static-cdn.sr.se/laddahem/podradio/2026/10/radiokorrespondenterna_kina_sa_hotar_kinas_ekonomiska_skug_20261016_1445351258.mp3",
+        "audioUrl": "https://static-cdn.sr.se/laddahem/podradio/2026/10/radiokorrespondenterna_kina_kinas_ekonomiska_skuggsida_20261105_1459422116.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -87312,6 +87373,25 @@
     ],
     "episodes": [
       {
+        "id": "sharp-china-ep-https---sharpchina-fm-member-episode-parsing-the-fifth-plenu",
+        "podcastId": "sharp-china",
+        "podcastTitle": "Sharp China with Bill Bishop",
+        "title": "Parsing the Fifth Plenum; US-China After the Midterms; New Scrutiny for Nvidia?; Cybersecurity and Espionage",
+        "description": "On today’s show Andrew and Bill begin by reviewing the readouts from last week’s Fifth Plenum, including signs that corruption crackdowns will continue, additional targets may include retired cadres, and an area of convergence with the US on polic...",
+        "publishDate": "2026-11-05",
+        "duration": 3624,
+        "audioUrl": "https://sharpchina.fm/assets/sharpchina173-final-5671.mp3?access_token=MSorAZNuXsdNR1taQBKjcF",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "sharp-china-ep-https---sharpchina-fm-member-episode-preview-new-export-cont",
         "podcastId": "sharp-china",
         "podcastTitle": "Sharp China with Bill Bishop",
@@ -103155,6 +103235,39 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-2766351",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "The AI toys that barely do anything",
+        "description": "Hundreds of yuan for a desk buddy that won't lift a finger to help you sounds like a bad deal. No chores, no career advice, just the occasional funny noise. Yet an entire generation seems to think otherwise. China's booming market for AI companion...",
+        "publishDate": "2026-11-05",
+        "duration": 1370,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2611/1093868909785.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2766348",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "One market, 1.4 billion shoppers",
+        "description": "Fresh watermelons in Chinese markets practically all year round are just the beginning. Behind that year-round produce sits a much larger experiment in connecting 1.4 billion consumers and producers into one seamless national market. As global bus...",
+        "publishDate": "2026-11-05",
+        "duration": 1753,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2611/1093868853656.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-02766340",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -113230,6 +113343,71 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-1105cf",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Midterm: Short-Term Gain, Long-Term Pain for China; China Calls Explosive Found at PNG a ‘Wine Bottle’",
+        "description": "",
+        "publishDate": "2026-11-05",
+        "duration": 1224,
+        "audioUrl": "https://d11uxv8pa79pab.cloudfront.net/cf1105.mp3",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1105dem",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Democracy Is Under Threat",
+        "description": "",
+        "publishDate": "2026-11-05",
+        "duration": 415,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1103/2bf3074a-5a56-4d10-ad5a-fd551fb13ff0/audio.mp3?length=5008213&duration=415",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1105pur",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China Indicts Former Politburo Member in Widening Purges",
+        "description": "",
+        "publishDate": "2026-11-05",
+        "duration": 258,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1105/ba2310bf-e79c-4307-88c8-1c4d6317b42b/audio.mp3?length=3125557&duration=258",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1105hk",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Hong Kong Pro-Democracy Activist Joshua Wong Sentenced to 10 Years in Prison",
+        "description": "",
+        "publishDate": "2026-11-05",
+        "duration": 348,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1105/6f79837a-92a7-45dd-a328-870500311e36/audio.mp3?length=4198357&duration=348",
+        "topics": [
+          "Feminism & Arts"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg086",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 86 The Iron Buddha Temple's Demon",
+        "description": "Playlist Hub",
+        "publishDate": "2026-11-05",
+        "duration": 1778,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg086.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-in-depth-ep-1104mh",
         "podcastId": "china-in-depth",
@@ -141575,20 +141753,6 @@
         "audioUrl": "https://en.minghui.org/u/files/podcasts/emh-podcast/EMHPodcast_1900-News.mp3",
         "topics": [
           "Culture & Society"
-        ]
-      },
-      {
-        "id": "china-in-depth-ep-1105cf",
-        "podcastId": "china-in-depth",
-        "podcastTitle": "China in Depth",
-        "title": "U.S., China Ease Tariffs in New Fentanyl Trade Deal",
-        "description": "",
-        "publishDate": "2025-11-05",
-        "duration": 1324,
-        "audioUrl": "https://podcasts.captivate.fm/media/608bbe8d-d68e-437c-a838-e8c0f73534c0/1105-21041-CIF-P-converted.mp3",
-        "topics": [
-          "US-China Relations",
-          "Economic Reform"
         ]
       },
       {
