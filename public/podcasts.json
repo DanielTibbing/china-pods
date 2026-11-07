@@ -13562,6 +13562,24 @@
     ],
     "episodes": [
       {
+        "id": "chinatalk-ep-013e9230-da35-11f1-8840-5feb76968030",
+        "podcastId": "chinatalk",
+        "podcastTitle": "ChinaTalk",
+        "title": "WarTalk: Lame Duck War, No Pete November, Bay of Tofu + Team Yankee",
+        "description": "Joining me for WarTalk’s post-midterms edition are regulars Bryan Clark of the Hudson Institute, Special Forces veteran Justin McIntosh, and former House staffer Tony Stark. We discuss… Why Iran holds the cards now — a blockade too slow for the Wh...",
+        "publishDate": "2026-11-06",
+        "duration": 4651,
+        "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL8182148250.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Geopolitics & Politics",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "chinatalk-ep-c18f57c6-d793-11f1-bd95-132b57e0e2cd",
         "podcastId": "chinatalk",
         "podcastTitle": "ChinaTalk",
@@ -103235,6 +103253,40 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-2766360",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "The great outdoor boom",
+        "description": "China's outdoor adventure boom is reshaping how people spend their free time, from weekend cycling groups and hiking trails to marathon runners chasing personal bests. That surge in demand is fueling a massive commercial opportunity across high-te...",
+        "publishDate": "2026-11-06",
+        "duration": 2094,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2611/1093949191669.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2766363",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Dogs, rules and city living",
+        "description": "For many people, dogs are family members, not just pets. That makes it especially difficult when a city begins enforcing rules that could leave some dogs effectively confined to their homes. Hangzhou's regulations have led to discussion about fair...",
+        "publishDate": "2026-11-06",
+        "duration": 1899,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2611/1093949243286.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2766351",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -113343,6 +113395,73 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-1106cf",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Taiwan Boosts Unmanned Sea Drones; US Army Prepares for 2027 Taiwan Conflict",
+        "description": "",
+        "publishDate": "2026-11-06",
+        "duration": 1371,
+        "audioUrl": "https://d11uxv8pa79pab.cloudfront.net/1106cf.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1106imm",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "US Tells China to ‘Immediately’ Meet Trade Commitment Ahead of Trump-Xi Meeting",
+        "description": "",
+        "publishDate": "2026-11-06",
+        "duration": 210,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1106/bc2bacac-be69-4751-bf4d-1144e2241afe/audio.mp3?length=2542645&duration=210",
+        "topics": [
+          "US-China Relations",
+          "Economic Reform"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1106xi",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Xi Jinping’s Maoist Trap: Why Absolute Power May Be China’s Greatest Political Vulnerability",
+        "description": "",
+        "publishDate": "2026-11-06",
+        "duration": 404,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1106/e5ccee02-7dab-4580-bc74-aa0b8666379e/audio.mp3?length=4869973&duration=404",
+        "topics": [
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1106jos",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Joshua Wong: Beijing’s War on a Generation",
+        "description": "",
+        "publishDate": "2026-11-06",
+        "duration": 547,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1106/6a48fd8d-a339-4075-8a99-0809cf1710a8/audio.mp3?length=6585877&duration=547",
+        "topics": [
+          "Daily Life"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg087",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 87 Jigong Tamed Jiang Tianrui and Forced Hua to Flee Again",
+        "description": "Playlist Hub",
+        "publishDate": "2026-11-06",
+        "duration": 2516,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg087.mp3",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
       {
         "id": "china-in-depth-ep-1105cf",
         "podcastId": "china-in-depth",
@@ -141617,19 +141736,6 @@
         "publishDate": "2025-11-06",
         "duration": 296,
         "audioUrl": "https://vod.brightchat.com/assets/2025/1106/7656bb1d-53cf-49d1-a8ab-dd926aedd75f/audio.mp3?length=3559392&duration=296",
-        "topics": [
-          "Culture & Society"
-        ]
-      },
-      {
-        "id": "china-in-depth-ep-1106cf",
-        "podcastId": "china-in-depth",
-        "podcastTitle": "China in Depth",
-        "title": "DOJ Charges 3 Chinese Research Scholars",
-        "description": "",
-        "publishDate": "2025-11-06",
-        "duration": 1353,
-        "audioUrl": "https://podcasts.captivate.fm/media/9de70a0a-b406-44f7-8ec6-eb5d7314ceb4/1106-21063-CIF-P-converted.mp3",
         "topics": [
           "Culture & Society"
         ]
