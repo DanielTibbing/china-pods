@@ -16,6 +16,19 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-trivium-weekly-recap-democra",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "Trivium Weekly Recap | Democrats take U.S. Congress",
+        "description": "Anyone hungry for lame Peking duck?",
+        "publishDate": "2026-11-07",
+        "duration": 1800,
+        "audioUrl": "https://substack-post-media.s3.amazonaws.com/public/images/841b118a-abd8-46c8-8cb7-88d9dbb1a371_400x400.webp",
+        "topics": [
+          "Geopolitics & Politics"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-sinica-weekend-edition-three",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -13561,6 +13574,25 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "chinatalk-ep-15db76f4-dab7-11f1-8d2d-470dd7bd60c8",
+        "podcastId": "chinatalk",
+        "podcastTitle": "ChinaTalk",
+        "title": "Are We Cooking!? What Should Dems Do Next + Jensen's Affair ",
+        "description": "The gang returns and rebrands! Note: we recorded this Friday afternoon, before the FT reported that 'US believes Nvidia’s Huang had romantic relationship with alleged Chinese spy Kevin Xu of Interconnected, Matt Klein of The Overshoot, and Peter H...",
+        "publishDate": "2026-11-07",
+        "duration": 4022,
+        "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL5022601545.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "chinatalk-ep-013e9230-da35-11f1-8840-5feb76968030",
         "podcastId": "chinatalk",
