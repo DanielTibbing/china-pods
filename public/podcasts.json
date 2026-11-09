@@ -16,6 +16,33 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-the-first-to-eat-the-crab-ph",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "“The first to eat the crab” — Phrase of the Week",
+        "description": "China&#8217;s first AI cinema release",
+        "publishDate": "2026-11-08",
+        "duration": 1800,
+        "audioUrl": "https://substackcdn.com/image/fetch/$s_!in8h!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F04831827-bbc5-4a6d-90c2-d7e0b974f112_2000x1200.jpeg",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-how-europe-must-secure-its-i",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "How Europe Must Secure Its Industrial Future",
+        "description": "China now accounts for more than 45 percent of the world&#8217;s production capacity for basic chemicals and plastic resins.",
+        "publishDate": "2026-11-08",
+        "duration": 1800,
+        "audioUrl": "https://substackcdn.com/image/fetch/$s_!SY9W!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2a2c5905-679e-4558-8bc9-3a7fe7badf23_1535x2047.png",
+        "topics": [
+          "Dynastic History",
+          "Daily Life"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-trivium-weekly-recap-democra",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -13580,8 +13607,8 @@
         "podcastTitle": "ChinaTalk",
         "title": "Are We Cooking!? What Should Dems Do Next + Jensen's Affair ",
         "description": "The gang returns and rebrands! Note: we recorded this Friday afternoon, before the FT reported that 'US believes Nvidia’s Huang had romantic relationship with alleged Chinese spy Kevin Xu of Interconnected, Matt Klein of The Overshoot, and Peter H...",
-        "publishDate": "2026-11-07",
-        "duration": 4022,
+        "publishDate": "2026-11-09",
+        "duration": 3926,
         "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL5022601545.mp3",
         "topics": [
           "US-China Relations",
@@ -45548,6 +45575,23 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "sr-kina-ep-rss-sr-se-pod-eid-2895337",
+        "podcastId": "sr-kina",
+        "podcastTitle": "Radiokorrespondenterna Kina",
+        "title": "Det händer när kineserna slutar shoppa",
+        "description": "25 år efter Kinas inträde i WTO framstår Kinas ekonomi som sårbar och problemtyngd. Kineser håller hårt i sina pengar, vilket känns hela vägen till Sverige. Lyssna på alla avsnitt i Sveriges Radios app. Moa Kärnstrand är på en stor årlig importmäs...",
+        "publishDate": "2026-11-09",
+        "duration": 1620,
+        "audioUrl": "https://static-cdn.sr.se/laddahem/podradio/2026/11/program_radiokorrespondenterna_kina_26_20261106_1701182032.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "sr-kina-ep-rss-sr-se-pod-eid-2892344",
         "podcastId": "sr-kina",
@@ -113427,6 +113471,73 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-1108ca",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "More Than a Dozen Chinese ‘Liaison’ Points in Canada Tied to Police and Other CCP Functions: Report",
+        "description": "",
+        "publishDate": "2026-11-08",
+        "duration": 580,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1108/c3fea47a-f5cd-4798-8913-08bbcf177109/audio.mp3?length=6986485&duration=580",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1108nvi",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Nvidia to Launch Probe After Report CEO Huang Was Target of Chinese Spy Operation",
+        "description": "",
+        "publishDate": "2026-11-08",
+        "duration": 268,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1109/cf73cfba-0643-481d-866b-5c398a7cea5d/audio.mp3?length=3243925&duration=268",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1108ven",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "The Fall of Venezuela",
+        "description": "",
+        "publishDate": "2026-11-08",
+        "duration": 614,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1020/3a81641a-816b-4237-9f2e-9120f1001779/audio.mp3?length=7388254&duration=614",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1108bear",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "‘The Bear Is Infected’: The New Contest Over Usable Power",
+        "description": "",
+        "publishDate": "2026-11-08",
+        "duration": 388,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1106/4e3e77c5-cccc-46e5-9c01-292d905bb56c/audio.mp3?length=4679317&duration=388",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg088",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 88 Jigong Plays Hua Yunlong Like a Fiddle",
+        "description": "Playlist Hub",
+        "publishDate": "2026-11-08",
+        "duration": 2184,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg088.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-in-depth-ep-1106cf",
         "podcastId": "china-in-depth",
