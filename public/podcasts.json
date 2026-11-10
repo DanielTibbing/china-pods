@@ -13621,6 +13621,27 @@
         ]
       },
       {
+        "id": "chinatalk-ep-578d8d3a-dc7e-11f1-a03f-53b79e553e8a",
+        "podcastId": "chinatalk",
+        "podcastTitle": "ChinaTalk",
+        "title": "EMERGENCY POD: Jensen and His Spy",
+        "description": "To make sense of it we have Chris McGuire, senior fellow for China and Emerging Technologies at the Council on Foreign Relations and a former NSC Deputy Senior Director for Technology and National Security. We discuss… The May 2025 decision that m...",
+        "publishDate": "2026-11-09",
+        "duration": 2303,
+        "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL7281600095.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Economic Reform",
+          "History",
+          "Geopolitics & Politics",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "chinatalk-ep-013e9230-da35-11f1-8840-5feb76968030",
         "podcastId": "chinatalk",
         "podcastTitle": "ChinaTalk",
@@ -59122,6 +59143,19 @@
     ],
     "episodes": [
       {
+        "id": "china-flexpat-ep-buzzsprout-20095996",
+        "podcastId": "china-flexpat",
+        "podcastTitle": "China Flexpat",
+        "title": "S5E06-13th Yunnan Traditional Sports Games/Yulongwan Kanggu Equest. Club/Dora Yao",
+        "description": "Contact us for more info: contact@wonder-horse.comSupport the show",
+        "publishDate": "2026-11-09",
+        "duration": 676,
+        "audioUrl": "https://www.buzzsprout.com/479218/episodes/20095996-s5e06-13th-yunnan-traditional-sports-games-yulongwan-kanggu-equest-club-dora-yao.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "china-flexpat-ep-buzzsprout-20058134",
         "podcastId": "china-flexpat",
         "podcastTitle": "China Flexpat",
@@ -103329,6 +103363,39 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-2766378",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "The Soapbox: should the subway charge you for lingering?",
+        "description": "A time restriction in Guangzhou is catching subway riders off guard and sparking debate about extra fees for staying underground too long. The policy raises questions about whether public transit systems should charge passengers for the time they ...",
+        "publishDate": "2026-11-09",
+        "duration": 1166,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2611/1094215495903.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2766375",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Hive mind: China's evolving beekeeping industry",
+        "description": "Bees pollinate one third of the global food supply, but shifting seasons and shrinking habitats are putting them at risk. Beekeepers in China are responding with smart hive technology and restored flower habitats. These efforts to protect pollinat...",
+        "publishDate": "2026-11-09",
+        "duration": 1934,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2611/1094215439955.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2766360",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -113471,6 +113538,101 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-1109rem",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China Extends Pause on US Tariffs, Rare-Earth Curbs for Another 2 Months",
+        "description": "",
+        "publishDate": "2026-11-09",
+        "duration": 228,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1109/11a24fc9-5266-4b77-aa01-9f0b351844e1/audio.mp3?length=2762389&duration=228",
+        "topics": [
+          "US-China Relations",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1109fbi",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "FBI ‘Looking Into’ Nvidia’s Jensen Huang After Affair With Alleged Chinese Spy: Trump",
+        "description": "",
+        "publishDate": "2026-11-09",
+        "duration": 457,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1110/ccb63013-ee65-4eac-aa07-a807684c8e41/audio.mp3?length=5514229&duration=457",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1109sec",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Canada’s New National Security Strategy Avoids Naming Its Most Significant Threats",
+        "description": "",
+        "publishDate": "2026-11-09",
+        "duration": 465,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1109/fe374d84-3ffd-424f-9d08-080a29863c53/audio.mp3?length=5603508&duration=465",
+        "topics": [
+          "Dynastic History"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1109fd",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Ford Warns Stellantis Against Bringing Chinese Kits to Brampton Assembly Plant",
+        "description": "",
+        "publishDate": "2026-11-09",
+        "duration": 216,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1109/6f7fdf5c-8115-4706-bcda-01403775d3ef/audio.mp3?length=2613493&duration=216",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1109ca",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China to Issue Sovereign Bonds in Canada",
+        "description": "",
+        "publishDate": "2026-11-09",
+        "duration": 208,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1110/23f521c7-50e2-4f69-9873-8f8e6f75a6a5/audio.mp3?length=2523637&duration=208",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1109cw",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "‘Redeem My Soul’: Why a Chinese-Born Filmmaker Took On Beijing’s Forced Organ Harvesting",
+        "description": "",
+        "publishDate": "2026-11-09",
+        "duration": 3040,
+        "audioUrl": "https://podcasts.captivate.fm/media/a1f28fdf-8d93-485f-b354-59a72ac7ef69/02-CW-86-converted.mp3",
+        "topics": [
+          "Daily Life",
+          "Feminism & Arts"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg089",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 89 Hua Yunlong Found Himself Shopping at a Wrong Place and Wrong Time",
+        "description": "Playlist Hub",
+        "publishDate": "2026-11-09",
+        "duration": 2553,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg089.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-in-depth-ep-1108ca",
         "podcastId": "china-in-depth",
@@ -141649,21 +141811,6 @@
         "audioUrl": "https://vod.brightchat.com/assets/2025/1108/44d01bee-6796-403e-afa8-d70e5cdb4cd6/audio.mp3?length=7794144&duration=649",
         "topics": [
           "History"
-        ]
-      },
-      {
-        "id": "china-in-depth-ep-1109rem",
-        "podcastId": "china-in-depth",
-        "podcastTitle": "China in Depth",
-        "title": "Beijing Suspends Export Curbs on Critical Minerals, Rare Earths",
-        "description": "",
-        "publishDate": "2025-11-09",
-        "duration": 197,
-        "audioUrl": "https://vod.brightchat.com/assets/2025/1109/af8d320c-29bb-410f-ba0e-e28799d6d5ed/audio.mp3?length=2375712&duration=197",
-        "topics": [
-          "Daily Life",
-          "Feminism & Arts",
-          "Culture & Society"
         ]
       },
       {
