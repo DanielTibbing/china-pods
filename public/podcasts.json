@@ -93077,6 +93077,25 @@
     ],
     "episodes": [
       {
+        "id": "made-in-china-de-ep-buzzsprout-20082963",
+        "podcastId": "made-in-china-de",
+        "podcastTitle": "Made in China (German)",
+        "title": "#235 – CEO thyssenkrupp AG: “Not Enough Business in China” – Why thyssenkrupp Wants to Grow in China (with Miguel Ángel López Borrego)",
+        "description": "While many European companies are talking about reducing their exposure to China, the CEO of thyssenkrupp has a clear message: “We have not enough business in China. We need to expand much, much more.”In this special episode, recorded remotely aro...",
+        "publishDate": "2026-11-10",
+        "duration": 1345,
+        "audioUrl": "https://www.buzzsprout.com/1869386/episodes/20082963-235-ceo-thyssenkrupp-ag-not-enough-business-in-china-why-thyssenkrupp-wants-to-grow-in-china-with-miguel-angel-lopez-borrego.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "made-in-china-de-ep-buzzsprout-20032725",
         "podcastId": "made-in-china-de",
         "podcastTitle": "Made in China (German)",
@@ -103363,6 +103382,38 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-2766391",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Are you low on vitamin D?",
+        "description": "Think fatigue, muscle weakness and constant achiness are just part of modern life? New research points to a hidden culprit most of us never check: vitamin D. Adults in China are overwhelmingly falling short, with younger people hit hardest by indo...",
+        "publishDate": "2026-11-10",
+        "duration": 1414,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2611/1094302103130.mp3",
+        "topics": [
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2766388",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Double Eleven goes AI",
+        "description": "China's biggest online sales festival is in full swing, and the standout helper this year is artificial intelligence. AI is lending a hand at every turn, from shoppers weighing their options to courier firms bracing for a parcel avalanche, and it'...",
+        "publishDate": "2026-11-10",
+        "duration": 1751,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2611/1094302037198.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2766378",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -112888,6 +112939,21 @@
     ],
     "episodes": [
       {
+        "id": "wire-china-ep-buzzsprout-20100621",
+        "podcastId": "wire-china",
+        "podcastTitle": "The Wire China Podcast",
+        "title": "Surviving China’s Jails: Michael Kovrig and Peter Dahlin",
+        "description": "In China’s black jails, detainees are pressured to confess to crimes they don’t know they committed while being prevented from knowing where they’re being imprisoned or even from seeing daylight.The organization Safeguard Defenders has documented ...",
+        "publishDate": "2026-11-10",
+        "duration": 1387,
+        "audioUrl": "https://www.buzzsprout.com/2591600/episodes/20100621-surviving-china-s-jails-michael-kovrig-and-peter-dahlin.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Geopolitics & Politics",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "wire-china-ep-buzzsprout-20062351",
         "podcastId": "wire-china",
         "podcastTitle": "The Wire China Podcast",
@@ -113538,6 +113604,124 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-1110ali",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Explainer: Who Is Alice Huang, the Woman at the Center of Nvidia CEO’s Controversy?",
+        "description": "",
+        "publishDate": "2026-11-10",
+        "duration": 437,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1110/8f5efeb5-eac2-4f16-8185-b3f2db873494/audio.mp3?length=5263957&duration=437",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1110bil",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "House Democratic Leader Calls for Restrictions on Chip Exports to China in Defense Bill",
+        "description": "",
+        "publishDate": "2026-11-10",
+        "duration": 289,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1110/074a8f41-7dcc-4a97-a28d-25abd160afb0/audio.mp3?length=3492181&duration=289",
+        "topics": [
+          "Semiconductors & AI",
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1110hon",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Behind Nvidia CEO’s Episode, Years of Concerns Over Honey Traps Set by China",
+        "description": "",
+        "publishDate": "2026-11-10",
+        "duration": 640,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1110/3a24b64c-668d-4a2d-96db-0b9e50de613e/audio.mp3?length=7701301&duration=640",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1110flo",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Florida Attorney General Subpoenas Democratic Socialists of America",
+        "description": "",
+        "publishDate": "2026-11-10",
+        "duration": 204,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1111/5c4d6ec8-fc94-44ba-beb2-961d42e7dea6/audio.mp3?length=2475253&duration=204",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1110jos",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Joshua Wong Will Spend His Prime Behind Beijing’s Bars: A Parent’s Reflection",
+        "description": "",
+        "publishDate": "2026-11-10",
+        "duration": 506,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1109/93ad6707-af58-406b-a47c-fe41351cc3b3/audio.mp3?length=6098868&duration=506",
+        "topics": [
+          "Daily Life"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1110und",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chinese Spy Case Reveals the National Security Risks of Underground Banking",
+        "description": "",
+        "publishDate": "2026-11-10",
+        "duration": 361,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1110/2f092c92-4e16-41cf-b73f-57b523293785/audio.mp3?length=4356756&duration=361",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1110ceo",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Nvidia CEO’s Affair With Alleged Spy Sparks Divided Reactions From Silicon Valley to China",
+        "description": "",
+        "publishDate": "2026-11-10",
+        "duration": 416,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1110/04f5522d-cc4e-4834-89e9-a8fed098d5cd/audio.mp3?length=5014837&duration=416",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1110fle",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "The USA Is the Best Destination for Capital Fleeing China",
+        "description": "",
+        "publishDate": "2026-11-10",
+        "duration": 320,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1110/f74bbdd1-db89-4dc7-a2d5-bf24c1f99df4/audio.mp3?length=3861685&duration=320",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg090",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 90 Hua Yunlong Is Under Seige",
+        "description": "Playlist Hub",
+        "publishDate": "2026-11-10",
+        "duration": 1938,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg090.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-in-depth-ep-1109rem",
         "podcastId": "china-in-depth",
