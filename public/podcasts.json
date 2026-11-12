@@ -6071,6 +6071,24 @@
     ],
     "episodes": [
       {
+        "id": "chp-ep-719be106-8d71-44cf-8420-2ff21d2426b3",
+        "podcastId": "chp",
+        "podcastTitle": "The China History Podcast",
+        "title": "A Concise History of China-Pangu to Puyi - Part 12",
+        "description": "The Song gets a second life in Hangzhou, and what a life it is. This time we follow Yue Fei’s struggle against the Jurchens, the political battles back at court, and a remarkable flowering of trade, art, and learning. Meanwhile, out on the steppe,...",
+        "publishDate": "2026-11-11",
+        "duration": 8064,
+        "audioUrl": "https://episodes.captivate.fm/episode/719be106-8d71-44cf-8420-2ff21d2426b3.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Economic Reform",
+          "History",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "chp-ep-8c9e4970-47b1-4df6-9681-5aff89681a6e",
         "podcastId": "chp",
         "podcastTitle": "The China History Podcast",
@@ -6550,7 +6568,7 @@
         "title": "Plant Hunters during the Qing Dynasty",
         "description": "I was afraid I'd barely be able to scrape together enough material for a short episode. Instead, this one is gonna take almost two hours to tell. I hope no one minds that I opted not to drown anyone with Latin names and to go easy on the scientifi...",
         "publishDate": "2025-03-05",
-        "duration": 5604,
+        "duration": 5595,
         "audioUrl": "https://episodes.captivate.fm/episode/5ea47926-b825-479f-9358-a3323b6575f4.mp3",
         "topics": [
           "Semiconductors & AI",
@@ -87501,6 +87519,23 @@
     ],
     "episodes": [
       {
+        "id": "sharp-china-ep-https---sharpchina-fm-member-episode-jensen-huang-likely-out",
+        "podcastId": "sharp-china",
+        "podcastTitle": "Sharp China with Bill Bishop",
+        "title": "Jensen Huang Likely Out at Nvidia; The Megaspeed Maelstrom in D.C.; APEC in Seven Days; Legislation That May Come Next",
+        "description": "On today’s show Andrew and Bill react to reports that Nvidia’s board is set to oust Jensen Huang and Axios reporting on the Trump administration, Elon Musk, and Howard Lutnick’s failure to implement chip controls and entity listings authorized by ...",
+        "publishDate": "2026-11-12",
+        "duration": 4419,
+        "audioUrl": "https://sharpchina.fm/assets/sharpchina174-final-5699.mp3?access_token=MSorAZNuXsdNR1taQBKjcF",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Daily Life",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "sharp-china-ep-https---sharpchina-fm-member-episode-parsing-the-fifth-plenu",
         "podcastId": "sharp-china",
         "podcastTitle": "Sharp China with Bill Bishop",
@@ -103382,6 +103417,40 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-02766400",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "IN VIDEO: Dogs, rules and city living",
+        "description": "For many people, dogs are family members, not just pets. That makes it especially difficult when a city begins enforcing rules that could leave some dogs effectively confined to their homes. Hangzhou's regulations have led to discussion about fair...",
+        "publishDate": "2026-11-11",
+        "duration": 1878,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp4/radio-res.cgtn.com/ueditor/audio/2611/1094382582081.mp4",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-02766387",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "IN VIDEO: The great outdoor boom",
+        "description": "China's outdoor adventure boom is shaping how people spend their free time, from weekend cycling groups and hiking trails to marathon runners chasing personal bests. That surge in demand is fueling a massive commercial opportunity across high-tech...",
+        "publishDate": "2026-11-11",
+        "duration": 2189,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp4/radio-res.cgtn.com/ueditor/audio/2611/1094291772519.mp4",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2766391",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -113604,6 +113673,98 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-1111tra",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Bessent Calls for Balanced US–China Trade Ahead of Trump–Xi Meeting",
+        "description": "",
+        "publishDate": "2026-11-11",
+        "duration": 221,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1111/4d105b63-854e-432f-95f3-05a7b079cfd3/audio.mp3?length=2678293&duration=221",
+        "topics": [
+          "US-China Relations",
+          "Economic Reform"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1111law",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Lawmakers Step Up Scrutiny of Nvidia Over China Chips, CEO Scandal",
+        "description": "",
+        "publishDate": "2026-11-11",
+        "duration": 336,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1112/509a5d08-65e5-4172-8e62-a97b316813bd/audio.mp3?length=4059828&duration=336",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1111car",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Carney Says He Will Raise Issue of Foreign Interference When Meeting Xi in China Next Week",
+        "description": "",
+        "publishDate": "2026-11-11",
+        "duration": 353,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1111/88acce4f-74dd-45ec-bbb1-88f6b080297c/audio.mp3?length=4256821&duration=353",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1111stu",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Ontario University Student Pleads Not Guilty in US Case Tied to Chinese Espionage Allegations",
+        "description": "",
+        "publishDate": "2026-11-11",
+        "duration": 182,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1111/a8dec628-ab25-4533-a3b8-c17c1708bed8/audio.mp3?length=2210579&duration=182",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1111rcmp",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Minister, RCMP Respond to Report on China’s Expanded Police, Judiciary ‘Liaison’ Points in Canada",
+        "description": "",
+        "publishDate": "2026-11-11",
+        "duration": 306,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1111/0ba26a78-6297-4e47-ba07-73b4e015c390/audio.mp3?length=3702997&duration=306",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1111mh",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Falun Dafa News from Around the World – November 11, 2026",
+        "description": "",
+        "publishDate": "2026-11-11",
+        "duration": 1278,
+        "audioUrl": "https://en.minghui.org/u/files/podcasts/emh-podcast/EMHPodcast_2224-News.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg091",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 91 Unprincipled Association Spells Danger Even Doom",
+        "description": "Playlist Hub",
+        "publishDate": "2026-11-11",
+        "duration": 1888,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg091.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-in-depth-ep-1110ali",
         "podcastId": "china-in-depth",
