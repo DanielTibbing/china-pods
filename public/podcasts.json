@@ -3621,6 +3621,23 @@
     ],
     "episodes": [
       {
+        "id": "pekingology-ep-be173f56-dd37-11f1-8716-6fe3002c3722",
+        "podcastId": "pekingology",
+        "podcastTitle": "Pekingology",
+        "title": "Behind the Scenes of China's Fifth Plenum",
+        "description": "In this episode of Pekingology, Senior Fellow Henrietta Levin is joined by Victor Shih, one of the world's leading experts in Chinese politics, as well as Edgard Kagan, Freeman Chair in China Studies at CSIS, to unpack the Chinese Communist Party'...",
+        "publishDate": "2026-11-12",
+        "duration": 2595,
+        "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/cohst.app/pdcst/0C0K2I/traffic.megaphone.fm/CSIS8780453615.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Feminism & Arts",
+          "Geopolitics & Politics",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "pekingology-ep-04482d4c-d238-11f1-8586-c380b6d4c5ae",
         "podcastId": "pekingology",
         "podcastTitle": "Pekingology",
@@ -103417,6 +103434,52 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-2766419",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "What skills will matter in the age of AI?",
+        "description": "As AI takes on more tasks once handled by humans, from writing and analysis to creativity and decision-making, what will set people apart in the workplace? For young people entering an AI-driven job market, the challenge is not simply learning to ...",
+        "publishDate": "2026-11-13",
+        "duration": 1772,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2611/1094536921641.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2766410",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Qigong: the barely-working-out secret",
+        "description": "The secret to a better morning might not be working out harder, but barely working out at all. Qigong, an ancient Chinese practice of slow, breath-led movement, is quietly replacing high-intensity routines across the West. Can clinical evidence cu...",
+        "publishDate": "2026-11-12",
+        "duration": 1087,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2611/1094470965162.mp3",
+        "topics": [
+          "Dynastic History",
+          "History"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2766407",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Beijing's school meal overhaul",
+        "description": "Beijing is banning outsourced school lunches, and by 2027 every school in the city must run its own canteen, with food buying centralized at the district level. What difference will it make for students, parents, and schools, and does bringing coo...",
+        "publishDate": "2026-11-12",
+        "duration": 2069,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2611/1094470817787.mp3",
+        "topics": [
+          "Dynastic History",
+          "Daily Life"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-02766400",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -113673,6 +113736,113 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-1112nvi",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Nvidia CEO Jensen Huang Resigns After Affair With Alleged Chinese Spy",
+        "description": "",
+        "publishDate": "2026-11-12",
+        "duration": 501,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1112/17e009ed-9267-4c05-b4fe-30a2f3cfb707/audio.mp3?length=6034356&duration=501",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1112nuk",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "US Says Rubio, Wang Agree on Leader-Level Talks for Denuclearization",
+        "description": "",
+        "publishDate": "2026-11-12",
+        "duration": 186,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1112/268b297c-497a-4fc3-b7a9-774ade9b64b5/audio.mp3?length=2254645&duration=186",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1112mil",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "G7 Warns China’s Military Activities East of Taiwan Threaten Regional Stability",
+        "description": "",
+        "publishDate": "2026-11-12",
+        "duration": 230,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1112/f0b0d785-afa5-4cb2-afb5-b562fdee5a07/audio.mp3?length=2792053&duration=230",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1112dem",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "What Does Democrats’ Midterm Victory Mean for Taiwan and US–China Relations?",
+        "description": "",
+        "publishDate": "2026-11-12",
+        "duration": 407,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1112/95d0797c-b6c4-421a-9b84-f20e97f4c7a0/audio.mp3?length=4911445&duration=407",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1112rx",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s Other Global Chokehold: Pharmaceuticals",
+        "description": "",
+        "publishDate": "2026-11-12",
+        "duration": 292,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1112/57ce5fe3-4721-41a6-ad02-0949ec9549e9/audio.mp3?length=3528469&duration=292",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1112env",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "US Envoy Calls China Relations ‘Bumpy’ Amid Nvidia Security Controversy",
+        "description": "",
+        "publishDate": "2026-11-12",
+        "duration": 277,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1111/28a30224-d54f-4f7d-9d11-b2cb11f2ceba/audio.mp3?length=3347892&duration=277",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1112sex",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "From Sex and Spies to AI Warfare: The National Security Crisis Behind Jensen Huang and Nvidia",
+        "description": "",
+        "publishDate": "2026-11-12",
+        "duration": 674,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1112/27106741-3945-4abf-b5cc-16efcd1530af/audio.mp3?length=8109972&duration=674",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg092",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 92 When the Heroes in Danger Jigong Comes to the Rescue",
+        "description": "Playlist Hub",
+        "publishDate": "2026-11-12",
+        "duration": 2306,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg092.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-in-depth-ep-1111tra",
         "podcastId": "china-in-depth",
@@ -146911,6 +147081,27 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "dumbrill-podcast-ep-ec8f9f2f-a11a-405f-a13d-a786598c0202",
+        "podcastId": "dumbrill-podcast",
+        "podcastTitle": "The Dumbrill Podcast",
+        "title": "The NVIDIA \"Honey Trap\" Lie: Did Jensen Huang Actually Play Washington?",
+        "description": "The \"Chinese spy\" narrative surrounding Nvidia CEO Jensen Huang is falling apart. When you look past the mainstream media headlines, a massive $7.5 billion shadow pipeline, a D.C. political ambush, and a trove of leaked WeChat photos tell a comple...",
+        "publishDate": "2026-11-12",
+        "duration": 1085,
+        "audioUrl": "https://episodes.captivate.fm/episode/ec8f9f2f-a11a-405f-a13d-a786598c0202.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Geopolitics & Politics",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "dumbrill-podcast-ep-92713299-f07a-411c-ab8a-387d2f84a773",
         "podcastId": "dumbrill-podcast",
