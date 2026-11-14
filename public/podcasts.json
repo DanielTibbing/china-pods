@@ -6487,7 +6487,7 @@
         "title": "Anson Burlingame, the 1868 Treaty, and the Open Door Policy",
         "description": "In this episode, we look at the life of Anson Burlingame, a well-known name in California. During Lincoln's term as president, he was appointed Chief Minister to China, arriving in Beijing in the summer of 1862. Already well-known in the US as a f...",
         "publishDate": "2025-05-28",
-        "duration": 2216,
+        "duration": 2207,
         "audioUrl": "https://episodes.captivate.fm/episode/67c02d32-d613-46f0-b1ec-626f3a3b7044.mp3",
         "topics": [
           "Semiconductors & AI",
@@ -13636,6 +13636,20 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "chinatalk-ep-974cb9b4-dfb7-11f1-bdc2-fb6a0f953171",
+        "podcastId": "chinatalk",
+        "podcastTitle": "ChinaTalk",
+        "title": "EMERGENCY POD: Jensen Out, MATCH Act In? With Dylan Patel",
+        "description": "Jordan Schneider, Dylan Patel, and Jordan Nanos of SemiAnalysis record an emergency pod after Jensen Huang’s resignation as Nvidia CEO. We discuss: Why Jensen’s exit could become cover for “really stupid laws” — and why Dylan backs the MATCH Act b...",
+        "publishDate": "2026-11-13",
+        "duration": 3206,
+        "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL3322370302.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Feminism & Arts"
+        ]
+      },
       {
         "id": "chinatalk-ep-15db76f4-dab7-11f1-8d2d-470dd7bd60c8",
         "podcastId": "chinatalk",
@@ -103452,6 +103466,24 @@
         ]
       },
       {
+        "id": "roundtable-china-ep-1-02766425",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "IN VIDEO: What skills will matter in the age of AI?",
+        "description": "As AI takes on more tasks once handled by humans, from writing and analysis to creativity and decision-making, what will set people apart in the workplace? For young people entering an AI-driven job market, the challenge is not simply learning to ...",
+        "publishDate": "2026-11-13",
+        "duration": 1832,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp4/radio-res.cgtn.com/ueditor/audio/2611/1094561541029.mp4",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2766410",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -113736,6 +113768,126 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-1113nvi",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Nvidia Shares Fall for a 2nd Day in Fallout From CEO Resignation",
+        "description": "",
+        "publishDate": "2026-11-13",
+        "duration": 224,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1113/3085bbd6-0d40-49a7-b1f7-e52b045546da/audio.mp3?length=2716309&duration=224",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1113sen",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Senate Seeks Ex-Nvidia CEO Huang’s Testimony as House Threatens Subpoena",
+        "description": "",
+        "publishDate": "2026-11-13",
+        "duration": 267,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1113/d7f6a745-f28b-41cb-b13d-352b597ce513/audio.mp3?length=3234997&duration=267",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1113hub",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Beijing Uses Monitoring Hubs in US to Police Chinese Diaspora, Report Says",
+        "description": "",
+        "publishDate": "2026-11-13",
+        "duration": 382,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1113/ee7239f7-b9f0-4d15-b435-cbfe65838d29/audio.mp3?length=4607029&duration=382",
+        "topics": [
+          "Daily Life"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1113ali",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Alleged Chinese Spy Alice Huang Linked to Huawei Data Center: Report",
+        "description": "",
+        "publishDate": "2026-11-13",
+        "duration": 376,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1113/50a058ce-b21d-4794-8fdb-c143276f47a9/audio.mp3?length=4516309&duration=374",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1113cis",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Cisco Sued in California Over Alleged Link to Human Rights Abuses",
+        "description": "",
+        "publishDate": "2026-11-13",
+        "duration": 258,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1114/4eea64b5-4034-4013-b2ac-346eebf317a7/audio.mp3?length=3119509&duration=258",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1113rob",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Beijing’s Robots Are Doing the Jobs the ‘Lie Flat’ Generation Won’t",
+        "description": "",
+        "publishDate": "2026-11-13",
+        "duration": 413,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1113/97969e63-2ae3-49f6-ad67-14c8e6249369/audio.mp3?length=4986612&duration=413",
+        "topics": [
+          "Semiconductors & AI",
+          "Daily Life"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1113soc",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "CCP Restricts Officials’ Social Contacts as Party Control Tightens, Insider Says",
+        "description": "",
+        "publishDate": "2026-11-13",
+        "duration": 282,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1103/a6779f84-7618-4e14-bdcf-5136693ef73a/audio.mp3?length=3414133&duration=282",
+        "topics": [
+          "Feminism & Arts",
+          "Geopolitics & Politics",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1113dis",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s Disaster Is Harder to Disguise—So What Does This Mean?",
+        "description": "",
+        "publishDate": "2026-11-13",
+        "duration": 422,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1113/b7bdec67-5fe8-4d3a-b009-8c826b7584f0/audio.mp3?length=5091445&duration=422",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg093",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 93 A Showdown Between Jigong and the Evil Daoist Sorcerer",
+        "description": "Playlist Hub",
+        "publishDate": "2026-11-13",
+        "duration": 1773,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg093.mp3",
+        "topics": [
+          "Dynastic History"
+        ]
+      },
       {
         "id": "china-in-depth-ep-1112nvi",
         "podcastId": "china-in-depth",
@@ -147081,6 +147233,23 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "dumbrill-podcast-ep-fe59cad8-d7c9-4a76-af9b-cb1d5d97486a",
+        "podcastId": "dumbrill-podcast",
+        "podcastTitle": "The Dumbrill Podcast",
+        "title": "They Said Only China Purges Tech Billionaires. Then Jensen Huang Crossed D.C.",
+        "description": "When Leak #1 ('the Chinese spy affair') failed to knock Jensen Huang off next week’s Shenzhen APEC delegation, a second New York Times leak decapitated America’s $4 trillion AI titan in under 48 hours. Here is how the two-stage ouster connects dir...",
+        "publishDate": "2026-11-14",
+        "duration": 970,
+        "audioUrl": "https://episodes.captivate.fm/episode/fe59cad8-d7c9-4a76-af9b-cb1d5d97486a.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Daily Life",
+          "Feminism & Arts",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "dumbrill-podcast-ep-ec8f9f2f-a11a-405f-a13d-a786598c0202",
         "podcastId": "dumbrill-podcast",
