@@ -90581,6 +90581,20 @@
     ],
     "episodes": [
       {
+        "id": "sinocism-live-ep-substack-post-224687181",
+        "podcastId": "sinocism-live",
+        "podcastTitle": "Sinocism Live",
+        "title": "Live with Bill Bishop and Hamish McKenzie on his new book How to Save the Media",
+        "description": "Thanks everyone who joined live earlier today, Friday the 13th.This was not a China-focused discussion, but if you are interested in the future of the media and/or Substack you should find it interesting. Thanks Hamish McKenzie for co-founding Sub...",
+        "publishDate": "2026-11-13",
+        "duration": 2694,
+        "audioUrl": "https://api.substack.com/feed/podcast/224687181/0399c0e6cc51d20accdd376c9c7b1ec9.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History"
+        ]
+      },
+      {
         "id": "sinocism-live-ep-substack-post-191288496",
         "podcastId": "sinocism-live",
         "podcastTitle": "Sinocism Live",
@@ -91079,7 +91093,7 @@
         ]
       }
     ],
-    "status": "stale"
+    "status": "active"
   },
   {
     "id": "asia-chessboard",
@@ -147248,6 +147262,23 @@
           "Feminism & Arts",
           "Tech & Business",
           "Culture & Society"
+        ]
+      },
+      {
+        "id": "dumbrill-podcast-ep-79b9d2c1-98e0-463c-af5a-47b729cb9cd3",
+        "podcastId": "dumbrill-podcast",
+        "podcastTitle": "The Dumbrill Podcast",
+        "title": "Nvidia's $1.7T Wipeout: AG Blanche Rejects Spy Claim as Sued Short-Seller Celebrates",
+        "description": "Twenty-four hours after Jensen Huang was forced out as Nvidia's CEO amid a $1.7 trillion market-cap slide from October highs, U.S. Attorney General Todd Blanche admitted on camera that neither the DOJ nor the FBI has concluded Alice Huang is a Chi...",
+        "publishDate": "2026-11-14",
+        "duration": 923,
+        "audioUrl": "https://episodes.captivate.fm/episode/79b9d2c1-98e0-463c-af5a-47b729cb9cd3.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Daily Life",
+          "Economic Reform",
+          "Tech & Business"
         ]
       },
       {
