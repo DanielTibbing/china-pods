@@ -16,6 +16,60 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-asias-future-beyond-us-china",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "Asia’s Future Beyond U.S.-China Competition: Evan Feigenbaum’s Ottawa Keynote",
+        "description": "This week on Sinica, something special: a keynote from my friend Evan Feigenbaum, vice president for studies at the Carnegie Endowment for International Peace, delivered on October 5 in Ottawa at the Asia Pacific Foundation of Canada&#8217;s 2026 ...",
+        "publishDate": "2026-11-15",
+        "duration": 1800,
+        "audioUrl": "https://api.substack.com/feed/podcast/224960261/1b1ec53c8670f60b49b98cf384aa0b87.mp3",
+        "topics": [
+          "US-China Relations"
+        ]
+      },
+      {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-transcript-asias-future-beyo",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "Transcript | Asia’s Future Beyond U.S.-China Competition: Evan Feigenbaum’s Ottawa Keynote",
+        "description": "Transcript (courtesy of the fantastic CadreScripts) further down the page.",
+        "publishDate": "2026-11-15",
+        "duration": 1800,
+        "audioUrl": "https://substackcdn.com/image/fetch/$s_!7TUy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F22e80b07-557c-410d-a4ff-0188dceb8e50_1120x800.png",
+        "topics": [
+          "US-China Relations"
+        ]
+      },
+      {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-a-new-economic-growth-model-",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "“A New Economic Growth Model for China” Unsolicited Advice for China",
+        "description": "Where the International Monetary Fund and economists in Beijing agree on the diagnosis and why they draw different policy conclusions.",
+        "publishDate": "2026-11-15",
+        "duration": 1800,
+        "audioUrl": "https://substackcdn.com/image/fetch/$s_!O7yg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5ab87c7d-3219-451c-a5ef-875d028c233b_1535x2047.png",
+        "topics": [
+          "Daily Life",
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
+      {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-fobbing-off-a-beggar-phrase-",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "“Fobbing off a beggar” — Phrase of the Week",
+        "description": "China&#8217;s most likeable boss comes under fire for low-balling engineering graduates",
+        "publishDate": "2026-11-15",
+        "duration": 1800,
+        "audioUrl": "https://substackcdn.com/image/fetch/$s_!gaeR!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F11214d67-c501-4b90-8220-0555417cf0c9_2000x1200.jpeg",
+        "topics": [
+          "Geopolitics & Politics"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-the-first-to-eat-the-crab-ph",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -138,6 +192,19 @@
         ]
       },
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-this-week-in-chinas-history-",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "This Week in China’s History | The Battle of Guningtou",
+        "description": "October 25-27, 1949",
+        "publishDate": "2026-10-29",
+        "duration": 1800,
+        "audioUrl": "https://substackcdn.com/image/fetch/$s_!hki0!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2502d26c-e974-417b-878d-0571b80581f6_600x600.png",
+        "topics": [
+          "History"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-transcript-mr-chinas-great-e",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -230,20 +297,6 @@
         "topics": [
           "Daily Life",
           "Geopolitics & Politics"
-        ]
-      },
-      {
-        "id": "sinica-ep-https---www-sinicapodcast-com-p-this-week-in-chinas-history-",
-        "podcastId": "sinica",
-        "podcastTitle": "The Sinica Podcast",
-        "title": "This Week in China’s History | The Beijing Streetcar Riot",
-        "description": "October 22, 1929",
-        "publishDate": "2026-10-19",
-        "duration": 1800,
-        "audioUrl": "https://substackcdn.com/image/fetch/$s_!hki0!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2502d26c-e974-417b-878d-0571b80581f6_600x600.png",
-        "topics": [
-          "Daily Life",
-          "History"
         ]
       },
       {
@@ -45645,6 +45698,24 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "sr-kina-ep-rss-sr-se-pod-eid-2897125",
+        "podcastId": "sr-kina",
+        "podcastTitle": "Radiokorrespondenterna Kina",
+        "title": "Ny rond i chipkriget efter Huangs fall",
+        "description": "De amerikanska uppgifterna om en kinesisk tech-spion sätter det globala AI-racet i blixtbelysning. Hör om hur Kinas position kan förändras av Nvidia-affären och Jensen Huangs exit. Lyssna på alla avsnitt i Sveriges Radios app. Peking avfärdar de a...",
+        "publishDate": "2026-11-16",
+        "duration": 1533,
+        "audioUrl": "https://static-cdn.sr.se/laddahem/podradio/2026/11/radiokorrespondenterna_kina_ny_rond_i_chipkriget_efter_hua_20261113_1350001765.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "sr-kina-ep-rss-sr-se-pod-eid-2895337",
         "podcastId": "sr-kina",
@@ -100043,6 +100114,25 @@
     ],
     "episodes": [
       {
+        "id": "trivium-china-ep-buzzsprout-20127190",
+        "podcastId": "trivium-china",
+        "podcastTitle": "The Trivium China Podcast",
+        "title": "Ep 96 - Does China’s anti-involution campaign finally have teeth?",
+        "description": "China’s anti-involution campaign is about two years old. For most of it, Beijing tried to make progress with closed-door symposiums, warnings to the worst offenders, and pledges of “industry self-discipline.” It didn’t work.Solar is in roughly its...",
+        "publishDate": "2026-11-15",
+        "duration": 2144,
+        "audioUrl": "https://www.buzzsprout.com/2408047/episodes/20127190-ep-96-does-china-s-anti-involution-campaign-finally-have-teeth.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "trivium-china-ep-buzzsprout-20074321",
         "podcastId": "trivium-china",
         "podcastTitle": "The Trivium China Podcast",
@@ -113782,6 +113872,138 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-1115bub",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China’s AI Bubble Burst Has Ordinary Investors Holding the Bag",
+        "description": "",
+        "publishDate": "2026-11-15",
+        "duration": 369,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1114/b9bf89c8-64e3-4cca-a5c6-a9b9044ab604/audio.mp3?length=4460147&duration=369",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1115epo",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Epoch Times Readers Weigh in on Nvidia CEO Scandal",
+        "description": "",
+        "publishDate": "2026-11-15",
+        "duration": 372,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1113/035a4633-3948-44f1-a591-3d06d469d98f/audio.mp3?length=4491253&duration=372",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1115aut",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "The Fast and the Spurious: The Problem With China’s Auto Industry",
+        "description": "",
+        "publishDate": "2026-11-15",
+        "duration": 1287,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1113/ca5567a6-a203-400d-b752-3ffea61f6f50/audio.mp3?length=15471828&duration=1287",
+        "topics": [
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1115nvi",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Analysts Warn of Chinese Intelligence Infiltration Risks After Nvidia CEO Scandal",
+        "description": "",
+        "publishDate": "2026-11-15",
+        "duration": 330,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1115/b6b84b54-2d6e-4f69-8a1f-8b752c49ca93/audio.mp3?length=3984661&duration=330",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1115far",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "US, China Discuss Farm Trade, Tariffs in 1st Trade Board Meeting",
+        "description": "",
+        "publishDate": "2026-11-15",
+        "duration": 256,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1115/4ec268c5-2a1f-4780-b0b7-82264b302610/audio.mp3?length=3103669&duration=256",
+        "topics": [
+          "US-China Relations",
+          "Economic Reform"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1115chi",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Bessent Calls for Stronger Enforcement on Chip Sales to China as House Seeks More Legislation",
+        "description": "",
+        "publishDate": "2026-11-15",
+        "duration": 214,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1116/22770777-c3d5-401e-bd81-da858fc83aa3/audio.mp3?length=2588437&duration=214",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1115tru",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "The US–China Trade ‘Truce’ Is Nothing but Smoke",
+        "description": "",
+        "publishDate": "2026-11-15",
+        "duration": 343,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1114/a0dc0070-f6f2-415e-8617-dca25b07e341/audio.mp3?length=4146517&duration=343",
+        "topics": [
+          "Economic Reform"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1115ash",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Why China’s A-Shares Face a Long-Term Downward Trend: 3 Structural Problems",
+        "description": "",
+        "publishDate": "2026-11-15",
+        "duration": 642,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1114/ce6a9413-4ddd-42f6-9491-38ef1ef778ee/audio.mp3?length=7736149&duration=642",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1115bor",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China Keeps State Companies Borrowing While Local Governments Drown in Debt",
+        "description": "",
+        "publishDate": "2026-11-15",
+        "duration": 395,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1114/f6f89c23-b292-40b6-84b8-231382c3a991/audio.mp3?length=4857589&duration=403",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg094",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 94 Jigong's Dilema:Those Who Try to Help Will Need Help",
+        "description": "Playlist Hub",
+        "publishDate": "2026-11-15",
+        "duration": 1889,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg094.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-in-depth-ep-1113nvi",
         "podcastId": "china-in-depth",
@@ -147247,6 +147469,25 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "dumbrill-podcast-ep-d04cf566-8c50-4389-8529-01c13ef31089",
+        "podcastId": "dumbrill-podcast",
+        "podcastTitle": "The Dumbrill Podcast",
+        "title": "U.S. Airport Ground Stop, Microsoft’s Global Outage & Washington’s Tech Boomerang",
+        "description": "Seven months after Washington banned new foreign-made routers in the name of protecting critical infrastructure, a routine copper-to-fiber switchover by defense giant L3Harris flooded 25-year-old FAA routers—grounding commercial departures nationw...",
+        "publishDate": "2026-11-15",
+        "duration": 847,
+        "audioUrl": "https://episodes.captivate.fm/episode/d04cf566-8c50-4389-8529-01c13ef31089.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Daily Life",
+          "Feminism & Arts",
+          "Geopolitics & Politics",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "dumbrill-podcast-ep-fe59cad8-d7c9-4a76-af9b-cb1d5d97486a",
         "podcastId": "dumbrill-podcast",
