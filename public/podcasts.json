@@ -13690,6 +13690,25 @@
     ],
     "episodes": [
       {
+        "id": "chinatalk-ep-5c5c79fc-e200-11f1-8be3-c790e0454ccf",
+        "podcastId": "chinatalk",
+        "podcastTitle": "ChinaTalk",
+        "title": "Emergency Pod: BIS Finally Closes Loopholes!? What Will Xi Do Next?",
+        "description": "A 132-page export control rule landed Monday morning, and the Commerce Department’s own press release credited Treasury and the NSC with writing it. Days after the Megaspeed scandal ended Jensen Huang’s run at Nvidia, Washington is moving to close...",
+        "publishDate": "2026-11-16",
+        "duration": 2325,
+        "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL1015687357.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Daily Life",
+          "Feminism & Arts",
+          "Geopolitics & Politics",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "chinatalk-ep-974cb9b4-dfb7-11f1-bdc2-fb6a0f953171",
         "podcastId": "chinatalk",
         "podcastTitle": "ChinaTalk",
@@ -59263,6 +59282,19 @@
     ],
     "episodes": [
       {
+        "id": "china-flexpat-ep-buzzsprout-20132621",
+        "podcastId": "china-flexpat",
+        "podcastTitle": "China Flexpat",
+        "title": "S5E7-Run Ruirui at Youth Olympic Games/Beijing Oakwoods Eq. Center/I am S Sylvia",
+        "description": "Contact us for more info: contact@wonder-horse.comSupport the show",
+        "publishDate": "2026-11-16",
+        "duration": 572,
+        "audioUrl": "https://www.buzzsprout.com/479218/episodes/20132621-s5e7-run-ruirui-at-youth-olympic-games-beijing-oakwoods-eq-center-i-am-s-sylvia.mp3",
+        "topics": [
+          "Daily Life"
+        ]
+      },
+      {
         "id": "china-flexpat-ep-buzzsprout-20095996",
         "podcastId": "china-flexpat",
         "podcastTitle": "China Flexpat",
@@ -103552,6 +103584,36 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-2766438",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "APEC spotlights Shenzhen's green push",
+        "description": "Shenzhen is known around the world for technology and innovation. But as the host city of the 33rd APEC Economic Leaders' Meeting in 2026, it's also spotlighting another side of its development: its push to become greener. Round Table's Yushun rec...",
+        "publishDate": "2026-11-16",
+        "duration": 1768,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2611/1094819186255.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2766441",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "The Soapbox: police station parenting",
+        "description": "Would you take your child to a police station for refusing to do homework? In China, some parents have. In at least one case, a boy who'd dodged his assignment all day finished it in an hour once he got there. Some call it a clever fix. Others see...",
+        "publishDate": "2026-11-16",
+        "duration": 1374,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2611/1094819243435.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2766419",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -113872,6 +113934,102 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-1116bes",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Bessent Says Nvidia’s New CEO Should Be From ‘Outside the Company’",
+        "description": "",
+        "publishDate": "2026-11-16",
+        "duration": 255,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1116/344335a6-2e79-457a-baa9-ca3aab24b5e7/audio.mp3?length=3087829&duration=255",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1116us",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "US Moves to Close Loophole That Allows China to Use Nvidia’s Advanced Chips",
+        "description": "",
+        "publishDate": "2026-11-16",
+        "duration": 277,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1116/27a66031-bd39-4193-8ec6-fd7926948098/audio.mp3?length=3344436&duration=277",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1116lut",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Trump Weighs In as Bessent, Lutnick Clash Over Nvidia Scandal",
+        "description": "",
+        "publishDate": "2026-11-16",
+        "duration": 304,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1116/dc00e353-7579-439a-87bb-852ff951d41d/audio.mp3?length=3677653&duration=304",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1116trp",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Trump Heads to Philippines, China for Trade, Defense Talks",
+        "description": "",
+        "publishDate": "2026-11-16",
+        "duration": 330,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1116/d3c5516e-5010-4651-ae02-4d9e2e684e6c/audio.mp3?length=3987829&duration=330",
+        "topics": [
+          "US-China Relations",
+          "Economic Reform",
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1116bj",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Beijing Fiddles While China’s Economy Burns",
+        "description": "",
+        "publishDate": "2026-11-16",
+        "duration": 350,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1116/5c8a0999-f5cf-4590-9442-9089ca2630e3/audio.mp3?length=4221109&duration=350",
+        "topics": [
+          "Daily Life",
+          "Economic Reform"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1116wall",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "America’s Love Affair With Communist China Is Over, but Wall Street Hasn’t Got the Message",
+        "description": "",
+        "publishDate": "2026-11-16",
+        "duration": 191,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1116/5cc40815-9fc6-4b66-b78d-20310fa856c5/audio.mp3?length=2317717&duration=191",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg095",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 95 Jigong Knows Best that Jianghu Is a Treacherous Society",
+        "description": "",
+        "publishDate": "2026-11-16",
+        "duration": 2207,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg095.mp3",
+        "topics": [
+          "Daily Life",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-in-depth-ep-1115bub",
         "podcastId": "china-in-depth",
@@ -147469,6 +147627,24 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "dumbrill-podcast-ep-1a867d7d-09c4-477e-9e61-8bb7a188e824",
+        "podcastId": "dumbrill-podcast",
+        "podcastTitle": "The Dumbrill Podcast",
+        "title": "Silicon Valley Wants Jensen Back. D.C. Wants to Pick Nvidia's CEO",
+        "description": "While Silicon Valley executives and tech investors organize a \"war room\" to push for Jensen Huang's return, U.S. Treasury Secretary Scott Bessent went on Fox News to tell Nvidia's board to hire an outsider CEO and provide answers within 10 days. T...",
+        "publishDate": "2026-11-17",
+        "duration": 983,
+        "audioUrl": "https://episodes.captivate.fm/episode/1a867d7d-09c4-477e-9e61-8bb7a188e824.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Daily Life",
+          "Feminism & Arts",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "dumbrill-podcast-ep-d04cf566-8c50-4389-8529-01c13ef31089",
         "podcastId": "dumbrill-podcast",
