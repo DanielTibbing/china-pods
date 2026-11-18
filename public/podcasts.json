@@ -16,6 +16,19 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-trivium-china-podcast-does-c",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "Trivium China Podcast | Does China’s Anti-involution Campaign Finally Have Teeth?",
+        "description": "Listen now (36 mins) | China&#8217;s anti-involution campaign is about two years old.",
+        "publishDate": "2026-11-17",
+        "duration": 1800,
+        "audioUrl": "https://api.substack.com/feed/podcast/225340397/58b00ab3aed2bd7348050cdf491e7169.mp3",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-asias-future-beyond-us-china",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -136,6 +149,20 @@
         ]
       },
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-trivium-china-podcast-chinas",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "Trivium China Podcast | China’s Critical Minerals Off Switch Isn’t As Ironclad As Washington Thinks",
+        "description": "Listen now (69 mins) | During Xi Jinping&#8217;s late-September visit to Washington, the U.S.",
+        "publishDate": "2026-11-05",
+        "duration": 1800,
+        "audioUrl": "https://api.substack.com/feed/podcast/223570274/7ed7870d57df9fea2d2ffbd47d171418.mp3",
+        "topics": [
+          "US-China Relations",
+          "Geopolitics & Politics"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-the-us-wants-global-south-co",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -239,19 +266,6 @@
         "publishDate": "2026-10-26",
         "duration": 1800,
         "audioUrl": "https://substack-post-media.s3.amazonaws.com/public/images/6faf19ea-59a3-4985-a678-bcb18663ab50_400x400.webp",
-        "topics": [
-          "Economic Reform"
-        ]
-      },
-      {
-        "id": "sinica-ep-https---www-sinicapodcast-com-p-trivium-china-podcast-chinas",
-        "podcastId": "sinica",
-        "podcastTitle": "The Sinica Podcast",
-        "title": "Trivium China Podcast | China’s Hollow Growth",
-        "description": "Listen now (24 mins) | China&#8217;s GDP growth rose to 4.5% y/y in Q3, after slipping to 4.3% in Q2.",
-        "publishDate": "2026-10-26",
-        "duration": 1800,
-        "audioUrl": "https://api.substack.com/feed/podcast/222135669/f108c59535e2b1317213d730afd7e47c.mp3",
         "topics": [
           "Economic Reform"
         ]
@@ -93260,6 +93274,22 @@
     ],
     "episodes": [
       {
+        "id": "made-in-china-de-ep-buzzsprout-20039569",
+        "podcastId": "made-in-china-de",
+        "podcastTitle": "Made in China (German)",
+        "title": "#236 – China Speed auf der Messe: Wie die SNIEC Shanghais Wirtschaft antreibt – mit Michael Kruppe (CEO & General Manager, SNIEC)",
+        "description": "Mehr als 120 Messen und über sieben Millionen Besucher pro Jahr: Das Shanghai New International Expo Centre (SNIEC) gehört zu den führenden Messegeländen der Welt. Sein CEO und General Manager Michael Kruppe leitet es seit 2014 und ist bereits zum...",
+        "publishDate": "2026-11-17",
+        "duration": 2067,
+        "audioUrl": "https://www.buzzsprout.com/1869386/episodes/20039569-236-china-speed-auf-der-messe-wie-die-sniec-shanghais-wirtschaft-antreibt-mit-michael-kruppe-ceo-general-manager-sniec.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Tech & Business"
+        ]
+      },
+      {
         "id": "made-in-china-de-ep-buzzsprout-20082963",
         "podcastId": "made-in-china-de",
         "podcastTitle": "Made in China (German)",
@@ -103583,6 +103613,68 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "roundtable-china-ep-1-02766456",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "IN VIDEO: The unexpected keys to college success",
+        "description": "A study of around 80,000 undergraduates reveals that the things students often try to escape, like stress and responsibility, might actually be the key to a better college experience. The findings challenge common assumptions about university life...",
+        "publishDate": "2026-11-18",
+        "duration": 1947,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp4/radio-res.cgtn.com/ueditor/audio/2611/1094908438722.mp4",
+        "topics": [
+          "Dynastic History",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2766422",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "The unexpected keys to college success",
+        "description": "A study of nearly 80,000 undergraduates reveals that the things students often try to escape, like stress and responsibility, might actually be the key to a better college experience. The findings challenge common assumptions about university life...",
+        "publishDate": "2026-11-18",
+        "duration": 1955,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2611/1094537446467.mp3",
+        "topics": [
+          "Dynastic History",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2766453",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "APEC spotlight: the future of smart manufacturing",
+        "description": "Ahead of the 33rd APEC Economic Leaders' Meeting in Shenzhen, the future of manufacturing is firmly on the agenda. Round Table's Fei Fei traveled to Foshan, a major manufacturing hub in the Greater Bay Area, to see what industrial transformation l...",
+        "publishDate": "2026-11-17",
+        "duration": 1341,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2611/1094905915667.mp3",
+        "topics": [
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2766450",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "COP31: can global trade spare the ocean?",
+        "description": "With the global climate spotlight back on at COP31 in Antalya, Türkiye, can the ocean be a true partner in the climate fight? Picture a coastal city chasing a roaring economy, a packed international port, and a pristine shoreline all at once. Can ...",
+        "publishDate": "2026-11-17",
+        "duration": 1814,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2611/1094905866527.mp3",
+        "topics": [
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "roundtable-china-ep-1-2766438",
         "podcastId": "roundtable-china",
@@ -113934,6 +114026,100 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-1117man",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Trump Lands in Manila for ASEAN Summit, Opening 3-Day Asia Trip",
+        "description": "",
+        "publishDate": "2026-11-17",
+        "duration": 314,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1117/73eff9a5-9ea2-4a1c-96bf-0e60cc8add3b/audio.mp3?length=3795157&duration=314",
+        "topics": [
+          "US-China Relations"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1117thi",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "US, Thailand Advance Trade Pact Days After Bangkok Deepens China Ties",
+        "description": "",
+        "publishDate": "2026-11-17",
+        "duration": 316,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1117/66514641-a7b0-4803-bc0a-813c647739e2/audio.mp3?length=3818485&duration=316",
+        "topics": [
+          "Semiconductors & AI",
+          "Economic Reform"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1117soc",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "The Limits of Control: Why Human Nature Will Defeat China’s AI Socialism",
+        "description": "",
+        "publishDate": "2026-11-17",
+        "duration": 452,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1116/fd5244dd-184a-4d10-8db2-8588918d046c/audio.mp3?length=5449141&duration=452",
+        "topics": [
+          "Semiconductors & AI",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1117sum",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Will Trump, Xi and Putin Change the Trajectory of the World?",
+        "description": "",
+        "publishDate": "2026-11-17",
+        "duration": 394,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1118/be92558d-f2d6-4e55-a7f1-e3fdcd23584e/audio.mp3?length=4749589&duration=394",
+        "topics": [
+          "US-China Relations",
+          "Dynastic History"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1117hum",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Falun Gong Practitioners Ask Carney to Urge China’s Xi to End Persecution, Stop Transnational Repression in Canada",
+        "description": "",
+        "publishDate": "2026-11-17",
+        "duration": 463,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1116/24726a41-112e-4804-aecf-9bd61c0e7d1b/audio.mp3?length=5585653&duration=463",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1117ca",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Canada, China Roll Back More Tariffs as Carney Meets With Xi",
+        "description": "",
+        "publishDate": "2026-11-17",
+        "duration": 413,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1117/9c336e23-6b5a-4602-9dd4-b61a51e1ff2d/audio.mp3?length=4976821&duration=413",
+        "topics": [
+          "US-China Relations"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg096",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 96 Jigong Comes in Time to the Showdown at Ma Estate",
+        "description": "",
+        "publishDate": "2026-11-17",
+        "duration": 2668,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg096.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-in-depth-ep-1116bes",
         "podcastId": "china-in-depth",
@@ -147641,6 +147827,25 @@
           "Semiconductors & AI",
           "Daily Life",
           "Feminism & Arts",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "dumbrill-podcast-ep-5a4e2f92-ea1d-42d1-b768-946dae882ada",
+        "podcastId": "dumbrill-podcast",
+        "podcastTitle": "The Dumbrill Podcast",
+        "title": "Jensen Blocked This Rule for a Year. 4 Days Later, Anthropic Cashed In",
+        "description": "Days after Jensen Huang's exit, D.C. slapped chip controls on 5 friendly nations—and exempted Big Tech. On November 16, 2026—four days after Nvidia CEO Jensen Huang resigned and roughly 72 hours before Anthropic's planned Nasdaq debut (ticker: ANT...",
+        "publishDate": "2026-11-17",
+        "duration": 868,
+        "audioUrl": "https://episodes.captivate.fm/episode/5a4e2f92-ea1d-42d1-b768-946dae882ada.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Feminism & Arts",
+          "Economic Reform",
+          "History",
           "Tech & Business",
           "Culture & Society"
         ]
