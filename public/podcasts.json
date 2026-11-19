@@ -16,6 +16,19 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-we-asked-africans-what-they-",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "We Asked Africans What They Think About China. The Feedback Surprised Us.",
+        "description": "A week of conversations in Nairobi with African journalists, diplomats and international stakeholders exposed a disconnect between perceptions of China-Africa relations and realities on the ground.",
+        "publishDate": "2026-11-19",
+        "duration": 1800,
+        "audioUrl": "https://api.substack.com/feed/podcast/225595926/bddd2714be7c226803ad2f30b21d9f82.mp3",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-trivium-china-podcast-does-c",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -6154,6 +6167,25 @@
       "History"
     ],
     "episodes": [
+      {
+        "id": "chp-ep-bf9736e9-27dc-419a-bdaa-23b7f1410999",
+        "podcastId": "chp",
+        "podcastTitle": "The China History Podcast",
+        "title": "A Concise History of China-Pangu to Puyi - Part 13",
+        "description": "Conquering China was one thing. Keeping the Yuan Dynasty going proved rather more difficult. We follow Kublai Khan’s cosmopolitan empire through failed invasions, court struggles, and rebellion before meeting Zhu Yuanzhang, the former beggar who f...",
+        "publishDate": "2026-11-18",
+        "duration": 8552,
+        "audioUrl": "https://episodes.captivate.fm/episode/bf9736e9-27dc-419a-bdaa-23b7f1410999.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Ancient Trade Routes",
+          "History",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "chp-ep-719be106-8d71-44cf-8420-2ff21d2426b3",
         "podcastId": "chp",
@@ -31929,6 +31961,23 @@
     ],
     "episodes": [
       {
+        "id": "china-global-south-ep-05409689-2cf0-4390-8c21-86cf45a70e8d",
+        "podcastId": "china-global-south",
+        "podcastTitle": "The China-Global South Podcast",
+        "title": "How Chinese and Russian Companies Are Exploiting Africa's Forests",
+        "description": "Illegal logging and timber smuggling remain deeply entrenched in Africa's forestry sector, with Chinese companies playing a major role in moving protected and illegally harvested wood into global supply chains. In the Central African Republic (CAR...",
+        "publishDate": "2026-11-18",
+        "duration": 2529,
+        "audioUrl": "https://traffic.libsyn.com/secure/ea0f0fdd-2944-4ff3-8a00-704e8c67d58b/CGSP_-_Alex_Bloom.mp3?dest-id=4287628",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "china-global-south-ep-2412ef76-12bb-4ddf-945c-74d410e7465d",
         "podcastId": "china-global-south",
         "podcastTitle": "The China-Global South Podcast",
@@ -38920,6 +38969,23 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "merics-ep-buzzsprout-20137660",
+        "podcastId": "merics",
+        "podcastTitle": "MERICS China Podcast",
+        "title": "China is changing the world&#39;s pharma landscape, with Ruby Wang and Alexander Brown",
+        "description": "China's transformation in biotech and drug development in the last two decades has been dramatic. It has moved from featuring many copycats or generics based on Western assets to now increasingly being a source of novel, high-quality drug assets. ...",
+        "publishDate": "2026-11-18",
+        "duration": 2444,
+        "audioUrl": "https://www.buzzsprout.com/1825833/episodes/20137660-china-is-changing-the-world-s-pharma-landscape-with-ruby-wang-and-alexander-brown.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
       {
         "id": "merics-ep-buzzsprout-20078466",
         "podcastId": "merics",
@@ -113361,6 +113427,22 @@
     ],
     "episodes": [
       {
+        "id": "wire-china-ep-buzzsprout-20141665",
+        "podcastId": "wire-china",
+        "podcastTitle": "The Wire China Podcast",
+        "title": "The Rise of Alice Huang",
+        "description": "We're offering you a 25% discount to the Wire China. Details below!Nvidia is at the center of a tangled web of tech elites from Silicon Valley to Shenzhen, government officials, chip smugglers, and middlemen operating out of Southeast Asia. How di...",
+        "publishDate": "2026-11-18",
+        "duration": 706,
+        "audioUrl": "https://www.buzzsprout.com/2591600/episodes/20141665-the-rise-of-alice-huang.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Tech & Business"
+        ]
+      },
+      {
         "id": "wire-china-ep-buzzsprout-20100621",
         "podcastId": "wire-china",
         "podcastTitle": "The Wire China Podcast",
@@ -114026,6 +114108,126 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-1118ev",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Former Canadian National Security Adviser Calls Chinese EVs a ‘Security Threat,’ Says She Wouldn’t Buy One",
+        "description": "",
+        "publishDate": "2026-11-18",
+        "duration": 251,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1118/cc564050-ee43-4a5c-baba-c5b088da5cad/audio.mp3?length=3032821&duration=251",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1118rem",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Trump Says US Rare-Earths Production Will Match China’s Within 10 Months",
+        "description": "",
+        "publishDate": "2026-11-18",
+        "duration": 319,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1118/edfe0f13-ddcc-494f-9723-5a398d602ec1/audio.mp3?length=3847861&duration=319",
+        "topics": [
+          "US-China Relations",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1118tam",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Sen. Tammy Baldwin Introduces Bill to Strip China of Favored Trade Status",
+        "description": "",
+        "publishDate": "2026-11-18",
+        "duration": 234,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1118/9864e402-e8e4-4842-9150-ddf64fd395df/audio.mp3?length=2832949&duration=234",
+        "topics": [
+          "Economic Reform"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1118nuk",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Nuclear Arms, Global Conflicts in Focus at Historic Trump–Xi–Putin Summit",
+        "description": "",
+        "publishDate": "2026-11-18",
+        "duration": 393,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1118/3ee20767-1e74-4158-b52c-d2dfe104cdd2/audio.mp3?length=4744693&duration=393",
+        "topics": [
+          "US-China Relations"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1118to",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Toronto Police Release Name of Man Who Attacked Falun Gong Practitioners Outside Chinese Consulate",
+        "description": "",
+        "publishDate": "2026-11-18",
+        "duration": 340,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1119/a15313d1-69fb-4baa-b936-3bb5b1b7c060/audio.mp3?length=4100149&duration=340",
+        "topics": [
+          "US-China Relations"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1118hw1",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Prosecutors Allege Huawei Promoted Leaders Who Lied, Broke the Law",
+        "description": "",
+        "publishDate": "2026-11-18",
+        "duration": 281,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1118/d3589226-8328-4ad3-aa20-d7aa7fd10f4d/audio.mp3?length=3400021&duration=281",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1118hw",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Huawei Reminds Us Why We Need American Tech Companies",
+        "description": "",
+        "publishDate": "2026-11-18",
+        "duration": 294,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1118/13ae387c-b324-42fa-8d18-bc181723583c/audio.mp3?length=3559285&duration=294",
+        "topics": [
+          "Semiconductors & AI",
+          "Tech & Business"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1118mh",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Falun Dafa News from Around the World – November 18, 2026 ",
+        "description": "",
+        "publishDate": "2026-11-18",
+        "duration": 1150,
+        "audioUrl": "https://en.minghui.org/u/files/podcasts/emh-podcast/EMHPodcast_2230-News.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg097",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 97 Jigong Playfully Subdues Hua But Repeatedly Broadcasts the Cops' Bounty: a Staggering 1,200oz. Silver!",
+        "description": "",
+        "publishDate": "2026-11-18",
+        "duration": 1729,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg097.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-in-depth-ep-1117man",
         "podcastId": "china-in-depth",
