@@ -16,6 +16,32 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-joe-studwell-on-how-africa-w",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "Joe Studwell on How Africa Works, and What It Tells Us About China",
+        "description": "This week on Sinica, I speak with Joe Studwell, whose 2013 book How Asia Works gave a generation of readers a usable account of how East Asia got rich.",
+        "publishDate": "2026-11-20",
+        "duration": 1800,
+        "audioUrl": "https://api.substack.com/feed/podcast/225639276/7ca65004556e9ce7dcbe2d33599a2436.mp3",
+        "topics": [
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-transcript-joe-studwell-on-h",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "Transcript | Joe Studwell on How Africa Works, and What It Tells Us About China",
+        "description": "Transcript (courtesy of the fantastic CadreScripts) further down the page.",
+        "publishDate": "2026-11-20",
+        "duration": 1800,
+        "audioUrl": "https://substackcdn.com/image/fetch/$s_!Scah!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F152a2d39-72f8-404f-a8f8-8e26ff8de4e6_1120x800.png",
+        "topics": [
+          "Geopolitics & Politics"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-we-asked-africans-what-they-",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -35514,6 +35540,20 @@
     ],
     "episodes": [
       {
+        "id": "china-power-ep-1c30aec2-e451-11f1-9026-f75dfb4e9f59",
+        "podcastId": "china-power",
+        "podcastTitle": "China Power",
+        "title": "Trump, Xi, and Putin in Shenzhen: A Conversation with Andrea Kendall-Taylor ",
+        "description": "In this episode of the ChinaPower Podcast, Dr. Andrea Kendall-Taylor joins us to assess the outcomes of the Trump-Xi-Putin trilateral summit held on the sidelines of APEC. She examines the summit's geopolitical significance, developments leading u...",
+        "publishDate": "2026-11-19",
+        "duration": 2341,
+        "audioUrl": "https://traffic.megaphone.fm/CSIS7395969412.mp3",
+        "topics": [
+          "US-China Relations",
+          "Daily Life"
+        ]
+      },
+      {
         "id": "china-power-ep-11ace0c0-d956-11f1-bbd4-534ac843dc58",
         "podcastId": "china-power",
         "podcastTitle": "China Power",
@@ -45797,6 +45837,25 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "sr-kina-ep-rss-sr-se-pod-eid-2900269",
+        "podcastId": "sr-kina",
+        "podcastTitle": "Radiokorrespondenterna Kina",
+        "title": "Extrapodd: Kinas maktmöte med Trump och Putin",
+        "description": "Xi Jinping tog emot Vladimir Putin och Donald Trump för ett historiskt trepartsmöte i Kina. Hör om punkterna som kom ut och vad mötet betyder för världen. Lyssna på alla avsnitt i Sveriges Radios app. Mötet i Shenzhen i södra Kina hölls vid sidan ...",
+        "publishDate": "2026-11-19",
+        "duration": 1470,
+        "audioUrl": "https://static-cdn.sr.se/laddahem/podradio/2026/11/program_radiokorrespondenterna_kina_ex_20261119_1530566580.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Geopolitics & Politics",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "sr-kina-ep-rss-sr-se-pod-eid-2897125",
         "podcastId": "sr-kina",
@@ -97253,6 +97312,22 @@
     ],
     "episodes": [
       {
+        "id": "china-world-program-ep-https---www-podomatic-com-podcasts-sipacwp-episodes-2026-11-",
+        "podcastId": "china-world-program",
+        "podcastTitle": "China and the World Program's Podcast",
+        "title": "Episode 54: EP54 - Navigating Multiple Audiences: The Status Politics of China&#8217;s International Order-Making - Yang Zikun",
+        "description": "How does a status-sensitive China approach international order—the hierarchical institutional and/or normative orders that can either elevate or demote its positions? Conventional wisdom often accredits rising powers’ strategies to their treatment...",
+        "publishDate": "2026-11-20",
+        "duration": 2685,
+        "audioUrl": "https://sipacwp.podomatic.com/enclosure/2026-11-19T19_04_19-08_00.mp3?_=1795143946.17936754",
+        "topics": [
+          "Dynastic History",
+          "History",
+          "Geopolitics & Politics",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "china-world-program-ep-https---www-podomatic-com-podcasts-sipacwp-episodes-2026-04-",
         "podcastId": "china-world-program",
         "podcastTitle": "China and the World Program's Podcast",
@@ -97401,7 +97476,7 @@
         ]
       }
     ],
-    "status": "stale"
+    "status": "active"
   },
   {
     "id": "the-red-line",
@@ -103679,6 +103754,49 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "roundtable-china-ep-1-2766478",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Why can't we fix anything?",
+        "description": "A leaking tap. A wobbly toilet seat. Flat-pack furniture with confusing instructions. For many young adults, these count as genuine emergencies, and they're signing up for classes and scouring online tutorials to solve them. What does this boom in...",
+        "publishDate": "2026-11-20",
+        "duration": 1386,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2611/1095077051071.mp3",
+        "topics": [
+          "Dynastic History"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2766472",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "APEC, tech tours, and the new China Haul",
+        "description": "Empty suitcases are meeting autonomous rides and drone-delivered lunches in Shenzhen, where sightseeing now doubles as a hands-on hardware scout. As APEC draws global founders and dealmakers to China's innovation capital, international visitors ar...",
+        "publishDate": "2026-11-19",
+        "duration": 1014,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2611/1095076922221.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Tech & Business"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2766469",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Turning trash into cash after dark",
+        "description": "Across China's big cities, a gritty, old-school chore has become Gen Z's favorite late-night ritual. After dark, young residents head downstairs to feed cardboard boxes and plastic bottles into automated recycling kiosks for pocket change. Is this...",
+        "publishDate": "2026-11-19",
+        "duration": 2016,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2611/1095076870798.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History"
+        ]
+      },
       {
         "id": "roundtable-china-ep-1-02766456",
         "podcastId": "roundtable-china",
@@ -114108,6 +114226,155 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-1119na",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "‘The Actual Rivalry We Must Confront’: Tory MP Calls for Canada, US to Unite Against China Threat to North America",
+        "description": "",
+        "publishDate": "2026-11-19",
+        "duration": 358,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1119/a694f23e-cd40-45a0-85eb-2caa7cc38eb9/audio.mp3?length=4321621&duration=358",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1119mp",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "‘This Is Not Good for Our Country:’ Tory MP Warns Carney’s China Trade Push Risks Canadian Jobs, Sovereignty",
+        "description": "",
+        "publishDate": "2026-11-19",
+        "duration": 316,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1120/964d929b-3fe4-486f-9605-e813f472100f/audio.mp3?length=3823669&duration=316",
+        "topics": [
+          "Economic Reform"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1119mex",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "US Boosts Locomotive Exports to Mexico to Counter Chinese Influence",
+        "description": "",
+        "publishDate": "2026-11-19",
+        "duration": 290,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1119/3b7be57c-dd62-4ade-a24e-3217a16a2d46/audio.mp3?length=3509173&duration=290",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1119tra",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Lawmakers Seek Cantor Fitzgerald’s Nvidia Trading Records Over Suspected Chip Diversion to China",
+        "description": "",
+        "publishDate": "2026-11-19",
+        "duration": 279,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1119/20683538-1967-4e47-b6c3-e603b264bae9/audio.mp3?length=3373813&duration=279",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1119rep",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China Bars US Reporter From Summit Over Nvidia Question",
+        "description": "",
+        "publishDate": "2026-11-19",
+        "duration": 173,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1119/0ea1cafe-7b54-4d5b-8a54-1c4b3f0cbe1f/audio.mp3?length=2104309&duration=173",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1119chp",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Analysis: Jensen Huang Scandal Could Prompt US to Further Tighten Chip Controls on China",
+        "description": "",
+        "publishDate": "2026-11-19",
+        "duration": 606,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1120/e144cc8b-76c0-4d85-b379-f872f83126b7/audio.mp3?length=7304149&duration=606",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1119ww2",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "World War II as a Revisionist Tool for Legitimacy",
+        "description": "",
+        "publishDate": "2026-11-19",
+        "duration": 402,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1119/2a20a4fd-bb6f-4151-848a-61b9e2823b39/audio.mp3?length=4851541&duration=402",
+        "topics": [
+          "History"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1119ai",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "The Neocloud and Transshipment: How China Sneaks AI Compute From the World",
+        "description": "",
+        "publishDate": "2026-11-19",
+        "duration": 594,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1119/30e00313-9dc2-4ccc-80d3-f26861cbdfd8/audio.mp3?length=7149781&duration=594",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1119pac",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Beijing Corners Taiwan in Pacific Despite Economic Pain at Home: Analysts",
+        "description": "",
+        "publishDate": "2026-11-19",
+        "duration": 364,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1115/70a19887-d185-4588-87b4-18ca08afae64/audio.mp3?length=4394196&duration=364",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Daily Life",
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1119lat",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China Sees an Opening as Scandal Topples the President of Taiwan’s Last South American Ally",
+        "description": "",
+        "publishDate": "2026-11-19",
+        "duration": 343,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1119/8b5f6a71-2b41-4243-aa90-2bcbf130b622/audio.mp3?length=4147093&duration=343",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg098",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 98 This Hua Yunlong Is Fake! Jigong Knew It Just Played Along",
+        "description": "",
+        "publishDate": "2026-11-19",
+        "duration": 2191,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg098.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-in-depth-ep-1118ev",
         "podcastId": "china-in-depth",
@@ -148015,6 +148282,25 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "dumbrill-podcast-ep-5c216f4f-4dad-412c-9ee3-1769ace13eb9",
+        "podcastId": "dumbrill-podcast",
+        "podcastTitle": "The Dumbrill Podcast",
+        "title": "Why Kneecapping Nvidia Is a Gift to Anthropic's IPO",
+        "description": "One week after Jensen Huang's exit, 72 hours of chip curbs and D.C. AI warnings just handed Anthropic's record $1.5T IPO a massive regulatory moat.Between Monday, November 16 and Wednesday, November 18, three major moves reshaped the rules of glob...",
+        "publishDate": "2026-11-19",
+        "duration": 516,
+        "audioUrl": "https://episodes.captivate.fm/episode/5c216f4f-4dad-412c-9ee3-1769ace13eb9.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "dumbrill-podcast-ep-1a867d7d-09c4-477e-9e61-8bb7a188e824",
         "podcastId": "dumbrill-podcast",
