@@ -13762,6 +13762,20 @@
     ],
     "episodes": [
       {
+        "id": "chinatalk-ep-560f2174-e3b5-11f1-82df-77c32225aa9c",
+        "podcastId": "chinatalk",
+        "podcastTitle": "ChinaTalk",
+        "title": "The Agentic State",
+        "description": "AI agents are about to flood governments with FOIA requests, grant applications, and permit filings. Will governments slam the door, or rebuild themselves around AI? Luukas Ilves, co-founder of The Agentic State and Estonia’s former government CIO...",
+        "publishDate": "2026-11-20",
+        "duration": 3748,
+        "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL9915529894.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History"
+        ]
+      },
+      {
         "id": "chinatalk-ep-5c5c79fc-e200-11f1-8be3-c790e0454ccf",
         "podcastId": "chinatalk",
         "podcastTitle": "ChinaTalk",
@@ -39009,6 +39023,24 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "merics-ep-buzzsprout-20156021",
+        "podcastId": "merics",
+        "podcastTitle": "MERICS China Podcast",
+        "title": "China in 26: Trump-Xi-Putin-Treffen + Folgen der Nvidia-Affäre",
+        "description": "In dieser Ausgabe unserer Podcast-Serie „China in 26“ sprechen Bernhard Bartsch, Mikko Huotari und Claudia Wessling über die Ergebnisse des Dreier-Treffens von Vladimir Putin, Donald Trump und Xi Jinping am Rande des Wirtschaftsgipfels der Asien-P...",
+        "publishDate": "2026-11-20",
+        "duration": 1935,
+        "audioUrl": "https://www.buzzsprout.com/1825833/episodes/20156021-china-in-26-trump-xi-putin-treffen-folgen-der-nvidia-affare.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Daily Life",
+          "Feminism & Arts",
+          "Geopolitics & Politics",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "merics-ep-buzzsprout-20137660",
         "podcastId": "merics",
@@ -87792,6 +87824,25 @@
     ],
     "episodes": [
       {
+        "id": "sharp-china-ep-https---sharpchina-fm-member-episode-preview-trump-and-xi-in",
+        "podcastId": "sharp-china",
+        "podcastTitle": "Sharp China with Bill Bishop",
+        "title": "(Preview) Trump and Xi in Shenzhen; PRC-Japan Tensions Persist; Profound Anxiety for Chinese AI; More on the Nvidia Mess",
+        "description": "On today’s show, Andrew and Bill begin with takeaways from APEC in Shenzhen this week, including favorable optics for Xi during a trilateral summit with Trump and Putin, reciprocal pageantry for Trump, and limited US-China substance in the shadow ...",
+        "publishDate": "2026-11-20",
+        "duration": 988,
+        "audioUrl": "https://sharpchina.fm/assets/sharpchina175-preview.mp3?access_token=MSorAZNuXsdNR1taQBKjcF",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "sharp-china-ep-https---sharpchina-fm-member-episode-jensen-huang-likely-out",
         "podcastId": "sharp-china",
         "podcastTitle": "Sharp China with Bill Bishop",
@@ -100317,6 +100368,23 @@
     ],
     "episodes": [
       {
+        "id": "trivium-china-ep-buzzsprout-20155208",
+        "podcastId": "trivium-china",
+        "podcastTitle": "The Trivium China Podcast",
+        "title": "Ep 97 - Podcast | China’s one-trick pony economy",
+        "description": "China’s October data was grim across the board. And it came barely a month after Beijing rolled out a fresh support package in late September.By our estimates, fixed-asset investment fell almost 17% y/y – the sharpest monthly drop on record. Retai...",
+        "publishDate": "2026-11-20",
+        "duration": 1787,
+        "audioUrl": "https://www.buzzsprout.com/2408047/episodes/20155208-ep-97-podcast-china-s-one-trick-pony-economy.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
+      {
         "id": "trivium-china-ep-buzzsprout-20127190",
         "podcastId": "trivium-china",
         "podcastTitle": "The Trivium China Podcast",
@@ -103765,6 +103833,22 @@
         "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2611/1095077051071.mp3",
         "topics": [
           "Dynastic History"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2766475",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Young renters, elderly roommates",
+        "description": "What if your next roommate was 80 years old? Across China, nursing homes are opening their doors to young people, offering affordable accommodation in exchange for companionship and volunteer services. But what makes this arrangement attractive to...",
+        "publishDate": "2026-11-20",
+        "duration": 2064,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2611/1095076971783.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Culture & Society"
         ]
       },
       {
@@ -114226,6 +114310,111 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-1120ca",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Canada, China, and the Dangerous Illusion of Cheap Prosperity",
+        "description": "",
+        "publishDate": "2026-11-20",
+        "duration": 353,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1120/ee4e309f-4a0c-4f57-b6c4-f15f47c048b4/audio.mp3?length=4257973&duration=353",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1120cal",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "California Probes Whether Nvidia Chips Reached China After Report Ex-CEO Was Target of Chinese Spy Operation",
+        "description": "",
+        "publishDate": "2026-11-20",
+        "duration": 296,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1120/1bd772c6-e8f7-4578-9438-879f3e29b874/audio.mp3?length=3573109&duration=296",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1120nuk",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Nuclear Arms Limits With China, Russia Very Hard to Achieve, Trump Says After Shenzhen Summit",
+        "description": "",
+        "publishDate": "2026-11-20",
+        "duration": 248,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1120/ae46fbf4-d78d-4be5-beac-4c3d1c6b9707/audio.mp3?length=3003733&duration=248",
+        "topics": [
+          "US-China Relations",
+          "Daily Life"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1120key",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Key Takeaways From Trump’s China Trip and Trilateral Summit",
+        "description": "",
+        "publishDate": "2026-11-20",
+        "duration": 432,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1120/d276b2a5-1525-49bc-b5b6-e3844eb477db/audio.mp3?length=5210389&duration=432",
+        "topics": [
+          "US-China Relations"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1120fcc",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "FCC Bans Some Chinese Telecom Companies From Direct Access to US Phone Numbers",
+        "description": "",
+        "publishDate": "2026-11-20",
+        "duration": 224,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1120/9bcfa6a9-e977-4808-b9b8-58bcc18f053b/audio.mp3?length=2716597&duration=224",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1120max",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "The US and Russia Chinamax at APEC",
+        "description": "",
+        "publishDate": "2026-11-20",
+        "duration": 327,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1120/97ceca93-2dd6-40ed-a0a2-84eda92d5af4/audio.mp3?length=3948085&duration=327",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1120fa",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "CCP Religious Persecution: Turning Church Offerings Into Fraud Charges",
+        "description": "",
+        "publishDate": "2026-11-20",
+        "duration": 304,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1120/f257a345-13c0-4cbd-b350-77caeffd96e9/audio.mp3?length=3670741&duration=304",
+        "topics": [
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg099",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 99 Jigong Rounds up the Bandits of the Crime Syndicate and Brings Them to Justice",
+        "description": "",
+        "publishDate": "2026-11-20",
+        "duration": 2389,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg099.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-in-depth-ep-1119na",
         "podcastId": "china-in-depth",
