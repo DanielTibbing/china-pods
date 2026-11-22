@@ -114311,6 +114311,32 @@
     ],
     "episodes": [
       {
+        "id": "china-in-depth-ep-https---mp3mp4pdf-net-mgz-stcs001-mp3",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Strange Tales from a Chinese Studio Story 1: Exam for City Gods",
+        "description": "",
+        "publishDate": "2026-11-21",
+        "duration": 1059,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/stcs001.mp3",
+        "topics": [
+          "Daily Life"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-cjb001",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "The Cases of Judge Bao VOL. ONE 1. Amitabha Buddha Makes Peace",
+        "description": "",
+        "publishDate": "2026-11-21",
+        "duration": 3385,
+        "audioUrl": "https://d11uxv8pa79pab.cloudfront.net/cjb001.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "china-in-depth-ep-1120ca",
         "podcastId": "china-in-depth",
         "podcastTitle": "China in Depth",
