@@ -16,6 +16,46 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-peaceful-profit-motives-coop",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "Peaceful Profit Motives: Cooperation and Competition with China as a Driver of Growth in Germany",
+        "description": "What it would mean for Germany to take China at its word on cooperation, multilateralism, and competition. A scenario without ulterior motives.",
+        "publishDate": "2026-11-22",
+        "duration": 1800,
+        "audioUrl": "https://substack-post-media.s3.amazonaws.com/public/images/405e712b-f61d-4680-9c95-0b2019f071a3_2000x2000.png",
+        "topics": [
+          "Economic Reform"
+        ]
+      },
+      {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-trivium-china-weekly-recap",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "Trivium China Weekly Recap\n",
+        "description": "Q4 got off to a grim start.",
+        "publishDate": "2026-11-22",
+        "duration": 1800,
+        "audioUrl": "https://substack-post-media.s3.amazonaws.com/public/images/02101da7-cb63-4050-8da1-94d202fb0de4_400x400.png",
+        "topics": [
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-simple-lifer-phrase-of-the-w",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "“Simple lifer” — Phrase of the Week",
+        "description": "Young Chinese are trading big ambitions for everyday comforts",
+        "publishDate": "2026-11-22",
+        "duration": 1800,
+        "audioUrl": "https://substackcdn.com/image/fetch/$s_!vxtW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F64ff429e-93dc-4e18-a033-a93871fe7e81_2000x1200.jpeg",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-joe-studwell-on-how-africa-w",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -119,6 +159,19 @@
         "audioUrl": "https://substackcdn.com/image/fetch/$s_!gaeR!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F11214d67-c501-4b90-8220-0555417cf0c9_2000x1200.jpeg",
         "topics": [
           "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-this-week-in-chinas-history-",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "This Week in China’s History: A Ball for the Empress Dowager",
+        "description": "November 4, 1897",
+        "publishDate": "2026-11-09",
+        "duration": 1800,
+        "audioUrl": "https://substackcdn.com/image/fetch/$s_!hki0!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2502d26c-e974-417b-878d-0571b80581f6_600x600.png",
+        "topics": [
+          "History"
         ]
       },
       {
@@ -255,19 +308,6 @@
         "topics": [
           "Economic Reform",
           "Tech & Business"
-        ]
-      },
-      {
-        "id": "sinica-ep-https---www-sinicapodcast-com-p-this-week-in-chinas-history-",
-        "podcastId": "sinica",
-        "podcastTitle": "The Sinica Podcast",
-        "title": "This Week in China’s History | The Battle of Guningtou",
-        "description": "October 25-27, 1949",
-        "publishDate": "2026-10-29",
-        "duration": 1800,
-        "audioUrl": "https://substackcdn.com/image/fetch/$s_!hki0!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2502d26c-e974-417b-878d-0571b80581f6_600x600.png",
-        "topics": [
-          "History"
         ]
       },
       {
@@ -13767,7 +13807,7 @@
         "podcastTitle": "ChinaTalk",
         "title": "The Agentic State",
         "description": "AI agents are about to flood governments with FOIA requests, grant applications, and permit filings. Will governments slam the door, or rebuild themselves around AI? Luukas Ilves, co-founder of The Agentic State and Estonia’s former government CIO...",
-        "publishDate": "2026-11-20",
+        "publishDate": "2026-11-22",
         "duration": 3748,
         "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL9915529894.mp3",
         "topics": [
@@ -45869,6 +45909,22 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "sr-kina-ep-rss-sr-se-pod-eid-2900327",
+        "podcastId": "sr-kina",
+        "podcastTitle": "Radiokorrespondenterna Kina",
+        "title": "Kinas spökstäder som sänker ekonomin",
+        "description": "Tomma höghus och tillgångar som frusit inne. Den kinesiska fastighetskrisen skrämmer människor från att handla och skapar obalans i världsekonomin. Lyssna på alla avsnitt i Sveriges Radios app. Vad gör en fem år lång fastighetskris med världens an...",
+        "publishDate": "2026-11-23",
+        "duration": 1618,
+        "audioUrl": "https://static-cdn.sr.se/laddahem/podradio/2026/11/radiokorrespondenterna_kina_kinas_spokstader_som_sankerek_20261122_1414565494.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "sr-kina-ep-rss-sr-se-pod-eid-2900269",
         "podcastId": "sr-kina",
@@ -114310,6 +114366,115 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-1122dat",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "What the Data Show About the Reality of Canada-China Trade",
+        "description": "",
+        "publishDate": "2026-11-22",
+        "duration": 164,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1122/60ea3e5f-866c-49c4-92fe-655274b379b7/audio.mp3?length=1994293&duration=164",
+        "topics": [
+          "Economic Reform"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1122tw2",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Taiwan Warns Carney About China’s ‘Weaponization of Interdependence’ as Ottawa Seeks Deeper Ties",
+        "description": "",
+        "publishDate": "2026-11-22",
+        "duration": 178,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1123/6e8a3224-ef7a-400c-b00c-20b9b2faca28/audio.mp3?length=2140309&duration=176",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1122pc",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Poilievre Says Canada Cannot Replace US Trade With Strategic Partnership With China",
+        "description": "",
+        "publishDate": "2026-11-22",
+        "duration": 201,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1123/43c22e77-1312-41f5-bba6-3876a3b7010a/audio.mp3?length=2438101&duration=201",
+        "topics": [
+          "Feminism & Arts",
+          "Economic Reform",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1122rfk",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "RFK Jr. Calls Killing Prisoners for Organs an Atrocity as China Bill Awaits House Action",
+        "description": "",
+        "publishDate": "2026-11-22",
+        "duration": 506,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1121/8c39221c-0704-4534-8b8b-3f5109dddec9/audio.mp3?length=6098869&duration=506",
+        "topics": [
+          "Semiconductors & AI",
+          "Daily Life"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1122doc",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Doctors Implicated in Organ Harvesting Lead Transplant Programs in China: Report",
+        "description": "",
+        "publishDate": "2026-11-22",
+        "duration": 305,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1121/6bdf125f-d5b7-4636-9ab9-ddd5e9811112/audio.mp3?length=3682549&duration=305",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1122tw",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Taiwan Disputes Chinese Media Claim That Trump Opposes Taiwan Independence",
+        "description": "",
+        "publishDate": "2026-11-22",
+        "duration": 216,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1122/a7e78255-3786-4565-8895-bba86a16f720/audio.mp3?length=2618965&duration=216",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1122blk",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "US House Committee Urges Federal Blacklist of Chinese Entities Implicated in Forced Organ Harvesting",
+        "description": "",
+        "publishDate": "2026-11-22",
+        "duration": 264,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1122/12c0088e-8976-4b1b-8286-dd43151373ab/audio.mp3?length=3193237&duration=264",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg100",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 100 Two Naked Daoists, Either Learning Nothing from Jigong's Lessons, Plot Their Revenge",
+        "description": "",
+        "publishDate": "2026-11-22",
+        "duration": 2144,
+        "audioUrl": "https://mp3mp4pdf.net/mgz/ljg100.mp3",
+        "topics": [
+          "Dynastic History"
+        ]
+      },
       {
         "id": "china-in-depth-ep-https---mp3mp4pdf-net-mgz-stcs001-mp3",
         "podcastId": "china-in-depth",
