@@ -16,6 +16,20 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-chinese-sci-fi-tackles-covid",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "Chinese Sci-Fi Tackles COVID-19, 100 Years On",
+        "description": "A bold new translated anthology presents a prismatic array of Chinese futures that process, reconfigure, and extrapolate the past, taking the outbreak of COVID-19 as its starting point",
+        "publishDate": "2026-11-23",
+        "duration": 1800,
+        "audioUrl": "https://substackcdn.com/image/fetch/$s_!zy95!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2862310c-43c7-4671-a50a-bc7e6f06a042_360x555.jpeg",
+        "topics": [
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-peaceful-profit-motives-coop",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -3766,6 +3780,20 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "pekingology-ep-aebd5e9a-e751-11f1-912d-db00db952c17",
+        "podcastId": "pekingology",
+        "podcastTitle": "Pekingology",
+        "title": "How Repression in China Shaped Syria’s Civil War",
+        "description": "In this episode of Pekingology, Senior Fellow Henrietta Levin is joined by Emily Feng, White House Correspondent at NPR and author of the new book Our Hearts Burned for Home, to discuss a small group of Uyghur militants who became a pivotal force ...",
+        "publishDate": "2026-11-24",
+        "duration": 2480,
+        "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/cohst.app/pdcst/0C0K2I/traffic.megaphone.fm/CSIS8617624911.mp3",
+        "topics": [
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "pekingology-ep-be173f56-dd37-11f1-8716-6fe3002c3722",
         "podcastId": "pekingology",
@@ -13801,6 +13829,25 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "chinatalk-ep-8a038b74-e788-11f1-9b61-4b03141b9f4a",
+        "podcastId": "chinatalk",
+        "podcastTitle": "ChinaTalk",
+        "title": "Emergency Pod: Jensen Back",
+        "description": "Wow. To make sense of it, ChinaTalk brought on Chris McGuire who works on China and emerging technologies and previously ran tech protection strategy as deputy senior director at the NSC. Peter Harrell works on geoeconomics and was President Biden...",
+        "publishDate": "2026-11-23",
+        "duration": 2495,
+        "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL1651960026.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Geopolitics & Politics",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "chinatalk-ep-560f2174-e3b5-11f1-82df-77c32225aa9c",
         "podcastId": "chinatalk",
@@ -59509,14 +59556,27 @@
     ],
     "episodes": [
       {
+        "id": "china-flexpat-ep-buzzsprout-20167106",
+        "podcastId": "china-flexpat",
+        "podcastTitle": "China Flexpat",
+        "title": "S5E08-Wuhan Equestrian Games/Jinmen Racing Club/Yuan&#39;s Horsy Moment",
+        "description": "Contact us for more info: contact@wonder-horse.comSupport the show",
+        "publishDate": "2026-11-23",
+        "duration": 543,
+        "audioUrl": "https://www.buzzsprout.com/479218/episodes/20167106-s5e08-wuhan-equestrian-games-jinmen-racing-club-yuan-s-horsy-moment.mp3",
+        "topics": [
+          "Dynastic History"
+        ]
+      },
+      {
         "id": "china-flexpat-ep-buzzsprout-20132621",
         "podcastId": "china-flexpat",
         "podcastTitle": "China Flexpat",
-        "title": "S5E7-Run Ruirui at Youth Olympic Games/Beijing Oakwoods Eq. Center/I am S Sylvia",
+        "title": "S5E07-Sun Ruirui at Youth Olympic Games/Beijing Oakwoods Eq. Center/I am S Sylvia",
         "description": "Contact us for more info: contact@wonder-horse.comSupport the show",
         "publishDate": "2026-11-16",
         "duration": 572,
-        "audioUrl": "https://www.buzzsprout.com/479218/episodes/20132621-s5e7-run-ruirui-at-youth-olympic-games-beijing-oakwoods-eq-center-i-am-s-sylvia.mp3",
+        "audioUrl": "https://www.buzzsprout.com/479218/episodes/20132621-s5e07-sun-ruirui-at-youth-olympic-games-beijing-oakwoods-eq-center-i-am-s-sylvia.mp3",
         "topics": [
           "Daily Life"
         ]
@@ -103879,6 +103939,66 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-2766505",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Inside China's inland waterway travel boom",
+        "description": "Forget the whirlwind tour. Travelers are swapping packed itineraries for China's inland waterways, where cozy cabins, great food, and cultural stops along the Yangtze and Pearl Rivers turn the journey into a getaway in itself. What is behind the a...",
+        "publishDate": "2026-11-24",
+        "duration": 1846,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2611/1095507252172.mp3",
+        "topics": [
+          "Daily Life",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2766508",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "New study links postpartum depression, breast milk",
+        "description": "New research from Nanjing University has uncovered a surprising possible link between postpartum depression, breast milk and a baby's developing brain. But the science is only part of the story. From breastfeeding pressure and maternal guilt to tr...",
+        "publishDate": "2026-11-24",
+        "duration": 1297,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2611/1095507314844.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2766496",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "The Soapbox: Nanjing's free noodle dilemma",
+        "description": "Imagine watching your paying customers vanish because a neighbor started giving the exact same thing away for free. A viral charity controversy in China poses a real-life ethical puzzle: when pure generosity threatens the livelihoods of everyone e...",
+        "publishDate": "2026-11-23",
+        "duration": 1374,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2611/1095426231022.mp3",
+        "topics": [
+          "Dynastic History",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2766493",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Smarter heating for a colder winter",
+        "description": "Winter is bearing down on China. Between surging seasonal energy demand, aging urban pipelines, and remote communities sitting far off the grid, the race is on to warm hundreds of millions of homes without warming the planet. What does it really t...",
+        "publishDate": "2026-11-23",
+        "duration": 1761,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2611/1095425853504.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-2766478",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -113685,6 +113805,22 @@
     ],
     "episodes": [
       {
+        "id": "wire-china-ep-buzzsprout-20158151",
+        "podcastId": "wire-china",
+        "podcastTitle": "The Wire China Podcast",
+        "title": "Processing Power: How China&#39;s Military Tried to Get American Tech",
+        "description": "We're offering you 25% off your subscription to The Wire China. Details below!Repost from June: For years, the United States has tried to stop China from getting its most advanced chips out of concern the technology could bolster the People’s Libe...",
+        "publishDate": "2026-11-24",
+        "duration": 1119,
+        "audioUrl": "https://www.buzzsprout.com/2591600/episodes/20158151-processing-power-how-china-s-military-tried-to-get-american-tech.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Geopolitics & Politics",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "wire-china-ep-buzzsprout-20141665",
         "podcastId": "wire-china",
         "podcastTitle": "The Wire China Podcast",
@@ -114366,6 +114502,102 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-1123spy",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Spy or Not, Beijing Got Next to Jensen Huang. Here’s What Most People Miss.",
+        "description": "",
+        "publishDate": "2026-11-23",
+        "duration": 1959,
+        "audioUrl": "https://podcasts.captivate.fm/media/155adc42-5a68-42cf-9426-77b6ed1a2017/03-CW-87-converted.mp3",
+        "topics": [
+          "Daily Life",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1123cw",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Nvidia Takes Jensen Huang Back: Is Washington Asking Trade to Do Too Much on China?",
+        "description": "",
+        "publishDate": "2026-11-23",
+        "duration": 2206,
+        "audioUrl": "https://podcasts.captivate.fm/media/441902ed-f4e8-4114-ae42-4e9e185983d8/03-CW-EP-88-converted.mp3",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Economic Reform"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1123fcc",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "New FCC Restrictions on Chinese Telecoms: What to Know",
+        "description": "",
+        "publishDate": "2026-11-23",
+        "duration": 330,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1123/5fb4f5a0-fa35-483c-a643-bfe5ee402a34/audio.mp3?length=3982069&duration=330",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1123meg",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "US Blacklists Megaspeed Over Alleged Nvidia Chip Diversion to China",
+        "description": "",
+        "publishDate": "2026-11-23",
+        "duration": 229,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1124/d6e53114-3621-413e-bcd4-0d32d75db2aa/audio.mp3?length=2769877&duration=229",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1123nav",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Should the US Preempt China With a Naval Blockade Before It’s Too Late?",
+        "description": "",
+        "publishDate": "2026-11-23",
+        "duration": 726,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1123/cb62be11-ff57-433d-9d0d-49e0016cc6ee/audio.mp3?length=8741845&duration=726",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1123xms",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "In China, Christians Give Thanks Even When the Party Says Not To",
+        "description": "",
+        "publishDate": "2026-11-23",
+        "duration": 372,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1123/9dea62a8-05e8-4371-82b0-91c628cd387a/audio.mp3?length=4487221&duration=372",
+        "topics": [
+          "Dynastic History",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg101",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 101 After All the Successes, Yet the Most Wanted Hua Yunlong Is Still at Large",
+        "description": "",
+        "publishDate": "2026-11-23",
+        "duration": 1861,
+        "audioUrl": "https://d11uxv8pa79pab.cloudfront.net/ljg101.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-in-depth-ep-1122dat",
         "podcastId": "china-in-depth",
