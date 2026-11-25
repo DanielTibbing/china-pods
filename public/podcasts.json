@@ -93566,6 +93566,22 @@
     ],
     "episodes": [
       {
+        "id": "made-in-china-de-ep-buzzsprout-20168052",
+        "podcastId": "made-in-china-de",
+        "podcastTitle": "Made in China (German)",
+        "title": "#237 – Zementsäcke um die Füße: Wie Europa sich im globalen Wettlauf selbst bremst – mit Antonin Finkelnburg (Hauptgeschäftsführer, BGA)",
+        "description": "„Wir Europäer schnallen uns drei große Zementsäcke um die Füße.“ So beschreibt Antonin Finkelnburg die Lage deutscher Unternehmen im globalen Wettbewerb mit China, den USA und anderen großen Industriestaaten.In dieser Folge, aufgenommen im Presser...",
+        "publishDate": "2026-11-24",
+        "duration": 1620,
+        "audioUrl": "https://www.buzzsprout.com/1869386/episodes/20168052-237-zementsacke-um-die-fusse-wie-europa-sich-im-globalen-wettlauf-selbst-bremst-mit-antonin-finkelnburg-hauptgeschaftsfuhrer-bga.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "made-in-china-de-ep-buzzsprout-20039569",
         "podcastId": "made-in-china-de",
         "podcastTitle": "Made in China (German)",
@@ -103938,6 +103954,35 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "roundtable-china-ep-1-02766518",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "IN VIDEO: Why can't we fix anything?",
+        "description": "A leaking tap. A wobbly toilet seat. Flat-pack furniture with confusing instructions. For many young adults, these count as genuine emergencies, and they're signing up for classes and scouring online tutorials to solve them. What does this boom in...",
+        "publishDate": "2026-11-25",
+        "duration": 1416,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp4/radio-res.cgtn.com/ueditor/audio/2611/1095591740993.mp4",
+        "topics": [
+          "Dynastic History"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-02766517",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "IN VIDEO: Young renters, elderly roommates",
+        "description": "What if your next roommate was 80 years old? Across China, nursing homes are opening their doors to young people, offering affordable accommodation in exchange for companionship and volunteer services. But what makes this arrangement attractive to...",
+        "publishDate": "2026-11-25",
+        "duration": 2127,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp4/radio-res.cgtn.com/ueditor/audio/2611/1095591053831.mp4",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "roundtable-china-ep-1-2766505",
         "podcastId": "roundtable-china",
@@ -114502,6 +114547,89 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-1124rem",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China to Pause Some Critical Minerals Export Ban to US Until January",
+        "description": "",
+        "publishDate": "2026-11-24",
+        "duration": 253,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1124/283bde08-4f6a-4775-a803-39316ba68cc5/audio.mp3?length=3068245&duration=253",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1124xi",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China Probes Shanghai Communist Party Chief Once Seen as Xi’s Heir",
+        "description": "",
+        "publishDate": "2026-11-24",
+        "duration": 116,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1124/6062404a-ea49-4d4b-a825-d3d6c6e8ae31/audio.mp3?length=1413685&duration=116",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1124fm",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "China Overhauls Law to Quickly Mobilize their Civilian Economy for War: the 10 Changes They Made",
+        "description": "",
+        "publishDate": "2026-11-24",
+        "duration": 913,
+        "audioUrl": "https://podcasts.captivate.fm/media/397b23e5-c3c5-4878-953e-e9e0095c64ad/Podcast-converted.mp3",
+        "topics": [
+          "Dynastic History",
+          "Economic Reform"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1124jh",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Jensen Huang’s Return to Nvidia Highlights US Effort to Protect AI Leadership Amid China Rivalry: Analysts",
+        "description": "",
+        "publishDate": "2026-11-24",
+        "duration": 328,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1125/40262797-578e-4869-85f4-cab9cde9e4fd/audio.mp3?length=3962196&duration=328",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1124cr",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Jensen Returns to Nvidia Amid New Details Emerging",
+        "description": "",
+        "publishDate": "2026-11-24",
+        "duration": 1273,
+        "audioUrl": "https://podcasts.captivate.fm/media/5b9667d2-eb65-4ba3-a692-79da981d2fbc/Jensen-Returns-to-Nvidia-Amid-New-Details-Emerging-esv2-50p-bg.mp3",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg102",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 102 Jigong Requests the Thunder God to Carry out Justice",
+        "description": "",
+        "publishDate": "2026-11-24",
+        "duration": 2021,
+        "audioUrl": "https://d11uxv8pa79pab.cloudfront.net/ljg102.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
       {
         "id": "china-in-depth-ep-1123spy",
         "podcastId": "china-in-depth",
@@ -142541,21 +142669,6 @@
         ]
       },
       {
-        "id": "china-in-depth-ep-1124rem",
-        "podcastId": "china-in-depth",
-        "podcastTitle": "China in Depth",
-        "title": "Usurping CCP ‘Playbook’ to Control Mineral Markets Will Take Time, But Can Be Done: Report",
-        "description": "",
-        "publishDate": "2025-11-24",
-        "duration": 882,
-        "audioUrl": "https://vod.brightchat.com/assets/2025/1124/260ee7d3-2804-432a-9285-678aab5f2269/audio.mp3?length=10586880&duration=882",
-        "topics": [
-          "Economic Reform",
-          "Geopolitics & Politics",
-          "Tech & Business"
-        ]
-      },
-      {
         "id": "china-in-depth-ep-1124tw",
         "podcastId": "china-in-depth",
         "podcastTitle": "China in Depth",
@@ -142568,19 +142681,6 @@
           "US-China Relations",
           "Semiconductors & AI",
           "Geopolitics & Politics"
-        ]
-      },
-      {
-        "id": "china-in-depth-ep-1124xi",
-        "podcastId": "china-in-depth",
-        "podcastTitle": "China in Depth",
-        "title": "Trump Spoke With China’s Xi by Phone, White House Says",
-        "description": "",
-        "publishDate": "2025-11-24",
-        "duration": 213,
-        "audioUrl": "https://vod.brightchat.com/assets/2025/1124/f51073a0-99d4-4700-975a-b95d6e18a307/audio.mp3?length=2564064&duration=213",
-        "topics": [
-          "US-China Relations"
         ]
       },
       {
