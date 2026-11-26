@@ -6262,6 +6262,25 @@
     ],
     "episodes": [
       {
+        "id": "chp-ep-d1b871ec-d99e-4d89-9754-28886b1ecc0c",
+        "podcastId": "chp",
+        "podcastTitle": "The China History Podcast",
+        "title": "A Concise History of China-Pangu to Puyi - Part 14",
+        "description": "An emperor captured by the Mongols, eunuchs pulling the strings, and pirates making themselves far too comfortable along the coast: the Ming has plenty on its plate. After revisiting the disputed claims surrounding Zheng He’s voyages, we follow th...",
+        "publishDate": "2026-11-25",
+        "duration": 7802,
+        "audioUrl": "https://episodes.captivate.fm/episode/d1b871ec-d99e-4d89-9754-28886b1ecc0c.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "Ancient Trade Routes",
+          "History",
+          "Geopolitics & Politics",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "chp-ep-bf9736e9-27dc-419a-bdaa-23b7f1410999",
         "podcastId": "chp",
         "podcastTitle": "The China History Podcast",
@@ -28339,6 +28358,25 @@
     ],
     "episodes": [
       {
+        "id": "soas-context-ep-tag-soundcloud-2010-tracks-2444673588",
+        "podcastId": "soas-context",
+        "podcastTitle": "China in Context",
+        "title": "Ep216: Imperial Echoes — Learning from the Tang, rediscovering the last emperor",
+        "description": "At his recent summit with Presidents Trump and Putin, China's leader Xi Jinping told his guests they should learn from history, which he described as the 'best textbook'. In this week’s episode we look at two new books which explore China's imperi...",
+        "publishDate": "2026-11-25",
+        "duration": 2952,
+        "audioUrl": "https://feeds.soundcloud.com/stream/2444673588-soas-china-institute-ep216-imperial-echoes-learning.mp3",
+        "topics": [
+          "US-China Relations",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "History",
+          "Geopolitics & Politics",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "soas-context-ep-tag-soundcloud-2010-tracks-2432148174",
         "podcastId": "soas-context",
         "podcastTitle": "China in Context",
@@ -43774,6 +43812,24 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "teatime-chinese-ep-35181baa-042a-4f02-a5b6-436cec8c2ff1",
+        "podcastId": "teatime-chinese",
+        "podcastTitle": "TeaTime Chinese 茶歇中文",
+        "title": "第101集：孙中山的一生（上）The Life of Sun Yat-Sen (Part 1)",
+        "description": "This episode is sponcored by NordVPN. Go to https://nordvpn.com/teatime, or use promo code TEATIME at checkout. 在中国大陆和台湾，人们都说，孙中山是国父。这是为什么？今天，我们走进孙中山的一生。他小时候被 \"太平天国\" （1851 – 1864）的历史吸引，立志成为洪秀全那样改变中国的人。 In Mainland China and Taiwan, people all say ...",
+        "publishDate": "2026-11-26",
+        "duration": 1205,
+        "audioUrl": "https://traffic.libsyn.com/secure/teatimechinese/TTCN_101.mp3?dest-id=2693480",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "History",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "teatime-chinese-ep-124a255c-f04c-444b-8a9a-76b2cfa621bb",
         "podcastId": "teatime-chinese",
@@ -82866,6 +82922,25 @@
     ],
     "episodes": [
       {
+        "id": "chinese-literature-podcast-ep-4ac2288b-e894-47ef-8769-0388a0a3ea86",
+        "podcastId": "chinese-literature-podcast",
+        "podcastTitle": "The Chinese Literature Podcast",
+        "title": "I Deliver Parcels in Beijing",
+        "description": "What happens when a gig worker becomes a writer? In this episode of the Chinese Literature Podcast, the podcast explores Hu Anyan's I Deliver Parcels in Beijing, the bestselling memoir of life in China's precariat. From failed business ventures to...",
+        "publishDate": "2026-11-26",
+        "duration": 1061,
+        "audioUrl": "https://traffic.libsyn.com/secure/chineseliteraturepodcast/Chinese_Literature_Podcast_-_Hu_Anyan_-_I_Deliver_Parcels_in_Beijing.mp3?dest-id=368338",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Daily Life",
+          "Feminism & Arts",
+          "Economic Reform",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
         "id": "chinese-literature-podcast-ep-632f6310-895b-4334-9f7d-693745db3d1d",
         "podcastId": "chinese-literature-podcast",
         "podcastTitle": "The Chinese Literature Podcast",
@@ -114547,6 +114622,127 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-1125eu",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "EU Proposes $55 Billion Tech Fund Amid Quantum Race With US, China",
+        "description": "",
+        "publishDate": "2026-11-25",
+        "duration": 240,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1125/b8178915-f2e1-4df8-883b-76f501c07ac3/audio.mp3?length=2908981&duration=240",
+        "topics": [
+          "Semiconductors & AI",
+          "Tech & Business"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1125amy",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "US Army Sergeant Pleads Guilty in Scheme to Sell Military Secrets to China",
+        "description": "",
+        "publishDate": "2026-11-25",
+        "duration": 333,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1125/22328552-50fc-4058-aa53-3a64c9406331/audio.mp3?length=4026709&duration=333",
+        "topics": [
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1125fda",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chinese Military Hospital Blocked FDA Inspectors Over Taiwan Claim",
+        "description": "",
+        "publishDate": "2026-11-25",
+        "duration": 326,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1125/039569b1-894d-491f-bf34-ec6fe73cb8a8/audio.mp3?length=3937141&duration=326",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI",
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1125trp",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Trump’s Nvidia Move Puts Congress and China Hawks on Edge",
+        "description": "",
+        "publishDate": "2026-11-25",
+        "duration": 723,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1125/5b27add9-4d2e-46b3-be65-0b3e5cd4a03e/audio.mp3?length=8706709&duration=723",
+        "topics": [
+          "US-China Relations",
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1125shm",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Schumer Accuses Nvidia CEO of Violating Export Law With Chip Shipments to China",
+        "description": "",
+        "publishDate": "2026-11-25",
+        "duration": 368,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1125/a76dd467-3654-4fb9-9422-80b98da2406e/audio.mp3?length=4442581&duration=368",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1125bk",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Book Excerpt: Ideas Have Consequences: Paulo Freire’s Marxian Metaphysics and the Conquest of Reality",
+        "description": "",
+        "publishDate": "2026-11-25",
+        "duration": 1009,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/0525/0898302b-40aa-4e17-b60d-d48563af574b/audio.mp3?length=12115872&duration=1009",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1125mao",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Book Excerpt: The Death of Mao",
+        "description": "",
+        "publishDate": "2026-11-25",
+        "duration": 787,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1124/30112121-4bb9-458d-9fb2-bd762a568a11/audio.mp3?length=9465589&duration=787",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1125mh",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Falun Dafa News from Around the World – November 25, 2026",
+        "description": "",
+        "publishDate": "2026-11-25",
+        "duration": 1024,
+        "audioUrl": "https://en.minghui.org/u/files/podcasts/emh-podcast/EMHPodcast_2236-News.mp3",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg103",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 103 Lei Ming and Chen Liang Get in Trouble",
+        "description": "",
+        "publishDate": "2026-11-25",
+        "duration": 2573,
+        "audioUrl": "https://d11uxv8pa79pab.cloudfront.net/ljg103.mp3",
+        "topics": [
+          "Dynastic History"
+        ]
+      },
       {
         "id": "china-in-depth-ep-1124rem",
         "podcastId": "china-in-depth",
