@@ -104030,6 +104030,64 @@
     ],
     "episodes": [
       {
+        "id": "roundtable-china-ep-1-2766525",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "When corporate cubicles become cozy living rooms",
+        "description": "Across major Chinese cities, underused office towers are getting a bold second life as budget-friendly apartments. The trend promises to ease steep urban rents and fill empty commercial floors at the same time, though re-engineering workspaces int...",
+        "publishDate": "2026-11-27",
+        "duration": 2035,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2611/1095682360867.mp3",
+        "topics": [
+          "Dynastic History",
+          "Feminism & Arts",
+          "Tech & Business",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2766528",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Do strict candy rules backfire on kids?",
+        "description": "From bargaining over broccoli to locking away the cookie jar, every family knows the dinner-table tug-of-war over sweets. Does putting treats strictly off-limits teach children self-control, or can rigid restrictions backfire into unhealthy cravin...",
+        "publishDate": "2026-11-27",
+        "duration": 1779,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2611/1195682621395.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2766534",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "When fitness becomes homework",
+        "description": "In China, some universities are making running part of the graduation checklist. Students may have to clock up hundreds of kilometers before earning their degrees. But can compulsory exercise really make young people healthier, or does it turn fit...",
+        "publishDate": "2026-11-26",
+        "duration": 1362,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2611/1095684647328.mp3",
+        "topics": [
+          "Feminism & Arts",
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "roundtable-china-ep-1-2766531",
+        "podcastId": "roundtable-china",
+        "podcastTitle": "Roundtable China",
+        "title": "Making the most of winter break",
+        "description": "First snow in northern China? Check. School's out for kids under 14? Also check. Snow breaks are becoming a beloved winter tradition, but can parents get in on the fun and turn these impromptu days off into quality family time? The joys, the logis...",
+        "publishDate": "2026-11-26",
+        "duration": 1766,
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/radio-res.cgtn.com/ueditor/audio/2611/1095684437680.mp3",
+        "topics": [
+          "Dynastic History"
+        ]
+      },
+      {
         "id": "roundtable-china-ep-1-02766518",
         "podcastId": "roundtable-china",
         "podcastTitle": "Roundtable China",
@@ -114622,6 +114680,124 @@
       "Culture & Society"
     ],
     "episodes": [
+      {
+        "id": "china-in-depth-ep-1126chp",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Bessent Calls for Stronger Enforcement on Chip Sales to China as House Seeks More Legislation",
+        "description": "",
+        "publishDate": "2026-11-26",
+        "duration": 196,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1117/41525ec9-1f9b-4c06-b960-a17608b15cff/audio.mp3?length=2382517&duration=196",
+        "topics": [
+          "Semiconductors & AI"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1126pc",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Tory MPs Demand Answers From RCMP, Ministry on Police Agreement With China",
+        "description": "",
+        "publishDate": "2026-11-26",
+        "duration": 575,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1126/520e0392-a69c-4340-bf7e-62364ea202a4/audio.mp3?length=6923701&duration=575",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1126mp",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "MPs Question CSIS, RCMP, Ministries on Attack on Falun Gong Practitioners Outside Chinese Consulate",
+        "description": "",
+        "publishDate": "2026-11-26",
+        "duration": 450,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1126/fdc6a9fc-2f52-4da5-8a9a-e016e0514714/audio.mp3?length=5428981&duration=450",
+        "topics": [
+          "US-China Relations"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1126eu",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "EU Imposes Cap on Hybrid Cars to Curb Imports From China and Other Countries",
+        "description": "",
+        "publishDate": "2026-11-26",
+        "duration": 262,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1126/55ca5cdc-0e80-44c5-aa68-cbf8829c4857/audio.mp3?length=3175668&duration=262",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1126wll",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Hedge or Attack? Wall Street Faces a Thanksgiving Test: Navigating the Semiconductor Bloodbath",
+        "description": "",
+        "publishDate": "2026-11-26",
+        "duration": 762,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1125/0f803eba-03d1-4a45-a25d-a8567c67d9f5/audio.mp3?length=9165780&duration=762",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1126p8",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "All Under Heaven: Beijing’s Eight Pillars",
+        "description": "",
+        "publishDate": "2026-11-26",
+        "duration": 528,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1126/91028a70-95cd-4f78-b11f-d6711b90d3f0/audio.mp3?length=6360084&duration=528",
+        "topics": [
+          "Daily Life"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1126tra",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "What China’s $Trillion-Plus Trade Surplus REALLY Tells Us",
+        "description": "",
+        "publishDate": "2026-11-26",
+        "duration": 339,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1126/0e1d52b6-5bfc-4c9d-b46a-5d0657cbb16c/audio.mp3?length=4100149&duration=339",
+        "topics": [
+          "Economic Reform"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-1126sur",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "How China Took Its Surveillance Grid From Tibet and Xinjiang to Over 90 Countries",
+        "description": "",
+        "publishDate": "2026-11-26",
+        "duration": 425,
+        "audioUrl": "https://vod.brightchat.com/assets/2026/1126/b0843f6d-a393-43cb-be9f-a608f05ea5c9/audio.mp3?length=5124277&duration=425",
+        "topics": [
+          "Culture & Society"
+        ]
+      },
+      {
+        "id": "china-in-depth-ep-ljg104",
+        "podcastId": "china-in-depth",
+        "podcastTitle": "China in Depth",
+        "title": "Chapter 104 Jigong Comes to Rescue Lei Ming and Chen Liang",
+        "description": "",
+        "publishDate": "2026-11-26",
+        "duration": 1666,
+        "audioUrl": "https://d11uxv8pa79pab.cloudfront.net/ljg104.mp3",
+        "topics": [
+          "Dynastic History"
+        ]
+      },
       {
         "id": "china-in-depth-ep-1125eu",
         "podcastId": "china-in-depth",
@@ -142631,19 +142807,6 @@
         "audioUrl": "https://vod.brightchat.com/assets/2025/1126/02777a18-8d64-4cd7-9aa7-3b4ec8e5ff15/audio.mp3?length=4944672&duration=412",
         "topics": [
           "Dynastic History"
-        ]
-      },
-      {
-        "id": "china-in-depth-ep-1126chp",
-        "podcastId": "china-in-depth",
-        "podcastTitle": "China in Depth",
-        "title": "China Suffering From US Restrictions on Chip Exports",
-        "description": "",
-        "publishDate": "2025-11-26",
-        "duration": 265,
-        "audioUrl": "https://vod.brightchat.com/assets/2025/1126/d50d2099-b023-4d0e-b4b0-48f5f97a6948/audio.mp3?length=3190752&duration=265",
-        "topics": [
-          "Semiconductors & AI"
         ]
       },
       {
