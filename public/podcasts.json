@@ -16,6 +16,32 @@
     ],
     "episodes": [
       {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-transcript-dont-try-to-out-h",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "Transcript | Don't Try to Out-Hawk the Hawks: Progressive ForPol Advisor Matt Duss on Democrats, Détente, and 2028",
+        "description": "Transcript (courtesy of the fantastic CadreScripts) further down the page.",
+        "publishDate": "2026-11-28",
+        "duration": 1800,
+        "audioUrl": "https://substackcdn.com/image/fetch/$s_!Nre1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5dab3fc-bd9f-4b3d-8ecf-d94625ca2d8e_1120x800.png",
+        "topics": [
+          "Geopolitics & Politics"
+        ]
+      },
+      {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-dont-try-to-out-hawk-the-haw",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "Don't Try to Out-Hawk the Hawks: Progressive ForPol Advisor Matt Duss on Democrats, Détente, and 2028",
+        "description": "This week on Sinica, my good friend Samm Sacks joins me as co-host for a conversation with Matt Duss, executive vice president of the Center for International Policy and, for years, Bernie Sanders&#8217;s foreign policy advisor.",
+        "publishDate": "2026-11-28",
+        "duration": 1800,
+        "audioUrl": "https://api.substack.com/feed/podcast/226816352/86daa377f49b3d7a691ff609ab003f8f.mp3",
+        "topics": [
+          "Geopolitics & Politics"
+        ]
+      },
+      {
         "id": "sinica-ep-https---www-sinicapodcast-com-p-chinese-sci-fi-tackles-covid",
         "podcastId": "sinica",
         "podcastTitle": "The Sinica Podcast",
@@ -67,6 +93,19 @@
         "audioUrl": "https://substackcdn.com/image/fetch/$s_!vxtW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F64ff429e-93dc-4e18-a033-a93871fe7e81_2000x1200.jpeg",
         "topics": [
           "Culture & Society"
+        ]
+      },
+      {
+        "id": "sinica-ep-https---www-sinicapodcast-com-p-trivium-china-podcast-chinas",
+        "podcastId": "sinica",
+        "podcastTitle": "The Sinica Podcast",
+        "title": "Trivium China Podcast | China’s One-trick Pony Economy ",
+        "description": "Listen now (30 mins) | China&#8217;s October data was grim across the board.",
+        "publishDate": "2026-11-22",
+        "duration": 1800,
+        "audioUrl": "https://api.substack.com/feed/podcast/226050633/0d45734bd471c391cf54b1c12610dd1a.mp3",
+        "topics": [
+          "Economic Reform"
         ]
       },
       {
@@ -252,20 +291,6 @@
         "audioUrl": "https://substackcdn.com/image/fetch/$s_!i04r!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc1355403-51b7-45c3-b937-09b26e739473_1120x800.png",
         "topics": [
           "Daily Life"
-        ]
-      },
-      {
-        "id": "sinica-ep-https---www-sinicapodcast-com-p-trivium-china-podcast-chinas",
-        "podcastId": "sinica",
-        "podcastTitle": "The Sinica Podcast",
-        "title": "Trivium China Podcast | China’s Critical Minerals Off Switch Isn’t As Ironclad As Washington Thinks",
-        "description": "Listen now (69 mins) | During Xi Jinping&#8217;s late-September visit to Washington, the U.S.",
-        "publishDate": "2026-11-05",
-        "duration": 1800,
-        "audioUrl": "https://api.substack.com/feed/podcast/223570274/7ed7870d57df9fea2d2ffbd47d171418.mp3",
-        "topics": [
-          "US-China Relations",
-          "Geopolitics & Politics"
         ]
       },
       {
@@ -13848,6 +13873,24 @@
       "Geopolitics & Politics"
     ],
     "episodes": [
+      {
+        "id": "chinatalk-ep-6bb1bdc8-e8fd-11f1-b6a9-b31f5a2dfc7e",
+        "podcastId": "chinatalk",
+        "podcastTitle": "ChinaTalk",
+        "title": "WarTalk: Why China Lost the Gunpowder Age",
+        "description": "China invented gunpowder and led the world in military innovation for centuries, then lost to Europe in the Opium Wars. What happened? Tonio Andrade, Professor of History at Emory University and author of The Gunpowder Age, joins WarTalk regulars ...",
+        "publishDate": "2026-11-27",
+        "duration": 4561,
+        "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL7832566785.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Dynastic History",
+          "Feminism & Arts",
+          "History",
+          "Geopolitics & Politics",
+          "Culture & Society"
+        ]
+      },
       {
         "id": "chinatalk-ep-8a038b74-e788-11f1-9b61-4b03141b9f4a",
         "podcastId": "chinatalk",
@@ -46090,7 +46133,7 @@
         "description": "Det amerikanska mellanårsvalet kan komma att påverka relationen mellan stormakterna på flera sätt. Lyssna på alla avsnitt i Sveriges Radios app. Xi Jinpings och Donald Trumps relation har präglats av artiga utspel och ömsesidig respekt, samtidigt ...",
         "publishDate": "2026-11-02",
         "duration": 1620,
-        "audioUrl": "https://static-cdn.sr.se/laddahem/podradio/2026/10/radiokorrespondenterna_kina_sa_paverkar_mellanarsvalet_kon_20261030_1704109172.mp3",
+        "audioUrl": "https://static-cdn.sr.se/laddahem/podradio/2026/11/program_rk_kina_vecka_45_podd_och_fm_k_20261127_1455395275.mp3",
         "topics": [
           "US-China Relations",
           "Semiconductors & AI",
@@ -53853,7 +53896,7 @@
         "description": "We need your help to create Season 2 of Digitally China!Just got a few short questions for you here:https://radiichina.com/digitally-china-2019-wrap/As many of our loyal listeners might have felt, Digitally China has been taking a short break. But...",
         "publishDate": "2019-12-30",
         "duration": 648,
-        "audioUrl": "https://jt.ximalaya.com//wKgO2V4J2wrjVKqqATzcaoE8UwQ088.mp3.m4a?channel=rss&album_id=25003858&track_id=240642943&uid=179720043&jt=https://aod.cos.tx.xmcdn.com/group71/M06/92/66/wKgO2V4J2wrjVKqqATzcaoE8UwQ088.mp3",
+        "audioUrl": "https://jt.ximalaya.com//wKgO2V4J2wrjVKqqATzcaoE8UwQ088.mp3.m4a?channel=rss&album_id=25003858&track_id=240642943&uid=179720043&jt=https://podcast.xmcdn.com/group71/M06/92/66/wKgO2V4J2wrjVKqqATzcaoE8UwQ088.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -53868,7 +53911,7 @@
         "description": "This episode of Digitally China is about Brian Wong, his experiences from being part of the early days of Alibaba but at the same time also a story about how it was to first-hand be part of how China grew from almost nothing to the largest interne...",
         "publishDate": "2019-09-26",
         "duration": 2589,
-        "audioUrl": "https://jt.ximalaya.com//wKgMaV2NDZTQz3peBPCEAJUc654117.mp3.m4a?channel=rss&album_id=25003858&track_id=215308789&uid=179720043&jt=https://aod.cos.tx.xmcdn.com/group64/M07/AC/50/wKgMaV2NDZTQz3peBPCEAJUc654117.mp3",
+        "audioUrl": "https://jt.ximalaya.com//wKgMaV2NDZTQz3peBPCEAJUc654117.mp3.m4a?channel=rss&album_id=25003858&track_id=215308789&uid=179720043&jt=https://podcast.xmcdn.com/group64/M07/AC/50/wKgMaV2NDZTQz3peBPCEAJUc654117.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -53886,7 +53929,7 @@
         "description": "In the latest Digitally China we’re looking back on history.&nbsp;Meituan-Dianping&nbsp;is China’s clear market leader within group buying, offline discovery and online-offline services today. But it wasn’t that clear a few years back. In fact, th...",
         "publishDate": "2019-09-16",
         "duration": 2717,
-        "audioUrl": "https://jt.ximalaya.com//wKgMdV1_NIOzrMnZBS7CTVsxmcQ236.mp3.m4a?channel=rss&album_id=25003858&track_id=212504092&uid=179720043&jt=https://aod.cos.tx.xmcdn.com/group66/M0A/D2/EC/wKgMdV1_NIOzrMnZBS7CTVsxmcQ236.mp3",
+        "audioUrl": "https://jt.ximalaya.com//wKgMdV1_NIOzrMnZBS7CTVsxmcQ236.mp3.m4a?channel=rss&album_id=25003858&track_id=212504092&uid=179720043&jt=https://podcast.xmcdn.com/group66/M0A/D2/EC/wKgMdV1_NIOzrMnZBS7CTVsxmcQ236.mp3",
         "topics": [
           "Semiconductors & AI",
           "Feminism & Arts",
@@ -53904,7 +53947,7 @@
         "description": "In the latest episode of Digitally China, Tom is joined by Jill Tang, co-founder of Ladies Who Tech, an influential Chinese organization focusing on entrepreneurship and gender diversity in China.&nbsp;As someone who works in the unique cross-sect...",
         "publishDate": "2019-08-16",
         "duration": 1710,
-        "audioUrl": "https://jt.ximalaya.com//wKgMdV1WB-yjshOJA0MMvmh2LYY951.mp3.m4a?channel=rss&album_id=25003858&track_id=205429555&uid=179720043&jt=https://aod.cos.tx.xmcdn.com/group66/M04/99/D4/wKgMdV1WB-yjshOJA0MMvmh2LYY951.mp3",
+        "audioUrl": "https://jt.ximalaya.com//wKgMdV1WB-yjshOJA0MMvmh2LYY951.mp3.m4a?channel=rss&album_id=25003858&track_id=205429555&uid=179720043&jt=https://podcast.xmcdn.com/group66/M04/99/D4/wKgMdV1WB-yjshOJA0MMvmh2LYY951.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -53922,7 +53965,7 @@
         "description": "Companies around the world are latching onto social commerce,&nbsp;but in China,&nbsp;where mobile payments are ubiquitous and consumers are extra wary of fake goods,&nbsp;the integration between social media and online shopping has been especiall...",
         "publishDate": "2019-08-16",
         "duration": 1828,
-        "audioUrl": "https://jt.ximalaya.com//wKgMal1WB8CCxSoqAb5fyWMpG1U687.mp3.m4a?channel=rss&album_id=25003858&track_id=205429385&uid=179720043&jt=https://aod.cos.tx.xmcdn.com/group65/M01/99/BE/wKgMal1WB8CCxSoqAb5fyWMpG1U687.mp3",
+        "audioUrl": "https://jt.ximalaya.com//wKgMal1WB8CCxSoqAb5fyWMpG1U687.mp3.m4a?channel=rss&album_id=25003858&track_id=205429385&uid=179720043&jt=https://podcast.xmcdn.com/group65/M01/99/BE/wKgMal1WB8CCxSoqAb5fyWMpG1U687.mp3",
         "topics": [
           "Semiconductors & AI",
           "Economic Reform",
@@ -53938,7 +53981,7 @@
         "description": "In China’s fast-growing tech industry, it’s easy to focus on exciting new products and businesses while overlooking one of the most important elements of any company: the talent.Inthis episode, we look at how the recruiting process at Chinese tech...",
         "publishDate": "2019-08-16",
         "duration": 2424,
-        "audioUrl": "https://jt.ximalaya.com//wKgMc11WB5nAHsBKAlAAAOhpS38716.mp3.m4a?channel=rss&album_id=25003858&track_id=205429233&uid=179720043&jt=https://aod.cos.tx.xmcdn.com/group64/M01/99/C1/wKgMc11WB5nAHsBKAlAAAOhpS38716.mp3",
+        "audioUrl": "https://jt.ximalaya.com//wKgMc11WB5nAHsBKAlAAAOhpS38716.mp3.m4a?channel=rss&album_id=25003858&track_id=205429233&uid=179720043&jt=https://podcast.xmcdn.com/group64/M01/99/C1/wKgMc11WB5nAHsBKAlAAAOhpS38716.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -53957,7 +54000,7 @@
         "description": "Together with Jonas Leijonhufvud and Sven Carlsson, the authors of a new book telling the inside story about Spotify and the fight for global dominance in music streaming we are discussing if ByteDance actually have a shot at beating the giants.By...",
         "publishDate": "2019-08-16",
         "duration": 2097,
-        "audioUrl": "https://jt.ximalaya.com//wKgMdF1WByLQWBXOAgAAABsHWNw105.mp3.m4a?channel=rss&album_id=25003858&track_id=205428547&uid=179720043&jt=https://aod.cos.tx.xmcdn.com/group65/M0B/99/D6/wKgMdF1WByLQWBXOAgAAABsHWNw105.mp3",
+        "audioUrl": "https://jt.ximalaya.com//wKgMdF1WByLQWBXOAgAAABsHWNw105.mp3.m4a?channel=rss&album_id=25003858&track_id=205428547&uid=179720043&jt=https://podcast.xmcdn.com/group65/M0B/99/D6/wKgMdF1WByLQWBXOAgAAABsHWNw105.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -53975,7 +54018,7 @@
         "description": "In this special episode of Digitally China Tom is joined by Emmy Teo, co-founder of the New Retail startup FUSE and advisor to up & coming consumer brands in fashion and furniture.Chinese companies have for a long time had access to the best suppl...",
         "publishDate": "2019-08-16",
         "duration": 3026,
-        "audioUrl": "https://jt.ximalaya.com//wKgMaV1WBtXiE8SHAuLhTTWO9sw188.mp3.m4a?channel=rss&album_id=25003858&track_id=205428214&uid=179720043&jt=https://aod.cos.tx.xmcdn.com/group64/M07/99/C2/wKgMaV1WBtXiE8SHAuLhTTWO9sw188.mp3",
+        "audioUrl": "https://jt.ximalaya.com//wKgMaV1WBtXiE8SHAuLhTTWO9sw188.mp3.m4a?channel=rss&album_id=25003858&track_id=205428214&uid=179720043&jt=https://podcast.xmcdn.com/group64/M07/99/C2/wKgMaV1WBtXiE8SHAuLhTTWO9sw188.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -53993,7 +54036,7 @@
         "description": "With the recent news of Amazon exiting China with their e-commerce business combined with the departure of Uber a few years ago, many observers' have questioned if a foreign tech company can be successful in China.But then we heard about OYO, an I...",
         "publishDate": "2019-08-16",
         "duration": 1645,
-        "audioUrl": "https://jt.ximalaya.com//wKgMdV1WBq2SulCtAZHQrNQwJks638.mp3.m4a?channel=rss&album_id=25003858&track_id=205428096&uid=179720043&jt=https://aod.cos.tx.xmcdn.com/group66/M0B/99/C5/wKgMdV1WBq2SulCtAZHQrNQwJks638.mp3",
+        "audioUrl": "https://jt.ximalaya.com//wKgMdV1WBq2SulCtAZHQrNQwJks638.mp3.m4a?channel=rss&album_id=25003858&track_id=205428096&uid=179720043&jt=https://podcast.xmcdn.com/group66/M0B/99/C5/wKgMdV1WBq2SulCtAZHQrNQwJks638.mp3",
         "topics": [
           "Semiconductors & AI",
           "Feminism & Arts",
@@ -54010,7 +54053,7 @@
         "description": "Over the past five years, China’s internet industry has seen dizzying growth, with each year hitting record-levels of funding. In the second quarter of 2018, Chinese startups raised more venture capital than startups in North America for the first...",
         "publishDate": "2019-08-16",
         "duration": 1840,
-        "audioUrl": "https://jt.ximalaya.com//wKgMdF1WBl7iOpPXAcFNBB8Coio793.mp3.m4a?channel=rss&album_id=25003858&track_id=205427841&uid=179720043&jt=https://aod.cos.tx.xmcdn.com/group65/M02/99/C9/wKgMdF1WBl7iOpPXAcFNBB8Coio793.mp3",
+        "audioUrl": "https://jt.ximalaya.com//wKgMdF1WBl7iOpPXAcFNBB8Coio793.mp3.m4a?channel=rss&album_id=25003858&track_id=205427841&uid=179720043&jt=https://podcast.xmcdn.com/group65/M02/99/C9/wKgMdF1WBl7iOpPXAcFNBB8Coio793.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -54030,7 +54073,7 @@
         "description": "This latest episode of Digitally China has a special format, partly recorded live from D-Congress, one of the largest e-commerce conferences in Europe where co-host Tom Xiong and producer Jacob Lov&eacute;n moderated panels with Chinese e-commerce...",
         "publishDate": "2019-08-16",
         "duration": 1398,
-        "audioUrl": "https://jt.ximalaya.com//wKgMal1WBkDQACCvAVVS0087gog965.mp3.m4a?channel=rss&album_id=25003858&track_id=205427719&uid=179720043&jt=https://aod.cos.tx.xmcdn.com/group65/M07/99/9D/wKgMal1WBkDQACCvAVVS0087gog965.mp3",
+        "audioUrl": "https://jt.ximalaya.com//wKgMal1WBkDQACCvAVVS0087gog965.mp3.m4a?channel=rss&album_id=25003858&track_id=205427719&uid=179720043&jt=https://podcast.xmcdn.com/group65/M07/99/9D/wKgMal1WBkDQACCvAVVS0087gog965.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -54048,7 +54091,7 @@
         "description": "In a country where WeChat rules supreme, Bytedance is attempting the impossible. Last month,the Beijing-based startup launched its own social networking app called Duoshan.It wouldn’t be the first time Bytedance has made larger, more established t...",
         "publishDate": "2019-08-16",
         "duration": 1715,
-        "audioUrl": "https://jt.ximalaya.com//wKgMaV1WBg-RaWxZAaLn-VQ-BtM275.mp3.m4a?channel=rss&album_id=25003858&track_id=205427590&uid=179720043&jt=https://aod.cos.tx.xmcdn.com/group64/M06/99/B1/wKgMaV1WBg-RaWxZAaLn-VQ-BtM275.mp3",
+        "audioUrl": "https://jt.ximalaya.com//wKgMaV1WBg-RaWxZAaLn-VQ-BtM275.mp3.m4a?channel=rss&album_id=25003858&track_id=205427590&uid=179720043&jt=https://podcast.xmcdn.com/group64/M06/99/B1/wKgMaV1WBg-RaWxZAaLn-VQ-BtM275.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -54067,7 +54110,7 @@
         "description": "With DJI's recent 150 million USD embezzlement scandal we are investigating what happens when Chinese tech companies grow too fast. What compromises are made to enable a fast growth that also increases the risk of embezzlement and internal fraud?T...",
         "publishDate": "2019-08-16",
         "duration": 1949,
-        "audioUrl": "https://jt.ximalaya.com//wKgMdV1WBeriF-LmAdvqNCgfaTw770.mp3.m4a?channel=rss&album_id=25003858&track_id=205427487&uid=179720043&jt=https://aod.cos.tx.xmcdn.com/group66/M07/99/B1/wKgMdV1WBeriF-LmAdvqNCgfaTw770.mp3",
+        "audioUrl": "https://jt.ximalaya.com//wKgMdV1WBeriF-LmAdvqNCgfaTw770.mp3.m4a?channel=rss&album_id=25003858&track_id=205427487&uid=179720043&jt=https://podcast.xmcdn.com/group66/M07/99/B1/wKgMdV1WBeriF-LmAdvqNCgfaTw770.mp3",
         "topics": [
           "Semiconductors & AI",
           "Economic Reform",
@@ -54082,7 +54125,7 @@
         "description": "One of the most hyped up words of 2018, AI or Artificial Intelligence has lately been portrayed as something that can enslave the human kind by everything from tech founders (Elon Musk) to tv shows (Black Mirror).&nbsp;This week’s episode we have ...",
         "publishDate": "2019-08-16",
         "duration": 2036,
-        "audioUrl": "https://jt.ximalaya.com//wKgMaV1WBZqAfiygAfEe4FaxinE816.mp3.m4a?channel=rss&album_id=25003858&track_id=205427236&uid=179720043&jt=https://aod.cos.tx.xmcdn.com/group64/M08/99/A8/wKgMaV1WBZqAfiygAfEe4FaxinE816.mp3",
+        "audioUrl": "https://jt.ximalaya.com//wKgMaV1WBZqAfiygAfEe4FaxinE816.mp3.m4a?channel=rss&album_id=25003858&track_id=205427236&uid=179720043&jt=https://podcast.xmcdn.com/group64/M08/99/A8/wKgMaV1WBZqAfiygAfEe4FaxinE816.mp3",
         "topics": [
           "Semiconductors & AI",
           "Daily Life",
@@ -54099,7 +54142,7 @@
         "description": "A few weeks ago, in December 2018, Tencent Music did their highly anticipated IPO on the New York Stock Exchange valuing the company to $21.3 billion. Often being described as the \"Spotify of China\", we're looking into what Tencent Music actually ...",
         "publishDate": "2019-08-16",
         "duration": 1788,
-        "audioUrl": "https://jt.ximalaya.com//wKgMdF1WBVuxsC58AbSakheWo68662.mp3.m4a?channel=rss&album_id=25003858&track_id=205427027&uid=179720043&jt=https://aod.cos.tx.xmcdn.com/group65/M08/99/B2/wKgMdF1WBVuxsC58AbSakheWo68662.mp3",
+        "audioUrl": "https://jt.ximalaya.com//wKgMdF1WBVuxsC58AbSakheWo68662.mp3.m4a?channel=rss&album_id=25003858&track_id=205427027&uid=179720043&jt=https://podcast.xmcdn.com/group65/M08/99/B2/wKgMdF1WBVuxsC58AbSakheWo68662.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -54117,7 +54160,7 @@
         "description": "When it comes to buzzwords in the tech industry, \"new retail\" ranks high on the list. For the past few years, Alibaba has popularized the catchphrase to describe smarter, more high-tech ways of serving customers in brick-and-mortar shops -- by lin...",
         "publishDate": "2019-08-16",
         "duration": 1609,
-        "audioUrl": "https://jt.ximalaya.com//wKgMdV1WBSDSKnl3AYjnh1y0oDI322.mp3.m4a?channel=rss&album_id=25003858&track_id=205426844&uid=179720043&jt=https://aod.cos.tx.xmcdn.com/group66/M06/99/9F/wKgMdV1WBSDSKnl3AYjnh1y0oDI322.mp3",
+        "audioUrl": "https://jt.ximalaya.com//wKgMdV1WBSDSKnl3AYjnh1y0oDI322.mp3.m4a?channel=rss&album_id=25003858&track_id=205426844&uid=179720043&jt=https://podcast.xmcdn.com/group66/M06/99/9F/wKgMdV1WBSDSKnl3AYjnh1y0oDI322.mp3",
         "topics": [
           "Semiconductors & AI",
           "Dynastic History",
@@ -54135,7 +54178,7 @@
         "description": "A \"new social\" is on the rise led by TikTok. But despite soaring user numbers, will they survive the competition from giants like Facebook and Tencent? In this episode, we look into TikToks journey from startup to half a billion users.Hosts: Eva X...",
         "publishDate": "2019-08-16",
         "duration": 2039,
-        "audioUrl": "https://jt.ximalaya.com//wKgMaV1WBPqD0leoAfHiqV4lMaE457.mp3.m4a?channel=rss&album_id=25003858&track_id=205426713&uid=179720043&jt=https://aod.cos.tx.xmcdn.com/group64/M0B/99/A1/wKgMaV1WBPqD0leoAfHiqV4lMaE457.mp3",
+        "audioUrl": "https://jt.ximalaya.com//wKgMaV1WBPqD0leoAfHiqV4lMaE457.mp3.m4a?channel=rss&album_id=25003858&track_id=205426713&uid=179720043&jt=https://podcast.xmcdn.com/group64/M0B/99/A1/wKgMaV1WBPqD0leoAfHiqV4lMaE457.mp3",
         "topics": [
           "Semiconductors & AI",
           "Feminism & Arts",
@@ -54151,7 +54194,7 @@
         "description": "When you think of ecommerce in China, Alibaba is probably the first name that comes to mind. And no wonder - the internet giant has built a multibillion dollar empire off a sophisticated ecommerce, logistics, and payments trifecta.But WeChat, Chin...",
         "publishDate": "2019-08-16",
         "duration": 1984,
-        "audioUrl": "https://jt.ximalaya.com//wKgMaV1WBM3xI1VoAeR0QbyKQ6c641.mp3.m4a?channel=rss&album_id=25003858&track_id=205426566&uid=179720043&jt=https://aod.cos.tx.xmcdn.com/group64/M00/99/9A/wKgMaV1WBM3xI1VoAeR0QbyKQ6c641.mp3",
+        "audioUrl": "https://jt.ximalaya.com//wKgMaV1WBM3xI1VoAeR0QbyKQ6c641.mp3.m4a?channel=rss&album_id=25003858&track_id=205426566&uid=179720043&jt=https://podcast.xmcdn.com/group64/M00/99/9A/wKgMaV1WBM3xI1VoAeR0QbyKQ6c641.mp3",
         "topics": [
           "Dynastic History",
           "Economic Reform",
@@ -54167,7 +54210,7 @@
         "description": "In this pilot episode we are checking out the business model of Luckin Coffee. Is the \"digitalisation of coffee\" just a hype or actually something that has value? With guest expert Greg Savarese.Thoughts on the episode? Do not hesitate to give us ...",
         "publishDate": "2019-08-16",
         "duration": 1365,
-        "audioUrl": "https://jt.ximalaya.com//wKgMdV1WBFnCeAa6AU1lNg4v3yY468.mp3.m4a?channel=rss&album_id=25003858&track_id=205426310&uid=179720043&jt=https://aod.cos.tx.xmcdn.com/group66/M03/99/90/wKgMdV1WBFnCeAa6AU1lNg4v3yY468.mp3",
+        "audioUrl": "https://jt.ximalaya.com//wKgMdV1WBFnCeAa6AU1lNg4v3yY468.mp3.m4a?channel=rss&album_id=25003858&track_id=205426310&uid=179720043&jt=https://podcast.xmcdn.com/group66/M03/99/90/wKgMdV1WBFnCeAa6AU1lNg4v3yY468.mp3",
         "topics": [
           "Semiconductors & AI",
           "Feminism & Arts",
@@ -55744,6 +55787,21 @@
       "Tech & Business"
     ],
     "episodes": [
+      {
+        "id": "china-tech-talk-ep-substack-post-225795404",
+        "podcastId": "china-tech-talk",
+        "podcastTitle": "China Tech Talk (TP Huang)",
+        "title": "Appearance on Carl Zha about Jensen, new export control &amp; such",
+        "description": "I came back on Carl Zha’s show yesterday to discuss my thoughts on the take down of Jensen Huang, the Nvidia problems, the AI bubble and new export controls. As you can imagine, there is just a whole lot of factors involved in there.It’s important...",
+        "publishDate": "2026-11-20",
+        "duration": 5674,
+        "audioUrl": "https://api.substack.com/feed/podcast/225795404/8a74965e8bbc8adff55e9a89f473afbd.mp3",
+        "topics": [
+          "Semiconductors & AI",
+          "Economic Reform",
+          "Tech & Business"
+        ]
+      },
       {
         "id": "china-tech-talk-ep-substack-post-222862226",
         "podcastId": "china-tech-talk",
